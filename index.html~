@@ -1,5 +1,12 @@
 <!DOCTYPE html>
 <html>
+<gead>
+<meta charset="UTF-8">
+  <meta name="description" content="Web Education">
+  <meta name="keywords" content="HTML,CSS,XML,PHP">
+  <meta name="author" content="David ChenFitzgerald">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
 <body>
 
 <h1>BirdandB.com</h1>
@@ -8,4 +15,4 @@
 
 </body>
 </html>
-<footer>copyright 2017 <br> David ChenFitzgerald & Jamie Chapman</footer>
+<footer>copyright 2017 <br> David ChenFitzgerald &amp; Jamie Chapman</footer>
