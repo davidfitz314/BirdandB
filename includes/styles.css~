@@ -21,10 +21,10 @@ header {
     display: inline;
 }
 
-.centered-wrapper .leftAligned{
+.nav .leftAligned{
 	text-align: left;
 }
 
-.centered-wrapper .rightAligned{
+.nav .rightAligned{
 	text-align: right;
 }
