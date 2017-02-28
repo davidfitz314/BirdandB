@@ -11,5 +11,11 @@
   <link rel="stylesheet" type="text/css" href="includes/styles.css">
 </head>
 	
-<header> <h1> Welcome to BirdandB.com </h1> </header>
-<body class="center">
+<body class="centered-wrapper">
+<div class="nav">
+<ul>
+  <li><a href="#index">Home</a></li>
+  <li><a href="#search">Search</a></li>
+</ul>
+</div>
+
