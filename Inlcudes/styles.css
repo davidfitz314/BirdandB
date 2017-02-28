@@ -2,4 +2,7 @@ body{
 	margin:0 auto; 
 }
 
-
+.centered-wrapper {
+    position: relative;
+    text-align: center;
+}
