@@ -1,5 +1,5 @@
 <?php include_once('/Includes/headb.php') ?>
-	<link rel="stylesheet" type="text/css" href="/Includes/styles.css">
+	<link rel="stylesheet" type="text/css" href='/Includes/headb.php'>
 </head>
 	
 <header>test</header>
