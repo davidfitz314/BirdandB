@@ -1,11 +1,5 @@
 <?php include 'includes/headb.php'; ?>
 	
-	
-		<header> 
-			<h1> 
-				Welcome to BirdandB.com 
-			</h1> 
-		</header>
 		<p>Is curently under construction.</p>
 		<p>Please check back with us at a later time. :)</p>
 		</br>
