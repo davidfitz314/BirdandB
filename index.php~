@@ -6,6 +6,5 @@
 </br>
 <p>To take a survey about sexual topics that can be talked about please click the following link<p>
 <iframe src="https://docs.google.com/a/dmail.dixie.edu/forms/d/e/1FAIpQLSfbFvWKJa8v4vdAJ0Cqg8Y8xe-r2-F1QwW5xeh6gGxlhfCcig/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Survey</iframe>
-</body>
 
 <?php include_once('Includes/footer.php') ?>
