@@ -15,9 +15,16 @@ header {
     list-style-type: none;
     margin: 0;
     padding: 0;
-	text-align: block;
 }
 
 .nav li {
     display: inline;
+}
+
+.centered-wrapper .leftAligned{
+	text-align: left;
+}
+
+.centered-wrapper .rightAligned{
+	text-align: left;
 }
