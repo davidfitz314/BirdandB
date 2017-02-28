@@ -13,7 +13,7 @@ header {
 
 .nav ul {
     list-style-type: none;
-    margin: 0;
+    margin: auto;
     padding: 0;
 }
 
@@ -21,10 +21,10 @@ header {
     display: inline;
 }
 
-.centered-wrapper .leftAligned{
+.nav .leftAligned{
 	text-align: left;
 }
 
-.centered-wrapper .rightAligned{
+.nav .rightAligned{
 	text-align: right;
 }
