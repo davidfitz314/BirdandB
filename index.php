@@ -1,7 +1,7 @@
 <?php include 'includes/headb.php'; ?>
 	
 
-<h1>BirdandB.com</h1>
+
 <p>Is curently under construction.</p>
 <p>Please check back with us at a later time. :)</p>
 </br>

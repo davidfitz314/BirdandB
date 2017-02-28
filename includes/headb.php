@@ -11,5 +11,5 @@
   <link rel="stylesheet" type="text/css" href="includes/styles.css">
 </head>
 	
-<header>test</header>
+<header> <h1> Welcome to BirdandB.com </h1> </header>
 <body>
