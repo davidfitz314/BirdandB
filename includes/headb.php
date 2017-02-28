@@ -12,13 +12,14 @@
 </head>
 	
 <body>
+<div class="centered-wrapper">
 <div class="nav">
 <ul>
   <li><a href="index.php">Home</a></li>
   <li><a href="index.php">Search</a></li>
 </ul>
 </div>
-<div class="centered-wrapper">
+
 <header> 
 	<h1> 
 		Welcome to BirdandB.com 
