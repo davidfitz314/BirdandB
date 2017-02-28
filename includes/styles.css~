@@ -7,6 +7,7 @@ header {
     margin: auto;
 	width: 80%;
 	border: 3px solid black;
+	border-top: none;
 	padding: 10px;
     text-align: center;
 }
@@ -14,7 +15,10 @@ header {
 .nav ul {
     list-style-type: none;
     margin: auto;
-    padding: 0;
+	width: 80%;
+	padding: 10px;
+	border: 3px solid black;
+	border-bottom:none;
 }
 
 .nav li {
