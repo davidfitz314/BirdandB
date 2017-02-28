@@ -1,6 +1,7 @@
 header {
 	background-color: green;
-	padding: 50px;
+	padding-top: 50px;
+	padding-bottom: 50px;
 	
 }
 
