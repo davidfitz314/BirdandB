@@ -2,7 +2,7 @@
 	<p><strong>Learning About Life Never Stops</strong></p>
 	<p>Hate trying to understand things about your body or sexuality that everyone else seems to know already? Well we did too, and that's why we developed this app and website to provide you with the knowledge that others forgot to tell you.<p>	
 
-		<p>Is curently under construction.</p>
+		
 		<p>Please check back with us at a later time. :)</p>
 		</br>
 		<p>To take a survey about sexual topics that can be talked about please complete the following form<p>

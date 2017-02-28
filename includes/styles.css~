@@ -4,7 +4,7 @@ header {
 }
 
 .centered-wrapper {
-    position: relative;
+    margin: 0 auto;
     text-align: center;
 }
 

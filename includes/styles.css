@@ -4,7 +4,10 @@ header {
 }
 
 .centered-wrapper {
-    margin: 0 auto;
+    margin: auto;
+	width: 80%;
+	border: 3px solid black;
+	padding: 10px;
     text-align: center;
 }
 
