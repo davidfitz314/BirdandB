@@ -25,10 +25,10 @@ header {
     display: inline;
 }
 
-.nav .leftAligned{
+.leftAligned{
 	text-align: left;
 }
 
-.nav .rightAligned{
+.rightAligned{
 	text-align: right;
 }
