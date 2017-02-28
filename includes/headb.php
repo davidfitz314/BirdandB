@@ -12,4 +12,4 @@
 </head>
 	
 <header> <h1> Welcome to BirdandB.com </h1> </header>
-<body>
+<body class="center">
