@@ -1,4 +1,4 @@
-<?php require('Includes/headb.php') ?>
+<?php require_once('Includes/headb.php') ?>
 	<link rel="stylesheet" type="text/css" href='Includes/styles.css'>
 </head>
 	
