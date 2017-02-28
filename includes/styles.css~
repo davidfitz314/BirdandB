@@ -28,7 +28,7 @@ header {
 
 .rightAligned{
 	float: right;
-	padding:5px;
+	padding-right:5px;
 }
 
 footer {
