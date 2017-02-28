@@ -1,9 +1,5 @@
 <?php include 'includes/headb.php'; ?>
-	<link rel="stylesheet" type="text/css" href="includes/styles.css">
-</head>
 	
-<header>test</header>
-<body>
 
 <h1>BirdandB.com</h1>
 <p>Is curently under construction.</p>
