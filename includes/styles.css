@@ -18,16 +18,16 @@ header {
 	text-align: justify;
 }
 
-.nav li {
+/*.nav li {
     display: inline;
-}
+}*/
 
 .leftAligned{
-	text-align: left;
+	float: left;
 }
 
 .rightAligned{
-	text-align: right;
+	float: right;
 }
 
 footer {

@@ -18,9 +18,9 @@ header {
 	text-align: justify;
 }
 
-.nav li {
+/*.nav li {
     display: inline;
-}
+}*/
 
 .leftAligned{
 	text-align: left;
@@ -28,4 +28,8 @@ header {
 
 .rightAligned{
 	text-align: right;
+}
+
+footer {
+	padding: 10px;
 }
