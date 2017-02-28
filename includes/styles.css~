@@ -23,11 +23,12 @@ header {
 }*/
 
 .leftAligned{
-	text-align: left;
+	float: left;
 }
 
 .rightAligned{
-	text-align: right;
+	float: right;
+	padding:5px;
 }
 
 footer {
