@@ -24,6 +24,8 @@ header {
 
 .nav li {
     display: inline;
+	text-align: justify;
+	width: 100%;
 }
 
 .leftAligned{
