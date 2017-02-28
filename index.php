@@ -1,4 +1,9 @@
-<?php include_once('/Includes/header.php') ?>
+<?php include_once('/Includes/headb.php') ?>
+	<link rel="stylesheet" type="text/css" href="/Includes/styles.css">
+</head>
+	
+<header>test</header>
+<body>
 
 <h1>BirdandB.com</h1>
 <p>Is curently under construction.</p>

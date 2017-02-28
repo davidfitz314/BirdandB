@@ -2,7 +2,7 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <link rel="stylesheet" type="text/css" href="../styles.css">
+  
   <meta name="description" content="Web Education">
   <meta name="keywords" content="HTML,CSS,XML,PHP,JavaScript">
   <meta name="author" content="David ChenFitzgerald">
