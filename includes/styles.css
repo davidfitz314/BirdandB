@@ -3,9 +3,7 @@ header {
 	
 }
 
-.center {
-    margin: auto;
-    width: 50%;
-    border: 3px solid green;
-    padding: 10px;
+.centered-wrapper {
+    position: relative;
+    text-align: center;
 }
