@@ -6,5 +6,6 @@
 	<iframe src="https://docs.google.com/a/dmail.dixie.edu/forms/d/e/1FAIpQLSfbFvWKJa8v4vdAJ0Cqg8Y8xe-r2-F1QwW5xeh6gGxlhfCcig/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Survey</iframe>
 	</br>
 	<?php include 'includes/footer.php'; ?>
+	</div>
 	</body>
 </html>

@@ -17,6 +17,7 @@
   <li class="leftAligned"><a href="index.php">Home</a></li>
   <li class="rightaligned"><a href="index.php">Search</a></li>
 </ul>
+</div>
 <div class="centered-wrapper">
 <header> 
 	<h1> 

@@ -11,12 +11,13 @@
   <link rel="stylesheet" type="text/css" href="includes/styles.css">
 </head>
 	
-<body class="centered-wrapper">
+<body>
 <div class="nav">
 <ul>
   <li class="leftAligned"><a href="index.php">Home</a></li>
   <li class="rightaligned"><a href="index.php">Search</a></li>
 </ul>
+<div class="centered-wrapper">
 <header> 
 	<h1> 
 		Welcome to BirdandB.com 
