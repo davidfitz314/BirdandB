@@ -1,7 +1,10 @@
 header {
-	padding: 100px 0px 100px 0px;
 	background-image: url("images/medical_instruments.jpg");
 	height: 200px;
+}
+
+header h1 {
+	padding: 100px 0px 100px 0px;
 }
 
 .centered-wrapper {
@@ -36,7 +39,7 @@ header {
 }
 
 .CallsToAction {
-	display: inline;
+	display: table;
 }
 
 .CTA1 {
