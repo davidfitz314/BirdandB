@@ -12,14 +12,14 @@ header {
 }
 
 .nav ul {
-	text-align: center;
+	text-align: left;
 	margin: auto;
 	width: 80%;
     list-style-type: none;
 	padding: 10px;
 }
 
-.nav ul li {
+.nav li {
 	display: inline;
 }
 
