@@ -29,6 +29,11 @@ header {
 	padding-right:20px;
 }
 
+.CompanyDescription {
+	height: 250px;
+	border: 3px dashed black;
+}
+
 footer {
 	padding: 10px;
 }
