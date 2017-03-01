@@ -72,6 +72,7 @@ header h1 {
 }
 
 .Survey {
+	color: white;
 	font-size: 150%;
 	font-weight: bold;
 	text-decoration: underline;
@@ -80,5 +81,6 @@ header h1 {
 }
 
 footer {
-	padding: 10px;
+	padding: 100px;
+	border: 3px dashed black;
 }
