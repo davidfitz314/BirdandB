@@ -72,8 +72,9 @@ header h1 {
 }
 
 .Survey {
+	font-size: 150%;
 	text-decoration: underline;
-	text-shadow: 3px 2px blue;
+	/*text-shadow: 3px 2px blue;*/
 	background-image: url("images/circuit_board.jpg");
 }
 
