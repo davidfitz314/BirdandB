@@ -12,7 +12,7 @@
 </head>
 	
 <body>
-<div class="centered-wrapper">
+
 <div class="nav">
 <ul>
 <div class="leftAligned">
@@ -29,6 +29,6 @@
 		Welcome to BirdandB.com 
 	</h1> 
 </header>
-
+<div class="centered-wrapper">
 
 

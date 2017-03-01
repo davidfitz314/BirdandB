@@ -1,6 +1,6 @@
 <?php include 'includes/headb.php'; ?>
 	
-
+<header>test</header>
 <body>
 
 <h1>BirdandB.com</h1>
