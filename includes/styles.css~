@@ -13,13 +13,12 @@ header {
 }
 
 .nav ul {
-	text-align center;
+	text-align: center;
 	margin: auto;
 	width: 80%;
     list-style-type: none;
-	width: 100%;
+	
 	padding: 10px;
-	text-align: justify;
 }
 
 .leftAligned{
