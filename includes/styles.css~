@@ -7,12 +7,13 @@ header {
 .centered-wrapper {
     margin: auto;
 	width: 80%;
-	border: 3px solid black;
+	/*border: 3px solid black;*/
 	padding: 10px;
     text-align: center;
 }
 
 .nav ul {
+	text-align center;
 	margin: auto;
 	width: 80%;
     list-style-type: none;

@@ -13,6 +13,7 @@ header {
 }
 
 .nav ul {
+	text-align: center;
 	margin: auto;
 	width: 80%;
     list-style-type: none;

@@ -22,13 +22,14 @@
   <li><a href="index.php">Search</a></li>
 </div>
 </ul>
-</div>
+
 
 <header> 
 	<h1> 
 		Welcome to BirdandB.com 
 	</h1> 
 </header>
+</div>
 <div class="centered-wrapper">
 
 
