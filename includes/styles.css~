@@ -30,8 +30,9 @@ header {
 }
 
 .CompanyDescription {
-	height: 100px;
+	height: 250px;
 	border: 3px dashed black;
+	background-color: blue;
 }
 
 footer {
