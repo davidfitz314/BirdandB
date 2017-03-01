@@ -11,7 +11,7 @@ header {
 }
 
 .nav ul {
-	text-align: left;
+	text-align: justify;
 	margin: auto;
 	width: 80%;
     list-style-type: none;
