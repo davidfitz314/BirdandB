@@ -12,8 +12,10 @@ header {
 }
 
 .nav ul {
+	text-align: left;
 	margin: auto;
 	width: 80%;
+	height: 200px;
     list-style-type: none;
 	padding: 10px;
 }
@@ -25,7 +27,7 @@ header {
 .CompanyDescription {
 	height: 500px;
 	border: 3px dashed black;
-	background-color: blue;
+	/*background-color: blue;*/
 	padding: 50px;
 }
 

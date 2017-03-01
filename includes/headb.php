@@ -20,11 +20,13 @@
 </ul>
 </div>
 <div class="centered-wrapper">
+<div class="Logo">
 <header> 
 	<h1> 
 		BirdandB.com logo goes here 
 	</h1> 
 </header>
+</div>
 
 
 
