@@ -40,6 +40,7 @@ header h1 {
 
 .CallsToAction {
 	display: table;
+	width: 100%;
 }
 
 .CTA1 {
@@ -55,7 +56,7 @@ header h1 {
 	background-color: yellow;
 	border: 1px dashed black;
 	width: 33%;
-	height: 150px;
+	height: 250px;
 }
 
 .CTA3 {
