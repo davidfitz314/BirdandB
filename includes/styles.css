@@ -35,6 +35,31 @@ header {
 	padding: 100px;
 }
 
+.CallsToAction {
+	display: inline;
+}
+
+.CTA1 {
+	background-color: blue;
+	border: 1px dashed black;
+	width: 33%;
+	height: 150px;
+}
+
+.CTA2 {
+	background-color: yellow;
+	border: 1px dashed black;
+	width: 33%;
+	height: 150px;
+}
+
+.CTA3 {
+	background-color: green;
+	border: 1px dashed black;
+	width: 33%;
+	height: 150px;
+}
+
 .Survey {
 	background-image: url("circuit_board.jpg");
 }

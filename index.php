@@ -5,7 +5,11 @@
 	<p><strong>Learning About Life Never Stops</strong></p>
 	<p>Hate trying to understand things about your body or sexuality that everyone else seems to know already? Well we did too, and that's why we developed this app and website to provide you with the knowledge that others forgot to tell you.<p>	
 </div>
-
+<div class="CallsToAction">
+<div class="CTA1"></div>
+<div class="CTA2"></div>
+<div class="CTA3"></div>
+</div>
 <!- Survey section ->
 <div class="Survey">
 	<p>To take a survey on sexual topics that can be talked about please complete the following form<p>
