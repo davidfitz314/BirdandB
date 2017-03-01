@@ -15,12 +15,8 @@
 
 <div class="nav">
 <ul>
-<div class="leftAligned">
   <li><a href="index.php">Home</a></li>
-</div>
-<div class="rightAligned">
   <li><a href="index.php">Search</a></li>
-</div>
 </ul>
 </div>
 <div class="centered-wrapper">

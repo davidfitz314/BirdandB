@@ -1,7 +1,6 @@
 header {
 	background-color: green;
 	padding: 50px;
-	
 }
 
 .centered-wrapper {
@@ -20,19 +19,11 @@ header {
 	padding: 10px;
 }
 
-.leftAligned{
-	float: left;
-}
-
-.rightAligned{
-	float: right;
-	padding-right:20px;
-}
-
 .CompanyDescription {
 	height: 500px;
 	border: 3px dashed black;
 	background-color: blue;
+	padding: 50px;
 }
 
 footer {

@@ -19,13 +19,8 @@ header {
 	padding: 10px;
 }
 
-.leftAligned{
-	float: left;
-}
-
-.rightAligned{
-	float: right;
-	padding-right:20px;
+.nav li {
+	display: inline;
 }
 
 .CompanyDescription {
