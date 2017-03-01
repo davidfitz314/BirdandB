@@ -35,6 +35,10 @@ header {
 	padding: 100px;
 }
 
+.Survey {
+	background-image: url("circuit_board.jpg");
+}
+
 footer {
 	padding: 10px;
 }

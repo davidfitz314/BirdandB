@@ -1,5 +1,5 @@
 header {
-	padding: 100px 100px 0 0;
+	padding: 100px 0px 100px 0px;
 	background-image: url("images/medical_instruments.jpg");
 	height: 200px;
 }
@@ -33,6 +33,10 @@ header {
 	border: 3px dashed black;
 	/*background-color: blue;*/
 	padding: 100px;
+}
+
+.Survey {
+	background-image: url("circuit_board.jpg");
 }
 
 footer {
