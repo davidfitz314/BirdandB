@@ -1,5 +1,5 @@
 header {
-	background-color: green;
+	background-image: url("images/medical_instruments.jpg");
 	padding: 50px;
 }
 
@@ -21,6 +21,10 @@ header {
 
 .nav li {
 	display: inline;
+}
+
+.Logo {
+	height: 200px;
 }
 
 .CompanyDescription {
