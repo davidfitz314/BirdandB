@@ -1,7 +1,6 @@
 header {
 	background-color: green;
 	padding: 50px;
-	
 }
 
 .centered-wrapper {
@@ -33,6 +32,7 @@ header {
 	height: 500px;
 	border: 3px dashed black;
 	background-color: blue;
+	padding: 50px;
 }
 
 footer {
