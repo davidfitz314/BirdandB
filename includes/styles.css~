@@ -45,7 +45,7 @@ header h1 {
 
 .CTA1 {
 	display: table-cell;
-	background-color: blue;
+	/*background-color: blue;*/
 	border: 1px dashed black;
 	width: 33%;
 	height: 150px;
@@ -53,7 +53,7 @@ header h1 {
 
 .CTA2 {
 	display: table-cell;
-	background-color: yellow;
+	/*background-color: yellow;*/
 	border: 1px dashed black;
 	width: 33%;
 	height: 250px;
@@ -61,7 +61,7 @@ header h1 {
 
 .CTA3 {
 	display: table-cell;
-	background-color: green;
+	/*background-color: green;*/
 	border: 1px dashed black;
 	width: 33%;
 	height: 150px;

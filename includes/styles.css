@@ -43,6 +43,10 @@ header h1 {
 	width: 100%;
 }
 
+.CallsToAction p {
+	padding: 125px 0px 125px 0px;
+}
+
 .CTA1 {
 	display: table-cell;
 	/*background-color: blue;*/
