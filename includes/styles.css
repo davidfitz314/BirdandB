@@ -40,6 +40,7 @@ header h1 {
 
 .CallsToAction {
 	display: table;
+	width: 100%;
 }
 
 .CTA1 {
