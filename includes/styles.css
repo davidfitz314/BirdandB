@@ -76,6 +76,8 @@ header h1 {
 	font-size: 150%;
 	font-weight: bold;
 	text-decoration: underline;
+	outline-style: solid;
+	outline-color: blue;
 	/*text-shadow: 3px 2px blue;*/
 	background-image: url("images/circuit_board.jpg");
 }
