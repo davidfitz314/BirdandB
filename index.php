@@ -1,5 +1,6 @@
 <!- continued from header centered-wrapper div ->
 <?php include 'includes/headb.php'; ?>
+<?php require_once('includes/facsfunc.php'); ?>
 
 <!- Company describtion section ->
 <div class="CompanyDescription">
@@ -17,9 +18,7 @@
 <!- end CTA1 div ->
 
 <div class="CTA2"><p>
-<?php require_once('includes/facsfunc.php'); 
-	pickRandom();
-?>
+<?php pickRandom(); ?>
 </p></div>
 <!- end CTA2 div ->
 </div>

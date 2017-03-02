@@ -16,7 +16,11 @@
 <p>Interesting Fact: if a male begins puberty before the age of 9 or doesn’t show signs of puberty by the age of 14 it is recommend that they see a pediatrician and have a full examination.</p></div>
 <!- end CTA1 div ->
 
-<div class="CTA2"><p><?php require_once('includes/facsfunc.php'); ?></p></div>
+<div class="CTA2"><p>
+<?php require_once('includes/facsfunc.php'); 
+	pickRandom();
+?>
+</p></div>
 <!- end CTA2 div ->
 </div>
 <!- end CallsToAction div ->
