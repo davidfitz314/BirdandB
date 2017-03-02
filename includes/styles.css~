@@ -51,23 +51,9 @@ header {
 	display: table-cell;
 	/*background-color: blue;*/
 	padding-top: 75px;
-	border: 1px dashed black;
+	border: none;
 	width: 33%;
 	height: 450px;
-}
-
-.CTA1Table {
-	display: table;
-	width: 100%;
-}
-
-.CTA1 img {
-	display:table-cell;
-	text-align: center;
-}
-
-.CTA p {
-	display: table-cell;
 }
 
 .CTA2 {
