@@ -64,6 +64,10 @@ header {
 	height: 450px;
 }
 
+.CTA1 p {
+	padding-left: 15px;
+	padding-right: 15px;
+}
 
 
 .Survey {

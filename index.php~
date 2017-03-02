@@ -15,7 +15,7 @@
 
 <div class="CTA1">
 <img src="includes/images/lightBulb.png" alt="Bee light bulb" style="width:75px;height:75px;">
-<p><?php pickRandom(); ?><p>
+<p><strong><?php pickRandom(); ?></strong><p>
 <p></p></div>
 <!- end CTA1 div ->
 
