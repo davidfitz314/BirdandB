@@ -26,7 +26,7 @@ function pickRandom() {
 
 <div class="CTA2"><p>
 <?php pickRandom();
-		echo "here right?" ?>
+		echo "\nhere right?" ?>
 </p></div>
 <!- end CTA2 div ->
 </div>

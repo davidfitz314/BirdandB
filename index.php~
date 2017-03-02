@@ -5,7 +5,7 @@
 function pickRandom() {
 	$input = array("Neo", "Morpheus", "Trinity", "Cypher", "Tank");
 	
-	echo $input[3];
+	echo $input[array_rand($input)];
 }
 ?>
 
