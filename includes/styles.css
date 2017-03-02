@@ -1,11 +1,11 @@
 header {
 	background-image: url("images/Blogo.png");
-	background-repeat: none;
-	height: 500px;
+	background-repeat: no-repeat;
+	height: 475px;
 }
 
 header h1 {
-	padding: 100px 0px 100px 0px;
+	padding: 100px 0px 475px 0px;
 }
 
 .centered-wrapper {
