@@ -57,6 +57,10 @@ header {
 	height: 200px;
 }
 
+.CTA1 a:hover {
+	background-color: blue;
+}
+
 .CTA2 {
 	display: table-cell;
 	/*background-color: yellow;*/
