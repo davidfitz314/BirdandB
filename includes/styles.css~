@@ -54,7 +54,7 @@ header {
 	padding-top: 15%;
 	border: none;
 	width: 33%;
-	height: 150px;
+	height: 200px;
 }
 
 .CTA2 {
@@ -62,7 +62,7 @@ header {
 	/*background-color: yellow;*/
 	border: 1px dashed black;
 	width: 66%;
-	height: 150px;
+	height: 200px;
 }
 
 .CTA1 p {
