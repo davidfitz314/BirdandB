@@ -23,7 +23,6 @@ function pickRandom() {
 	"Interesting Fact: Gynecomastia is usually harmless and resolves itself within 2 years, but in the event a male does has signs of gynecomastia it is recommended that he be evaluated by pediatrician, especially so when he is prior to puberty or in late adolescence.",
 	"Interesting Fact: If a female has started puberty before 8 years of age or hasn’t started by the age 13, it is highly recommended by doctors that she be examined by a trained pediatrician."
 	/* chapter 3 to be continued */
-	
 );
 	
 	echo $input[array_rand($input)];

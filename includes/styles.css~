@@ -50,7 +50,7 @@ header {
 .CTA1 {
 	display: table-cell;
 	/*background-color: blue;*/
-	padding-top: 40%;
+	padding-top: 25%;
 	border: none;
 	width: 33%;
 	height: 450px;
