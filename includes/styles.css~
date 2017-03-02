@@ -40,7 +40,7 @@ header {
 	border: 3px dashed black;
 	/*background-color: blue;*/
 	padding: 75px;
-	margin-top: 200px;
+	margin-top: 100px;
 }
 
 .CallsToAction {
@@ -54,7 +54,7 @@ header {
 	padding-top: 15%;
 	border: none;
 	width: 33%;
-	height: 350px;
+	height: 150px;
 }
 
 .CTA2 {
@@ -62,7 +62,7 @@ header {
 	/*background-color: yellow;*/
 	border: 1px dashed black;
 	width: 66%;
-	height: 450px;
+	height: 150px;
 }
 
 .CTA1 p {
