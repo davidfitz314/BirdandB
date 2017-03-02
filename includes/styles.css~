@@ -47,10 +47,6 @@ header {
 	width: 100%;
 }
 
-.CallsToAction p {
-	padding: 120px 0px 120px 0px;
-}
-
 .CTA1 {
 	display: table-cell;
 	/*background-color: blue;*/

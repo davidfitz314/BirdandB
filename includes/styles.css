@@ -63,6 +63,7 @@ header {
 
 .CTA1 img {
 	display:table-cell;
+	text-align: center;
 }
 
 .CTA p {
