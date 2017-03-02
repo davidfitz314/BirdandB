@@ -1,13 +1,7 @@
 <!- continued from header centered-wrapper div ->
 <?php include 'includes/headb.php'; ?>
 
-<?php 
-function pickRandom() {
-	$input = array("Neo", "Morpheus", "Trinity", "Cypher", "Tank");
-	
-	echo $input[array_rand($input)];
-}
-?>
+<?php include 'includes/factsfunc.php'; ?>
 
 <!- Company describtion section ->
 <div class="CompanyDescription">
@@ -21,12 +15,12 @@ function pickRandom() {
 
 <div class="CTA1">
 <img src="includes/images/lightBulb.png" alt="Bee light bulb" style="width:75px;height:75px;">
-<p>Interesting Fact: if a male begins puberty before the age of 9 or doesn’t show signs of puberty by the age of 14 it is recommend that they see a pediatrician and have a full examination.</p></div>
+<p><?php pickRandom(); ?><p>
+<p></p></div>
 <!- end CTA1 div ->
 
 <div class="CTA2"><p>
-<?php pickRandom();
-		echo "\nhere right?" ?>
+CTA goes here!
 </p></div>
 <!- end CTA2 div ->
 </div>
