@@ -4,8 +4,8 @@
 <?php 
 function pickRandom() {
 	$input = array("Neo", "Morpheus", "Trinity", "Cypher", "Tank");
-	$rand_keys = (0, 4);
-	echo $input[$rand_keys];
+	
+	echo $input[3];
 }
 ?>
 
