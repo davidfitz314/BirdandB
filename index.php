@@ -14,7 +14,7 @@
 <!- Survey section ->
 <div class="Survey">
 	<p>To take a survey on sexual topics that can be talked about please complete the following form<p>
-	<iframe src="https://docs.google.com/a/dmail.dixie.edu/forms/d/e/1FAIpQLSfbFvWKJa8v4vdAJ0Cqg8Y8xe-r2-F1QwW5xeh6gGxlhfCcig/viewform?embedded=true" width="760" height="700" frameborder="0" marginheight="0" marginwidth="0">Survey</iframe>
+	<iframe src="https://docs.google.com/a/dmail.dixie.edu/forms/d/e/1FAIpQLSfbFvWKJa8v4vdAJ0Cqg8Y8xe-r2-F1QwW5xeh6gGxlhfCcig/viewform?embedded=true" width="960" height="720" frameborder="0" marginheight="0" marginwidth="0">Survey</iframe>
 </div>
 <!- end Survey div ->
 
