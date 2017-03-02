@@ -39,7 +39,7 @@ header {
 	border: 3px dashed black;
 	/*background-color: blue;*/
 	padding: 100px;
-	margin-top: 250px;
+	margin-top: 275px;
 }
 
 .CallsToAction {
@@ -54,6 +54,7 @@ header {
 .CTA1 {
 	display: table-cell;
 	/*background-color: blue;*/
+	background-image: url("images/lightBulb.png")
 	border: 1px dashed black;
 	width: 33%;
 	height: 150px;
