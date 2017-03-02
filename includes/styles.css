@@ -2,12 +2,12 @@ header {
 	background-image: url("images/Blogo.png");
 	background-repeat: no-repeat;
 	height: 475px;
-	margin: 400px;
+	margin-bottom: 250px;
 }
 
-header h1 {
+/*header h1 {
 	padding: 100px 0px 475px 0px;
-}
+}*/
 
 .centered-wrapper {
     margin: auto;
