@@ -3,7 +3,7 @@ header {
 	background-repeat: no-repeat;
 	height: 555px;
 	margin-left: 25%;
-	margin-bottom: 250px; 
+	 
 }
 
 /*header h1 {
@@ -39,7 +39,7 @@ header {
 	border: 3px dashed black;
 	/*background-color: blue;*/
 	padding: 100px;
-	margin-top: auto;
+	margin-top: 250px;
 }
 
 .CallsToAction {
