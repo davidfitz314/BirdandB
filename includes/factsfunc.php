@@ -21,8 +21,12 @@ function pickRandom() {
 	"Interesting Fact: About 1 in 3 males will develop pearly penile papules, these are skin colored pimple-like bumps around the crown, or corona of the penis. They are completely harmless and normal, but many young adolescents fear they have something wrong with them when these appear.",
 	"Interesting Fact: The cause of Nocturnal Emissions or wet dreams is still under debate with many claiming it to be due to arousal in dreams, others claiming it to be a lack of ejaculation prior to the nocturnal emission, and finally some claiming that it is due to the body going through or just finishing puberty .",
 	"Interesting Fact: Gynecomastia is usually harmless and resolves itself within 2 years, but in the event a male does has signs of gynecomastia it is recommended that he be evaluated by pediatrician, especially so when he is prior to puberty or in late adolescence.",
-	"Interesting Fact: If a female has started puberty before 8 years of age or hasn’t started by the age 13, it is highly recommended by doctors that she be examined by a trained pediatrician."
-	/* chapter 3 to be continued */
+	"Interesting Fact: If a female has started puberty before 8 years of age or hasn’t started by the age 13, it is highly recommended by doctors that she be examined by a trained pediatrician.",
+	"Interesting Fact: Most parents are not prepared for their female child to have breast buds and mistakenly believe they are tumors until they visit a doctor.",
+	"Interesting Fact: Many young females have misconceptions about menstruation and the best time to ease their worries about it is when they have first begun developing breast buds as this signals menstruation and more is coming. Always remember that menstruation is different for every female, the amount of cramps, pain and other experiences vary for each individual.",
+	"Interesting Fact: A doctor should be called if a sudden unexplainable change happens in the female's period such as: heavy bleeding that soaks through more that 6 - 8 pads a day, bleeding between periods, period lasting longer than 7 - 10 days, and sudden development of severe abdominal pain.",
+	"Interesting Fact: Beginning with puberty many females start to become interested in love and acting it out with other people, this can be scary for their parents, but should be treated calmly and explained thoroughly by their parents or legal guardians. If needed outside resources are available online that can be used as tools for teaching young females."
+	/* end chapter 3 */
 );
 	
 	echo $input[array_rand($input)];
