@@ -29,8 +29,8 @@ function pickRandom() {
 	/* end chapter 3 */
 );
 	$output = $input[array_rand($input)];
-	echo $output
-	echo "__________"
+	echo $output;
+	echo "__________";
 	echo array_search($output, $input);
 }
 
