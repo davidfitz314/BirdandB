@@ -57,8 +57,13 @@ header {
 	height: 200px;
 }
 
+.CTA a {
+	text-decoration: none;
+}
+
 .CTA1 a:hover {
 	background-color: blue;
+	text-decoration: underline;
 }
 
 .CTA2 {
