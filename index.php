@@ -18,7 +18,8 @@
 <!- end CTA1 div ->
 
 <div class="CTA2"><p>
-<?php echo pickRandom(); ?>
+<?php pickRandom();
+		echo "here right?" ?>
 </p></div>
 <!- end CTA2 div ->
 </div>
