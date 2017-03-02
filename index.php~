@@ -6,7 +6,8 @@
 <!- Company describtion section ->
 <div class="CompanyDescription">
 	<p><strong>Learning About Life Never Stops</strong></p>
-	<p>Hate trying to understand things about your body or sexuality that everyone else seems to know already? Well we did too, and that's why we developed this app and website to provide you with the knowledge that others forgot to tell you.<p>	
+	<p>Hate trying to understand things about your body or sexuality that everyone else seems to know already? Well we did too, and that's why we developed this app and website to provide you with the knowledge that others forgot to tell you.<p>
+</br><p>We are currently under construction, please come again soon.<p>	
 </div>
 <!- end CompanyDescription div ->
 
@@ -14,7 +15,7 @@
 <div class="CallsToAction">
 
 <div class="CTA1">
-<img src="includes/images/lightBulb.png" alt="Bee light bulb" style="width:125px;height:150px;">
+<img src="includes/images/lightBulb.png" alt="Bee light bulb" style="width:125px;">
 <p><strong><?php pickRandom(); ?></strong><p>
 <p></p></div>
 <!- end CTA1 div ->
