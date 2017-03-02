@@ -55,7 +55,11 @@ header {
 	border: none;
 	width: 33%;
 	height: 200px;
+}
+
+.CTA1 a:link {
 	text-decoration: none;
+	color: black;
 }
 
 .CTA1 a:hover {
