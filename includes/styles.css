@@ -2,6 +2,7 @@ header {
 	background-image: url("images/Blogo.png");
 	background-repeat: no-repeat;
 	height: 475px;
+	margin: 400px;
 }
 
 header h1 {
