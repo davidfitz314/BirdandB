@@ -28,7 +28,7 @@
 	<!- end CTA1 div ->
 
 	<div class="CTA2"><p>
-	CTA goes here!
+	<?php pickRandom(); ?>
 	</p></div>
 	<!- end CTA2 div ->
 </div>
