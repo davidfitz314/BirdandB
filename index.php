@@ -21,7 +21,7 @@
 <!- first set of calls to action ->
 <div class="CallsToAction">
 
-<div class="CTA1"><a href="<?= "index.html" ?>">
+<div class="CTA1"><a href="<?= "index.php" ?>">
 <img src="includes/images/lightBulb.png" alt="Bee light bulb" style="width:125px;"></a>
 <p><strong><?php pickRandom(); ?></strong><p>
 <p></p></div>
