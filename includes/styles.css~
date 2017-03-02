@@ -1,8 +1,8 @@
 header {
 	background-image: url("images/Blogo.png");
 	background-repeat: no-repeat;
-	height: 475px;
-	margin-left: 45%;
+	height: 555px;
+	margin-left: 25%;
 }
 
 /*header h1 {
