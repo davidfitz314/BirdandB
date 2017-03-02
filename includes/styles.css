@@ -55,6 +55,7 @@ header {
 	border: none;
 	width: 33%;
 	height: 200px;
+	color: black;
 }
 
 .CTA1 a:link {
@@ -65,6 +66,7 @@ header {
 .CTA1 a:hover {
 	background-color: blue;
 	text-decoration: underline;
+	color: black;
 }
 
 .CTA2 {
