@@ -1,7 +1,7 @@
 header {
 	background-image: url("images/Blogo.png");
 	background-repeat: no-repeat;
-	background-size: 75%;
+	background-size: 55%;
 	height: 555px;
 	margin-left: 25%;
 	 
@@ -36,7 +36,7 @@ header {
 }
 
 .CompanyDescription {
-	height: 300px;
+	height: 225px;
 	border: 3px dashed black;
 	/*background-color: blue;*/
 	padding: 100px;
