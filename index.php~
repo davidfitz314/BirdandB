@@ -1,3 +1,4 @@
+<!- continued from header centered-wrapper div ->
 <?php include 'includes/headb.php'; ?>
 
 <!- Company describtion section ->
@@ -10,8 +11,8 @@
 <div class="CallsToAction">
 <div class="CTA1"><p>call to action 1</p></div>
 <div class="CTA2"><p>call to action 2</p></div>
-<div class="CTA3"><p>call to action 3</p></div>
-</div>
+
+</div><!- end CallsToAction div ->
 
 <!- Survey section ->
 <div class="Survey">
@@ -22,6 +23,6 @@
 <!- Footer section ->
 <?php include 'includes/footer.php'; ?>
 
-</div>
+</div><!- end centered-wrapper div ->
 </body>
 </html>
