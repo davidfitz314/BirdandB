@@ -22,9 +22,9 @@
 <div class="CallsToAction">
 
 	<div class="CTA1"><a href="<?= "index.php" ?>">
-	<img src="includes/images/lightBulb.png" alt="Bee light bulb" style="width:125px;"></a>
+	<img src="includes/images/lightBulb.png" alt="Bee light bulb" style="width:125px;">
 	<p><strong><?php pickRandom(); ?></strong><p>
-	<p></p></div>
+	</a></div>
 	<!- end CTA1 div ->
 
 	<div class="CTA2"><p>
