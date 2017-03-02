@@ -28,8 +28,10 @@ function pickRandom() {
 	"Interesting Fact: Beginning with puberty many females start to become interested in love and acting it out with other people, this can be scary for their parents, but should be treated calmly and explained thoroughly by their parents or legal guardians. If needed outside resources are available online that can be used as tools for teaching young females."
 	/* end chapter 3 */
 );
-	
-	echo $input[array_rand($input)];
+	$output = $input[array_rand($input)];
+	echo $output
+	echo "__________"
+	echo array_search($output, $input);
 }
 
 ?>
