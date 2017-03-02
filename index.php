@@ -10,8 +10,9 @@
 <div class="CallsToAction">
 <div class="CTA1"><p>call to action 1</p></div>
 <div class="CTA2"><p>call to action 2</p></div>
-<div class="CTA3"><p>call to action 3</p></div>
+
 </div>
+
 <!- Survey section ->
 <div class="Survey">
 	<p>To take a survey on sexual topics that can be talked about please complete the following form<p>
