@@ -63,6 +63,11 @@ header {
 	color: black;
 }
 
+.CTA1 a:visited {
+	text-decoration: none;
+	color: black;
+}
+
 .CTA1 a:hover {
 	background-color: blue;
 	text-decoration: underline;
