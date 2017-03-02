@@ -1,7 +1,7 @@
 header {
 	background-image: url("images/Blogo.png"), url("images/logoB.png");
 	background-repeat: no-repeat, no-repeat;
-	background-position: right, left;
+	background-position: left, right;
 	background-size: 15%;
 	height: 350px;
 	margin-left: 2%;
