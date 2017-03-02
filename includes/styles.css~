@@ -1,5 +1,5 @@
 header {
-	background-image: url("images/medical_instruments.jpg");
+	background-image: url("images/Blogo.png");
 	height: 200px;
 }
 

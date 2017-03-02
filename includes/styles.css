@@ -1,6 +1,7 @@
 header {
 	background-image: url("images/Blogo.png");
-	height: 200px;
+	background-repeat: none;
+	height: 500px;
 }
 
 header h1 {
