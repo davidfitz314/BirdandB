@@ -14,7 +14,7 @@
 <div class="CallsToAction">
 
 <div class="CTA1">
-<img src="includes/images/lightBulb.png" alt="Bee light bulb" style="width:125px;height:125px;">
+<img src="includes/images/lightBulb.png" alt="Bee light bulb" style="width:125px;">
 <p><strong><?php pickRandom(); ?></strong><p>
 <p></p></div>
 <!- end CTA1 div ->
