@@ -39,7 +39,7 @@ header {
 	border: 3px dashed black;
 	/*background-color: blue;*/
 	padding: 100px;
-	margin-top: 200px;
+	margin-top: auto;
 }
 
 .CallsToAction {
