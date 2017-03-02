@@ -1,6 +1,6 @@
 <!- continued from header centered-wrapper div ->
 <?php include 'includes/headb.php'; ?>
-<?php include_once('includes/facsfunc.php'); ?>
+<?php include 'includes/factsfunc.php'; ?>
 
 <!- Company describtion section ->
 <div class="CompanyDescription">
