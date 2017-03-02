@@ -10,7 +10,7 @@
 
 <!- first set of calls to action ->
 <div class="CallsToAction">
-<div class="CTA1"><p>call to action 1</p></div>
+<div class="CTA1"><img src="includes/images/lightBulb.png" alt="Bee light bulb" style="width:75px;height:75px;"><p>Interesting Fact: if a male begins puberty before the age of 9 or doesn’t show signs of puberty by the age of 14 it is recommend that they see a pediatrician and have a full examination.</p></div>
 <div class="CTA2"><p>call to action 2</p></div>
 </div>
 <!- end CallsToAction div ->

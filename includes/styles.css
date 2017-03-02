@@ -54,12 +54,11 @@ header {
 .CTA1 {
 	display: table-cell;
 	/*background-color: blue;*/
-	background-image: url("images/lightBulb.png");
-	background-size: 33% 150px;
-	background-repeat: no-repeat;
+	padding-top: 75px;
 	border: 1px dashed black;
 	width: 33%;
 	height: 150px;
+	display: inline
 }
 
 .CTA2 {
