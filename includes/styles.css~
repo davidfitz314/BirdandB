@@ -59,17 +59,11 @@ header h1 {
 	display: table-cell;
 	/*background-color: yellow;*/
 	border: 1px dashed black;
-	width: 33%;
-	height: 250px;
+	width: 66%;
+	height: 450px;
 }
 
-.CTA3 {
-	display: table-cell;
-	/*background-color: green;*/
-	border: 1px dashed black;
-	width: 33%;
-	height: 150px;
-}
+
 
 .Survey {
 	color: white;
