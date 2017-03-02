@@ -58,7 +58,19 @@ header {
 	border: 1px dashed black;
 	width: 33%;
 	height: 450px;
-	display: inline
+}
+
+.CTA1Table {
+	display: table;
+	width: 100%;
+}
+
+.CTA1 img {
+	display:table-cell;
+}
+
+.CTA p {
+	display: table-cell;
 }
 
 .CTA2 {

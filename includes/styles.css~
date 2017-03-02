@@ -57,8 +57,15 @@ header {
 	padding-top: 75px;
 	border: 1px dashed black;
 	width: 33%;
-	height: 150px;
-	display: inline
+	height: 450px;
+}
+
+.CTA1 img {
+	display:table-cell;
+}
+
+.CTA p {
+	display: table-cell;
 }
 
 .CTA2 {
