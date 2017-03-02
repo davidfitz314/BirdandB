@@ -60,6 +60,11 @@ header {
 	height: 450px;
 }
 
+.CTA1Table {
+	display: table;
+	width: 100%;
+}
+
 .CTA1 img {
 	display:table-cell;
 }
