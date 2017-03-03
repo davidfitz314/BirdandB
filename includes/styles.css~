@@ -1,9 +1,11 @@
 header {
-	background-image: url("images/Blogo.png");
-	background-repeat: no-repeat;
+	background-image: url("images/Blogo.png"), url("images/logoB.png");
+	background-repeat: no-repeat, no-repeat;
+	background-position: left, right;
 	background-size: 15%;
 	height: 350px;
 	margin-left: 2%;
+	margin-right: 2%;
 
 }
 
@@ -51,10 +53,27 @@ header {
 .CTA1 {
 	display: table-cell;
 	/*background-color: blue;*/
-	padding-top: 15%;
+	padding-top: 5%;
 	border: none;
 	width: 33%;
 	height: 200px;
+	color: black;
+}
+
+.CTA1 a:link {
+	text-decoration: none;
+	color: black;
+}
+
+.CTA1 a:visited {
+	text-decoration: none;
+	color: black;
+}
+
+.CTA1 a:hover {
+	background-color: blue;
+	text-decoration: underline;
+	color: black;
 }
 
 .CTA2 {
@@ -72,7 +91,8 @@ header {
 
 
 .Survey {
-	color: black;
+	padding-top:1%;
+	color: white;
 	font-size: 150%;
 	font-weight: bold;
 	text-decoration: underline;
