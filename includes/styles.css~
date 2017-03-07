@@ -107,12 +107,18 @@ header {
 	height: 350px;;
 }
 
+.row1chap {
+	display: table-row;
+	width: 100%;
+	margin: 15px;
+}
+
 .single1chap {
 	display: table-cell;
 	border: 1px dashed black;
 	width: 10%;
 	height: 10%;
-	margin: 5px, 5px, 5px, 5px;
+	margin: 10px;
 	background-color: yellow;
 }
 
@@ -121,7 +127,7 @@ header {
 	border: 1px dashed black;
 	width: 10%;
 	height: 10%;
-	margin: 5px, 5px, 5px, 5px;
+	margin: 10px;
 	background-color: blue;
 }
 
@@ -130,8 +136,14 @@ header {
 	border: 1px dashed black;
 	width: 10%;
 	height: 10%;
-	margin: 5px, 5px, 5px, 5px;
+	margin: 10px;
 	background-color: red;
+}
+
+.row2chap {
+	display: table-row;
+	width: 100%;
+	margin: 15px;
 }
 
 .single4chap {
@@ -139,7 +151,7 @@ header {
 	border: 1px dashed black;
 	width: 10%;
 	height: 10%;
-	margin: 5px, 5px, 5px, 5px;
+	margin: 10px;
 	background-color: yellow;
 }
 
@@ -148,7 +160,7 @@ header {
 	border: 1px dashed black;
 	width: 10%;
 	height: 10%;
-	margin: 5px, 5px, 5px, 5px;
+	margin: 10px;
 	background-color: blue;
 }
 
@@ -157,8 +169,13 @@ header {
 	border: 1px dashed black;
 	width: 10%;
 	height: 10%;
-	margin: 5px, 5px, 5px, 5px;
+	margin: 10px;
 	background-color: red;
+}
+
+.row3chap {
+	display: table-row;
+	width: 100%;
 }
 
 .single7chap {
@@ -166,7 +183,7 @@ header {
 	border: 1px dashed black;
 	width: 10%;
 	height: 10%;
-	margin: 5px, 5px, 5px, 5px;
+	margin: 10px;
 	background-color: yellow;
 }
 
