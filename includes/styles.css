@@ -103,7 +103,7 @@ header {
 .HPchap {
 	display:table;
 	border: 2px dashed black;
-	
+	width: 90%;
 	height: 350px;
 	padding: 10px;
 }
