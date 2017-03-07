@@ -36,19 +36,25 @@
 
 <!- HomePageChapterDiv ->
 <div class="HPchap">
-	<div class="single1chap">
+	<div class = "row1chap">
+		<div class="single1chap">
+		</div>
+		<div class="single2chap">
+		</div>
+		<div class="single3chap">
+		</div>
 	</div>
-	<div class="single2chap">
+	<div class = "row2chap">
+		<div class="single4chap">
+		</div>
+		<div class="single5chap">
+		</div>
+		<div class="single6chap">
+		</div>
 	</div>
-	<div class="single3chap">
-	</div>
-	<div class="single4chap">
-	</div>
-	<div class="single5chap">
-	</div>
-	<div class="single6chap">
-	</div>
-	<div class="single7chap">
+	<div class = "row3chap">
+		<div class="single7chap">
+		</div>
 	</div>
 </div>
 <!- Footer section ->
