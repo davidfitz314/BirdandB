@@ -126,7 +126,8 @@ header {
 .single1chap p{
 	padding: 10px;
 	border: solid black;
-	border-radius: 2px;
+	margin-left: 10px;
+	margin-right: 10px;
 }
 
 .single2chap {
@@ -141,7 +142,8 @@ header {
 .single2chap p{
 	padding: 10px;
 	border: solid black;
-	border-radius: 2px;
+	margin-left: 10px;
+	margin-right: 10px;
 }
 
 .single3chap {
@@ -156,7 +158,8 @@ header {
 .single3chap p{
 	padding: 10px;
 	border: solid black;
-	border-radius: 2px;
+	margin-left: 10px;
+	margin-right: 10px;
 }
 
 .row2chap {
@@ -177,7 +180,8 @@ header {
 .single4chap p{
 	padding: 10px;
 	border: solid black;
-	border-radius: 2px;
+	margin-left: 10px;
+	margin-right: 10px;
 }
 
 .single5chap {
@@ -192,7 +196,8 @@ header {
 .single5chap p{
 	padding: 10px;
 	border: solid black;
-	border-radius: 2px;
+	margin-left: 10px;
+	margin-right: 10px;
 }
 
 .single6chap {
@@ -207,7 +212,8 @@ header {
 .single6chap p{
 	padding: 10px;
 	border: solid black;
-	border-radius: 2px;
+	margin-left: 10px;
+	margin-right: 10px;
 }
 
 .row3chap {
@@ -228,7 +234,8 @@ header {
 .single7chap p{
 	padding: 10px;
 	border: solid black;
-	border-radius: 2px;
+	margin-left: 10px;
+	margin-right: 10px;
 }
 
 footer {
