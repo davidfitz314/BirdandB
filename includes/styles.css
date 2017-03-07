@@ -100,6 +100,66 @@ header {
 	background-color: purple;
 }
 
+.HPchap {
+	display:table;
+	border: 2px dashed black;
+}
+
+.single1chap {
+	display: table-row, table-cell;
+	border: 1px dashed black;
+	width: 10%;
+	height: 10%;
+	padding: 5px, 5px, 5px, 5px;
+}
+
+.single2chap {
+	display: table-cell;
+	border: 1px dashed black;
+	width: 10%;
+	height: 10%;
+	padding: 5px, 5px, 5px, 5px;
+}
+
+.single3chap {
+	display: table-cell;
+	border: 1px dashed black;
+	width: 10%;
+	height: 10%;
+	padding: 5px, 5px, 5px, 5px;
+}
+
+.single4chap {
+	display: table-row, table-cell;
+	border: 1px dashed black;
+	width: 10%;
+	height: 10%;
+	padding: 5px, 5px, 5px, 5px;
+}
+
+.single5chap {
+	display: table-cell;
+	border: 1px dashed black;
+	width: 10%;
+	height: 10%;
+	padding: 5px, 5px, 5px, 5px;
+}
+
+.single6chap {
+	display: table-cell;
+	border: 1px dashed black;
+	width: 10%;
+	height: 10%;
+	padding: 5px, 5px, 5px, 5px;
+}
+
+.single7chap {
+	display: table-row, table-cell;
+	border: 1px dashed black;
+	width: 10%;
+	height: 10%;
+	padding: 5px, 5px, 5px, 5px;
+}
 
 footer {
 	padding: 100px;
