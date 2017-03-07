@@ -103,6 +103,8 @@ header {
 .HPchap {
 	display:table;
 	border: 2px dashed black;
+	width: 100%;
+	height: 15%;
 }
 
 .single1chap {

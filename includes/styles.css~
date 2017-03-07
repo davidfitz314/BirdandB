@@ -106,7 +106,7 @@ header {
 }
 
 .single1chap {
-	display: table-cell;
+	display: table-row, table-cell;
 	border: 1px dashed black;
 	width: 10%;
 	height: 10%;
@@ -130,7 +130,7 @@ header {
 }
 
 .single4chap {
-	display: table-cell;
+	display: table-row, table-cell;
 	border: 1px dashed black;
 	width: 10%;
 	height: 10%;
@@ -154,7 +154,7 @@ header {
 }
 
 .single7chap {
-	display: table-cell;
+	display: table-row, table-cell;
 	border: 1px dashed black;
 	width: 10%;
 	height: 10%;
