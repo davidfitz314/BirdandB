@@ -111,7 +111,7 @@ header {
 .row1chap {
 	display: table-row;
 	
-	margin: 20px;
+	margin: 5%;
 }
 
 .single1chap {
