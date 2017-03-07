@@ -109,7 +109,7 @@ header {
 
 .row1chap {
 	display: table-row;
-	width: 100%;
+	width: 90%;
 	margin: 15px;
 }
 
@@ -176,6 +176,7 @@ header {
 .row3chap {
 	display: table-row;
 	width: 100%;
+	margin: 15px;
 }
 
 .single7chap {
