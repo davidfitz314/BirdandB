@@ -149,6 +149,7 @@ header {
 	display: table-row;
 	width: 90%;
 	margin: 15px;
+	padding: 10px;
 }
 
 .single4chap {
@@ -185,6 +186,7 @@ header {
 	display: table-row;
 	width: 90%;
 	margin: 15px;
+	padding: 10px;
 }
 
 .single7chap {
