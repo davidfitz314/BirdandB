@@ -104,13 +104,15 @@ header {
 	display:table;
 	border: 2px dashed black;
 	width: 100%;
-	height: 350px;;
+	height: 350px;
+	padding: 10px;
 }
 
 .row1chap {
 	display: table-row;
 	width: 90%;
 	margin: 15px;
+	padding: 10px;
 }
 
 .single1chap {
