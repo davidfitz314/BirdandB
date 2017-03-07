@@ -111,12 +111,11 @@ header {
 .row1chap {
 	display: table-row;
 	width: 90%;
-	margin: 15px;
-	padding: 10px;
+	margin: 20px;
 }
 
 .single1chap {
-	display: table-cell;
+	
 	border: 1px dashed black;
 	width: 10%;
 	height: 75px;
@@ -124,7 +123,7 @@ header {
 }
 
 .single2chap {
-	display: table-cell;
+	
 	border: 1px dashed black;
 	width: 10%;
 	height: 75px;
@@ -132,7 +131,7 @@ header {
 }
 
 .single3chap {
-	display: table-cell;
+	
 	border: 1px dashed black;
 	width: 10%;
 	height: 75px;
@@ -142,12 +141,11 @@ header {
 .row2chap {
 	display: table-row;
 	width: 90%;
-	margin: 15px;
-	padding: 10px;
+	margin: 20px;
 }
 
 .single4chap {
-	display: table-cell;
+	
 	border: 1px dashed black;
 	width: 10%;
 	height: 75px;
@@ -155,7 +153,7 @@ header {
 }
 
 .single5chap {
-	display: table-cell;
+	
 	border: 1px dashed black;
 	width: 10%;
 	height: 75px;
@@ -163,7 +161,7 @@ header {
 }
 
 .single6chap {
-	display: table-cell;
+	
 	border: 1px dashed black;
 	width: 10%;
 	height: 75px;
@@ -173,12 +171,11 @@ header {
 .row3chap {
 	display: table-row;
 	width: 90%;
-	margin: 15px;
-	padding: 10px;
+	margin: 20px;
 }
 
 .single7chap {
-	display: table-cell;
+	
 	border: 1px dashed black;
 	width: 10%;
 	height: 75px;
