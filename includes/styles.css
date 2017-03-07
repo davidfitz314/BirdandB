@@ -104,7 +104,8 @@ header {
 	display:table;
 	border: 2px dashed black;
 	width: 100%;
-	height: 350px;;
+	height: 350px;
+	padding: 10px;
 }
 
 .row1chap {
