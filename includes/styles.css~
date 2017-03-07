@@ -108,11 +108,12 @@ header {
 }
 
 .single1chap {
-	display: table-row;
+	display: table-cell;
 	border: 1px dashed black;
 	width: 10%;
 	height: 10%;
-	padding: 5px, 5px, 5px, 5px;
+	margin: 5px, 5px, 5px, 5px;
+	background-color: yellow;
 }
 
 .single2chap {
@@ -120,7 +121,8 @@ header {
 	border: 1px dashed black;
 	width: 10%;
 	height: 10%;
-	padding: 5px, 5px, 5px, 5px;
+	margin: 5px, 5px, 5px, 5px;
+	background-color: blue;
 }
 
 .single3chap {
@@ -128,15 +130,17 @@ header {
 	border: 1px dashed black;
 	width: 10%;
 	height: 10%;
-	padding: 5px, 5px, 5px, 5px;
+	margin: 5px, 5px, 5px, 5px;
+	background-color: red;
 }
 
 .single4chap {
-	display: table-row;
+	display: table-cell;
 	border: 1px dashed black;
 	width: 10%;
 	height: 10%;
-	padding: 5px, 5px, 5px, 5px;
+	margin: 5px, 5px, 5px, 5px;
+	background-color: yellow;
 }
 
 .single5chap {
@@ -144,7 +148,8 @@ header {
 	border: 1px dashed black;
 	width: 10%;
 	height: 10%;
-	padding: 5px, 5px, 5px, 5px;
+	margin: 5px, 5px, 5px, 5px;
+	background-color: blue;
 }
 
 .single6chap {
@@ -152,15 +157,17 @@ header {
 	border: 1px dashed black;
 	width: 10%;
 	height: 10%;
-	padding: 5px, 5px, 5px, 5px;
+	margin: 5px, 5px, 5px, 5px;
+	background-color: red;
 }
 
 .single7chap {
-	display: table-row;
+	display: table-cell;
 	border: 1px dashed black;
 	width: 10%;
 	height: 10%;
-	padding: 5px, 5px, 5px, 5px;
+	margin: 5px, 5px, 5px, 5px;
+	background-color: yellow;
 }
 
 footer {

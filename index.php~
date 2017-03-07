@@ -34,6 +34,23 @@
 </div>
 <!- end CallsToAction div ->
 
+<!- HomePageChapterDiv ->
+<div class="HPchap">
+	<div class="single1chap">
+	</div>
+	<div class="single2chap">
+	</div>
+	<div class="single3chap">
+	</div>
+	<div class="single4chap">
+	</div>
+	<div class="single5chap">
+	</div>
+	<div class="single6chap">
+	</div>
+	<div class="single7chap">
+	</div>
+</div>
 <!- Footer section ->
 <?php include 'includes/footer.php'; ?>
 
