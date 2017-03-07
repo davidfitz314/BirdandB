@@ -117,7 +117,7 @@ header {
 .single1chap {
 	display: table-cell;
 	border: 1px dashed black;
-	width: 10%;
+	/*width: 10%;*/
 	height: 75px;
 	/*background-color: yellow;*/
 	text-align: center;
@@ -133,7 +133,7 @@ header {
 .single2chap {
 	display: table-cell;
 	border: 1px dashed black;
-	width: 10%;
+	/*width: 10%;*/
 	height: 75px;
 	/*background-color: blue;*/
 	text-align: center;
@@ -149,7 +149,7 @@ header {
 .single3chap {
 	display: table-cell;
 	border: 1px dashed black;
-	width: 10%;
+	/*width: 10%;*/
 	height: 75px;
 	/*background-color: red;*/
 	text-align: center;
@@ -171,7 +171,7 @@ header {
 .single4chap {
 	display: table-cell;
 	border: 1px dashed black;
-	width: 10%;
+	/*width: 10%;*/
 	height: 75px;
 	/*background-color: yellow;*/
 	text-align: center;
@@ -187,7 +187,7 @@ header {
 .single5chap {
 	display: table-cell;
 	border: 1px dashed black;
-	width: 10%;
+	/*width: 10%;*/
 	height: 75px;
 	/*background-color: blue;*/
 	text-align: center;
@@ -203,7 +203,7 @@ header {
 .single6chap {
 	display: table-cell;
 	border: 1px dashed black;
-	width: 10%;
+	/*width: 10%;*/
 	height: 75px;
 	/*background-color: red;*/
 	text-align: center;
@@ -225,7 +225,7 @@ header {
 .single7chap {
 	display: table-cell;
 	border: 1px dashed black;
-	width: 10%;
+	/*width: 10%;*/
 	height: 75px;
 	/*background-color: yellow;*/
 	text-align: center;
