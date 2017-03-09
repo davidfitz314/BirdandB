@@ -216,12 +216,6 @@ header {
 	margin-right: 10px;
 }
 
-.row3chap {
-	display: table-row;
-	
-	margin: 7%;
-}
-
 .single7chap {
 	display: table-cell;
 	/*border: 1px dashed black;*/
@@ -238,11 +232,25 @@ header {
 	margin-right: 10px;
 }
 
+.single8chap {
+	display: table-cell;
+	/*border: 1px dashed black;*/
+	/*width: 10%;*/
+	height: 75px;
+	/*background-color: yellow;*/
+	text-align: center;
+}
+
 .single8chap p{
 	padding: 10px;
 	border: solid black;
 	margin-left: 10px;
 	margin-right: 10px;
+}
+
+.row3chap {
+	display: table-row;
+	margin: 7%;
 }
 
 footer {
