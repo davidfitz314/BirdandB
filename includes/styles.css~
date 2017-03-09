@@ -269,94 +269,18 @@ header {
 	margin-right: 10px;
 }
 
-.single10chap {
-	display: table-cell;
-	/*border: 1px dashed black;*/
-	/*width: 10%;*/
-	height: 75px;
-	/*background-color: red;*/
-	text-align: center;
-}
-
-.single10chap p{
-	padding: 10px;
-	border: solid black;
-	margin-left: 10px;
-	margin-right: 10px;
-}
-
-.single11chap {
-	display: table-cell;
-	/*border: 1px dashed black;*/
-	/*width: 10%;*/
-	height: 75px;
-	/*background-color: yellow;*/
-	text-align: center;
-}
-
-.single11chap p{
-	padding: 10px;
-	border: solid black;
-	margin-left: 10px;
-	margin-right: 10px;
-}
-
-.single12chap {
-	display: table-cell;
-	/*border: 1px dashed black;*/
-	/*width: 10%;*/
-	height: 75px;
-	/*background-color: yellow;*/
-	text-align: center;
-}
-
-.single12chap p{
-	padding: 10px;
-	border: solid black;
-	margin-left: 10px;
-	margin-right: 10px;
-}
-
 .row4chap {
 	display: table-row;
 	margin: 7%;
 }
 
-/*
-.single13chap {
-	display: table-cell;
-	height: 75px;
-	text-align: center;
-}*/
-
-.single13chap p{
-	padding: 10px;
-	border: solid black;
-	margin-left: 10px;
-	margin-right: 10px;
-}
-
-/*
-.single14chap {
-	display: table-cell;
-	height: 75px;
-	text-align: center;
-}*/
-
-.single14chap p{
-	padding: 10px;
-	border: solid black;
-	margin-left: 10px;
-	margin-right: 10px;
-}
-
-.single15chap, .single14chap, .single13chap {
+.single1chap, .single2chap, .single3chap, .single4chap, .single5chap, .single6chap, .single7chap, .single8chap, .single9chap, .single10chap, .single11chap, .single12chap, .single13chap, .single14chap, .single15chap {
 	display: table-cell;
 	height: 75px;
 	text-align: center;
 }
 
-.single15chap p, .single14chap p, .single13chap p{
+.single1chap p, .single2chap p, .single3chap p, .single4chap p, .single5chap p, .single6chap p, .single7chap p, .single8chap p, .single9chap p, .single10chap p, .single11chap p, .single12chap p, .single13chap p, .single14chap p, .single15chap p{
 	padding: 10px;
 	border: solid black;
 	margin-left: 10px;
