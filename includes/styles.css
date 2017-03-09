@@ -317,6 +317,59 @@ header {
 	margin-right: 10px;
 }
 
+.row4chap {
+	display: table-row;
+	margin: 7%;
+}
+
+.single13chap {
+	display: table-cell;
+	/*border: 1px dashed black;*/
+	/*width: 10%;*/
+	height: 75px;
+	/*background-color: blue;*/
+	text-align: center;
+}
+
+.single13chap p{
+	padding: 10px;
+	border: solid black;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.single14chap {
+	display: table-cell;
+	/*border: 1px dashed black;*/
+	/*width: 10%;*/
+	height: 75px;
+	/*background-color: red;*/
+	text-align: center;
+}
+
+.single14chap p{
+	padding: 10px;
+	border: solid black;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.single15chap {
+	display: table-cell;
+	/*border: 1px dashed black;*/
+	/*width: 10%;*/
+	height: 75px;
+	/*background-color: yellow;*/
+	text-align: center;
+}
+
+.single15chap p{
+	padding: 10px;
+	border: solid black;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
 footer {
 	padding: 100px;
 	border: 3px dashed black;

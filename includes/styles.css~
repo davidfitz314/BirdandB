@@ -253,6 +253,70 @@ header {
 	margin: 7%;
 }
 
+.single9chap {
+	display: table-cell;
+	/*border: 1px dashed black;*/
+	/*width: 10%;*/
+	height: 75px;
+	/*background-color: blue;*/
+	text-align: center;
+}
+
+.single9chap p{
+	padding: 10px;
+	border: solid black;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.single10chap {
+	display: table-cell;
+	/*border: 1px dashed black;*/
+	/*width: 10%;*/
+	height: 75px;
+	/*background-color: red;*/
+	text-align: center;
+}
+
+.single10chap p{
+	padding: 10px;
+	border: solid black;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.single11chap {
+	display: table-cell;
+	/*border: 1px dashed black;*/
+	/*width: 10%;*/
+	height: 75px;
+	/*background-color: yellow;*/
+	text-align: center;
+}
+
+.single11chap p{
+	padding: 10px;
+	border: solid black;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.single12chap {
+	display: table-cell;
+	/*border: 1px dashed black;*/
+	/*width: 10%;*/
+	height: 75px;
+	/*background-color: yellow;*/
+	text-align: center;
+}
+
+.single12chap p{
+	padding: 10px;
+	border: solid black;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
 footer {
 	padding: 100px;
 	border: 3px dashed black;

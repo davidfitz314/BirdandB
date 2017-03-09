@@ -65,6 +65,18 @@
 		</div>
 	</div>
 	<div class = "row3chap">
+		<div class="single9chap">
+		<p><strong>Chapter 9</strong></p>
+		</div>
+		<div class="single10chap">
+		<p><strong>Chapter 10</strong></p>
+		</div>
+		<div class="single11chap">
+		<p><strong>Chapter 11</strong></p>
+		</div>
+		<div class="single12chap">
+		<p><strong>Chapter 12</strong></p>
+		</div>
 	</div>
 </div>
 <!- Footer section ->
