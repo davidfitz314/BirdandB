@@ -38,23 +38,31 @@
 <div class="HPchap">
 	<div class = "row1chap">
 		<div class="single1chap">
+		<p><strong>Chapter 1</strong></p>
 		</div>
 		<div class="single2chap">
+		<p><strong>Chapter 2</strong></p>
 		</div>
 		<div class="single3chap">
+		<p><strong>Chapter 3</strong></p>
+		</div>
+		<div class="single4chap">
+		<p><strong>Chapter 4</strong></p>
 		</div>
 	</div>
 	<div class = "row2chap">
-		<div class="single4chap">
-		</div>
 		<div class="single5chap">
+		<p><strong>Chapter 5</strong></p>
 		</div>
 		<div class="single6chap">
+		<p><strong>Chapter 6</strong></p>
+		</div>
+		<div class="single7chap">
+		<p><strong>Chapter 7</strong></p>
 		</div>
 	</div>
+	</div>
 	<div class = "row3chap">
-		<div class="single7chap">
-		</div>
 	</div>
 </div>
 <!- Footer section ->

@@ -238,6 +238,13 @@ header {
 	margin-right: 10px;
 }
 
+.single8chap p{
+	padding: 10px;
+	border: solid black;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
 footer {
 	padding: 100px;
 	border: 3px dashed black;
