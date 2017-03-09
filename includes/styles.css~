@@ -322,14 +322,12 @@ header {
 	margin: 7%;
 }
 
+/*
 .single13chap {
 	display: table-cell;
-	/*border: 1px dashed black;*/
-	/*width: 10%;*/
 	height: 75px;
-	/*background-color: blue;*/
 	text-align: center;
-}
+}*/
 
 .single13chap p{
 	padding: 10px;
@@ -338,14 +336,12 @@ header {
 	margin-right: 10px;
 }
 
+/*
 .single14chap {
 	display: table-cell;
-	/*border: 1px dashed black;*/
-	/*width: 10%;*/
 	height: 75px;
-	/*background-color: red;*/
 	text-align: center;
-}
+}*/
 
 .single14chap p{
 	padding: 10px;
@@ -354,16 +350,13 @@ header {
 	margin-right: 10px;
 }
 
-.single15chap {
+.single15chap, .single14chap, .single13chap {
 	display: table-cell;
-	/*border: 1px dashed black;*/
-	/*width: 10%;*/
 	height: 75px;
-	/*background-color: yellow;*/
 	text-align: center;
 }
 
-.single15chap p{
+.single15chap p, .single14chap p, .single13chap p{
 	padding: 10px;
 	border: solid black;
 	margin-left: 10px;

@@ -327,21 +327,21 @@ header {
 	display: table-cell;
 	height: 75px;
 	text-align: center;
-}*/
+}
 
 .single13chap p{
 	padding: 10px;
 	border: solid black;
 	margin-left: 10px;
 	margin-right: 10px;
-}
+}*/
 
 /*
 .single14chap {
 	display: table-cell;
 	height: 75px;
 	text-align: center;
-}*/
+}
 
 .single14chap p{
 	padding: 10px;
@@ -349,14 +349,14 @@ header {
 	margin-left: 10px;
 	margin-right: 10px;
 }
-
-.single15chap .single14chap .single13chap {
+*/
+.single15chap, .single14chap, .single13chap {
 	display: table-cell;
 	height: 75px;
 	text-align: center;
 }
 
-.single15chap p{
+.single15chap p, .single14chap p, .single13chap p{
 	padding: 10px;
 	border: solid black;
 	margin-left: 10px;
