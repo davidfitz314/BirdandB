@@ -78,6 +78,17 @@
 		<p><strong>Chapter 12</strong></p>
 		</div>
 	</div>
+	<div class = "row4chap">
+		<div class="single13chap">
+		<p><strong>Chapter 13</strong></p>
+		</div>
+		<div class="single14chap">
+		<p><strong>Chapter 14</strong></p>
+		</div>
+		<div class="single15chap">
+		<p><strong>Chapter 15</strong></p>
+		</div>
+	</div>
 </div>
 <!- Footer section ->
 <?php include 'includes/footer.php'; ?>

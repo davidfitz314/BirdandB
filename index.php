@@ -40,53 +40,53 @@
 		<div class="single1chap">
 		<p><strong>Chapter 1</strong></p>
 		</div>
-		<div class="single2chap">
-		<p><strong>Chapter 2</strong></p>
-		</div>
-		<div class="single3chap">
-		<p><strong>Chapter 3</strong></p>
-		</div>
-		<div class="single4chap">
-		<p><strong>Chapter 4</strong></p>
-		</div>
-	</div>
-	<div class = "row2chap">
 		<div class="single5chap">
 		<p><strong>Chapter 5</strong></p>
 		</div>
-		<div class="single6chap">
-		<p><strong>Chapter 6</strong></p>
-		</div>
-		<div class="single7chap">
-		<p><strong>Chapter 7</strong></p>
-		</div>
-		<div class="single8chap">
-		<p><strong>Chapter 7</strong></p>
-		</div>
-	</div>
-	<div class = "row3chap">
 		<div class="single9chap">
 		<p><strong>Chapter 9</strong></p>
 		</div>
 		<div class="single10chap">
-		<p><strong>Chapter 10</strong></p>
-		</div>
-		<div class="single11chap">
-		<p><strong>Chapter 11</strong></p>
-		</div>
-		<div class="single12chap">
-		<p><strong>Chapter 12</strong></p>
+		<p><strong>Chapter 13</strong></p>
 		</div>
 	</div>
-	<div class = "row4chap">
-		<div class="single13chap">
-		<p><strong>Chapter 13</strong></p>
+	<div class = "row2chap">
+		<div class="single2chap">
+		<p><strong>Chapter 2</strong></p>
+		</div>
+		<div class="single6chap">
+		<p><strong>Chapter 6</strong></p>
+		</div>
+		<div class="single10chap">
+		<p><strong>Chapter 10</strong></p>
 		</div>
 		<div class="single14chap">
 		<p><strong>Chapter 14</strong></p>
 		</div>
+	</div>
+	<div class = "row3chap">
+		<div class="single3chap">
+		<p><strong>Chapter 3</strong></p>
+		</div>
+		<div class="single7chap">
+		<p><strong>Chapter 7</strong></p>
+		</div>
+		<div class="single11chap">
+		<p><strong>Chapter 11</strong></p>
+		</div>
 		<div class="single15chap">
 		<p><strong>Chapter 15</strong></p>
+		</div>
+	</div>
+	<div class = "row4chap">
+		<div class="single4chap">
+		<p><strong>Chapter 4</strong></p>
+		</div>
+		<div class="single8chap">
+		<p><strong>Chapter 8</strong></p>
+		</div>
+		<div class="single12chap">
+		<p><strong>Chapter 12</strong></p>
 		</div>
 	</div>
 </div>
