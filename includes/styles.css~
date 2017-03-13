@@ -81,7 +81,7 @@ header {
 	background-image: url("images/comingSoon.png");
 	border: 1px dashed black;
 	width: 66%;
-	height: 200px;
+	height: 300px;
 }
 
 .CTA1 p {
