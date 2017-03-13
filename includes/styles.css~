@@ -55,6 +55,7 @@ header {
 	display: table-cell;
 	/*background-color: blue;*/
 	padding-top: 5%;
+	padding-bottom: 40%;
 	border: none;
 	width: 33%;
 	color: black;
@@ -79,9 +80,7 @@ header {
 .CTA2 {
 	display: table-cell;
 	background-color: #C1B9B9;
-	width: 60%;
-	margin-left: 6%;
-	padding-left: 10%
+	width: 66%;
 	text-align: center;
 }
 

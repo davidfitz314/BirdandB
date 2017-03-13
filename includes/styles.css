@@ -48,13 +48,13 @@ header {
 .CallsToAction {
 	display: table;
 	width: 100%;
-	height: 40%;
 }
 
 .CTA1 {
 	display: table-cell;
 	/*background-color: blue;*/
 	padding-top: 5%;
+	padding-bottom: 40%;
 	border: none;
 	width: 33%;
 	color: black;
