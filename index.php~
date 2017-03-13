@@ -37,9 +37,11 @@
 <!- HomePageChapterDiv ->
 <div class="HPchap">
 	<div class = "row1chap">
+		<a href="chapter2.php">
 		<div class="single1chap">
 		<p><strong>Chapter 1</strong></p>
 		</div>
+		</a>
 		<div class="single5chap">
 		<p><strong>Chapter 5</strong></p>
 		</div>
