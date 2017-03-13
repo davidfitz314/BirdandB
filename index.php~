@@ -20,12 +20,12 @@
 
 <!- first set of calls to action ->
 <div class="CallsToAction">
-
-	<div class="CTA1"><a href="<?= "index.php" ?>">
-	 
+	
+	<a href="<?= "index.php" ?> ">
+	<div class="CTA1">
 	
 	<p><strong><?php pickRandom(); ?></strong><p>
-	</a></div>
+	</div></a>
 	<!- end CTA1 div ->
 
 	<div class="CTA2"><p>
