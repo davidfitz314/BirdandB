@@ -74,6 +74,10 @@ header {
 	text-decoration: none;
 	color: black;
 }
+.CTA hover {
+	background-image: url("images/lightON.png");
+	background-size: 100% 100%;
+}
 
 .CTA1 a:hover {
 	background-image: url("images/lightON.png");
