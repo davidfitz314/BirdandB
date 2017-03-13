@@ -83,7 +83,7 @@ header {
     background-repeat: no-repeat;
 	border: 1px dashed black;
 	width: 66%;
-	height: 20%
+	height: 30%
 	text-align: center;
 }
 
