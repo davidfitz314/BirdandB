@@ -26,7 +26,7 @@
 		<!- BirdandB.com logo goes here -> 
 	</h1> 
 </header>
-</div>
+</div><!- end logo div ->
 
 
 

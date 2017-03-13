@@ -52,7 +52,7 @@ header {
 }
 
 .CTA1 {
-	display: table-column;
+	display: table-cell;
 	/*background-color: blue;*/
 	border: none;
 	width: 33%;
@@ -77,7 +77,7 @@ header {
 }
 
 .CTA2 {
-	display: table-column;
+	display: table-cell;
 	background-color: #C1B9B9;
 	width: 66%;
 	height: 250px;
@@ -129,4 +129,22 @@ header {
 footer {
 	padding: 100px;
 	border: 3px dashed black;
+}
+
+/* chapter 2 section */
+.floating-menu {
+font-family: sans-serif;
+background: yellowgreen;
+padding: 5px;;
+width: 130px;
+z-index: 100;
+position: fixed;
+}
+
+.floating-menu a, 
+.floating-menu h3 {
+font-size: 0.9em;
+display: block;
+margin: 0 0.5em;
+color: white;
 }

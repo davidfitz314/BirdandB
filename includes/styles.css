@@ -21,7 +21,7 @@ header {
     text-align: center;
 }
 
-.nav ul {
+.navi ul {
 	text-align: justify;
 	margin: auto;
 	width: 80%;
@@ -29,7 +29,7 @@ header {
 	padding: 10px;
 }
 
-.nav li {
+.navi li {
 	display: inline;
 }
 
@@ -129,4 +129,22 @@ header {
 footer {
 	padding: 100px;
 	border: 3px dashed black;
+}
+
+/* chapter 2 section */
+.floating-menu {
+font-family: sans-serif;
+background: yellowgreen;
+padding: 5px;;
+width: 130px;
+z-index: 100;
+position: fixed;
+}
+
+.floating-menu a, 
+.floating-menu h3 {
+font-size: 0.9em;
+display: block;
+margin: 0 0.5em;
+color: white;
 }
