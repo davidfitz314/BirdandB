@@ -20,6 +20,7 @@
 </ul>
 </div>
 <div class="centered-wrapper">
+
 <div class="Logo">
 <header> 
 	<h1> 

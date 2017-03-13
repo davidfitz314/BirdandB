@@ -154,3 +154,8 @@ color: white;
 .expandtest {
 	height: 900px;
 }
+
+.chapterLogo img{
+	width: 80%;
+	height: 500px;
+}
