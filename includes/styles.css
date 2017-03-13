@@ -54,10 +54,9 @@ header {
 .CTA1 {
 	display: table-cell;
 	/*background-color: blue;*/
-	margin-bottom: 40%;
 	border: none;
 	width: 33%;
-	height: 275px;
+	height: 250px;
 	color: black;
 }
 
@@ -81,14 +80,13 @@ header {
 	display: table-cell;
 	background-color: #C1B9B9;
 	width: 66%;
-	height: 275px;
+	height: 250px;
 	text-align: center;
 }
 
 .CTA1 p {
 	padding-left: 25px;
 	padding-right: 25px;
-	padding-bottom: 40%;
 }
 
 
