@@ -80,6 +80,7 @@ header {
 	display: table-cell;
 	background-color: #C1B9B9;
 	width: 66%;
+	height: 275px;
 	text-align: center;
 }
 
