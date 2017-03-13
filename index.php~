@@ -20,12 +20,13 @@
 
 <!- first set of calls to action ->
 <div class="CallsToAction">
-	
-	<a href="<?= "index.php" ?> ">
-	<div class="CTA1">
-	
+
+	<div class="CTA1"><a href="<?= "index.php" ?>">
+	<script>
+	<img src='includes/images/lightOFF.png' width='125px' onmouseover="this.src='includes/images/lightOFF.png';" onmouseout="this.src='includes/images/lightON.png';" />
+	</script>
 	<p><strong><?php pickRandom(); ?></strong><p>
-	</div></a>
+	</a></div>
 	<!- end CTA1 div ->
 
 	<div class="CTA2"><p>

@@ -56,8 +56,6 @@ header {
 
 .CTA1 {
 	display: table-cell;
-	background-image: url("images/lightOFF.png");
-	background-size: 100% 100%;
 	/*background-color: blue;*/
 	border: none;
 	width: 33%;
@@ -74,14 +72,8 @@ header {
 	text-decoration: none;
 	color: black;
 }
-.CTA hover {
-	background-image: url("images/lightON.png");
-	background-size: 100% 100%;
-}
 
 .CTA1 a:hover {
-	background-image: url("images/lightON.png");
-	background-size: 100% 100%;
 	text-decoration: underline;
 	color: black;
 }
