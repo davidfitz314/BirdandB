@@ -81,8 +81,10 @@ header {
 	background-image: url("images/comingSoon.png");
 	background-size: contain;
     background-repeat: no-repeat;
-	border: 1px dashed black;
-	width: 66%;
+	
+	width: 60%;
+	margin-left: 6%;
+	padding-left: 10%
 	height: 300px;
 	text-align: center;
 }
