@@ -78,9 +78,6 @@ header {
 
 .CTA2 {
 	display: table-cell;
-	background-image: url("images/comingSoon.png");
-	background-size: contain;
-    background-repeat: no-repeat;
 	background-color: #C1B9B9;
 	width: 60%;
 	margin-left: 6%;
