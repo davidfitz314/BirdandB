@@ -22,7 +22,9 @@
 <div class="CallsToAction">
 
 	<div class="CTA1"><a href="<?= "index.php" ?>">
-	<img src="includes/images/lightBulb.png" alt="Bee light bulb" style="width:125px;">
+	<!- 
+	<img src="includes/images/lightBulb.png" alt="Bee light bulb" style="width:125px;"> 
+	->
 	<p><strong><?php pickRandom(); ?></strong><p>
 	</a></div>
 	<!- end CTA1 div ->
@@ -53,11 +55,13 @@
 		</div>
 	</div>
 	<div class = "row2chap">
-		<a href="chapter2.php">
 		<div class="single2chap">
+
+		<a href="chapter2.php">
 		<p><strong>Chapter 2</strong></p>
+		</a>		
 		</div>
-		</a>
+		
 		<div class="single6chap">
 		<p><strong>Chapter 6</strong></p>
 		</div>

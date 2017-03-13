@@ -22,7 +22,8 @@
 <div class="CallsToAction">
 
 	<div class="CTA1"><a href="<?= "index.php" ?>">
-	<img src="includes/images/lightBulb.png" alt="Bee light bulb" style="width:125px;">
+	 
+	
 	<p><strong><?php pickRandom(); ?></strong><p>
 	</a></div>
 	<!- end CTA1 div ->
