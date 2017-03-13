@@ -83,7 +83,7 @@ header {
     background-repeat: no-repeat;
 	border: 1px dashed black;
 	width: 66%;
-	height: 300px;
+	text-align: center;
 }
 
 .CTA1 p {
