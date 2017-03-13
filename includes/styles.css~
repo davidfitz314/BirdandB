@@ -21,7 +21,7 @@ header {
     text-align: center;
 }
 
-.nav ul {
+.navi ul {
 	text-align: justify;
 	margin: auto;
 	width: 80%;
@@ -29,7 +29,7 @@ header {
 	padding: 10px;
 }
 
-.nav li {
+.navi li {
 	display: inline;
 }
 
@@ -131,7 +131,7 @@ footer {
 	border: 3px dashed black;
 }
 
-/* chapter 2 section */
+/* chapter 2 test section */
 .floating-menu {
 font-family: sans-serif;
 background: yellowgreen;

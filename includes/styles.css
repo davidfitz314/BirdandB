@@ -131,7 +131,7 @@ footer {
 	border: 3px dashed black;
 }
 
-/* chapter 2 section */
+/* chapter 2 test section */
 .floating-menu {
 font-family: sans-serif;
 background: yellowgreen;
@@ -147,4 +147,8 @@ font-size: 0.9em;
 display: block;
 margin: 0 0.5em;
 color: white;
+}
+
+.expandtest {
+	height: 900px;
 }

@@ -13,3 +13,14 @@
 </nav>
 <br>
 <strong><p>Under construction</p></strong>
+<div class="expandtest">
+</div>
+
+</div>
+<!- Footer section ->
+<?php include 'includes/footer.php'; ?>
+
+</div>
+<!- end centered-wrapper div ->
+</body>
+</html>
