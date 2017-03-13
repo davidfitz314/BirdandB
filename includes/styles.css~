@@ -54,7 +54,6 @@ header {
 .CTA1 {
 	display: table-cell;
 	/*background-color: blue;*/
-	padding-bottom: 40%;
 	border: none;
 	width: 33%;
 	height: 275px;
