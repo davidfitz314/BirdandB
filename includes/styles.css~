@@ -77,7 +77,6 @@ header {
 .CTA1 a:hover {
 	background-image: url("images/lightON.png");
 	background-size: contain;
-	background-color: blue;
 	text-decoration: underline;
 	color: black;
 }
