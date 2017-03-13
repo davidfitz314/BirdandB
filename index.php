@@ -53,11 +53,13 @@
 		</div>
 	</div>
 	<div class = "row2chap">
-		<a href="chapter2.php">
 		<div class="single2chap">
+
+		<a href="chapter2.php">
 		<p><strong>Chapter 2</strong></p>
+		</a>		
 		</div>
-		</a>
+		
 		<div class="single6chap">
 		<p><strong>Chapter 6</strong></p>
 		</div>

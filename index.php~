@@ -37,11 +37,11 @@
 <!- HomePageChapterDiv ->
 <div class="HPchap">
 	<div class = "row1chap">
-		<a href="chapter2.php">
+		
 		<div class="single1chap">
 		<p><strong>Chapter 1</strong></p>
 		</div>
-		</a>
+
 		<div class="single5chap">
 		<p><strong>Chapter 5</strong></p>
 		</div>
@@ -53,9 +53,11 @@
 		</div>
 	</div>
 	<div class = "row2chap">
+		<a href="chapter2.php">
 		<div class="single2chap">
 		<p><strong>Chapter 2</strong></p>
 		</div>
+		</a>
 		<div class="single6chap">
 		<p><strong>Chapter 6</strong></p>
 		</div>
