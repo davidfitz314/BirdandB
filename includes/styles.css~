@@ -52,7 +52,7 @@ header {
 }
 
 .CTA1 {
-	display: table-cell;
+	display: table-caption;
 	/*background-color: blue;*/
 	border: none;
 	width: 33%;
