@@ -46,8 +46,9 @@ header {
 
 .cLogo {
 	display: table-cell;
-	height: 100px;
-	width: 100px;
+	background-image: url("images/logo.png");
+	height: 150px;
+	width: 150px;
 	text-align: left;
 }
 
@@ -161,7 +162,7 @@ footer {
 font-family: sans-serif;
 background: white;
 border: solid black;
-padding: 5px;;
+padding: 5px;
 width: 130px;
 z-index: 100;
 position: fixed;

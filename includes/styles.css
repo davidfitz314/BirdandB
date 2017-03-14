@@ -46,8 +46,10 @@ header {
 
 .cLogo {
 	display: table-cell;
-	height: 100px;
-	width: 100px;
+	background-image: url("images/logo.png");
+	background-repeat: no-repeat;
+	height: 150px;
+	width: 150px;
 	text-align: left;
 }
 
