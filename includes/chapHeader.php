@@ -15,11 +15,7 @@
 
 <div class="cNavi">
 	<div class="cLogo">
-	<header> 
-		<h1> 
-			<!- BirdandB.com logo goes here -> 
-		</h1> 
-	
+		<img href="images/Blogo.png" alt="birdandb.com logo"> 
 	</div><!- end logo div ->
 	<div class="cHeadCells">
 	  <a href="index.php">Home</a></li>
@@ -27,7 +23,6 @@
 	<div class="searchBarC">
 	  <a href="index.php">Search</a></li>
 	</div>
-	</header>
 </div>
 <div class="centered-wrapper">
 
