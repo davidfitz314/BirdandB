@@ -1,5 +1,5 @@
 <!- continued from header centered-wrapper div ->
-<?php include 'includes/headb.php'; ?>
+<?php include 'includes/chapHeader.php'; ?>
 
 <!- begin chapter 2 ->
 

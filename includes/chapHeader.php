@@ -16,7 +16,7 @@
 <div class="navi">
 <ul>
   <li>
-	<div class="Logo">
+	<div class="cLogo">
 	<header> 
 		<h1> 
 			<!- BirdandB.com logo goes here -> 

@@ -37,6 +37,10 @@ header {
 	height: 200px;
 }
 
+.cLogo {
+	height: 200px;
+}
+
 .CompanyDescription {
 	height: 200px;
 	border: 3px dashed black;
@@ -149,7 +153,7 @@ position: fixed;
 font-size: 0.9em;
 display: block;
 margin: 0 0.5em;
-color: white;
+color: black;
 }
 
 .expandtest {
