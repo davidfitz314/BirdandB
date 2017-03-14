@@ -136,7 +136,8 @@ footer {
 /* chapter 2 test section */
 .floating-menu {
 font-family: sans-serif;
-background: yellowgreen;
+background: white;
+border: solid black;
 padding: 5px;;
 width: 130px;
 z-index: 100;
