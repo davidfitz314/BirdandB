@@ -1,31 +1,31 @@
 <!- continued from header centered-wrapper div ->
 <?php include 'includes/chapHeader.php'; ?>
 
-<!- begin chapter 2 ->
+<!- begin chapter 5 ->
 
 <!- navigation side bar ->
 <nav class="floating-menu">
-<h1>Chapter 4: Default </h1>
+<h1>Chapter 5: Default </h1>
 <strong><a href="chapter1.php">ch1 underConstruction</a></strong>
 <strong><a href="chapter2.php">ch2: Conception</a></strong>
 <strong><a href="chapter3.php">ch3 underConstruction</a></strong>
+<strong><a href="chapter4.php">ch4 underConstruction</a></strong>
 <ul>
-<strong>Chapter 4</strong>
+<strong>Chapter 5</strong>
 <li>
-<a href="chapter4.php">default</a>
+<a href="chapter5.php">default</a>
 </li>
 <li>
-<a href="chapter4.php">default</a>
+<a href="chapter5.php">default</a>
 </li>
 <li>
-<a href="chapter4.php">default</a>
+<a href="chapter5.php">default</a>
 </li>
 <li>
-<a href="chapter4.php">default</a>
+<a href="chapter5.php">default</a>
 </li>
 </ul>
 
-<strong><a href="chapter5.php">ch5 underConstruction</a></strong>
 <strong><a href="chapter6.php">ch6 underConstruction</a></strong>
 <strong><a href="chapter7.php">ch7 underConstruction</a></strong>
 <strong><a href="chapter8.php">ch8 underConstruction</a></strong>

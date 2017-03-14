@@ -1,7 +1,7 @@
 <!- continued from header centered-wrapper div ->
 <?php include 'includes/chapHeader.php'; ?>
 
-<!- begin chapter 2 ->
+<!- begin chapter 3 ->
 
 <!- navigation side bar ->
 <nav class="floating-menu">
