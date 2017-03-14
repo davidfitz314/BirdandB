@@ -166,7 +166,7 @@ z-index: 100;
 position: fixed;
 line-height: 150%;
 text-align:left;
-padding-bottom: 50px;
+
 }
 
 .floating-menu a, 
