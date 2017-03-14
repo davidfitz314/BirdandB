@@ -153,6 +153,7 @@ header {
 footer {
 	padding: 100px;
 	border: 3px dashed black;
+	z-index: 100;
 }
 
 /* chapter 2 test section */
@@ -162,7 +163,7 @@ background: white;
 /*border: solid black;*/
 padding: 5px;
 width: 200px;
-z-index: 100;
+z-index: 99;
 position: fixed;
 line-height: 150%;
 text-align:left;
