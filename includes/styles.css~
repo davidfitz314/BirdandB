@@ -15,7 +15,7 @@ header {
 
 .centered-wrapper {
     margin: auto;
-	width: 80%;
+	width: 900px;
 	/*border: 3px solid black;*/
 	/*padding: 10px;*/
     text-align: center;
@@ -60,7 +60,6 @@ header {
 
 .searchBarC {
 	display: table-cell;
-	float:right;
 }
 
 .CompanyDescription {
