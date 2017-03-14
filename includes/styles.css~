@@ -166,15 +166,15 @@ z-index: 100;
 position: fixed;
 line-height: 150%;
 text-align:left;
-padding-bottom: 10px;
+padding-bottom: 50px;
 }
 
 .floating-menu a, 
 .floating-menu h3 {
-font-size: 0.9em;
-display: block;
-margin: 0 0.5em;
-color: black;
+	font-size: 0.9em;
+	display: block;
+	margin: 0 0.5em;
+	color: black;
 }
 
 ul.floating-menu {
