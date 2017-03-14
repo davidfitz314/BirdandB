@@ -47,14 +47,13 @@ header {
 	height: 180px;
 	width: 200px;
 	text-align: left;
-	margin-right: 10px;
 }
 
 .cHeadCells {
 	text-align: left;
 	display:table-cell;
-	width: 640px;
-	margin-left: 20px;
+	width: 650px;
+	padding-left: 10px;
 }
 
 .searchBarC {
