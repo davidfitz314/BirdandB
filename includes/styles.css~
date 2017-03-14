@@ -172,11 +172,17 @@ header {
 }
 
 .single2chap p:hover, .single4chap p:hover, .single6chap p:hover, .single8chap p:hover, .single10chap p:hover, .single12chap p:hover, .single14chap p:hover {
+	padding: 10px;
 	border: solid #f06492;
+	margin-left: 10px;
+	margin-right: 10px;
 }
  
 .single1chap p:hover, .single3chap p:hover, .single5chap p:hover, .single7chap p:hover, .single9chap p:hover, .single11chap p:hover, .single13chap p:hover, .single15chap p:hover {
+	padding: 10px;
 	border: solid #7990c9;
+	margin-left: 10px;
+	margin-right: 10px;
 }
 
 footer {
