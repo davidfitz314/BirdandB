@@ -180,6 +180,5 @@ color: black;
 }
 
 .chapterLogo img{
-	width: 88%;
 	height:450px;
 }
