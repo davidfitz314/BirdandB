@@ -52,12 +52,12 @@ header {
 }
 
 .cHeadCells {
-	display: table-cell;
+	
 	float:right;
 }
 
 .searchBarC {
-	display: table-cell;
+	
 	float:right;
 }
 
