@@ -15,7 +15,7 @@
 
 <div class="cNavi">
 	<div class="cLogo">
-		<img src="includes/images/Blogo.png" alt="birdandb.com logo" style="width:150px;height:150px;"> 
+		<img src="includes/images/logo.png" alt="birdandb.com logo" style="width:150px;height:150px;"> 
 	</div><!- end logo div ->
 	<div class="cHeadCells">
 	  <a href="index.php">Home</a></li>
