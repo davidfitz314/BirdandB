@@ -33,12 +33,21 @@ header {
 	display: inline;
 }
 
+.cNavi {
+	display:table;
+}
+
 .Logo {
 	height: 200px;
 }
 
 .cLogo {
+	display: table-cell;
 	height: 100px;
+}
+
+.cHeadCells {
+	display: table-cell;
 }
 
 .CompanyDescription {

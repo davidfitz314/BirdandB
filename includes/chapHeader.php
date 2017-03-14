@@ -13,19 +13,19 @@
 	
 <body>
 
-<div class="navi">
-<ul>
-  <li>
+<div class="cNavi">
 	<div class="cLogo">
 	<header> 
 		<h1> 
 			<!- BirdandB.com logo goes here -> 
 		</h1> 
-	</header>
+	
 	</div><!- end logo div ->
-  <li><a href="index.php">Home</a></li>
-  <li><a href="index.php">Search</a></li>
-</ul>
+	<div class="cHeadCells">
+	  <a href="index.php">Home</a></li>
+	  <a href="index.php">Search</a></li>
+	</div>
+	</header>
 </div>
 <div class="centered-wrapper">
 
