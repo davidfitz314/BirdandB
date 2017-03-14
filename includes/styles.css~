@@ -58,6 +58,14 @@ header {
 	padding-left: 5%;
 }
 
+.cHeadCells a {
+	text-decoration:none;
+}
+
+.cHeadCells a:hover {
+	text-decoration:underline;
+}
+
 .searchBarC {
 	width: 10%;
 	display: table-cell;
@@ -109,7 +117,7 @@ header {
 .CTA2 {
 	display: table-cell;
 	background-color: #C1B9B9;
-	width: 66%;
+	width: 67%;
 	height: 250px;
 	text-align: center;
 }
@@ -212,6 +220,7 @@ footer {
 	display: block;
 	margin: 0 0.5em;
 	color: black;
+	text-decoration: none;
 }
 
 ul.floating-menu {
