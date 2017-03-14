@@ -6,10 +6,10 @@
 <!- navigation side bar ->
 <nav class="floating-menu">
 <h2>Chapter 2: Conception </h2>
-<a href="chapter2.php">quicklink1</a>
-<a href="chapter2.php">quicklink2</a>
-<a href="chapter2.php">quicklink3</a>
-<a href="chapter2.php">quicklink4</a>
+<a href="chapter2.php">1st Trimester</a>
+<a href="chapter2.php">2nd Trimester</a>
+<a href="chapter2.php">3rd Trimester</a>
+<a href="chapter2.php">Turning Full Term</a>
 </nav>
 <!- end navigation sidebar ->
 
