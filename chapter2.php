@@ -44,8 +44,12 @@
 <img src="includes/images/chapter2/sperm&egg.png" alt="Sperm and Egg">
 </div>
 
+<!- chapter 2 text division ->
+<div class="chapter2Text">
 <br>
 <strong><p>Under construction A A A A A A A A A A A A A A  A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A  A A A A A A A A AAAAAAAAAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAA</p></strong>
+</div>
+
 <div class="expandtest">
 </div>
 
