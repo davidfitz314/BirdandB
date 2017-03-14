@@ -92,7 +92,7 @@ header {
 	*/
 
 .CTA1 {
-	margin-top: -25%;
+	margin-top: -15%;
 	display: table-cell;
 	/*background-color: blue;*/
 	width: 33%;

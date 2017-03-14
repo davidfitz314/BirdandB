@@ -74,7 +74,7 @@ header {
 }
 
 .CompanyDescription {
-	width: 85%;
+	width: 86%;
 	height: 200px;
 	border: 3px dashed black;
 	/*background-color: blue;*/
@@ -85,14 +85,13 @@ header {
 .CallsToAction {
 	display: table;
 	border: dashed black;
-	width: 101%;
+	width: 102%;
 }
 
 /*<img src="includes/images/lightBulb.png" alt="Bee light bulb" style="width:125px;"> 
 	*/
 
 .CTA1 {
-	margin-top: -15%;
 	display: table-cell;
 	/*background-color: blue;*/
 	width: 33%;
