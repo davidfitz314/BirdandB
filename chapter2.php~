@@ -6,10 +6,20 @@
 <!- navigation side bar ->
 <nav class="floating-menu">
 <h2>Chapter 2: Conception </h2>
+<ul>
+<li>
 <a href="chapter2.php">1st Trimester</a>
+</li>
+<li>
 <a href="chapter2.php">2nd Trimester</a>
+</li>
+<li>
 <a href="chapter2.php">3rd Trimester</a>
+</li>
+<li>
 <a href="chapter2.php">Turning Full Term</a>
+</li>
+</ul>
 </nav>
 <!- end navigation sidebar ->
 
@@ -19,7 +29,7 @@
 </div>
 
 <br>
-<strong><p>Under construction AAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAA</p></strong>
+<strong><p>Under construction A A A A A A A A A A A A A A  A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A  A A A A A A A A AAAAAAAAAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAA</p></strong>
 <div class="expandtest">
 </div>
 
