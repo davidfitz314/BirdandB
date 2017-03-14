@@ -151,6 +151,7 @@ header {
 }
 
 footer {
+	position: absolute;
 	padding: 100px;
 	border: 3px dashed black;
 	z-index: 100;
