@@ -51,13 +51,12 @@ header {
 
 .cHeadCells {
 	display:table-cell;
+	width: 600px;
 }
 
 .searchBarC {
 	display: table-cell;
-	width: 80%;
 	text-align: right;
-	
 }
 
 .CompanyDescription {
