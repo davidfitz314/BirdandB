@@ -159,7 +159,7 @@ footer {
 .floating-menu {
 font-family: sans-serif;
 background: white;
-border: solid black;
+/*border: solid black;*/
 padding: 5px;
 width: 200px;
 z-index: 100;
