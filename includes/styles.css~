@@ -157,5 +157,5 @@ color: white;
 
 .chapterLogo img{
 	width: 80%;
-	height:
+	height:400px;
 }
