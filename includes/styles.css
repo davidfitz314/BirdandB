@@ -9,6 +9,8 @@ header {
 	padding: 100px 0px 475px 0px;
 }*/
 
+
+/***** we still need @media-queries for sizes smaller then the default *****/
 .centered-wrapper {
     margin: auto;
 	width: 900px;
