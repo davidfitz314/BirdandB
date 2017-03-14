@@ -45,9 +45,9 @@ header {
 }
 
 .cLogo {
-	display: contain;
 	background-image: url("images/logo.png");
 	background-repeat: no-repeat;
+	background-size: 150px 150px;
 	height: 150px;
 	width: 150px;
 	text-align: left;
@@ -164,7 +164,7 @@ font-family: sans-serif;
 background: white;
 border: solid black;
 padding: 5px;
-width: 130px;
+width: 15%;
 z-index: 100;
 position: fixed;
 }
