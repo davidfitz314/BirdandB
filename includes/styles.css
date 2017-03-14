@@ -164,6 +164,7 @@ padding: 5px;
 width: 200px;
 z-index: 100;
 position: fixed;
+line-height: 1.5%;
 }
 
 .floating-menu a, 
@@ -176,6 +177,7 @@ color: black;
 
 ul.floating-menu {
 	list-style-type: circle;
+	text-align: left;
 }
 
 .expandtest {

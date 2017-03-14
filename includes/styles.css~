@@ -176,6 +176,7 @@ color: black;
 
 ul.floating-menu {
 	list-style-type: circle;
+	text-align: left;
 }
 
 .expandtest {
