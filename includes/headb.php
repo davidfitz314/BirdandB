@@ -18,7 +18,7 @@
 		
 	</div><!- end logo div ->
 	<div class="cHeadCells">
-	  <a href="index.php">Home</a></li>
+	  <a href="index.php"></a></li>
 	</div>
 	<div class="searchBarC">
 	  <a href="index.php">Search</a></li>
