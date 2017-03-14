@@ -45,6 +45,7 @@ header {
 }
 
 .cLogo {
+	display: table-cell;
 	background-image: url("images/logo.png");
 	background-repeat: no-repeat;
 	background-size: 200px 200px;
@@ -59,7 +60,6 @@ header {
 
 .searchBarC {
 	display: table-cell;
-	float:right;
 }
 
 .CompanyDescription {
