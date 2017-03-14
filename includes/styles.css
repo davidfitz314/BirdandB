@@ -53,7 +53,7 @@ header {
 	text-align: left;
 	display:table-cell;
 	width: 70%;
-	padding-left: 30px;
+	padding-left: 15%;
 }
 
 .searchBarC {
@@ -155,8 +155,8 @@ header {
 }
 
 footer {
-	position: absolute;
-	width: 39%;
+	/*position: absolute;
+	width: 39%;*/
 	padding: 100px;
 	border: 3px dashed black;
 	z-index: 100;
