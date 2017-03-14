@@ -209,6 +209,7 @@ footer {
 	position: fixed;
 	line-height: 150%;
 	text-align:left;
+	margin-bottom: 225px;
 }
 
 .floating-menu a, 
