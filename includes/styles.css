@@ -45,7 +45,7 @@ header {
 }
 
 .cLogo {
-	display: table-cell;
+	display: contain;
 	background-image: url("images/logo.png");
 	background-repeat: no-repeat;
 	height: 150px;
