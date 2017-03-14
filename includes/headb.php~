@@ -12,14 +12,14 @@
 </head>
 	
 <body>
-
+<div class="centered-wrapper">
 <div class="navi">
 <ul>
   <li><a href="index.php">Home</a></li>
   <li><a href="index.php">Search</a></li>
 </ul>
 </div>
-<div class="centered-wrapper">
+
 
 <div class="Logo">
 <header> 

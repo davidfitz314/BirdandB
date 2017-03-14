@@ -12,7 +12,7 @@
 </head>
 	
 <body>
-
+<div class="centered-wrapper">
 <div class="cNavi">
 	<div class="cLogo">
 		
@@ -24,7 +24,7 @@
 	  <a href="index.php">Search</a></li>
 	</div>
 </div>
-<div class="centered-wrapper">
+
 
 
 
