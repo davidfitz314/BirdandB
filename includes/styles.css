@@ -85,6 +85,7 @@ header {
 .CallsToAction {
 	display: table;
 	width: 100%;
+	border: dashed black;
 }
 
 /*<img src="includes/images/lightBulb.png" alt="Bee light bulb" style="width:125px;"> 
