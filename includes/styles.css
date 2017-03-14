@@ -44,7 +44,7 @@ header {
 	background-image: url("images/logo.png");
 	background-repeat: no-repeat;
 	background-size: contain;
-	height: auto;
+	height: 180px;
 	width: 200px;
 	text-align: left;
 }
