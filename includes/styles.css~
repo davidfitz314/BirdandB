@@ -47,8 +47,8 @@ header {
 .cLogo {
 	background-image: url("images/logo.png");
 	background-repeat: no-repeat;
-	background-size: 15% auto;
-	height: 150px;
+	background-size: 15% 200px;
+	height: 200px;
 	width: 15%;
 	text-align: left;
 }
@@ -183,5 +183,5 @@ color: black;
 
 .chapterLogo img{
 	width: 100%;
-	margin-left: 16%;
+	margin-left: 20%;
 }
