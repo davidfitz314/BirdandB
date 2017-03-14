@@ -47,9 +47,9 @@ header {
 .cLogo {
 	background-image: url("images/logo.png");
 	background-repeat: no-repeat;
-	background-size: 150px 150px;
+	background-size: 15% auto;
 	height: 150px;
-	width: 150px;
+	width: 15%;
 	text-align: left;
 }
 
