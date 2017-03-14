@@ -37,8 +37,6 @@ header {
 	display:table;
 }
 
-
-
 .Logo {
 	height: 200px;
 }
@@ -46,6 +44,10 @@ header {
 .cLogo {
 	display: table-cell;
 	height: 100px;
+}
+
+.cHeadCells {
+	display: table-cell;
 }
 
 .CompanyDescription {
