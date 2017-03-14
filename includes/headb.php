@@ -15,19 +15,20 @@
 <div class="centered-wrapper">
 <div class="navi">
 <ul>
+  <li><div class="Logo">
+<header> 
+	<h1> 
+		<!- BirdandB.com logo goes here -> 
+	</h1> 
+</header>
+</div><!- end logo div -></li>
   <li><a href="index.php">Home</a></li>
   <li><a href="index.php">Search</a></li>
 </ul>
 </div>
 
 
-<div class="Logo">
-<header> 
-	<h1> 
-		<!- BirdandB.com logo goes here -> 
-	</h1> 
-</header>
-</div><!- end logo div ->
+
 
 
 
