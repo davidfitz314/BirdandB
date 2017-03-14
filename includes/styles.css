@@ -33,17 +33,18 @@ header {
 	display:table;
 }
 
+/*old logo div*/
 .Logo {
 	width: 15%;
 }
 
+/* current logo div */
 .cLogo {
 	display: table-cell;
 	background-image: url("images/logo.png");
 	background-repeat: no-repeat;
-	background-size: 200px 200px;
-	
-	width: 200px;
+	background-size: contain;
+	height: 200px;
 	text-align: left;
 }
 
