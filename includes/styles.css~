@@ -155,8 +155,8 @@ header {
 }
 
 footer {
-	/*position: absolute;
-	width: 39%;*/
+	position: relative;
+	/*width: 39%;*/
 	padding: 100px;
 	border: 3px dashed black;
 	z-index: 100;
