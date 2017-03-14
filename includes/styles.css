@@ -50,8 +50,9 @@ header {
 }
 
 .cHeadCells {
+	text-align: left;
 	display:table-cell;
-	width: 600px;
+	width: 640px;
 }
 
 .searchBarC {
