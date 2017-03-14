@@ -38,14 +38,14 @@ header {
 }
 
 .Logo {
-	width: 10%;
+	width: 15%;
 }
 
 .cLogo {
 	display: table-cell;
 	background-image: url("images/logo.png");
 	background-repeat: no-repeat;
-	background-size: 90px 90px;
+	background-size: 200px 200px;
 	height: 200px;
 	width: 200px;
 	text-align: left;
@@ -161,7 +161,7 @@ font-family: sans-serif;
 background: white;
 border: solid black;
 padding: 5px;
-width: 90px;
+width: 200px;
 z-index: 100;
 position: fixed;
 }
