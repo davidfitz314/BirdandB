@@ -6,18 +6,3 @@ removed references
 </div>
 
 <!- end Survey div -> 
-
-
-
-<div class="centered-wrapper">
-<div class="navi">
-<ul>
-  <li><div class="Logo">
-<header> 
-</header>
-</div><!- end logo div -></li>
-  <li><a href="index.php">Home</a></li>
-  <li><a href="index.php">Search</a></li>
-</ul>
-</div>
-
