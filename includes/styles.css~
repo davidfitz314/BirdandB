@@ -52,12 +52,11 @@ header {
 }
 
 .cHeadCells {
-	display: table-cell;
-	float:right;
+	display:table-cell;
 }
 
 .searchBarC {
-	display: table-cell;
+	
 	float:right;
 }
 
@@ -181,6 +180,6 @@ color: black;
 }
 
 .chapterLogo img{
-	width: 80%;
-	height:400px;
+	width: 88%;
+	height:450px;
 }
