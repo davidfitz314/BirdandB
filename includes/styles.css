@@ -85,14 +85,14 @@ header {
 .CallsToAction {
 	display: table;
 	border: dashed black;
-	width: 102%;
+	width: 101%;
 }
 
 /*<img src="includes/images/lightBulb.png" alt="Bee light bulb" style="width:125px;"> 
 	*/
 
 .CTA1 {
-	padding-top: -25%;
+	margin-top: -15%;
 	display: table-cell;
 	/*background-color: blue;*/
 	width: 33%;
