@@ -190,3 +190,9 @@ ul.floating-menu {
 	width: 75%;
 	margin-left: 25%;
 }
+
+.chapter2Text {
+	width: 75%;
+	margin-left: 25%;
+	line-height: 150%;
+}
