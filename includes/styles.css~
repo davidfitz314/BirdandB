@@ -84,7 +84,6 @@ header {
 
 .CallsToAction {
 	display: table;
-	width: 102%;
 	border: dashed black;
 }
 
@@ -92,9 +91,9 @@ header {
 	*/
 
 .CTA1 {
+	padding: -10%;
 	display: table-cell;
 	/*background-color: blue;*/
-	border: none;
 	width: 33%;
 	color: black;
 }
