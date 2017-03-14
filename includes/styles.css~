@@ -45,6 +45,7 @@ header {
 	background-repeat: no-repeat;
 	background-size: contain;
 	height: 200px;
+	width: 200px;
 	text-align: left;
 }
 
