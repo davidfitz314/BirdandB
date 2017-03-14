@@ -58,7 +58,7 @@ header {
 }
 
 .searchBarC {
-	
+	display: table-cell;
 	float:right;
 }
 
