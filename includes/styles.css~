@@ -55,7 +55,7 @@ header {
 
 .searchBarC {
 	display: table-cell;
-	float: right;
+	width: 80%;
 	
 }
 
