@@ -35,6 +35,8 @@ header {
 
 .cNavi {
 	display:table;
+	margin: auto;
+	width: 80%;
 }
 
 .Logo {
@@ -44,6 +46,7 @@ header {
 .cLogo {
 	display: table-cell;
 	height: 100px;
+	width: 100px;
 }
 
 .cHeadCells {
