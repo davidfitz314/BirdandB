@@ -60,6 +60,7 @@ header {
 
 .cHeadCells a {
 	text-decoration:none;
+	color: black;
 }
 
 .cHeadCells a:hover {
@@ -95,7 +96,6 @@ header {
 	/*background-color: blue;*/
 	border: none;
 	width: 33%;
-	height: 250px;
 	color: black;
 }
 
@@ -117,8 +117,7 @@ header {
 .CTA2 {
 	display: table-cell;
 	background-color: #C1B9B9;
-	width: 67%;
-	height: 250px;
+	width: 70%;
 	text-align: center;
 }
 
