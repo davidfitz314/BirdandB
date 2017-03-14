@@ -37,7 +37,7 @@ header {
 	display:table;
 	margin: auto;
 	width: 80%;
-	padding-left: 10px;
+	
 }
 
 .Logo {
@@ -53,10 +53,12 @@ header {
 
 .cHeadCells {
 	display: table-cell;
+	float:right;
 }
 
 .searchBarC {
 	display: table-cell;
+	float:right;
 }
 
 .CompanyDescription {

@@ -37,7 +37,7 @@ header {
 	display:table;
 	margin: auto;
 	width: 80%;
-	padding-left: 10px;
+	
 }
 
 .Logo {
@@ -48,10 +48,12 @@ header {
 	display: table-cell;
 	height: 100px;
 	width: 100px;
+	text-align: left;
 }
 
 .cHeadCells {
 	display: table-cell;
+	float:right;
 }
 
 .searchBarC {
