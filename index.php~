@@ -16,18 +16,18 @@
 <!- first set of calls to action ->
 <div class="CallsToAction">
 
-	<div class="CTA1">
+	<span class="CTA1">
 
 	<a href="<?= "index.php" ?>">	
 	<img src='includes/images/lightOFF.png' width='125px' onmouseover="this.src='includes/images/lightON.png';" onmouseout="this.src='includes/images/lightOFF.png';" />
 	<p><strong><?php pickRandom(); ?></strong><p>
 	</a>
-	</div>
+	</span>
 	<!- end CTA1 div ->
 
-	<div class="CTA2"><p>
+	<span class="CTA2"><p>
 	<img src="includes/images/comingSoon.png" alt="coming soon phone app" style="width:67%;">
-	</p></div>
+	</p></span>
 	<!- end CTA2 div ->
 </div>
 <!- end CallsToAction div ->

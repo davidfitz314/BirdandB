@@ -83,7 +83,7 @@ header {
 }
 
 .CallsToAction {
-	display: inline;
+	
 	border: dashed black;
 	width: 102%;
 }
@@ -96,6 +96,7 @@ header {
 	/*background-color: blue;*/
 	width: 33%;
 	color: black;
+	float:left;
 
 }
 
@@ -118,6 +119,7 @@ header {
 	/*display: table-cell;*/
 	background-color: #C1B9B9;
 	text-align: center;
+	float:right;
 }
 
 .CTA1 p {
