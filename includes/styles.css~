@@ -96,6 +96,7 @@ header {
 	/*background-color: blue;*/
 	width: 33%;
 	color: black;
+	padding-bottom: 50px;
 }
 
 .CTA1 a:link {
