@@ -96,8 +96,6 @@ header {
 	/*background-color: blue;*/
 	width: 33%;
 	color: black;
-	float:left;
-
 }
 
 .CTA1 a:link {
@@ -119,7 +117,6 @@ header {
 	display: table-cell;
 	background-color: #C1B9B9;
 	text-align: center;
-	width:67%;
 }
 
 .CTA1 p {
