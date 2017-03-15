@@ -19,12 +19,12 @@
 	<div class="CTA1"><a href="<?= "index.php" ?>">
 	<img src='includes/images/lightOFF.png' width='125px' onmouseover="this.src='includes/images/lightON.png';" onmouseout="this.src='includes/images/lightOFF.png';" />
 	
-	<p><strong><?php pickRandom(); ?></strong><p>
+	<p><strong><?php //pickRandom(); ?></strong><p>
 	</a></div>
 	<!- end CTA1 div ->
 
 	<div class="CTA2"><p>
-	<img src="includes/images/comingSoon.png" alt="coming soon phone app" style="width:66%;">
+	<img src="includes/images/comingSoon.png" alt="coming soon phone app" style="width:67%;">
 	</p></div>
 	<!- end CTA2 div ->
 </div>
