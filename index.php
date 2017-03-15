@@ -16,12 +16,13 @@
 <!- first set of calls to action ->
 <div class="CallsToAction">
 
-	<div class="CTA1"><a href="<?= "index.php" ?>">
-	<p><strong><?php pickRandom(); ?></strong><p>
+	<div class="CTA1">
+
+		
 	<img src='includes/images/lightOFF.png' width='125px' onmouseover="this.src='includes/images/lightON.png';" onmouseout="this.src='includes/images/lightOFF.png';" />
+	<p><strong><?php pickRandom(); ?></strong><p>
 	
-	
-	</a></div>
+	</div>
 	<!- end CTA1 div ->
 
 	<div class="CTA2"><p>
