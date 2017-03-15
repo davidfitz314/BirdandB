@@ -83,7 +83,7 @@ header {
 }
 
 .CallsToAction {
-	display: table;
+	display: inline;
 	border: dashed black;
 	width: 102%;
 }
@@ -92,11 +92,11 @@ header {
 	*/
 
 .CTA1 {
-	display: table-cell;
+	/*display: table-cell;*/
 	/*background-color: blue;*/
 	width: 33%;
 	color: black;
-	padding-bottom: 150px;
+
 }
 
 .CTA1 a:link {
@@ -115,7 +115,7 @@ header {
 }
 
 .CTA2 {
-	display: table-cell;
+	/*display: table-cell;*/
 	background-color: #C1B9B9;
 	text-align: center;
 }
