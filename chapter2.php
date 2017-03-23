@@ -83,7 +83,7 @@
 	<!- image and week# ->
 	<div class="all2chap">
 		<div class="plant_circle">
-		<img src="includes/images/chapter2/poppySeed.png" alt="poppy seed" style="width:14px;height:11px">	
+		<img src="includes/images/chapter2/sesameSeed.png" alt="poppy seed" style="width:14px;height:11px">	
 		</div>
 		
 		<div class="ch2text">
