@@ -269,6 +269,12 @@ ul.floating-menu {
 
 
 /*chapter 2 section*/
+.backline {
+	background-image: url("images/chapter2/line.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+
 .plant_circle img {
 	padding: 15%;	
 	/*play with image height and make it match container proportionally */
