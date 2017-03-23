@@ -89,13 +89,12 @@ p {
 }
 
 .smallertext p {
-	font-size: 50%;
-	line-height: 150%;
+	font-size: 75%;
 }
 
 .CallsToAction {
 	display: table;
-	border: dashed black;
+	
 	width: 102%;
 }
 
@@ -107,6 +106,7 @@ p {
 	/*background-color: blue;*/
 	width: 33%;
 	color: black;
+	border: dashed black;
 }
 
 .CTA1 a:link {
