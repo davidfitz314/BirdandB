@@ -70,19 +70,27 @@
 
 	<!- image and week# ->
 	<div class="all2chap">
-	<div class="plant_circle">
-	<img src="includes/images/chapter2/poppySeed.png" alt="poppy seed" style="width:14px;height:11px">	
-	</div>
-	
-	<span class="ch2text">
-	<h4>4 weeks</h4>
-	<p>The Blastocyst or ball of cells is now officially called an embryo. The woman is now about 4 weeks from the beginning of the last menstrual cycle. Around this time is when the next menstrual cycle should have started and pregnancy tests can be effective for telling if a woman is pregnant. The baby is the size of a poppy seed.</p>
-	</span>
+		<div class="plant_circle">
+		<img src="includes/images/chapter2/poppySeed.png" alt="poppy seed" style="width:14px;height:11px">	
+		</div>
+		
+		<div class="ch2text">
+		<h4>4 weeks</h4>
+		<p>The Blastocyst or ball of cells is now officially called an embryo. The woman is now about 4 weeks from the beginning of the last menstrual cycle. Around this time is when the next menstrual cycle should have started and pregnancy tests can be effective for telling if a woman is pregnant. The baby is the size of a poppy seed.</p>
+		</div>
 	</div>
 
 	<!- image and week# ->
-	<h4>5 weeks</h4>
-	<p>The baby’s appearance is more similar to a tadpole then a human at this point but it is growing fast. The heart will begin beating this week and a circulatory system will start to form. The baby is the size of a sesame seed.</p>
+	<div class="all2chap">
+		<div class="plant_circle">
+		<img src="includes/images/chapter2/poppySeed.png" alt="poppy seed" style="width:14px;height:11px">	
+		</div>
+		
+		<div class="ch2text">
+		<h4>5 weeks</h4>
+		<p>The baby’s appearance is more similar to a tadpole then a human at this point but it is growing fast. The heart will begin beating this week and a circulatory system will start to form. The baby is the size of a sesame seed.</p>
+		</div>
+	</div>
 
 	<!- image and week# ->
 	<h4>6 weeks</h4>
