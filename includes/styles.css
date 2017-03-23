@@ -272,14 +272,12 @@ ul.floating-menu {
 .plant_circle img {
 	border: 1px dashed black;
 	padding-top: 15%;	
-	width:5%;
-	height: 5%;
 }
 
 .plant_circle {
 	border: 1px dashed black;
-	width: 10%;
-	height: 10%;
+	width: 15%;
+	height: 15%;
 	background-image: url("images/chapter2/circle.png");
 	background-size: contain;
 	background-repeat: no-repeat;
