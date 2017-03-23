@@ -270,10 +270,7 @@ ul.floating-menu {
 
 /*chapter 2 section*/
 .backline {
-	background-image: url("images/chapter2/line.png");
-	background-size: contain;
-	background-repeat: no-repeat;
-	float:left;
+
 }
 
 .plant_circle img {
@@ -299,7 +296,8 @@ ul.floating-menu {
 	background-size: contain;
 	background-repeat: no-repeat;
 	text-align: center;
-	margin-left: 15%;
+	float: left;
+	margin-left: 5%;
 }
 
 .weekNum p {
