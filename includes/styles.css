@@ -284,5 +284,12 @@ ul.floating-menu {
 	text-align: center;
 }
 
+.weekNum {
+	background-image: url("images/chapter2/circle.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+	text-align: center;
+}
+
 .ch2text {	
 }

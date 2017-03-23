@@ -73,8 +73,10 @@
 	<img src="includes/images/chapter2/poppySeed.png" alt="poppy seed" style="width:64px;height:53px">	
 	</div>
 		
-	<div class="ch2text">
+	<span class="weekNum">	
 	<h4>4 weeks</h4>
+	</span>
+	<div class="ch2text">
 	<p>The Blastocyst or ball of cells is now officially called an embryo. The woman is now about 4 weeks from the beginning of the last menstrual cycle. Around this time is when the next menstrual cycle should have started and pregnancy tests can be effective for telling if a woman is pregnant. The baby is the size of a poppy seed.</p>
 	</div>
 
