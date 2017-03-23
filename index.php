@@ -6,9 +6,8 @@
 <!- Company describtion section ->
 <div class="CompanyDescription">
 	<p><strong>Learning About Life Never Stops</strong></p>
-	<p>Hate trying to understand things about your body or sexuality that everyone else seems to know already? Well we did too, and that's why we developed this app and website to provide you with the knowledge that others forgot to tell you.<p><br>
-	<p>Here you will be able to explore both your own sexes anatomy and chemistry or even the opposites; From childhood development, to puberty, to sexual matters we try to cover all subjects that are hard to talk about.</p><br><div class="smallertext"><p>Started in 2017 by 2 students doing their senior capstone project at DSU, BirdandB.com is a non profit organization that only wishes to better the world.</p></div>
-	</br><p>We are currently under construction, please come again soon.<p>	
+	<p>Hate trying to understand things about your body or sexuality that everyone else seems to know already? Well we did too, and that's why we developed this app and website to provide you with the knowledge that others forgot to tell you.<p>
+	<p>Here you will be able to explore both your own sexes anatomy and chemistry or even the opposites; From childhood development, to puberty, to sexual matters we try to cover all subjects that are hard to talk about.</p><div class="smallertext"><p>Started in 2017 by 2 students doing their senior capstone project at DSU, BirdandB.com is a non profit organization that only wishes to better the world.</p></div>
 </div>
 <!- end CompanyDescription div ->
 
