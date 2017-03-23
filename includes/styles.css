@@ -273,8 +273,6 @@ ul.floating-menu {
 	border: 1px dashed black;
 	width:20%;
 	height: auto;
-	max-width:10%;
-	max-height: 10%;
 	background-image: url("images/chapter2/circle.png");
 	background-size: contain;
 	background-repeat: no-repeat;
