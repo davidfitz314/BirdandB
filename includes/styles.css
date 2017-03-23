@@ -276,12 +276,7 @@ ul.floating-menu {
 	/*play with image height and make it match container proportionally */
 }
 
-.all2chap {
-	display: inline;
-}
-
 .plant_circle {
-	display: inline;
 	border: 1px dashed black;
 	width: 50px;
 	height: 50px;
@@ -291,6 +286,5 @@ ul.floating-menu {
 	text-align: center;
 }
 
-.ch2text {
-	display: inline;	
+.ch2text {	
 }
