@@ -89,6 +89,7 @@ p {
 }
 
 .disclaimer {
+	width: 85.5%;
 	border: 5px double red;
 	padding: 75px;
 }
