@@ -270,8 +270,7 @@ ul.floating-menu {
 
 /*chapter 2 section*/
 .plant_circle img {
-	padding-top: 15px;	
-	width:100%;
+	padding: 15px;	
 	/*play with image height and make it match container proportionally */
 }
 
