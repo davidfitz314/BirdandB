@@ -265,3 +265,10 @@ ul.floating-menu {
 	margin-left: 25%;
 	line-height: 150%;
 }
+
+/*chapter 2 section*/
+
+.plant_circle {
+	background-image: url("images/chapter2/circle.png");
+	width:100px;
+}
