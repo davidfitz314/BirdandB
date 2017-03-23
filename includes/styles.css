@@ -302,4 +302,5 @@ ul.floating-menu {
 }
 
 .ch2text {	
+	clear: left;
 }
