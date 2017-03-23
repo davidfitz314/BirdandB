@@ -284,10 +284,11 @@ ul.floating-menu {
 	background-size: contain;
 	background-repeat: no-repeat;
 	text-align: center;
+	float:left;
 }
 
-.goleft {
-	float:left;
+.all2chap {
+	
 }
 
 .ch2text {
