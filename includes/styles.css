@@ -80,6 +80,13 @@ header {
 	/*background-color: blue;*/
 	padding: 75px;
 	/*margin-top: 100px;*/
+	line-height: 150%;
+}
+
+.smallertext {
+	font-family: sans-serif;
+	font-size: 0.5em;
+	line-height: 150%;
 }
 
 .CallsToAction {
@@ -167,7 +174,7 @@ header {
 }
 
 .single2chap a:hover, .single4chap a:hover, .single6chap a:hover, .single8chap a:hover, .single10chap a:hover, .single12chap a:hover, .single14chap a:hover {
-	text-decoration: underline;
+	text-decoration: none;
 	color: #f06492;
 }
  
