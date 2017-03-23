@@ -163,7 +163,7 @@
 
 	<!- image and week# ->
 	<div class="plant_circle">
-	<img src="includes/images/chapter2/peaPod.png" alt="pea pod" style="width:14px;height:11px">	
+	<img src="includes/images/chapter2/peas.png" alt="pea pod" style="width:14px;height:11px">	
 	</div>
 		
 	<div class="ch2text">
@@ -227,7 +227,7 @@
 
 	<!- image and week# ->
 	<div class="plant_circle">
-	<img src="includes/images/chapter2/heirloomTomato.png" alt="heirloom tomato" style="width:14px;height:11px">	
+	<img src="includes/images/chapter2/tomato.png" alt="heirloom tomato" style="width:14px;height:11px">	
 	</div>
 		
 	<div class="ch2text">
