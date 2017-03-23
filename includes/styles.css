@@ -277,6 +277,7 @@ ul.floating-menu {
 }
 
 .plant_circle {
+	display: table-cell;
 	border: 1px dashed black;
 	width: 50px;
 	height: 50px;
@@ -288,9 +289,10 @@ ul.floating-menu {
 }
 
 .all2chap {
-	
+	display: table;
 }
 
 .ch2text {
+	display: table-cell;
 	float: right;
 }
