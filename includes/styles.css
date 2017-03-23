@@ -270,10 +270,14 @@ ul.floating-menu {
 
 /*chapter 2 section*/
 .plant_circle img {
-	padding-top: 20%;	
+	padding-top: 25%;	
 	width:10%;
 	height: 10%;
 	/*play with image height and make it match container proportionally */
+}
+
+.all2chap {
+	display: table;
 }
 
 .plant_circle {
@@ -285,14 +289,8 @@ ul.floating-menu {
 	background-size: contain;
 	background-repeat: no-repeat;
 	text-align: center;
-	float:left;
-}
-
-.all2chap {
-	display: table;
 }
 
 .ch2text {
 	display: table-cell;
-	float: right;
 }
