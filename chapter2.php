@@ -69,13 +69,15 @@
 	<p>Now inside of the woman is a microscopic ball of hundreds of rapidly multiplying cells that will develop into the baby. This ball is called a Blastocyst and is producing HCG to tell the ovaries to stop producing eggs.</p>
 
 	<!- image and week# ->
+	<span class="goleft">
 	<div class="plant_circle">
 	<img src="includes/images/chapter2/poppySeed.png" alt="poppy seed" style="width:14px;height:11px">	
 	</div>
-	<div class="ch2text">
+	</span>
+	<span class="ch2text">
 	<h4>4 weeks</h4>
 	<p>The Blastocyst or ball of cells is now officially called an embryo. The woman is now about 4 weeks from the beginning of the last menstrual cycle. Around this time is when the next menstrual cycle should have started and pregnancy tests can be effective for telling if a woman is pregnant. The baby is the size of a poppy seed.</p>
-	</div>
+	</span>
 
 	<!- image and week# ->
 	<h4>5 weeks</h4>
