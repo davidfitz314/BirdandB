@@ -79,8 +79,8 @@ p {
 }
 
 .CompanyDescription {
-	width: 85.5%;
 	text-align: left:
+	width: 85.5%;
 	border: 3px dashed black;
 	/*background-color: blue;*/
 	padding: 75px;
