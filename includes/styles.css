@@ -94,6 +94,12 @@ p {
 	padding: 75px;
 }
 
+.disclaimer h3{
+	color: red;
+	font-size: 110%;
+}
+
+
 .smallertext p {
 	font-size: 75%;
 }

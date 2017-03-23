@@ -14,7 +14,7 @@
 <!- disclaimer section->
 <div class="disclaimer">
 <h3>Notice</h3>
-<p>BirdandB.com is tutorial website and may contain content that is not appropriate for some viewers. Only those who are over 18 years of age or have their legal guardians consent should proceed to the sex education chapters section. By clicking on or using any of the following links you the user are hereby agreeing that you are of the appropriate age or with guardian consent and have read this notice. </p><p>Viewer discretion is advised.</p>
+<p><strong>BirdandB.com</strong> is tutorial website and may contain content that is not appropriate for some viewers. Only those who are over 18 years of age or have their legal guardians consent should proceed to the sex education chapters section. By clicking on or using any of the following links you the user are hereby agreeing that you are of the appropriate age or with guardian consent and have read this notice. </p><p>Viewer discretion is advised.</p>
 </div>
 <!- end disclaimer section->
 
