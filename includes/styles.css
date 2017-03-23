@@ -20,6 +20,10 @@ header {
 	line-height: 150%;
 }
 
+.centered-wrapper p {
+  	line-height: 150%;
+}
+
 .navi ul {
 	text-align: justify;
 	margin: auto;
@@ -50,6 +54,7 @@ header {
 	height: 180px;
 	width: 200px;
 	text-align: left;
+	line-height: 150%;
 }
 
 .cHeadCells {
