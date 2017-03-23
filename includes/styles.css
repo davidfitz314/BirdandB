@@ -292,7 +292,7 @@ ul.floating-menu {
 	background-size: contain;
 	background-repeat: no-repeat;
 	text-align: center;
-	float: right;
+	float: left;
 }
 
 .weekNum p {
