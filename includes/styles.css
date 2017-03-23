@@ -80,12 +80,17 @@ p {
 
 .CompanyDescription {
 	width: 85.5%;
-	height: 200px;
+	
 	border: 3px dashed black;
 	/*background-color: blue;*/
 	padding: 75px;
 	/*margin-top: 100px;*/
 	
+}
+
+.disclaimer {
+	border: 5px double red;
+	padding: 75px;
 }
 
 .smallertext p {
