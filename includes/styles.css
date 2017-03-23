@@ -270,7 +270,6 @@ ul.floating-menu {
 
 /*chapter 2 section*/
 .backline {
-	padding-left: 25px;
 	background-image: url("images/chapter2/line.png");
 	background-size: contain;
 	background-repeat: no-repeat;

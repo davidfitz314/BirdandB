@@ -69,11 +69,12 @@
 	<p>Now inside of the woman is a microscopic ball of hundreds of rapidly multiplying cells that will develop into the baby. This ball is called a Blastocyst and is producing HCG to tell the ovaries to stop producing eggs.</p>
 
 	<!- image and week# ->
-	<div class="backline">
+	
 		<div class="plant_circle">
 		<img src="includes/images/chapter2/poppySeed.png" alt="poppy seed" style="width:64px;height:53px">	
 		</div>
-		
+
+		<div class="backline">
 		<div class="weekNum">	
 		<p>4 weeks<p>
 		</div>
