@@ -293,7 +293,7 @@ ul.floating-menu {
 	background-repeat: no-repeat;
 	text-align: center;
 	float: left;
-	margin-left: 15%;
+	margin-left: 5%;
 }
 
 .weekNum p {
@@ -305,5 +305,6 @@ ul.floating-menu {
 .ch2text {	
 	margin-left: 15%;
 	margin-top: 5%;
+	padding-left: 5%;
 	
 }
