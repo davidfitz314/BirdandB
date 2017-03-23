@@ -294,8 +294,9 @@ ul.floating-menu {
 }
 
 .weekNum p {
+	padding: 10px;
 	font-weight: bold;
-	font-size: 125%;
+	font-size: 115%;
 }
 
 .ch2text {	
