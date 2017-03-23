@@ -270,7 +270,8 @@ ul.floating-menu {
 /*chapter 2 section*/
 .plant_circle img {
 	border: 1px dashed black;
-	width:20%;
+	max-width:20%;
+	max-height: auto;
 	background-image: url("images/chapter2/circle.png");
 	background-size: contain;
 	background-repeat: no-repeat;
