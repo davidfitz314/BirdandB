@@ -17,6 +17,7 @@ header {
 	/*border: 3px solid black;*/
 	/*padding: 10px;*/
     text-align: center;
+	line-height: 150%;
 }
 
 .navi ul {
@@ -86,8 +87,7 @@ header {
 .CompanyDescription p {
 	line-height: 150%;
 }
-.smallertext p{
-	font-family: serif;
+.smallertext p {
 	font-size: 75%;
 	line-height: 150%;
 }
