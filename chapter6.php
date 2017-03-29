@@ -5,7 +5,7 @@
 
 <!- navigation side bar ->
 <nav class="floating-menu">
-<h1>Chapter 6 Sexuality</h1>
+<h3>Chapter 6 Sexuality</h3>
 <strong><a href="chapter1.php">ch1 Overview</a></strong>
 <strong><a href="chapter2.php">ch2 Conception</a></strong>
 <strong><a href="chapter3.php">ch3 Human Body Development</a></strong>

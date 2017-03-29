@@ -5,7 +5,7 @@
 
 <!- navigation side bar ->
 <nav class="floating-menu">
-<h1>Chapter 3: Human Body Development </h1>
+<h3>Chapter 3: Human Body Development </h3>
 <strong><a href="chapter1.php">ch1 Overview</a></strong>
 <strong><a href="chapter2.php">ch2 Conception</a></strong>
 <ul>
