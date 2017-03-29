@@ -323,9 +323,17 @@ ul.floating-menu {
 
 
 .chapter3Text ul {
-	list-style-type: circle;
+	list-style-type: square;
 	text-align: left;
 	line-height: 150%;
+}
+
+ul.openCircle {
+	list-style-type: circle;
+}
+
+ul.closedCircle {
+	list-style-type: square;
 }
 
 .ch3Images img {

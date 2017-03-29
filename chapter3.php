@@ -47,7 +47,7 @@
 	<h4>Pre-Puberty Changes</h4>
 	<p>Quite a few changes happen before even entering the puberty stage, most children will:</p>
 	
-	<ul>
+	<ul class="solidCircle">
 	<li>Become stronger as their muscles increase in mass.</li>
 	<li>Improve their motor skills strength and coordination.</li>
 	<li>Have their skin gradually change texture and appearance to be more like an adults.</li>
@@ -65,8 +65,8 @@
 	
 	<p>Puberty for males can be a very confusing time, they will be going about many different changes in their physiology and hormones. The following is a list of changes that generally happen in males to a greater or lesser extent.</p>
 	
-	<ul><li>Testicles and Scrotum enlarges:</li>
-		<ul><li>The testicles and Scrotum sac will enlarge to nearly double their previous size and the scrotum will darken, thin, and hang down from the body with tiny bumps dotted on it for where hair follicles will later grow.</li></ul>
+	<ul class="solidCircle"><li>Testicles and Scrotum enlarges:</li>
+		<ul class="openCircle"><li>The testicles and Scrotum sac will enlarge to nearly double their previous size and the scrotum will darken, thin, and hang down from the body with tiny bumps dotted on it for where hair follicles will later grow.</li></ul>
 	<!- Interesting Fact goes here ->
 		
 		<li>Pubic Hair:</li>
@@ -76,7 +76,7 @@
 		</ul>
 
 		<li>Penis growth:</li>
-		<ul>
+		<ul class="openCircle">
 			<li>First the male’s penis will grow in length and then in width. A male can have adult sized genitals anywhere between the ages of 13 and 18 years old.</li>
 			<li>Many males at this stage will become worried about their penis size or length not being correct, since males develop at different rates having a medical professional exam them and telling them that they are normal can improve their self esteem and put their worries to rest.</li>		
 		</ul>
@@ -85,13 +85,13 @@
 	</div>
 
 		<li>Body Shape Changes:</li>
-		<ul>
+		<ul class="openCircle">
 			<li>Males just prior to and at the beginning of puberty tend to look chubby and gangly (long arms and legs connected to a trunk like torso), but as puberty begins they generally experience a growth spurt which balances out their proportions and doesn’t end until the later stages of sexual maturation.</li>
 			<li>Up unto the middle of adolescence Males and Females had a similar level of strength. After the middle of adolescence though males keep gaining muscle mass  whereas females slow down, so much so that by the late teens, a male’s body composition is generally only 12 percent body fat and the females body fat is composition is nearly double or more of the males.</li>
 		</ul>
 
 		<li>Wet dreams, Involuntary Erections and Fertility:</li>
-		<ul>
+		<ul class="openCircle">
 			<li>Around 1 year after the male’s testicles enlarge the male ejaculates, this is when most consider the male to be fertile and able to procreate. The testicles in males should now be producing both testosterone and sperm, while the prostate, the 2 seminal vesicles and the Cowper’s glands secrete other fluids that combine with the sperm to form semen.</li>
 			<li>Nocturnal Emissions also known as wet dreams are spontaneous orgasms with ejaculation during sleep. They are most common in males during adolescence and young adult years, but they can happen anytime after puberty has begun.</li>
 <!- Interesting Fact goes here ->
@@ -99,12 +99,12 @@
 		</ul>
 
 		<li>Voice Change:</li>
-		<ul>
+		<ul class="openCircle">
 			<li>Just after the male’s growth spurt peaks, the larynx and vocal cords grow larger. During this enlargement period many males voices “crack” as they talk, but the cracking will usually stop after the voice box has matured.</li>
 		</ul>
 
 		<li>Breast Development:</li>
-		<ul>
+		<ul class="openCircle">
 			<li>Many males in early puberty will experience soreness or tender in their nipple region and 3 out of 4 males will experience some breast growth. This is caused by a biochemical reaction that changes some of the male’s testosterone into the female hormone estrogen. If the firm of the breast bud is more extensive than 2 inches in diameter under the nipples it can be result in gynecomastia. Overweight males may have lipomastia which appears like a pseudo-gynecomastia, because of the excess fatty tissue on the chest wall.</li>
 		</ul>
 	</ul>
@@ -120,8 +120,8 @@
 
 	<p>Puberty for females can be a very confusing time, they will be going about many different changes in their physiology and hormones. The following is a list of changes that generally happen in females to a greater or lesser extent</p>
 	
-	<ul><li>Breast Development</li>
-		<ul>
+	<ul class="solidCircle"><li>Breast Development</li>
+		<ul class="openCircle">
 		<li>Usually starting around ages 9 or 10, females start to develop a nickel size lump under one or both nipples, these lumps are usually referred to as Breast buds.</li>
 		<li>During the early stages of breast development it is not uncommon for one breast to develop faster than the other, this uneven growth spurt usually balances itself out within a year or two.</li>
 		<li>At this time in a female’s life a bra is not usually necessary but due to the sensitivity of her breasts, a soft sports bra may be helpful in keeping her comfortable and protected.</li>
@@ -132,7 +132,7 @@
 	<!- Interesting Fact goes here ->
 
 		<li>Pubic Hair</li>
-			<ul>
+			<ul class="openCircle">
 			<li>Pubic hair is generally the second sign of puberty in most young females. The pubic hair usually starts out soft, sparse and straight, but as the females develop the pubic hair changes to be darker, thicker and curlier.</li>
 			<li>Over the next few years females pubic hair will grow in an upward fashion onto the lower abdomen and forming a triangular shape. After around 2 years into puberty the female will also begin developing hair under the arms.</li>
 			</ul>
@@ -141,20 +141,20 @@
 	</div>
 
 		<li>Body and Body Shape</li>
-			<ul>
+			<ul class="openCircle">
 			<li>Females body shape will appear in the beginning as a child with “baby fat”. During puberty this “baby fat” is usually re-distributed to breasts and hips of the female, to give a more mature figure.</li>
 			<li>Females also go through multiple growth spurts during puberty, starting with the arms and legs getting longer and then later during the growth spurt the torso and other body parts catching up. Females will also slowly have a widening of the hips during puberty.</li>
 			<li>During puberty more sweating and acne is common on the female's face and body, in general the acne usually clears up after puberty has ended.</li>
 			</ul>
 
 		<li>Genitals</li>
-			<ul>
+			<ul class="openCircle">
 			<li>For females the genital growth is very limited, usually the clitoris grows slightly, the inner lips of the vulva will become more prominent and stick out from the outer lips, and sometimes the vulva will slightly change in color.</li>
 			</ul>
 		<!- Interesting Fact goes here ->
 
 		<li>Menstruation</li>
-			<ul>
+			<ul class="openCircle">
 			<li>Approximately between 1 ½ to 3 years after beginning puberty females will have their first menstrual cycle. During this time the uterus will shed and regrow the lining of the uterus and then the ovaries will release an egg.</li>
 			</ul>
 		<div class="ch3Images">
@@ -163,7 +163,7 @@
 		<!- Interesting Fact goes here ->
 
 		<li>Emotions, Moods, and Thoughts</li>
-			<ul>
+			<ul class="openCircle">
 			<li>During puberty it is normal for female’s emotions to become stronger and more intense. Mood swings will vary from female to female and sexual urges and thoughts will become more commonplace as a response to the changes happening in the female’s body.</li>
 			<li>Extremes in mood swings are pretty common for females, at one moment they may be happiest in the world and suddenly they change to become severely sad or depressed, these changes usually relate to the hormonal balances and lessen as females finish puberty.</li>
 			</ul>

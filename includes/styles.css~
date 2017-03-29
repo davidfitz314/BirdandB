@@ -328,7 +328,15 @@ ul.floating-menu {
 	line-height: 150%;
 }
 
+ul.openCircle {
+
+}
+
+ul.closedCircle {
+
+}
+
 .ch3Images img {
-	width: 50%;
+	width: 75%;
 	height: auto;
 }
