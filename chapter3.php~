@@ -115,13 +115,61 @@
 	</div>
 
 	<h4>Puberty For Females</h4>
+	<p>Early signs of puberty in females usually start around the age of 10, with some starting as early as 8 and others not starting until 13yrs of age. The most common sign for a female starting puberty is breasts budding or growing.</p>
 	<!- Interesting Fact goes here ->
+
+	<p>Puberty for females can be a very confusing time, they will be going about many different changes in their physiology and hormones. The following is a list of changes that generally happen in females to a greater or lesser extent</p>
+	
+	<ul><li>Breast Development</li>
+		<ul>
+		<li>Usually starting around ages 9 or 10, females start to develop a nickel size lump under one or both nipples, these lumps are usually referred to as Breast buds.</li>
+		<li>During the early stages of breast development it is not uncommon for one breast to develop faster than the other, this uneven growth spurt usually balances itself out within a year or two.</li>
+		<li>At this time in a female’s life a bra is not usually necessary but due to the sensitivity of her breasts, a soft sports bra may be helpful in keeping her comfortable and protected.</li>
+		</ul>
+	<div class="ch3Images">
+	<img src="includes/images/chapter3/breastGrowth-female.png" alt="Female breast development" style="width:2200px;height:1780px">
+	</div>
 	<!- Interesting Fact goes here ->
+
+		<li>Pubic Hair</li>
+			<ul>
+			<li>Pubic hair is generally the second sign of puberty in most young females. The pubic hair usually starts out soft, sparse and straight, but as the females develop the pubic hair changes to be darker, thicker and curlier.</li>
+			<li>Over the next few years females pubic hair will grow in an upward fashion onto the lower abdomen and forming a triangular shape. After around 2 years into puberty the female will also begin developing hair under the arms.</li>
+			</ul>
+	<div class="ch3Images">
+	<img src="includes/images/chapter3/pubicHair-female.png" alt="Female pubic hair growth" style="width:2295px;height:586px">
+	</div>
+
+		<li>Body and Body Shape</li>
+			<ul>
+			<li>Females body shape will appear in the beginning as a child with “baby fat”. During puberty this “baby fat” is usually re-distributed to breasts and hips of the female, to give a more mature figure.</li>
+			<li>Females also go through multiple growth spurts during puberty, starting with the arms and legs getting longer and then later during the growth spurt the torso and other body parts catching up. Females will also slowly have a widening of the hips during puberty.</li>
+			<li>During puberty more sweating and acne is common on the female's face and body, in general the acne usually clears up after puberty has ended.</li>
+			</ul>
+
+		<li>Genitals</li>
+			<ul>
+			<li>For females the genital growth is very limited, usually the clitoris grows slightly, the inner lips of the vulva will become more prominent and stick out from the outer lips, and sometimes the vulva will slightly change in color.</li>
+			</ul>
+		<!- Interesting Fact goes here ->
+
+		<li>Menstruation</li>
+			<ul>
+			<li>Approximately between 1 ½ to 3 years after beginning puberty females will have their first menstrual cycle. During this time the uterus will shed and regrow the lining of the uterus and then the ovaries will release an egg.</li>
+			</ul>
+		<div class="ch3Images">
+	<img src="includes/images/chapter3/menstraution.png" alt="Menstruation Example" style="width:2472px;height:385px">
+	</div>
+		<!- Interesting Fact goes here ->
+
+		<li>Emotions, Moods, and Thoughts</li>
+			<ul>
+			<li>During puberty it is normal for female’s emotions to become stronger and more intense. Mood swings will vary from female to female and sexual urges and thoughts will become more commonplace as a response to the changes happening in the female’s body.</li>
+			<li>Extremes in mood swings are pretty common for females, at one moment they may be happiest in the world and suddenly they change to become severely sad or depressed, these changes usually relate to the hormonal balances and lessen as females finish puberty.</li>
+			</ul>
+	</ul>
 	<!- Interesting Fact goes here ->
-	<!- Interesting Fact goes here ->
-	<!- Interesting Fact goes here ->
-	<!- Interesting Fact goes here ->
-	<!- Interesting Fact goes here ->
+	
 	
 </div>
 
