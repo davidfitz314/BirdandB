@@ -81,7 +81,7 @@
 			<li>Many males at this stage will become worried about their penis size or length not being correct, since males develop at different rates having a medical professional exam them and telling them that they are normal can improve their self esteem and put their worries to rest.</li>		
 		</ul>
 	<div class="ch3Images">
-	<img src="includes/images/chapter3/pubicHair-male.png" alt="Male pubic hair growth" style="width:2472px;height:678px">
+	<img src="includes/images/chapter3/pubicHair-male.png" alt="Male pubic hair growth" >
 	</div>
 
 		<li>Body Shape Changes:</li>
@@ -111,7 +111,7 @@
 	<!- Interesting Fact goes here ->
 
 	<div class="ch3Images">
-	<img src="includes/images/chapter3/chestHair-male.png" alt="Male chest hair growth" style="width:2380px;height:660px">
+	<img src="includes/images/chapter3/chestHair-male.png" alt="Male chest hair growth">
 	</div>
 
 	<h4>Puberty For Females</h4>
@@ -127,7 +127,7 @@
 		<li>At this time in a female’s life a bra is not usually necessary but due to the sensitivity of her breasts, a soft sports bra may be helpful in keeping her comfortable and protected.</li>
 		</ul>
 	<div class="ch3Images">
-	<img src="includes/images/chapter3/breastGrowth-female.png" alt="Female breast development" style="width:2200px;height:1780px">
+	<img src="includes/images/chapter3/breastGrowth-female.png" alt="Female breast development">
 	</div>
 	<!- Interesting Fact goes here ->
 
@@ -137,7 +137,7 @@
 			<li>Over the next few years females pubic hair will grow in an upward fashion onto the lower abdomen and forming a triangular shape. After around 2 years into puberty the female will also begin developing hair under the arms.</li>
 			</ul>
 	<div class="ch3Images">
-	<img src="includes/images/chapter3/pubicHair-female.png" alt="Female pubic hair growth" style="width:2295px;height:586px">
+	<img src="includes/images/chapter3/pubicHair-female.png" alt="Female pubic hair growth">
 	</div>
 
 		<li>Body and Body Shape</li>
@@ -158,7 +158,7 @@
 			<li>Approximately between 1 ½ to 3 years after beginning puberty females will have their first menstrual cycle. During this time the uterus will shed and regrow the lining of the uterus and then the ovaries will release an egg.</li>
 			</ul>
 		<div class="ch3Images">
-	<img src="includes/images/chapter3/menstraution.png" alt="Menstruation Example" style="width:2472px;height:385px">
+	<img src="includes/images/chapter3/menstraution.png" alt="Menstruation Example">
 	</div>
 		<!- Interesting Fact goes here ->
 
