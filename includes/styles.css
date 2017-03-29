@@ -312,7 +312,12 @@ ul.floating-menu {
 }
 
 .chapter3Text {
+	padding-left: 5%;
 	text-align: left;
+}
+
+.chapter3Text p {
+	padding: 15%;
 }
 
 .chapter3Text ul {
