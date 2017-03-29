@@ -528,10 +528,6 @@
 	<p>The baby is now considered late-term. Health care practitioners will encourage the mother into inducing labor to avoid any health risks.</p>
 </div>
 
-<div class="expandtest">
-</div>
-
-
 <!- Footer section ->
 <?php include 'includes/footer.php'; ?>
 

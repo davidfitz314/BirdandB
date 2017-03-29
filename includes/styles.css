@@ -312,12 +312,10 @@ ul.floating-menu {
 }
 
 .chapter3Text {
-	padding-left: 5%;
+	width: 75%;
+	margin-left: 25%;
+	line-height: 150%;
 	text-align: left;
-}
-
-.chapter3Text p {
-	padding: 15%;
 }
 
 .chapter3Text ul {
@@ -327,6 +325,6 @@ ul.floating-menu {
 }
 
 .ch3Images {
-	width: 50%;
+	width: 25%;
 	height: auto;
 }
