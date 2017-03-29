@@ -224,13 +224,13 @@ footer {
 	z-index: 100;
 }
 
-/* chapter 2 test section */
+/* floating menu section */
 .floating-menu {
 	font-family: sans-serif;
 	background: white;
 	/*border: solid black;*/
 	padding: 5px;
-	width: 220px;
+	width: 200px;
 	z-index: 99;
 	position: fixed;
 	line-height: 150%;
