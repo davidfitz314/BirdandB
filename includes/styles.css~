@@ -328,5 +328,5 @@ ul.floating-menu {
 	width: 25%;
 	height: auto;
 	max-width: 25%;
-	max-width: 25%
+	max-width: 25%;
 }
