@@ -251,7 +251,7 @@ ul.floating-menu {
 }
 
 .floating-menu h2 {
-	font-size: 90%;
+	font-size: 95%;
 }
 
 .expandtest {
@@ -328,7 +328,7 @@ ul.floating-menu {
 	line-height: 150%;
 }
 
-.ch3Images {
+.ch3Images img {
 	width: 25%;
 	height: auto;
 	max-width: 25%;
