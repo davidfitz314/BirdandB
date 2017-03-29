@@ -341,6 +341,6 @@ ul.closedCircle {
 }
 
 .ch3Images img {
-	width: 75%;
+	width: 100%;
 	height: auto;
 }

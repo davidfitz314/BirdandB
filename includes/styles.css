@@ -335,11 +335,6 @@ ul.closedCircle {
 	list-style-type: square;
 }
 
-.closedCircle li{
-	font-style: italic;
-	font-weight: bold;
-}
-
 .ch3Images img {
 	width: 100%;
 	height: auto;
