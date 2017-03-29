@@ -238,7 +238,7 @@ footer {
 
 .floating-menu a, 
 .floating-menu h3 {
-	font-size: 0.9em;
+	font-size: 0.8em;
 	display: block;
 	margin: 0 0.5em;
 	color: black;
