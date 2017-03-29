@@ -327,4 +327,6 @@ ul.floating-menu {
 .ch3Images {
 	width: 25%;
 	height: auto;
+	max-width: 25%;
+	max-width: 25%
 }
