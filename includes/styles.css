@@ -227,7 +227,6 @@ footer {
 /* floating menu section */
 .floating-menu {
 	font-family: sans-serif;
-	background: white;
 	/*border: solid black;*/
 	padding: 5px;
 	width: 200px;
@@ -302,7 +301,6 @@ ul.floating-menu {
 
 .weekNum p {
 	padding: 15%;
-	font-weight: bold;
 	font-size: 105%;
 }
 
@@ -311,6 +309,7 @@ ul.floating-menu {
 	padding-top: 10%;
 }
 
+/*chapter 3 section*/
 .chapter3Text {
 	width: 75%;
 	margin-left: 25%;
