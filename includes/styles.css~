@@ -230,7 +230,7 @@ footer {
 	background: white;
 	/*border: solid black;*/
 	padding: 5px;
-	width: 200px;
+	width: 220px;
 	z-index: 99;
 	position: fixed;
 	line-height: 150%;
@@ -309,5 +309,13 @@ ul.floating-menu {
 .ch2text {	
 	padding-left: 5%;
 	padding-top: 10%;
-	
+}
+
+.chapter3Text {
+	text-align: left;
+}
+
+.ch3Images {
+	width: 50%;
+	height: auto;
 }

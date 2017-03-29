@@ -309,5 +309,19 @@ ul.floating-menu {
 .ch2text {	
 	padding-left: 5%;
 	padding-top: 10%;
-	
+}
+
+.chapter3Text {
+	text-align: left;
+}
+
+.chapter3Text ul {
+	list-style-type: circle;
+	text-align: left;
+	line-height: 150%;
+}
+
+.ch3Images {
+	width: 50%;
+	height: auto;
 }
