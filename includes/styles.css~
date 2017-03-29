@@ -335,7 +335,7 @@ ul.closedCircle {
 	list-style-type: square;
 }
 
-ul.closedCircle li{
+.closedCircle li{
 	font-style: italic;
 	font-weight: bold;
 }
