@@ -323,7 +323,6 @@ ul.floating-menu {
 
 
 .chapter3Text ul {
-	list-style-type: square;
 	text-align: left;
 	line-height: 150%;
 }
