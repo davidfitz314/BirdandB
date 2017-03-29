@@ -250,6 +250,10 @@ ul.floating-menu {
 	text-align: left;
 }
 
+.floating-menu h2 {
+	font-size: 90%;
+}
+
 .expandtest {
 	height: 900px;
 }
