@@ -301,7 +301,6 @@ ul.floating-menu {
 
 .weekNum p {
 	padding: 15%;
-	font-weight: bold;
 	font-size: 105%;
 }
 
