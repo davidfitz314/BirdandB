@@ -5,7 +5,7 @@
 
 <!- navigation side bar ->
 <nav class="floating-menu">
-<h3>Chapter 2 Conception</h3>
+<h2>Chapter 2 Conception</h2>
 <strong><a href="chapter1.php">ch1 Overview</a></strong>
 <ul>
 <strong>Chapter 2</strong>
