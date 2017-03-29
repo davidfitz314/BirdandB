@@ -5,15 +5,15 @@
 
 <!- navigation side bar ->
 <nav class="floating-menu">
-<h1>Chapter 9: Default </h1>
-<strong><a href="chapter1.php">ch1 underConstruction</a></strong>
-<strong><a href="chapter2.php">ch2: Conception</a></strong>
-<strong><a href="chapter3.php">ch3 underConstruction</a></strong>
-<strong><a href="chapter4.php">ch4 underConstruction</a></strong>
-<strong><a href="chapter5.php">ch5 underConstruction</a></strong>
-<strong><a href="chapter6.php">ch6 underConstruction</a></strong>
-<strong><a href="chapter7.php">ch7 underConstruction</a></strong>
-<strong><a href="chapter8.php">ch8 underConstruction</a></strong>
+<h1>Chapter 9 Staying Safe During Sex</h1>
+<strong><a href="chapter1.php">ch1 Overview</a></strong>
+<strong><a href="chapter2.php">ch2 Conception</a></strong>
+<strong><a href="chapter3.php">ch3 Human Body Development</a></strong>
+<strong><a href="chapter4.php">ch4 Human Nature and Psychological Dependencies</a></strong>
+<strong><a href="chapter5.php">ch5 What is Sex</a></strong>
+<strong><a href="chapter6.php">ch6 Sexuality</a></strong>
+<strong><a href="chapter7.php">ch7 Love vs Sex</a></strong>
+<strong><a href="chapter8.php">ch8 Orgasm</a></strong>
 <ul>
 <strong>Chapter 9</strong>
 <li>
@@ -30,12 +30,12 @@
 </li>
 </ul>
 
-<strong><a href="chapter10.php">ch10 underConstruction</a></strong>
-<strong><a href="chapter11.php">ch11 underConstruction</a></strong>
-<strong><a href="chapter12.php">ch12 underConstruction</a></strong>
-<strong><a href="chapter13.php">ch13 underConstruction</a></strong>
-<strong><a href="chapter14.php">ch14 underConstruction</a></strong>
-<strong><a href="chapter15.php">ch15 underConstruction</a></strong>
+<strong><a href="chapter10.php">ch10 Sexually Transmitted Infections-STDs</a></strong>
+<strong><a href="chapter11.php">ch11 Human Sexuality in the World</a></strong>
+<strong><a href="chapter12.php">ch12 Kinks and Fetishes</a></strong>
+<strong><a href="chapter13.php">ch13 Sexual Assault</a></strong>
+<strong><a href="chapter14.php">ch14 Rape</a></strong>
+<strong><a href="chapter15.php">ch15 Works Cited and External Resources</a></strong>
 </nav>
 <!- end navigation sidebar ->
 
