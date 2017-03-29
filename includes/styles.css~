@@ -19,6 +19,10 @@ header {
     text-align: center;
 }
 
+p {
+	line-height: 150%;
+}
+
 .navi ul {
 	text-align: justify;
 	margin: auto;
@@ -49,6 +53,7 @@ header {
 	height: 180px;
 	width: 200px;
 	text-align: left;
+	line-height: 150%;
 }
 
 .cHeadCells {
@@ -74,17 +79,37 @@ header {
 }
 
 .CompanyDescription {
-	width: 85.5%;
-	height: 200px;
+	text-align: left:
 	border: 3px dashed black;
 	/*background-color: blue;*/
 	padding: 75px;
 	/*margin-top: 100px;*/
 }
 
+.centered {
+	text-align: center;
+}
+
+.disclaimer {
+	text-align:left;
+	width: 85.5%;
+	border: 5px double red;
+	padding: 75px;
+}
+
+.disclaimer h3{
+	color: #ED103F;
+	font-size: 110%;
+}
+
+
+.smallertext p {
+	font-size: 75%;
+}
+
 .CallsToAction {
 	display: table;
-	border: dashed black;
+	
 	width: 102%;
 }
 
@@ -96,8 +121,7 @@ header {
 	/*background-color: blue;*/
 	width: 33%;
 	color: black;
-	float:left;
-
+	border: dashed black;
 }
 
 .CTA1 a:link {
@@ -117,9 +141,8 @@ header {
 
 .CTA2 {
 	display: table-cell;
-	background-color: #C1B9B9;
+	background-color: white;
 	text-align: center;
-	width:67%;
 }
 
 .CTA1 p {
@@ -170,12 +193,12 @@ header {
 }
 
 .single2chap a:hover, .single4chap a:hover, .single6chap a:hover, .single8chap a:hover, .single10chap a:hover, .single12chap a:hover, .single14chap a:hover {
-	text-decoration: underline;
+	text-decoration: none;
 	color: #f06492;
 }
  
 .single1chap a:hover, .single3chap a:hover, .single5chap a:hover, .single7chap a:hover, .single9chap a:hover, .single11chap a:hover, .single13chap a:hover, .single15chap a:hover {
-	text-decoration: underline;
+	text-decoration: none;
 	color: #7990c9;
 }
 
@@ -241,4 +264,50 @@ ul.floating-menu {
 	width: 75%;
 	margin-left: 25%;
 	line-height: 150%;
+	text-align: left;
+}
+
+
+/*chapter 2 section*/
+.backline {
+
+}
+
+.plant_circle img {
+	padding: 15%;	
+	/*play with image height and make it match container proportionally */
+}
+
+.plant_circle {
+	
+	width: 100px;
+	height: 100px;
+	background-image: url("images/chapter2/circle.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+	text-align: center;
+	float: left;
+}
+
+.weekNum {
+	width: 100px;
+	height: 100px;
+	background-image: url("images/chapter2/circle.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+	text-align: center;
+	float: left;
+	margin-left: 5%;
+}
+
+.weekNum p {
+	padding: 15%;
+	font-weight: bold;
+	font-size: 105%;
+}
+
+.ch2text {	
+	padding-left: 5%;
+	padding-top: 10%;
+	
 }

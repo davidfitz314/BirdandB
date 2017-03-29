@@ -1,7 +1,7 @@
 <!- continued from header centered-wrapper div ->
 <?php include 'includes/chapHeader.php'; ?>
 
-<!- begin chapter 2 ->
+<!- begin chapter 3 ->
 
 <!- navigation side bar ->
 <nav class="floating-menu">
@@ -40,18 +40,13 @@
 
 <!- top page image ->
 <div class="chapterLogo">
-<img src="includes/images/medical_instruments.jpg" alt="change to default">
+<img src="includes/images/chapter3/growth.png" alt="male and female growth">
 </div>
 
 <!- chapter text division ->
-<div class="chapter2Text">
-<br>
+<div class="chapter3Text">
 <strong><p>Under construction </p></strong>
 </div>
-
-<div class="expandtest">
-</div>
-
 
 <!- Footer section ->
 <?php include 'includes/footer.php'; ?>
