@@ -234,7 +234,6 @@ People can love:</p>
 	<div class="ch7Images">
 		<img src="includes/images/chapter7/psychology.png" alt="Two heads interconnected working together">
 	</div>
-
 </div>
 
 <!- Footer section ->
