@@ -114,7 +114,7 @@
 
 	<p>According to the Kinsey Institute studies statistics for:</p>
 	
-	<p><strong class="addItalic">Sexual Behavior</strong></p>
+	<h5 class="addItalic">Sexual Behavior</h5>
 	<ul class="solidCitcle">
 		<li>45% of participants considered performing manual-genital stimulation to be "having sex".</li>
 
@@ -124,7 +124,7 @@
 	<!- Interesting Fact goes here ->
 	</ul>
 
-	<p><strong class="addItalic">Age & Sexual Activity</strong></p>
+	<h5 class="addItalic">Age & Sexual Activity</h5>
 	<ul class="solidCitcle">
 		<li>The first intercourse for males average was 16.8yrs old and for females it was 17.2yrs old.</li>
 
@@ -135,13 +135,13 @@
 		<li>Among ages 18-59, the older aged men associate a lower likelihood of their own orgasm; but for women it is associated with a higher likelihood of her own orgasm.</li>
 	</ul>
 
-	<p><strong class="addItalic">Condom Use</strong></p>
+	<h5 class="addItalic">Condom Use</h5>
 	<ul class="solidCitcle">
 		<li>56% of american women and 66% of men report using a condom use for their first sex experience. 72% of females and 78% of male teenagers 15-19 years reported using a condom during their first sex experience.</li>
 
 		<li>28.1% of men reported that they had lost their erection while putting on a condom at least once during the last three times they used a condoms. Men who reported erection loss with condoms were almost twice as likely to report having removed a condom prematurely during the last three condom uses.</li>
 	</ul>
-	<p><strong class="addItalic">Masturbation</strong></p>
+	<h5 class="addItalic">Masturbation</h5>
 	<ul class="solidCitcle">
 		<li>More than half of women ages 18 to 49 reported masturbating during the previous 90 days. Rates were highest among those 25-29 and progressively lesser in older age groups (National Survey of Sexual Health and Behavior, 2010).</li>
 	<!- Interesting Fact goes here ->
@@ -149,7 +149,7 @@
 		<li>Approximately one-third of women in all relationships in the 60- to 69-year cohort reported recent masturbation (National Survey of Sexual Health and Behavior, 2010).</li>
 	</ul>
 
-	<p><strong class="addItalic">Orgasm</strong></p>
+	<h5 class="addItalic">Orgasm</h5>
 	<ul class="solidCitcle">
 		<li>About 85% of men report that their partner had an orgasm at the most recent sexual event; this compares to the 64% of women who report having had an orgasm at their most recent sexual event.</li>
 
@@ -160,7 +160,7 @@
 		<li>It is possible to experience both genital and nongenital orgasm, even for some individuals with spinal cord injuries. (Functional MRI of the brain during orgasm in women, 2005).</li>
 	</ul>
 
-	<p><strong class="addItalic">Sexual Orientation</strong></p>
+	<h5 class="addItalic">Sexual Orientation</h5>
 	<ul class="solidCitcle">
 		<li>An estimated 3.5% of adults in the United States identify as lesbian, gay, or bisexual.</li>
 
@@ -169,7 +169,7 @@
 		<li>In an analysis of national survey results from 2006-2008, the percentage reporting their sexual identity as homosexual ranged from 2–4% of males, and about 1–2% of females.</li>
 	</ul>
 
-	<p><strong class="addItalic">Pornography</strong></p>
+	<h5 class="addItalic">Pornography</h5>
 	<ul class="solidCitcle">
 		<li>In a survey of adolescent (10-17 y/o) internet users found 42% had been exposed to internet pornography in the past year, with 66% of those exposures reported as unwanted.</li>
 
