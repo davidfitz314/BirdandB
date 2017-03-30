@@ -62,12 +62,12 @@
 		<li>Fifth Learn about your sexual preferences.</li>
 		<ul class="openCircle">
 			<li>Do you like males, females, trans, others?</li>
-		<ul>
+		</ul>
 
 		<li>Sixth learn about your sexual preferences that others would call kinks or fetishes.</li>
 		<ul class="openCircle">
 			<li>Having a fetish or kink is never a bad thing unless it harms the other person against their will, so feel free to explore the options out there.</li>
-		<ul>
+		</ul>
 
 		<li>Seventh tell your close friends about yourself. Start small, but express yourself.</li>
 
