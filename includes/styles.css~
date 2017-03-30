@@ -341,6 +341,10 @@ ul.closedCircle {
 	list-style-type: square;
 }
 
+.addItallic {
+	font-style: italic;
+}
+
 /* chapter 4 section */
 .chapter4Text {
 	width: 75%;
@@ -377,4 +381,67 @@ ul.closedCircle {
 	height: auto;
 }
 
+/* chapter 6 section */
+.chapter6Text {
+	width: 75%;
+	margin-left: 25%;
+	line-height: 150%;
+	text-align: left;
+}
+
+.chapter6Text ul {
+	text-align: left;
+	line-height: 150%;
+}
+
+.ch6Images img {
+	width: 100%;
+	height: auto;
+}
+
+/* chapter 7 section */
+.chapter7Text {
+	width: 75%;
+	margin-left: 25%;
+	line-height: 150%;
+	text-align: left;
+}
+
+.chapter7Text ul {
+	text-align: left;
+	line-height: 150%;
+}
+
+.ch7Images img {
+	width: 100%;
+	height: auto;
+}
+
+/* chapter 8 section */
+.chapter8Text {
+	width: 75%;
+	margin-left: 25%;
+	line-height: 150%;
+	text-align: left;
+}
+
+.chapter8Text ul {
+	text-align: left;
+	line-height: 150%;
+}
+
+.ch8Images img {
+	width: 100%;
+	height: auto;
+}
+
+.chapter8Text a{
+	text-decoration: none;
+	color: black;
+}
+
+.chapter8Text a:hover {
+	text-decoration: none;
+	color: blue;
+}
 
