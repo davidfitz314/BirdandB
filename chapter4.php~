@@ -41,7 +41,7 @@
 
 <!- top page image ->
 <div class="chapterLogo">
-<img src="includes/images/medical_instruments.jpg" alt="change to default">
+<img src="includes/images/chapter4/faces(bounce).png" alt="Multiple Emoticons and Types">
 </div>
 
 <!- chapter text division ->
@@ -102,6 +102,10 @@
 		<li>Disorganized from Child: The child has no attaching behaviors, often appears dazed, confused, or apprehensive in presence of caregiver.</li>
 	</ul>	
 	
+	<div class="ch4Images">
+		<img src="includes/images/chapter4/footprints.png" alt="Foot print behaviors, adult and child representation">
+	</div>
+
 	<h4>Adult Behavior and Attachments</h4>
 	<p>After childhood the experience in care reflects in humans quite deeply. The second part of Attachment theory by Mary Ainsworth dives into the effects the attachment still holds over the adults behavior. The adult Attachment Behavior can be broken down into 4 sections: Autonomous/Secure, Dismissing, Resistant/Preoccupied, Unresolved/Disorganized.</p>
 	<ul class="solidCircle">
@@ -117,7 +121,9 @@
 	<p>When it comes to human nature it is important to understand who you are and how you respond to getting close to people. If your past was Autonomous/Secure you may have an easier time than others in terms of loving others, but regardless of how you were raised it is up to the adult to realize patterns from their past that may harm their relationships and to change them.</p>	
 	<!- Interesting Fact goes here ->
 
-	<div class=""><img src="" alt=""></div>
+	<div class="ch4Images">
+		<img src="includes/images/chapter4/shadows.png" alt="Shadows of people going in all different directions">
+	</div>
 
 
 </div>
