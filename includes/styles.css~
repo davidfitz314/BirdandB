@@ -50,10 +50,10 @@ p {
 	background-image: url("images/logo.png");
 	background-repeat: no-repeat;
 	background-size: contain;
-	height: 180px;
+	height: 150px;
 	width: 200px;
 	text-align: left;
-	line-height: 150%;
+	line-height: 100%;
 }
 
 .cHeadCells {
