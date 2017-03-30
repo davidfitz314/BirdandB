@@ -14,16 +14,13 @@
 <ul>
 <strong>Chapter 6</strong>
 <li>
-<a href="chapter6.php">default</a>
+<a href="chapter6.php">Sexual Identity</a>
 </li>
 <li>
-<a href="chapter6.php">default</a>
+<a href="chapter6.php">Sexual Preference</a>
 </li>
 <li>
-<a href="chapter6.php">default</a>
-</li>
-<li>
-<a href="chapter6.php">default</a>
+<a href="chapter6.php">Sex Appeal -local & global</a>
 </li>
 </ul>
 
@@ -45,14 +42,14 @@
 </div>
 
 <!- chapter text division ->
-<div class="chapter2Text">
+<div class="chapter6Text">
 <br>
-<strong><p>Under construction </p></strong>
-</div>
+<h2>Chapter 6: Sexuality</h2>
+	<h4>Sexual Identity</h4>
+	</p></p>
 
-<div class="expandtest">
-</div>
 
+</div>
 
 <!- Footer section ->
 <?php include 'includes/footer.php'; ?>

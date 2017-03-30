@@ -13,16 +13,16 @@
 <ul>
 <strong>Chapter 5</strong>
 <li>
-<a href="chapter5.php">default</a>
+<a href="chapter5.php">Defining Sex</a>
 </li>
 <li>
-<a href="chapter5.php">default</a>
+<a href="chapter5.php">Types of Sex</a>
 </li>
 <li>
-<a href="chapter5.php">default</a>
+<a href="chapter5.php">Sexual Activities</a>
 </li>
 <li>
-<a href="chapter5.php">default</a>
+<a href="chapter5.php">Who is having Sex?</a>
 </li>
 </ul>
 
