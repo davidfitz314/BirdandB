@@ -46,7 +46,14 @@
 <br>
 <h2>Chapter 6: Sexuality</h2>
 	<h4>Sexual Identity</h4>
-	</p></p>
+	</p>Each person has a sexual identity, it can come from a person’s capacity for sexual feelings, their sexual orientation or preference, and their sexual activity. Even those with low or even no sexual feelings have a sexual identity.</p>
+
+	<p>While many do not know what their sexual identity is, one can begin to understand it by trying a few of the steps below:</p>
+
+	<ol class="orderedListStyle">
+		<li></li>
+		<li></li>
+	</ol>
 
 
 </div>
