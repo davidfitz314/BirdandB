@@ -72,7 +72,7 @@
 
 		<li><strong>Sex Toys:</strong> The act of using an object on sexual organs to produce climax in sexual response.</li>
 
-		<li><strong>Penetrative Sex: When something goes inside someone else’s body, this includes objects, genitalia, and other body parts entering another’s body.</li>
+		<li><strong>Penetrative Sex:</strong> When something goes inside someone else’s body, this includes objects, genitalia, and other body parts entering another’s body.</li>
 	</ul>
 	<!- Interesting Fact goes here ->
 
