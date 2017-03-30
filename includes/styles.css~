@@ -36,6 +36,7 @@ p {
 }
 
 .cNavi {
+	height: 125px;
 	display:table;
 }
 
@@ -50,7 +51,7 @@ p {
 	background-image: url("images/logo.png");
 	background-repeat: no-repeat;
 	background-size: contain;
-	height: 150px;
+	height: 115px;;
 	width: 200px;
 	text-align: left;
 	line-height: 100%;
@@ -221,7 +222,7 @@ footer {
 	width: 80%;
 	padding: 100px;
 	border: 3px dashed black;
-	z-index: 100;
+	z-index: 99;
 }
 
 /* floating menu section */
@@ -230,7 +231,7 @@ footer {
 	/*border: solid black;*/
 	padding: 5px;
 	width: 200px;
-	z-index: 99;
+	z-index: 100;
 	position: fixed;
 	line-height: 115%;
 	text-align:left;
