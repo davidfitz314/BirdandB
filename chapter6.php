@@ -80,7 +80,7 @@
 	<p>Sexual preference, also known as sexual orientation, is a repeating pattern of romantic, sexual attraction, or a mix of the two to people of the opposite sex or gender, to both sexes, or more than one gender. These attractions are generally included under heterosexuality, homosexuality, and bisexuality, while asexuality -the lack of sexual attraction to others- is only occasionally identified as a fourth category.</p>
 
 	<div class="ch6Images">
-		<img src="include/images/chapter6/searching.png" alt="Magnifying glass over a hart shape">
+		<img src="includes/images/chapter6/searching.png" alt="Magnifying glass over a hart shape">
 	</div>
 
 	<h5>Genders</h5>
@@ -116,7 +116,7 @@
 	</ul>
 
 	<div class="ch6Images">
-		<img src="include/images/chapter6/bodyLanguage.png" alt="Multiple people showing body language while talking">
+		<img src="includes/images/chapter6/bodyLanguage.png" alt="Multiple people showing body language while talking">
 	</div>
 
 	<h5>Around the World Preferences<p> (based on information gathered by Dailymail.com, FoxHoundStudio.com, Cosmopolitan and more... for full documentation of sources provided here please see Chapter 15 References and Works Cited. )<p></h5>
@@ -139,7 +139,7 @@
 	<p>Many groups have preferences of beauty that range from long ear lobe piercings to disks in their lips to different tattoo styles and much more, usually related to body modification.</p>
 
 	<div class="ch6Images">
-		<img src="include/images/chapter6/culture.png" alt="Face and hair mixed culture style and color">
+		<img src="includes/images/chapter6/culture.png" alt="Face and hair mixed culture style and color">
 	</div>
 </div>
 
