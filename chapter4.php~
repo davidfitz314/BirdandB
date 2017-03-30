@@ -78,6 +78,10 @@
 	</ul>		
 	<!- Interesting Fact goes here ->
 
+	<div class="ch4Images">
+		<img src="includes/images/chapter4/footprints.png" alt="Foot print behaviors, adult and child representation">
+	</div>
+
 	<h4>Child Behavior and Attachments</h4>
 	<p>Even during childhood humans are studied to understand their nature. One area focused on by Mary Ainsworth -a Canadian-American Psychologist- is called Attachment Theory and relates to a child’s attachment type to its parents. The theory behind it goes into details saying how children during early stages of their lives learn how they should behave or be dependent on others, which then becomes the basis for their adult selves behavior attachments.</p>
 	
@@ -103,7 +107,7 @@
 	</ul>	
 	
 	<div class="ch4Images">
-		<img src="includes/images/chapter4/footprints.png" alt="Foot print behaviors, adult and child representation">
+		<img src="includes/images/chapter4/shadows.png" alt="Shadows of people going in all different directions">
 	</div>
 
 	<h4>Adult Behavior and Attachments</h4>
@@ -121,9 +125,7 @@
 	<p>When it comes to human nature it is important to understand who you are and how you respond to getting close to people. If your past was Autonomous/Secure you may have an easier time than others in terms of loving others, but regardless of how you were raised it is up to the adult to realize patterns from their past that may harm their relationships and to change them.</p>	
 	<!- Interesting Fact goes here ->
 
-	<div class="ch4Images">
-		<img src="includes/images/chapter4/shadows.png" alt="Shadows of people going in all different directions">
-	</div>
+	
 
 
 </div>
