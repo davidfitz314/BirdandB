@@ -45,15 +45,41 @@
 <div class="chapter6Text">
 <br>
 <h2>Chapter 6: Sexuality</h2>
-	<h4>Sexual Identity</h4>
+	<h3>Sexual Identity</h3>
 	</p>Each person has a sexual identity, it can come from a person’s capacity for sexual feelings, their sexual orientation or preference, and their sexual activity. Even those with low or even no sexual feelings have a sexual identity.</p>
 
 	<p>While many do not know what their sexual identity is, one can begin to understand it by trying a few of the steps below:</p>
 
 	<ol class="orderedListStyle">
-		<li></li>
-		<li></li>
+		<li>First look at yourself? Do you see more masculine or feminine features?</li>
+
+		<li>Second how do you feel about your features? They may look masculine or feminine but do you want to still call them that?</li>
+
+		<li>Third decide for yourself what you want identify as. Boy, girl, trans, etc…</li>
+
+		<li>Fourth think about what makes you feel sexual. You can write it down so that you always have a way of remembering your favorite sexualities of yourself.</li>
+
+		<li>Fifth Learn about your sexual preferences.</li>
+		<ul class="openCircle">
+			<li>Do you like males, females, trans, others?</li>
+		<ul>
+
+		<li>Sixth learn about your sexual preferences that others would call kinks or fetishes.</li>
+		<ul class="openCircle">
+			<li>Having a fetish or kink is never a bad thing unless it harms the other person against their will, so feel free to explore the options out there.</li>
+		<ul>
+
+		<li>Seventh tell your close friends about yourself. Start small, but express yourself.</li>
+
+		<li>Eighth find a group of similar people that you can connect to and talk about your identity and preferences with.</li>
+
+		<li>Ninth believe in yourself. You are a unique person and you should be proud of that uniqueness.</li>
 	</ol>
+
+	<h3>Sexual Preference</h3>
+	<p>Sexual preference, also known as sexual orientation, is a repeating pattern of romantic, sexual attraction, or a mix of the two to people of the opposite sex or gender, to both sexes, or more than one gender. These attractions are generally included under heterosexuality, homosexuality, and bisexuality, while asexuality -the lack of sexual attraction to others- is only occasionally identified as a fourth category.</p>
+
+	<h4>Genders</h4>
 
 
 </div>
