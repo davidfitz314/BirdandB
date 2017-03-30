@@ -50,7 +50,7 @@
 
 	<p>While many do not know what their sexual identity is, one can begin to understand it by trying a few of the steps below:</p>
 
-	<ul class="closedCircle">
+	<ol>
 		<li>First look at yourself? Do you see more masculine or feminine features?</li>
 
 		<li>Second how do you feel about your features? They may look masculine or feminine but do you want to still call them that?</li>
@@ -74,7 +74,7 @@
 		<li>Eighth find a group of similar people that you can connect to and talk about your identity and preferences with.</li>
 
 		<li>Ninth believe in yourself. You are a unique person and you should be proud of that uniqueness.</li>
-	</ul>
+	</ol>
 
 	<h4>Sexual Preference</h4>
 	<p>Sexual preference, also known as sexual orientation, is a repeating pattern of romantic, sexual attraction, or a mix of the two to people of the opposite sex or gender, to both sexes, or more than one gender. These attractions are generally included under heterosexuality, homosexuality, and bisexuality, while asexuality -the lack of sexual attraction to others- is only occasionally identified as a fourth category.</p>
