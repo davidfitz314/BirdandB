@@ -143,6 +143,7 @@
 	</div>
 </div>
 
+
 <!- Footer section ->
 <?php include 'includes/footer.php'; ?>
 
