@@ -50,7 +50,7 @@
 
 	<p>While many do not know what their sexual identity is, one can begin to understand it by trying a few of the steps below:</p>
 
-	<ol class="orderedListStyle">
+	<ul class="closedCircle">
 		<li>First look at yourself? Do you see more masculine or feminine features?</li>
 
 		<li>Second how do you feel about your features? They may look masculine or feminine but do you want to still call them that?</li>
