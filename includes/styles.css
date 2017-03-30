@@ -435,13 +435,13 @@ ul.closedCircle {
 	height: auto;
 }
 
-a.chapter8Text{
+.chapter8Text a{
 	text-decoration: none;
 	color: black;
 }
 
 .chapter8Text a:hover {
 	text-decoration: none;
-	color: blue;
+	color: black;
 }
 
