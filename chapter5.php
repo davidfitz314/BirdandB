@@ -100,7 +100,7 @@
 		<img src="includes/images/chapter5/map.png" alt="Different nations flags on a map">
 	</div>
 
-	<p>Sexual activity can be regarded in terms of cultural as conventional or alternative. Where a sexual activity in one culture may be regarded as conventional, in a separate culture that same activity could be considered alternative. This is seen regularly in places with different ages of consent for sex. Besides cultural differences, sexual activity can be categorized as fetishm, paraphillia, or BDSM activities. For more information on fetishes, BDSM and kinks please visit <a href="chapter12.php">Chapter 12 Kinks & Fetishes</a>.</p>
+	<p>Sexual activity can be regarded in terms of cultural as conventional or alternative. Where a sexual activity in one culture may be regarded as conventional, in a separate culture that same activity could be considered alternative. This is seen regularly in places with different ages of consent for sex. Besides cultural differences, sexual activity can be categorized as fetishm, paraphillia, or BDSM activities. For more information on fetishes, BDSM and kinks please visit <a href="chapter12.php">Chapter 12 Kinks &amp; Fetishes</a>.</p>
 
 	<p>Finally sexual activity has different levels of consent. If all parties agree to the sexual activity it is regarded as consensual. However, in the event where one or more does not consent it becomes regarded as sexual assault or rape, and different laws can criminalize the aggressor. For more information of Sexual Assault or Sexual Rape please visit the following chapters: <a href="chapter15.php">Chapter 15 Sexual Assault</a> / <a href="chapter16.php">Chapter 16 Sexual Rape</a>.</p>
 
@@ -124,7 +124,7 @@
 	<!- Interesting Fact goes here ->
 	</ul>
 
-	<h5 class="addItalic">Age & Sexual Activity</h5>
+	<h5 class="addItalic">Age &amp; Sexual Activity</h5>
 	<ul class="solidCitcle">
 		<li>The first intercourse for males average was 16.8yrs old and for females it was 17.2yrs old.</li>
 

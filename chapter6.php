@@ -20,7 +20,7 @@
 <a href="chapter6.php">Sexual Preference</a>
 </li>
 <li>
-<a href="chapter6.php">Sex Appeal -local & worldwide</a>
+<a href="chapter6.php">Sex Appeal -local &amp; worldwide</a>
 </li>
 </ul>
 
@@ -91,7 +91,7 @@
 	<h5>Sex</h5>
 	<p>In relation towards biology, sex is the reproductive organs that people are born with. It consists of three categories Males with XY chromosomes, Females with XX chromosomes, or Transgendered which can be a mixture of different chromosomes other than the common male and female pattern for chromosomes. For more information on Sex in regards to sexual activity please see <a href="chapter5.php">Chapter 5: What is Sex</a>.</p>
 
-	<h4>Sex Appeal -local & worldwide</h4>
+	<h4>Sex Appeal -local &amp; worldwide</h4>
 	<p><strong class="addItalic">Sexual attraction</strong> is the attraction on the basis of sexual desire or the quality of arousing such interests. Sexual attractiveness or sex appeal is an individual’s ability to attract the sexual or erotic interests of another person and is a common factor in sexual selection or mate choice.</p>
 
 	<p><strong class="addItalic">Local sexual attraction</strong> changes by region, but can follow a similar pattern, below is a list of items that are considered locally sexually attractive.</p>

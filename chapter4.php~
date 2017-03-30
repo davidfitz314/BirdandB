@@ -12,16 +12,16 @@
 <ul>
 <strong>Chapter 4</strong>
 <li>
-<a href="chapter4.php">default</a>
+<a href="chapter4.php">Human Nature</a>
 </li>
 <li>
-<a href="chapter4.php">default</a>
+<a href="chapter4.php">Emotions</a>
 </li>
 <li>
-<a href="chapter4.php">default</a>
+<a href="chapter4.php">Child Behavior and Attachments</a>
 </li>
 <li>
-<a href="chapter4.php">default</a>
+<a href="chapter4.php">Adult Behavior and Attachments</a>
 </li>
 </ul>
 
