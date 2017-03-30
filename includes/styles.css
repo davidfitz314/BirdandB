@@ -435,13 +435,18 @@ ul.closedCircle {
 	height: auto;
 }
 
-.chapter8Text a{
+.chapter8Text a:link {
+	text-decoration: none;
+	color: black;
+}
+
+.chapter8Text a:visited {
 	text-decoration: none;
 	color: black;
 }
 
 .chapter8Text a:hover {
 	text-decoration: none;
-	color: black;
+	color: blue;
 }
 

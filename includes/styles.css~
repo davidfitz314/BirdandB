@@ -442,6 +442,6 @@ ul.closedCircle {
 
 .chapter8Text a:hover {
 	text-decoration: none;
-	color: blue;
+	color: black;
 }
 
