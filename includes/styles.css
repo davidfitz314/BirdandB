@@ -80,7 +80,7 @@ p {
 }
 
 .CompanyDescription {
-	text-align: left:
+	text-align: left;
 	border: 3px dashed black;
 	/*background-color: blue;*/
 	padding: 75px;
