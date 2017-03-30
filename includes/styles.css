@@ -327,6 +327,12 @@ ul.floating-menu {
 	line-height: 150%;
 }
 
+.ch3Images img {
+	width: 100%;
+	height: auto;
+}
+
+/*generic styling for lists*/
 ul.openCircle {
 	list-style-type: circle;
 }
@@ -335,7 +341,20 @@ ul.closedCircle {
 	list-style-type: square;
 }
 
-.ch3Images img {
+/* chapter 4 section */
+.chapter4Text {
+	width: 75%;
+	margin-left: 25%;
+	line-height: 150%;
+	text-align: left;
+}
+
+.chapter4Text ul {
+	text-align: left;
+	line-height: 150%;
+}
+
+.ch4Images img {
 	width: 100%;
 	height: auto;
 }
