@@ -76,12 +76,13 @@
 		<li>Ninth believe in yourself. You are a unique person and you should be proud of that uniqueness.</li>
 	</ol>
 
-	<h4>Sexual Preference</h4>
-	<p>Sexual preference, also known as sexual orientation, is a repeating pattern of romantic, sexual attraction, or a mix of the two to people of the opposite sex or gender, to both sexes, or more than one gender. These attractions are generally included under heterosexuality, homosexuality, and bisexuality, while asexuality -the lack of sexual attraction to others- is only occasionally identified as a fourth category.</p>
-
 	<div class="ch6Images">
 		<img src="includes/images/chapter6/searching.png" alt="Magnifying glass over a hart shape">
 	</div>
+
+	<h4>Sexual Preference</h4>
+	<p>Sexual preference, also known as sexual orientation, is a repeating pattern of romantic, sexual attraction, or a mix of the two to people of the opposite sex or gender, to both sexes, or more than one gender. These attractions are generally included under heterosexuality, homosexuality, and bisexuality, while asexuality -the lack of sexual attraction to others- is only occasionally identified as a fourth category.</p>
+
 
 	<h5>Genders</h5>
 	<p>The state of being male or female, these are usually used in reference to social and cultural differences instead of the biological ones.</p>
@@ -95,6 +96,10 @@
 	<p><strong class="addItalic">Sexual attraction</strong> is the attraction on the basis of sexual desire or the quality of arousing such interests. Sexual attractiveness or sex appeal is an individual’s ability to attract the sexual or erotic interests of another person and is a common factor in sexual selection or mate choice.</p>
 
 	<p><strong class="addItalic">Local sexual attraction</strong> changes by region, but can follow a similar pattern, below is a list of items that are considered locally sexually attractive.</p>
+	
+	<div class="ch6Images">
+		<img src="includes/images/chapter6/bodyLanguage.png" alt="Multiple people showing body language while talking">
+	</div>
 
 	<h5>Body, body language and behavior for the U.S.</h5>
 	<ul class="closedCircle">
@@ -115,8 +120,9 @@
 		<!- include bulleted list ->
 	</ul>
 
+
 	<div class="ch6Images">
-		<img src="includes/images/chapter6/bodyLanguage.png" alt="Multiple people showing body language while talking">
+		<img src="includes/images/chapter6/culture.png" alt="Face and hair mixed culture style and color">
 	</div>
 
 	<h5>Around the World Preferences<p> (based on information gathered by Dailymail.com, FoxHoundStudio.com, Cosmopolitan and more... for full documentation of sources provided here please see Chapter 15 References and Works Cited. )<p></h5>
@@ -138,9 +144,7 @@
 	<h5>Mixed sexual preference</h5>
 	<p>Many groups have preferences of beauty that range from long ear lobe piercings to disks in their lips to different tattoo styles and much more, usually related to body modification.</p>
 
-	<div class="ch6Images">
-		<img src="includes/images/chapter6/culture.png" alt="Face and hair mixed culture style and color">
-	</div>
+	
 </div>
 
 
