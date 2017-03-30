@@ -341,7 +341,7 @@ ul.closedCircle {
 	list-style-type: square;
 }
 
-.addItallic {
+.addItalic {
 	font-style: italic;
 }
 
