@@ -341,7 +341,7 @@ ul.closedCircle {
 	list-style-type: square;
 }
 
-.addItallic {
+.addItalic {
 	font-style: italic;
 }
 
@@ -413,6 +413,16 @@ ul.closedCircle {
 .ch6Images img {
 	width: 100%;
 	height: auto;
+}
+
+.chapter6Text a {
+	text-decoration: none;
+	color: black;
+}
+
+.chapter6Text a:hover {
+	text-decoration: none;
+	color: blue;
 }
 
 /* chapter 7 section */

@@ -20,7 +20,7 @@
 <a href="chapter6.php">Sexual Preference</a>
 </li>
 <li>
-<a href="chapter6.php">Sex Appeal -local & global</a>
+<a href="chapter6.php">Sex Appeal -local & worldwide</a>
 </li>
 </ul>
 
@@ -38,7 +38,7 @@
 
 <!- top page image ->
 <div class="chapterLogo">
-<img src="includes/images/medical_instruments.jpg" alt="change to default">
+<img src="includes/images/chapter6/burlesque.png" alt="Shadow burlesque dancers">
 </div>
 
 <!- chapter text division ->
@@ -76,12 +76,71 @@
 		<li>Ninth believe in yourself. You are a unique person and you should be proud of that uniqueness.</li>
 	</ol>
 
-	<h3>Sexual Preference</h3>
+	<h4>Sexual Preference</h4>
 	<p>Sexual preference, also known as sexual orientation, is a repeating pattern of romantic, sexual attraction, or a mix of the two to people of the opposite sex or gender, to both sexes, or more than one gender. These attractions are generally included under heterosexuality, homosexuality, and bisexuality, while asexuality -the lack of sexual attraction to others- is only occasionally identified as a fourth category.</p>
 
-	<h4>Genders</h4>
+	<div class="ch6Images">
+		<img src="include/images/chapter6/searching.png" alt="Magnifying glass over a hart shape">
+	</div>
 
+	<h5>Genders</h5>
+	<p>The state of being male or female, these are usually used in reference to social and cultural differences instead of the biological ones.</p>
 
+	<p>Genders are a choice in the way that if people feel they are more feminine than masculine even though they were born with the biological traits of a male, they may choose to change their gender as a part of their sexual identity. While many may wish to identify as a different gender than the one they were born with physically, remember that society still holds norms and laws related to the biological gender. However, there are options out there to modify the biological gender into what the person feels more comfortable with.</p>
+
+	<h5>Sex</h5>
+	<p>In relation towards biology, sex is the reproductive organs that people are born with. It consists of three categories Males with XY chromosomes, Females with XX chromosomes, or Transgendered which can be a mixture of different chromosomes other than the common male and female pattern for chromosomes. For more information on Sex in regards to sexual activity please see <a href="chapter5.php">Chapter 5: What is Sex</a>.</p>
+
+	<h4>Sex Appeal -local & worldwide</h4>
+	<p><strong class="addItalic">Sexual attraction</strong> is the attraction on the basis of sexual desire or the quality of arousing such interests. Sexual attractiveness or sex appeal is an individual’s ability to attract the sexual or erotic interests of another person and is a common factor in sexual selection or mate choice.</p>
+
+	<p><strong class="addItalic">Local sexual attraction</strong> changes by region, but can follow a similar pattern, below is a list of items that are considered locally sexually attractive.</p>
+
+	<h5>Body, body language and behavior for the U.S.</h5>
+	<ul class="closedCircle">
+		<li>Be flirtatious, bold, break the ice and make eye contact.</li>
+
+		<li>Project confidence, take care of oneself and use open body language.</li>
+
+		<li>Smile.</li>
+
+		<li>Attract women by taking charge, being mature or acting your age, and paying attention.</li>
+
+		<li>Attract men by wearing red, highlighting or emphasizing your eyes, and being agreeable.</li>
+
+		<li>The body type most preferred by women for men to have is fit but not bulky.</li>
+
+		<li>Body types most preferred by men for women to have are curvy, athletic, and slim body type.</li>
+	<!- Interesting Fact goes here ->
+		<!- include bulleted list ->
+	</ul>
+
+	<div class="ch6Images">
+		<img src="include/images/chapter6/bodyLanguage.png" alt="Multiple people showing body language while talking">
+	</div>
+
+	<h5>Around the World Preferences<p> (based on information gathered by Dailymail.com, FoxHoundStudio.com, Cosmopolitan and more... for full documentation of sources provided here please see Chapter 15 References and Works Cited. )<p></h5>
+
+	<h5>Male sexual preference for females</h5>
+	<ul class="closedCircle">
+		<li>South African men preferred athletic body types.</li>
+		<li>Japanese men preferred cute and petite body types.</li>
+		<li>Senegal Men preferred the rounder type with healthy curves.</li>
+		<li>Middle Eastern Men preferred women with a rounder face.</li>
+		<li>Barbados men preferred women who were toned but still curvy.</li>
+		<li>Spain men preferred skinny women.</li>
+		<li>Ethiopian men liked their women with short hair.</li>
+	</ul>
+
+	<h5>Female sexual preference for males</h5>
+	<p>Females had a more generalized outlook for body preference. Many sources showed bulkier men were the favorite regardless of whether it was muscle or fat bulky. The general consensus appears to be that women choose men's body styles based on nature’s built physique for defending and protecting.</p>
+
+	<h5>Mixed sexual preference</h5>
+	<p>Many groups have preferences of beauty that range from long ear lobe piercings to disks in their lips to different tattoo styles and much more, usually related to body modification.</p>
+
+	<div class="ch6Images">
+		<img src="include/images/chapter6/culture.png" alt="Face and hair mixed culture style and color">
+	</div>
 </div>
 
 <!- Footer section ->
