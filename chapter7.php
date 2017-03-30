@@ -44,7 +44,7 @@
 
 <!- top page image ->
 <div class="chapterLogo">
-<img src="includes/images/chapter7/VS.png" alt="Love vs sex">
+<img src="includes/images/chapter7/VS.PNG" alt="Love vs sex">
 </div>
 
 <!- chapter text division ->
@@ -73,7 +73,7 @@ People can love:</p>
 	</ul>
 
 	<div class="ch7Images">
-		<img src="includes/images/chapter7/love.png" alt="Heart on a clothesline">
+		<img src="includes/images/chapter7/love.PNG" alt="Heart on a clothesline">
 	</div>
 
 	<p>The famous author of children’s books Dr. Seuss once described love as “<i>You know you're in love when you can't fall asleep because reality is finally better than your dreams.</i>”</p>
