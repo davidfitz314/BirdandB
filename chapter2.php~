@@ -5,7 +5,7 @@
 
 <!- navigation side bar ->
 <nav class="floating-menu">
-<h3>Chapter 2 Conception</h3>
+<h2>Chapter 2 Conception</h2>
 <strong><a href="chapter1.php">ch1 Overview</a></strong>
 <ul>
 <strong>Chapter 2</strong>
@@ -70,7 +70,7 @@
 	<!- image and week# ->
 	<div class="backline">	
 		<div class="plant_circle">
-		<img src="includes/images/chapter2/poppySeed.png" alt="poppy seed" style="width:64px;height:53px">	
+		<img src="includes/images/chapter2/poppySeed.png" alt="poppy seed" style="width:63px;height:63px">	
 		</div>
 
 		<div class="weekNum">	
@@ -83,7 +83,7 @@
 
 	<!- image and week# ->
 	<div class="plant_circle">
-	<img src="includes/images/chapter2/sesameSeed.png" alt="sesame seed" style="width:64px;height:35px">	
+	<img src="includes/images/chapter2/sesameSeed.png" alt="sesame seed" style="width:63px;height:63px">	
 	</div>
 
 	<div class="weekNum">	
@@ -95,7 +95,7 @@
 
 	<!- image and week# ->
 	<div class="plant_circle">
-	<img src="includes/images/chapter2/lentil.png" alt="lentil" style="width:64px;height:50px">	
+	<img src="includes/images/chapter2/lentil.png" alt="lentil" style="width:63px;height:63px">	
 	</div>
 		
 	<div class="weekNum">	
@@ -107,7 +107,7 @@
 
 	<!- image and week# ->
 	<div class="plant_circle">
-	<img src="includes/images/chapter2/blueberry.png" alt="blue berry" style="width:58px;height:64px">	
+	<img src="includes/images/chapter2/blueberry.png" alt="blue berry" style="width:63px;height:63px">	
 	</div>
 		
 	<div class="weekNum">	
@@ -122,7 +122,7 @@
 
 	<!- image and week# ->
 	<div class="plant_circle">
-	<img src="includes/images/chapter2/kidneyBean.png" alt="kidneybean" style="width:64px;height:31px">	
+	<img src="includes/images/chapter2/kidneyBean.png" alt="kidneybean" style="width:63px;height:63px">	
 	</div>
 		
 	<div class="weekNum">	
@@ -134,7 +134,7 @@
 
 	<!- image and week# ->
 	<div class="plant_circle">
-	<img src="includes/images/chapter2/grape.png" alt="grape" style="width:54px;height:64px">	
+	<img src="includes/images/chapter2/grape.png" alt="grape" style="width:63px;height:63px">	
 	</div>
 		
 	<div class="weekNum">	
@@ -146,7 +146,7 @@
 
 	<!- image and week# ->
 	<div class="plant_circle">
-	<img src="includes/images/chapter2/kumquat.png" alt="kumquat" style="width:64px;height:47px">	
+	<img src="includes/images/chapter2/kumquat.png" alt="kumquat" style="width:63px;height:63px">	
 	</div>
 		
 	<div class="weekNum">	
@@ -158,7 +158,7 @@
 
 	<!- image and week# ->
 	<div class="plant_circle">
-	<img src="includes/images/chapter2/fig.png" alt="fig" style="width:60px;height:64px">	
+	<img src="includes/images/chapter2/fig.png" alt="fig" style="width:63px;height:63px">	
 	</div>
 		
 	<div class="weekNum">	
