@@ -70,7 +70,7 @@
 	<!- image and week# ->
 	<div class="backline">	
 		<div class="plant_circle">
-		<img src="includes/images/chapter2/poppySeed.png" alt="poppy seed" style="width:63px;height:63px">	
+		<img src="includes/images/chapter2/poppyseed.png" alt="poppy seed" style="width:100px;height:100px">	
 		</div>
 
 		<div class="weekNum">	
@@ -83,7 +83,7 @@
 
 	<!- image and week# ->
 	<div class="plant_circle">
-	<img src="includes/images/chapter2/sesameSeed.png" alt="sesame seed" style="width:63px;height:63px">	
+	<img src="includes/images/chapter2/sesameSeed.png" alt="sesame seed" style="width:100px;height:100px">	
 	</div>
 
 	<div class="weekNum">	
@@ -95,7 +95,7 @@
 
 	<!- image and week# ->
 	<div class="plant_circle">
-	<img src="includes/images/chapter2/lentil.png" alt="lentil" style="width:63px;height:63px">	
+	<img src="includes/images/chapter2/lentil.png" alt="lentil" style="width:100px;height:100px">	
 	</div>
 		
 	<div class="weekNum">	
@@ -107,7 +107,7 @@
 
 	<!- image and week# ->
 	<div class="plant_circle">
-	<img src="includes/images/chapter2/blueberry.png" alt="blue berry" style="width:63px;height:63px">	
+	<img src="includes/images/chapter2/blueberry.png" alt="blue berry" style="width:100px;height:100px">	
 	</div>
 		
 	<div class="weekNum">	
@@ -122,7 +122,7 @@
 
 	<!- image and week# ->
 	<div class="plant_circle">
-	<img src="includes/images/chapter2/kidneyBean.png" alt="kidneybean" style="width:63px;height:63px">	
+	<img src="includes/images/chapter2/kidneyBean.png" alt="kidneybean" style="width:100px;height:100px">	
 	</div>
 		
 	<div class="weekNum">	
@@ -134,7 +134,7 @@
 
 	<!- image and week# ->
 	<div class="plant_circle">
-	<img src="includes/images/chapter2/grape.png" alt="grape" style="width:63px;height:63px">	
+	<img src="includes/images/chapter2/grape.png" alt="grape" style="width:100px;height:100px">	
 	</div>
 		
 	<div class="weekNum">	
@@ -146,7 +146,7 @@
 
 	<!- image and week# ->
 	<div class="plant_circle">
-	<img src="includes/images/chapter2/kumquat.png" alt="kumquat" style="width:63px;height:63px">	
+	<img src="includes/images/chapter2/kumquat.png" alt="kumquat" style="width:100px;height:100px">	
 	</div>
 		
 	<div class="weekNum">	
@@ -158,7 +158,7 @@
 
 	<!- image and week# ->
 	<div class="plant_circle">
-	<img src="includes/images/chapter2/fig.png" alt="fig" style="width:63px;height:63px">	
+	<img src="includes/images/chapter2/fig.png" alt="fig" style="width:100px;height:100px">	
 	</div>
 		
 	<div class="weekNum">	
@@ -170,7 +170,7 @@
 
 	<!- image and week# ->
 	<div class="plant_circle">
-	<img src="includes/images/chapter2/lime.png" alt="lime" style="width:65px;height:79px">	
+	<img src="includes/images/chapter2/lime.png" alt="lime" style="width:100px;height:100px">	
 	</div>
 		
 	<div class="weekNum">	
@@ -182,7 +182,7 @@
 
 	<!- image and week# ->
 	<div class="plant_circle">
-	<img src="includes/images/chapter2/peas.png" alt="pea pod" style="width:65px;height:36px">	
+	<img src="includes/images/chapter2/peas.png" alt="pea pod" style="width:100px;height:100px">	
 	</div>
 		
 	<div class="weekNum">	
@@ -195,7 +195,7 @@
 	<h3>2nd Trimester</h3>
 	<!- image and week# ->
 	<div class="plant_circle">
-	<img src="includes/images/chapter2/lemon.png" alt="lemon" style="width:64px;height:48px">	
+	<img src="includes/images/chapter2/lemon.png" alt="lemon" style="width:100px;height:100px">	
 	</div>
 		
 	<div class="weekNum">	
@@ -207,7 +207,7 @@
 
 	<!- image and week# ->
 	<div class="plant_circle">
-	<img src="includes/images/chapter2/apple.png" alt="apple" style="width:46px;height:64px">	
+	<img src="includes/images/chapter2/apple.png" alt="apple" style="width:100px;height:100px">	
 	</div>
 		
 	<div class="weekNum">	
@@ -219,7 +219,7 @@
 
 	<!- image and week# ->
 	<div class="plant_circle">
-	<img src="includes/images/chapter2/avocado.png" alt="avocado" style="width:41px;height:64px">	
+	<img src="includes/images/chapter2/avocado.png" alt="avocado" style="width:100px;height:100px">	
 	</div>
 		
 	<div class="weekNum">	
@@ -231,7 +231,7 @@
 
 	<!- image and week# ->
 	<div class="plant_circle">
-	<img src="includes/images/chapter2/turnip.png" alt="turnip" style="width:64px;height:48px">	
+	<img src="includes/images/chapter2/turnip.png" alt="turnip" style="width:100px;height:100px">	
 	</div>
 		
 	<div class="weekNum">	
@@ -246,7 +246,7 @@
 
 	<!- image and week# ->
 	<div class="plant_circle">
-	<img src="includes/images/chapter2/bellPepper.png" alt="bell pepper" style="width:43px;height:64px">	
+	<img src="includes/images/chapter2/bellPepper.png" alt="bell pepper" style="width:100px;height:100px">	
 	</div>
 		
 	<div class="weekNum">	
@@ -258,7 +258,7 @@
 
 	<!- image and week# ->
 	<div class="plant_circle">
-	<img src="includes/images/chapter2/tomato.png" alt="heirloom tomato" style="width:64px;height:64px">	
+	<img src="includes/images/chapter2/tomato.png" alt="heirloom tomato" style="width:100px;height:100px">	
 	</div>
 		
 	<div class="weekNum">	
@@ -270,7 +270,7 @@
 
 	<!- image and week# ->
 	<div class="plant_circle">
-	<img src="includes/images/chapter2/banana.png" alt="banana" style="width:64px;height:36px">	
+	<img src="includes/images/chapter2/banana.png" alt="banana" style="width:100px;height:100px">	
 	</div>
 		
 	<div class="weekNum">	
@@ -282,7 +282,7 @@
 
 	<!- image and week# ->
 	<div class="plant_circle">
-	<img src="includes/images/chapter2/carrot.png" alt="carrot" style="width:21px;height:64px">	
+	<img src="includes/images/chapter2/carrot.png" alt="carrot" style="width:100px;height:100px">	
 	</div>
 		
 	<div class="weekNum">	
@@ -294,7 +294,7 @@
 
 	<!- image and week# ->
 	<div class="plant_circle">
-	<img src="includes/images/chapter2/spaghettiSquash.png" alt="spaghetti squash" style="width:64px;height:42px">	
+	<img src="includes/images/chapter2/spaghettiSquash.png" alt="spaghetti squash" style="width:100px;height:100px">	
 	</div>
 		
 	<div class="weekNum">	
@@ -306,7 +306,7 @@
 
 	<!- image and week# ->
 	<div class="plant_circle">
-	<img src="includes/images/chapter2/mango.png" alt="mango" style="width:50px;height:64px">	
+	<img src="includes/images/chapter2/mango.png" alt="mango" style="width:100px;height:100px">	
 	</div>
 		
 	<div class="weekNum">	
@@ -318,7 +318,7 @@
 
 	<!- image and week# ->
 	<div class="plant_circle">
-	<img src="includes/images/chapter2/corn.png" alt="corn" style="width:45px;height:64px">	
+	<img src="includes/images/chapter2/corn.png" alt="corn" style="width:100px;height:100px">	
 	</div>
 		
 	<div class="weekNum">	
@@ -330,7 +330,7 @@
 
 	<!- image and week# ->
 	<div class="plant_circle">
-	<img src="includes/images/chapter2/rutabaga.png" alt="rutabaga" style="width:64px;height:50px">	
+	<img src="includes/images/chapter2/rutabaga.png" alt="rutabaga" style="width:100px;height:100px">	
 	</div>
 		
 	<div class="weekNum">	
@@ -342,7 +342,7 @@
 
 	<!- image and week# ->
 	<div class="plant_circle">
-	<img src="includes/images/chapter2/scallion.png" alt="scallion" style="width:22px;height:65px">	
+	<img src="includes/images/chapter2/scallions.png" alt="scallion" style="width:100px;height:100px">	
 	</div>
 		
 	<div class="weekNum">	
@@ -354,7 +354,7 @@
 
 	<!- image and week# ->
 	<div class="plant_circle">
-	<img src="includes/images/chapter2/cauliflower.png" alt="cauliflower" style="width:65px;height:58px">	
+	<img src="includes/images/chapter2/cauliflower.png" alt="cauliflower" style="width:100px;height:100px">	
 	</div>
 		
 	<div class="weekNum">	
@@ -367,7 +367,7 @@
 	<h3>3rd Trimester</h3>
 	<!- image and week# ->
 	<div class="plant_circle">
-	<img src="includes/images/chapter2/eggplant.png" alt="eggplant" style="width:63px;height:64px">	
+	<img src="includes/images/chapter2/eggplant.png" alt="eggplant" style="width:100px;height:100px">	
 	</div>
 		
 	<div class="weekNum">	
@@ -379,7 +379,7 @@
 
 	<!- image and week# ->
 	<div class="plant_circle">
-	<img src="includes/images/chapter2/butternutSquash.png" alt="butternut squash" style="width:36px;height:64px">	
+	<img src="includes/images/chapter2/butternutSquash.png" alt="butternut squash" style="width:100px;height:100px">	
 	</div>
 		
 	<div class="weekNum">	
@@ -391,7 +391,7 @@
 
 	<!- image and week# ->
 	<div class="plant_circle">
-	<img src="includes/images/chapter2/cabbage.png" alt="cabbage" style="width:65px;height:64px">	
+	<img src="includes/images/chapter2/cabbage.png" alt="cabbage" style="width:100px;height:100px">	
 	</div>
 		
 	<div class="weekNum">	
@@ -403,7 +403,7 @@
 
 	<!- image and week# ->
 	<div class="plant_circle">
-	<img src="includes/images/chapter2/coconut.png" alt="coconut" style="width:65px;height:63px">	
+	<img src="includes/images/chapter2/coconut.png" alt="coconut" style="width:100px;height:100px">	
 	</div>
 		
 	<div class="weekNum">	
@@ -415,7 +415,7 @@
 
 	<!- image and week# ->
 	<div class="plant_circle">
-	<img src="includes/images/chapter2/jicama.png" alt="jicama" style="width:63px;height:64px">	
+	<img src="includes/images/chapter2/jicama.png" alt="jicama" style="width:100px;height:100px">	
 	</div>
 		
 	<div class="weekNum">	
@@ -427,7 +427,7 @@
 
 	<!- image and week# ->
 	<div class="plant_circle">
-	<img src="includes/images/chapter2/pineapple.png" alt="pineapple" style="width:24px;height:64px">	
+	<img src="includes/images/chapter2/pineapple.png" alt="pineapple" style="width:100px;height:100px">	
 	</div>
 		
 	<div class="weekNum">	
@@ -439,7 +439,7 @@
 
 	<!- image and week# ->
 	<div class="plant_circle">
-	<img src="includes/images/chapter2/cantaloupe.png" alt="cantaloupe" style="width:64px;height:63px">	
+	<img src="includes/images/chapter2/cantaloupe.png" alt="cantaloupe" style="width:100px;height:100px">	
 	</div>
 		
 	<div class="weekNum">	
@@ -451,7 +451,7 @@
 
 	<!- image and week# ->
 	<div class="plant_circle">
-	<img src="includes/images/chapter2/honeydew.png" alt="honeydew melon" style="width:64px;height:64px">	
+	<img src="includes/images/chapter2/honeydew.png" alt="honeydew melon" style="width:100px;height:100px">	
 	</div>
 		
 	<div class="weekNum">	
@@ -463,7 +463,7 @@
 
 	<!- image and week# ->
 	<div class="plant_circle">
-	<img src="includes/images/chapter2/romaineLettuce.png" alt="romain lettuce" style="width:64px;height:60px">	
+	<img src="includes/images/chapter2/romaineLettuce.png" alt="romain lettuce" style="width:100px;height:100px">	
 	</div>
 		
 	<div class="weekNum">	
@@ -475,7 +475,7 @@
 
 	<!- image and week# ->
 	<div class="plant_circle">
-	<img src="includes/images/chapter2/swissChard.png" alt="swiss chard" style="width:65px;height:36px">	
+	<img src="includes/images/chapter2/swissChard.png" alt="swiss chard" style="width:100px;height:100px">	
 	</div>
 		
 	<div class="weekNum">	
@@ -487,7 +487,7 @@
 
 	<!- image and week# ->
 	<div class="plant_circle">
-	<img src="includes/images/chapter2/leek.png" alt="leek" style="width:24px;height:64px">	
+	<img src="includes/images/chapter2/leek.png" alt="leek" style="width:100px;height:100px">	
 	</div>
 		
 	<div class="weekNum">	
@@ -500,7 +500,7 @@
 	<h3>Turning Full Term</h3>
 	<!- image and week# ->
 	<div class="plant_circle">
-	<img src="includes/images/chapter2/watermelon.png" alt="watermelon" style="width:51px;height:47px">	
+	<img src="includes/images/chapter2/watermelon.png" alt="watermelon" style="width:100px;height:100px">	
 	</div>
 		
 	<div class="weekNum">	
@@ -512,7 +512,7 @@
 
 	<!- image and week# ->
 	<div class="plant_circle">
-	<img src="includes/images/chapter2/pumpkin.png" alt="pumpkin" style="width:64px;height:46px">	
+	<img src="includes/images/chapter2/pumpkin.png" alt="pumpkin" style="width:100px;height:100px">	
 	</div>
 		
 	<div class="weekNum">	

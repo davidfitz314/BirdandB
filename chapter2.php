@@ -70,7 +70,7 @@
 	<!- image and week# ->
 	<div class="backline">	
 		<div class="plant_circle">
-		<img src="includes/images/chapter2/poppySeed.png" alt="poppy seed" style="width:100px;height:100px">	
+		<img src="includes/images/chapter2/poppyseed.png" alt="poppy seed" style="width:100px;height:100px">	
 		</div>
 
 		<div class="weekNum">	
@@ -342,7 +342,7 @@
 
 	<!- image and week# ->
 	<div class="plant_circle">
-	<img src="includes/images/chapter2/scallion.png" alt="scallion" style="width:100px;height:100px">	
+	<img src="includes/images/chapter2/scallions.png" alt="scallion" style="width:100px;height:100px">	
 	</div>
 		
 	<div class="weekNum">	
@@ -463,7 +463,7 @@
 
 	<!- image and week# ->
 	<div class="plant_circle">
-	<img src="includes/images/chapter2/romaineLettuce.png" alt="romain lettuce" style="width:100px;height:100px">	
+	<img src="includes/images/chapter2/romainelettuce.png" alt="romain lettuce" style="width:100px;height:100px">	
 	</div>
 		
 	<div class="weekNum">	

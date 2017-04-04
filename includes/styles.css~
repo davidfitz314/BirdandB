@@ -279,17 +279,14 @@ ul.floating-menu {
 }
 
 .plant_circle img {
-	padding: 15%;	
+	/*padding: 15%;*/	
 	/*play with image height and make it match container proportionally */
 }
 
 .plant_circle {
 	
-	width: 100px;
-	height: 100px;
-	background-image: url("images/chapter2/circle.png");
-	background-size: contain;
-	background-repeat: no-repeat;
+	width: 102px;
+	height: 102px;
 	text-align: center;
 	float: left;
 }
