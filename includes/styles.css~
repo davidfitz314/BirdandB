@@ -164,7 +164,7 @@ p {
 
 .HPchap {
 	display:table;
-	border: 2px dashed black;
+	/*border: 2px dashed black;*/
 	width: 100%;
 	height: 250px;
 	padding: 10px;
