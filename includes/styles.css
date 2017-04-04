@@ -292,14 +292,15 @@ ul.floating-menu {
 }
 
 .weekNum {
-	width: 80px;
-	height: 80px;
+	width: 100px;
+	height: 100px;
 	background-image: url("images/chapter2/circle.png");
 	background-size: contain;
 	background-repeat: no-repeat;
 	text-align: center;
 	float: left;
 	margin-left: 5%;
+	padding:10px;
 }
 
 .weekNum p {
