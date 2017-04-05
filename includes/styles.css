@@ -273,6 +273,19 @@ ul.floating-menu {
 }
 
 
+/*generic styling for lists*/
+ul.openCircle {
+	list-style-type: circle;
+}
+
+ul.closedCircle {
+	list-style-type: square;
+}
+
+.addItalic {
+	font-style: italic;
+}
+
 /*chapter 2 section*/
 .backline {
 
@@ -332,18 +345,6 @@ ul.floating-menu {
 	height: auto;
 }
 
-/*generic styling for lists*/
-ul.openCircle {
-	list-style-type: circle;
-}
-
-ul.closedCircle {
-	list-style-type: square;
-}
-
-.addItalic {
-	font-style: italic;
-}
 
 /* chapter 4 section */
 .chapter4Text {
