@@ -292,9 +292,9 @@ ul.floating-menu {
 }
 
 .weekNum {
-	width: 90px;
+	width: 500px;
 	height: 90px;
-	background-image: url("images/chapter2/circle.png");
+	background-image: url("images/chapter2/circle.png"), url("images/chapter2/line.png");
 	background-size: contain;
 	background-repeat: no-repeat;
 	text-align: center;
