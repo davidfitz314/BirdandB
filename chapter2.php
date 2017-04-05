@@ -463,7 +463,7 @@
 
 	<!- image and week# ->
 	<div class="plant_circle">
-	<img src="includes/images/chapter2/romaineLlettuce.png" alt="romain lettuce" style="width:100px;height:100px">	
+	<img src="includes/images/chapter2/romaineLettuce.png" alt="romain lettuce" style="width:100px;height:100px">	
 	</div>
 		
 	<div class="weekNum">	
