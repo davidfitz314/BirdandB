@@ -481,16 +481,17 @@ ul.closedCircle {
 }
 
 .chapter9sideImagesandText {
-	
+	display: table;
 }
 
 .chapter9MiniImages {
-	float: left;
+	display: table-cell;
 	width: 20%;
 	height: auto;
 }
 
 .chapter9MiniHeaders {
+	display: table-cell;
 	float: right;
 }
 

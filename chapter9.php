@@ -135,14 +135,17 @@
 	<h3>Nonprescription Protection Use</h3>
 	<p>A quick overview of how to use some non prescription protections is listed below:<p>
 	
-	<!- Image goes beside h4 header ->
-	<div class="chapter9MiniImages">
-		<img src="includes/images/chapter9/male.png" alt="Male condom full example">
+	<div class="chapter9sideImagesandText">
+		<!- Image goes beside h4 header ->
+		<div class="chapter9MiniImages">
+			<img src="includes/images/chapter9/male.png" alt="Male condom full example">
+		</div>
+
+		<div class="chapter9MiniHeaders">
+			<h4 class="additalic">Male Condom</h4>	
+		</div>
 	</div>
 
-	<div class="chapter9MiniHeaders">
-		<h4 class="additalic">Male Condom</h4>	
-	</div>
 	<ol>
 		<li>Check the expiration date and then open the package carefully from the top corner, inspecting the condom for any damage.<li>
 
@@ -155,14 +158,17 @@
 		<li>With some condoms a lubricant is not provided, if the condom feels dry or not as wet as one is comfortable with, a lubricant can be used with the condom.<li>
 	</ol>
 
-	<!- Image goes beside h4 header ->
-	<div class="chapter9MiniImages">
-		<img src="includes/images/chapter9/female.png" alt="Female condom">
+	<div class="chapter9sideImagesandText">
+		<!- Image goes beside h4 header ->
+		<div class="chapter9MiniImages">
+			<img src="includes/images/chapter9/female.png" alt="Female condom">
+		</div>
+
+		<div class="chapter9MiniHeaders">
+			<h4 class="additalic">Female Condom</h4>	
+		</div>
 	</div>
 
-	<div class="chapter9MiniHeaders">
-		<h4 class="additalic">Female Condom</h4>	
-	</div>
 	<ol>
 		<li>Check the expiration date and then open the package carefully from the top corner, inspecting the condom for any damage.<li>
 		
@@ -179,14 +185,17 @@
 		<li>Leave the condoms outer ring hanging about 1 inch outside the vagina and during sex remember to guide one’s partner’s penis into the outer ring of the condom.<li>
 	</ol>
 
-	<!- Image goes beside h4 header ->
-	<div class="chapter9MiniImages">
-		<img src="includes/images/chapter9/spermicide.png" alt="Bottle of spermicide">
+	<div class="chapter9sideImagesandText">
+		<!- Image goes beside h4 header ->
+		<div class="chapter9MiniImages">
+			<img src="includes/images/chapter9/spermicide.png" alt="Bottle of spermicide">
+		</div>
+
+		<div class="chapter9MiniHeaders">
+			<h4 class="additalic">Spermicide</h4>
+		</div>
 	</div>
 
-	<div class="chapter9MiniHeaders">
-		<h4 class="additalic">Spermicide</h4>
-	</div>
 	<p class="additalic">-These are simplified instructions for spermicide for more details please read the instructions that come with your product.-</p>
 	<ol>
 		<li>Check the expiration date and then open the cap of the spermicide.<li>
@@ -196,13 +205,16 @@
 		<li>Remove the bottle from the vagina.<li>
 	</ol>
 
-	<!- Image goes beside or above h4 header ->
-	<div class="chapter9MiniImages">
-		<img src="includes/images/chapter9/exit.png" alt="Figures in bed thinking of withdrawing before ejaculation">
+	<div class="chapter9sideImagesandText">
+		<!- Image goes beside or above h4 header ->
+		<div class="chapter9MiniImages">
+			<img src="includes/images/chapter9/exit.png" alt="Figures in bed thinking of withdrawing before ejaculation">
+		</div>
+		<div class="chapter9MiniHeaders">
+			<h4 class="additalic">Withdrawal</h4>	
+		</div>
 	</div>
-	<div class="chapter9MiniHeaders">
-		<h4 class="additalic">Withdrawal</h4>	
-	</div>
+
 	<ol>
 		<li>Prior to ejaculation remove the penis completely from the vagina.<li>
 		<ul class="openCircle">
