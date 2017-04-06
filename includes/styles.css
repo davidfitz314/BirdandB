@@ -495,10 +495,14 @@ ul.closedCircle {
 
 .chapter9MiniHeaders {
 	display: table-cell;
-	float: right;
+	padding-left: 15px;
 }
 
-
+.chapter9MiniImagesFC {
+	display: table-cell;
+	padding-bottom: 10px;
+	padding-left: 15px;
+}
 
 /* chapter 10 section */
 .chapter10Text {
