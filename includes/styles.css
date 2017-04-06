@@ -151,7 +151,7 @@ p {
 	/*display: table-cell;*/
 	background-color: white;
 	width: 66%;
-	text-align: center;
+	text-align: right;
 	float: right;
 	padding-left: 1%;
 }
