@@ -486,12 +486,10 @@ ul.closedCircle {
 
 .chapter9MiniImages {
 	display: table-cell;
-	width: 250px;
-	height: auto;
 }
 
 .chapter9MiniImages img {
-	width: 250px;
+	width: 150px;
 	height: auto;
 }
 
