@@ -146,17 +146,19 @@
 		</div>
 	</div>
 
-	<ol>
-		<li>Check the expiration date and then open the package carefully from the top corner, inspecting the condom for any damage.<li>
+	<div class="tabbed">
+		<ol>
+			<li>Check the expiration date and then open the package carefully from the top corner, inspecting the condom for any damage.<li>
 
-		<li>Place the condom on the tip of the penis, pinching the condoms top balloon portion between your fingers (this bubble is used to provide extra space in the condom for when one ejaculates and needs to store the fluid in the condom without breaking).<li>
+			<li>Place the condom on the tip of the penis, pinching the condoms top balloon portion between your fingers (this bubble is used to provide extra space in the condom for when one ejaculates and needs to store the fluid in the condom without breaking).<li>
 
-		<li>While still pinching, unroll the remainder of the condom down the shaft of the penis until either the condom cannot be unrolled anymore or the penis is fully covered.<li>
+			<li>While still pinching, unroll the remainder of the condom down the shaft of the penis until either the condom cannot be unrolled anymore or the penis is fully covered.<li>
 
-		<li>Let go of the tip of the condom.<li>
+			<li>Let go of the tip of the condom.<li>
 
-		<li>With some condoms a lubricant is not provided, if the condom feels dry or not as wet as one is comfortable with, a lubricant can be used with the condom.<li>
-	</ol>
+			<li>With some condoms a lubricant is not provided, if the condom feels dry or not as wet as one is comfortable with, a lubricant can be used with the condom.<li>
+		</ol>
+	</div>
 
 	<div class="chapter9sideImagesandText">
 		<!- Image goes beside h4 header ->
@@ -169,21 +171,23 @@
 		</div>
 	</div>
 
-	<ol>
-		<li>Check the expiration date and then open the package carefully from the top corner, inspecting the condom for any damage.<li>
+	<div class="tabbed">
+		<ol>
+			<li>Check the expiration date and then open the package carefully from the top corner, inspecting the condom for any damage.<li>
 		
-		<li>Relax and get into a comfortable position in preparation for placing the condom inside of the vagina.<li>
+			<li>Relax and get into a comfortable position in preparation for placing the condom inside of the vagina.<li>
 
-		<ul class="openCircle">
-			<li class="additalic">The female condom already comes lubricated but many still add even more lubricant or even a physician approved spermicide.</li>
-		</ul>
+			<ul class="openCircle">
+				<li class="additalic">The female condom already comes lubricated but many still add even more lubricant or even a physician approved spermicide.</li>
+			</ul>
 
-		<li>Squeeze together the sides of the inner ring at the closed end of the condom and then slide the inner ring into the vagina.<li>
+			<li>Squeeze together the sides of the inner ring at the closed end of the condom and then slide the inner ring into the vagina.<li>
 
-		<li>Push the inner ring into the vagina as far as it will go or until the cervix being careful to make sure that it is not twisted.<li>
+			<li>Push the inner ring into the vagina as far as it will go or until the cervix being careful to make sure that it is not twisted.<li>
 
-		<li>Leave the condoms outer ring hanging about 1 inch outside the vagina and during sex remember to guide one’s partner’s penis into the outer ring of the condom.<li>
-	</ol>
+			<li>Leave the condoms outer ring hanging about 1 inch outside the vagina and during sex remember to guide one’s partner’s penis into the outer ring of the condom.<li>
+		</ol>
+	</div>
 
 	<div class="chapter9sideImagesandText">
 		<!- Image goes beside h4 header ->
@@ -195,15 +199,17 @@
 			<h4 class="additalic">Spermicide</h4>
 		</div>
 	</div>
+	
+	<div class="tabbed">
+		<p class="additalic">-These are simplified instructions for spermicide for more details please read the instructions that come with your product.-</p>
+		<ol>
+			<li>Check the expiration date and then open the cap of the spermicide.<li>
 
-	<p class="additalic">-These are simplified instructions for spermicide for more details please read the instructions that come with your product.-</p>
-	<ol>
-		<li>Check the expiration date and then open the cap of the spermicide.<li>
-
-		<li>Place the tip inside of the vaginal opening and squeeze the bottle to release the amount of spermicide as directed on the instructions that came with it.<li>
+			<li>Place the tip inside of the vaginal opening and squeeze the bottle to release the amount of spermicide as directed on the instructions that came with it.<li>
 			
-		<li>Remove the bottle from the vagina.<li>
-	</ol>
+			<li>Remove the bottle from the vagina.<li>
+		</ol>
+	</div>
 
 	<div class="chapter9sideImagesandText">
 		<!- Image goes beside or above h4 header ->
@@ -214,13 +220,15 @@
 			<h4 class="additalic">Withdrawal</h4>	
 		</div>
 	</div>
-
-	<ol>
-		<li>Prior to ejaculation remove the penis completely from the vagina.<li>
-		<ul class="openCircle">
-			<li class="additalic">This method is only recommended for males who can clearly understand when they are about to ejaculate and can control themselves enough to leave the vagina at the correct moment.</li>
-		</ul>
-	</ol>
+	
+	<div class="tabbed">
+		<ol>
+			<li>Prior to ejaculation remove the penis completely from the vagina.<li>
+			<ul class="openCircle">
+				<li class="additalic">This method is only recommended for males who can clearly understand when they are about to ejaculate and can control themselves enough to leave the vagina at the correct moment.</li>
+			</ul>
+		</ol>
+	</div>
 
 	<p>Whether the protection being used is prescribed or non-prescription, they each have a timeframe for when they can be used and how often they can be used. Remember to always check the packaging and healthcare professionals for the time sensitive information and other related information for protection.</p>
 

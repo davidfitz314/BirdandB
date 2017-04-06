@@ -44,11 +44,30 @@
 </div>
 
 <!- chapter text division ->
-<div class="chapter2Text">
+<div class="chapter10Text">
 <br>
-<h2>Chapter 10: </h2>
-	<h3></h3>
-	</p></p>
+<h2>Chapter 10: Sexually Transmitted Infections-STDs</h2>
+	<h3>About STIs and STDs</h3>
+	</p>STI is the abbreviation of sexually transmitted infection. The term only recently became more popular as the previous term STD - sexually transmitted disease (which means the same thing) caused turmoil in public.</p>
+
+	<p>An STI is an infection that comes usually comes from sexual contact with someone already infected. Some STIs have been known to infect others through different means like heredity, lip balms, tattoos, toilets, etc…</p>
+	<!- Interesting Fact goes here ->
+
+	<h3>Most Common STIs</h3>
+
+	<div class="chapter10sideImagesandText">
+		<!- Image goes beside or above h4 header ->
+		<div class="chapter10MiniImages">
+			<img src="includes/images/chapter10/" alt="">
+		</div>
+		<div class="chapter10MiniHeaders">
+			<h4 class="additalic">Genital Human Papillomavirus -HPV</h4>	
+		</div>
+		
+		<div class="tabbed">		
+			<p><p>
+		</div>
+	</div>
 
 
 
