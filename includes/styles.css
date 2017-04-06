@@ -496,12 +496,14 @@ ul.closedCircle {
 .chapter9MiniHeaders {
 	display: table-cell;
 	padding-left: 15px;
+	float:right;
 }
 
 .chapter9MiniHeadersFC {
 	display: table-cell;
 	margin-bottom: 10px;
 	padding-left: 15px;
+	float:right;
 }
 
 /* chapter 10 section */
