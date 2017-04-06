@@ -5,7 +5,7 @@
 
 <!- navigation side bar ->
 <nav class="floating-menu">
-<h2>Chapter 13: Sexual Assault</h2>
+<h2>Chapter 13: Sexual Harassment, Assault, &amp; Rape</h2>
 <strong><a href="chapter1.php">ch1: Overview</a></strong>
 <strong><a href="chapter2.php">ch2: Conception</a></strong>
 <strong><a href="chapter3.php">ch3: Human Body Development</a></strong>
@@ -34,8 +34,7 @@
 </li>
 </ul>
 
-<strong><a href="chapter14.php">ch14: Rape</a></strong>
-<strong><a href="chapter15.php">ch15: Works Cited and External Resources</a></strong>
+<strong><a href="chapter14.php">ch14: Works Cited and External Resources</a></strong>
 </nav>
 <!- end navigation sidebar ->
 

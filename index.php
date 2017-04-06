@@ -114,12 +114,6 @@
 		</a>
 		</div>
 
-		<div class="single15chap">
-		<a href="chapter15.php">
-		<p><strong>Chapter 15</strong></p>
-		</a>
-		</div>
-
 	</div>
 	<div class = "row4chap">
 

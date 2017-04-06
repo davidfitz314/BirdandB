@@ -175,20 +175,20 @@ p {
 	margin: 7%;
 }
 
-.single1chap, .single2chap, .single3chap, .single4chap, .single5chap, .single6chap, .single7chap, .single8chap, .single9chap, .single10chap, .single11chap, .single12chap, .single13chap, .single14chap, .single15chap {
+.single1chap, .single2chap, .single3chap, .single4chap, .single5chap, .single6chap, .single7chap, .single8chap, .single9chap, .single10chap, .single11chap, .single12chap, .single13chap, .single14chap {
 	display: table-cell;
 	height: 75px;
 	text-align: center;
 }
 
-.single1chap p, .single2chap p, .single3chap p, .single4chap p, .single5chap p, .single6chap p, .single7chap p, .single8chap p, .single9chap p, .single10chap p, .single11chap p, .single12chap p, .single13chap p, .single14chap p, .single15chap p{
+.single1chap p, .single2chap p, .single3chap p, .single4chap p, .single5chap p, .single6chap p, .single7chap p, .single8chap p, .single9chap p, .single10chap p, .single11chap p, .single12chap p, .single13chap p, .single14chap p {
 	padding: 10px;
 	border: solid black;
 	margin-left: 10px;
 	margin-right: 10px;
 }
 
-.single1chap a, .single2chap a, .single3chap a, .single4chap a, .single5chap a, .single6chap a, .single7chap a, .single8chap a, .single9chap a, .single10chap a, .single11chap a, .single12chap a, .single13chap a, .single14chap a, .single15chap a {
+.single1chap a, .single2chap a, .single3chap a, .single4chap a, .single5chap a, .single6chap a, .single7chap a, .single8chap a, .single9chap a, .single10chap a, .single11chap a, .single12chap a, .single13chap a, .single14chap a {
 	text-decoration: none;
 	color: black;
 }
@@ -198,7 +198,7 @@ p {
 	color: #f06492;
 }
  
-.single1chap a:hover, .single3chap a:hover, .single5chap a:hover, .single7chap a:hover, .single9chap a:hover, .single11chap a:hover, .single13chap a:hover, .single15chap a:hover {
+.single1chap a:hover, .single3chap a:hover, .single5chap a:hover, .single7chap a:hover, .single9chap a:hover, .single11chap a:hover, .single13chap a:hover {
 	text-decoration: none;
 	color: #7990c9;
 }
@@ -210,7 +210,7 @@ p {
 	margin-right: 10px;
 }
  
-.single1chap p:hover, .single3chap p:hover, .single5chap p:hover, .single7chap p:hover, .single9chap p:hover, .single11chap p:hover, .single13chap p:hover, .single15chap p:hover {
+.single1chap p:hover, .single3chap p:hover, .single5chap p:hover, .single7chap p:hover, .single9chap p:hover, .single11chap p:hover, .single13chap p:hover {
 	padding: 10px;
 	border: solid #7990c9;
 	margin-left: 10px;

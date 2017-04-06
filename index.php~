@@ -7,11 +7,19 @@
 <div class="CompanyDescription">
 	<p><strong>Learning About Life Never Stops</strong></p>
 	<p>Hate trying to understand things about your body or sexuality that everyone else seems to know already? Well we did too, and that's why we developed this app and website to provide you with the knowledge that others forgot to tell you.<p>
-	</br><p>We are currently under construction, please come again soon.<p>	
+	<p>Here you will be able to explore both your own sexes anatomy and chemistry or even the opposites; From childhood development, to puberty, to sexual matters we try to cover all subjects that are hard to talk about.</p>
+	<div class="smallertext">
+		<p>Started in 2017 by 2 students doing their senior capstone project at DSU, BirdandB.com is a non profit organization that only wishes to better the world.</p>
+	</div>
 </div>
 <!- end CompanyDescription div ->
 
-
+<!- disclaimer section->
+<div class="disclaimer">
+<h3>Viewer Discretion is Advised</h3>
+<p><strong>BirdandB.com</strong> is tutorial website and may contain content that is not appropriate for some viewers. Only those who are over 18 years of age or have their legal guardians consent should proceed to the sex education chapters section. By proceeding you the user are hereby agreeing that you are of the appropriate age or with guardian consent and have read this notice. </p>
+</div>
+<!- end disclaimer section->
 
 <!- first set of calls to action ->
 <div class="CallsToAction">
@@ -24,7 +32,7 @@
 	<!- end CTA1 div ->
 
 	<div class="CTA2"><p>
-	<img src="includes/images/comingSoon.png" alt="coming soon phone app">
+	<img src="includes/images/comingSoon.png" alt="coming soon phone app" style="width:66%;">
 	</p></div>
 	<!- end CTA2 div ->
 </div>
