@@ -127,6 +127,11 @@ p {
 	float: left;
 }
 
+.CTA1 img{
+	width: 125px;
+	height: auto;
+}
+
 .CTA1 a:link {
 	text-decoration: none;
 	color: black;

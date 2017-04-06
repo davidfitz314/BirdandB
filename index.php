@@ -25,7 +25,7 @@
 <div class="CallsToAction">
 
 	<div class="CTA1"><a href="<?= "index.php" ?>">
-	<img src='includes/images/lightOFF.png' width='125px' onmouseover="this.src='includes/images/lightON.png';" onmouseout="this.src='includes/images/lightOFF.png';" />
+	<img src='includes/images/lightOFF.png' onmouseover="this.src='includes/images/lightON.png';" onmouseout="this.src='includes/images/lightOFF.png';" />
 	
 	<p><strong><?php pickRandom(); ?></strong><p>
 	</a></div>
