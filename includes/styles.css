@@ -488,8 +488,12 @@ ul.closedCircle {
 	line-height: 150%;
 }
 
+.ch9Images {
+	text-align:center;
+}
+
 .ch9Images img {
-	width: 80%;
+	width: 50%;
 	height: auto;
 }
 
