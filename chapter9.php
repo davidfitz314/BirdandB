@@ -17,16 +17,16 @@
 <ul>
 <strong>Chapter 9</strong>
 <li>
-<a href="chapter9.php">default</a>
+<a href="chapter9.php">Safe Sex</a>
 </li>
 <li>
-<a href="chapter9.php">default</a>
+<a href="chapter9.php">Sexual Protection</a>
 </li>
 <li>
-<a href="chapter9.php">default</a>
+<a href="chapter9.php">Nonprescription Protection</a>
 </li>
 <li>
-<a href="chapter9.php">default</a>
+<a href="chapter9.php">Abstinence</a>
 </li>
 </ul>
 
@@ -78,7 +78,7 @@
 	</ul>
 
 	<div class="ch9Images">
-		<img src="includes/images/chapter9/safesex.png" alt="2 safes in a sexual position">
+		<img src="includes/images/chapter9/safe.png" alt="2 safes in a sexual position">
 	</div>
 
 	<h3>Sexual Protection</h3>
@@ -224,7 +224,7 @@
 
 	<p>Whether the protection being used is prescribed or non-prescription, they each have a timeframe for when they can be used and how often they can be used. Remember to always check the packaging and healthcare professionals for the time sensitive information and other related information for protection.</p>
 
-	<h3>Where to Acquire Protection</h3>
+	<h4 class="additalic">Where to Acquire Protection</h4>
 	<p>At most grocery stores and gas stations in the US, a variety of non prescriptions protections like condoms, spermicides, and lubricants are available for purchase.</p>
 
 	<p>One may schedule a doctor’s appointment with an approved physician to get a prescription protection.</p>
