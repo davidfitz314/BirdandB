@@ -458,9 +458,116 @@ ul.closedCircle {
 }
 
 .ch8Images img {
+	width: auto;
+	height: 80%;
+}
+
+/* chapter 9 section */
+.chapter9Text {
+	width: 75%;
+	margin-left: 25%;
+	line-height: 150%;
+	text-align: left;
+}
+
+.chapter9Text ul {
+	text-align: left;
+	line-height: 150%;
+}
+
+.ch9Images img {
 	width: 100%;
 	height: auto;
 }
 
+/* chapter 10 section */
+.chapter10Text {
+	width: 75%;
+	margin-left: 25%;
+	line-height: 150%;
+	text-align: left;
+}
+
+.chapter10Text ul {
+	text-align: left;
+	line-height: 150%;
+}
+
+.ch10Images img {
+	width: 100%;
+	height: auto;
+}
+
+/* chapter 11 section */
+.chapter11Text {
+	width: 75%;
+	margin-left: 25%;
+	line-height: 150%;
+	text-align: left;
+}
+
+.chapter11Text ul {
+	text-align: left;
+	line-height: 150%;
+}
+
+.ch11Images img {
+	width: 100%;
+	height: auto;
+}
+
+/* chapter 12 section */
+.chapter12Text {
+	width: 75%;
+	margin-left: 25%;
+	line-height: 150%;
+	text-align: left;
+}
+
+.chapter12Text ul {
+	text-align: left;
+	line-height: 150%;
+}
+
+.ch12Images img {
+	width: 100%;
+	height: auto;
+}
+
+/* chapter 13 section */
+.chapter13Text {
+	width: 75%;
+	margin-left: 25%;
+	line-height: 150%;
+	text-align: left;
+}
+
+.chapter13Text ul {
+	text-align: left;
+	line-height: 150%;
+}
+
+.ch13Images img {
+	width: 100%;
+	height: auto;
+}
+
+/* chapter 14 section */
+.chapter14Text {
+	width: 75%;
+	margin-left: 25%;
+	line-height: 150%;
+	text-align: left;
+}
+
+.chapter14Text ul {
+	text-align: left;
+	line-height: 150%;
+}
+
+.ch14Images img {
+	width: 100%;
+	height: auto;
+}
 
 
