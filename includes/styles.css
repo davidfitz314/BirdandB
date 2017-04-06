@@ -109,7 +109,7 @@ p {
 }
 
 .CallsToAction {
-	display: table;
+	/*display: table;*/
 	
 	width: 102%;
 }
@@ -118,11 +118,12 @@ p {
 	*/
 
 .CTA1 {
-	display: table-cell;
+	/*display: table-cell;*/
 	/*background-color: blue;*/
 	width: 33%;
 	color: black;
 	border: dashed black;
+	float: left;
 }
 
 .CTA1 a:link {
@@ -141,9 +142,10 @@ p {
 }
 
 .CTA2 {
-	display: table-cell;
+	/*display: table-cell;*/
 	background-color: white;
 	text-align: center;
+	float: right;
 }
 
 .CTA1 p {
