@@ -1,11 +1,11 @@
 <!- continued from header centered-wrapper div ->
 <?php include 'includes/chapHeader.php'; ?>
 
-<!- begin chapter 15 ->
+<!- begin chapter 14 ->
 
 <!- navigation side bar ->
 <nav class="floating-menu">
-<h2>Chapter 15: Works Cited and External Resources</h2>
+<h2>Chapter 14: Works Cited and External Resources</h2>
 <strong><a href="chapter1.php">ch1: Overview</a></strong>
 <strong><a href="chapter2.php">ch2: Conception</a></strong>
 <strong><a href="chapter3.php">ch3: Human Body Development</a></strong>
@@ -43,7 +43,7 @@
 </div>
 
 <!- chapter text division ->
-<div class="chapter2Text">
+<div class="chapter14Text">
 <br>
 <strong><p>Under construction </p></strong>
 </div>
