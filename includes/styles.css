@@ -490,6 +490,11 @@ ul.closedCircle {
 	height: auto;
 }
 
+.chapter9MiniImages img {
+	width: 250px;
+	height: auto;
+}
+
 .chapter9MiniHeaders {
 	display: table-cell;
 	float: right;
