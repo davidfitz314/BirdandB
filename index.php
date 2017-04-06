@@ -32,7 +32,7 @@
 	<!- end CTA1 div ->
 
 	<div class="CTA2"><p>
-	<img src="includes/images/comingSoon.png" alt="coming soon phone app">
+	<img src="includes/images/comingSoon(flipped).png" alt="coming soon phone app">
 	</p></div>
 	<!- end CTA2 div ->
 </div>
