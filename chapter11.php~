@@ -33,9 +33,8 @@
 </ul>
 
 <strong><a href="chapter12.php">ch12: Kinks and Fetishes</a></strong>
-<strong><a href="chapter13.php">ch13: Sexual Assault</a></strong>
-<strong><a href="chapter14.php">ch14: Rape</a></strong>
-<strong><a href="chapter15.php">ch15: Works Cited and External Resources</a></strong>
+<strong><a href="chapter13.php">ch13: Sexual Harassment, Assault, &amp; Rape</a></strong>
+<strong><a href="chapter14.php">ch14: Works Cited and External Resources</a></strong>
 </nav>
 <!- end navigation sidebar ->
 

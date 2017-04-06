@@ -46,11 +46,18 @@
 <!- chapter text division ->
 <div class="chapter2Text">
 <br>
-<strong><p>Under construction </p></strong>
+<h2>Chapter 11: </h2>
+	<h3></h3>
+	</p></p>
+
+
+
+
+	<div class="ch8Images">
+		<img src="includes/images/chapter8/" alt="">
+	</div>
 </div>
 
-<div class="expandtest">
-</div>
 
 
 <!- Footer section ->

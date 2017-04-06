@@ -46,10 +46,16 @@
 <!- chapter text division ->
 <div class="chapter2Text">
 <br>
-<strong><p>Under construction </p></strong>
-</div>
+<h2>Chapter 12: </h2>
+	<h3></h3>
+	</p></p>
 
-<div class="expandtest">
+
+
+
+	<div class="ch8Images">
+		<img src="includes/images/chapter8/" alt="">
+	</div>
 </div>
 
 
