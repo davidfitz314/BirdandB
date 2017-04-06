@@ -136,7 +136,7 @@
 	<p>A quick overview of how to use some non prescription protections is listed below:<p>
 	
 	<!- Image goes beside h4 header ->
-	<div class="ch9Images">
+	<div class="chapter9MiniImages">
 		<img src="includes/images/chapter9/male.png" alt="Male condom full example">
 	</div>
 
@@ -156,7 +156,7 @@
 	</ol>
 
 	<!- Image goes beside h4 header ->
-	<div class="ch9Images">
+	<div class="chapter9MiniImages">
 		<img src="includes/images/chapter9/female.png" alt="Female condom">
 	</div>
 
@@ -180,7 +180,7 @@
 	</ol>
 
 	<!- Image goes beside h4 header ->
-	<div class="ch9Images">
+	<div class="chapter9MiniImages">
 		<img src="includes/images/chapter9/spermicide.png" alt="Bottle of spermicide">
 	</div>
 
@@ -197,7 +197,7 @@
 	</ol>
 
 	<!- Image goes beside or above h4 header ->
-	<div class="ch9Images">
+	<div class="chapter9MiniImages">
 		<img src="includes/images/chapter9/exit.png" alt="Figures in bed thinking of withdrawing before ejaculation">
 	</div>
 	<div class="chapter9MiniHeaders">

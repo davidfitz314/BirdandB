@@ -476,14 +476,25 @@ ul.closedCircle {
 }
 
 .ch9Images img {
-	display: inline
+	width: 100%;
+	height: auto;
+}
+
+.chapter9sideImagesandText {
+	
+}
+
+.chapter9MiniImages {
+	float: left;
 	width: 20%;
 	height: auto;
 }
 
 .chapter9MiniHeaders {
-	display:inline;
+	float: right;
 }
+
+
 
 /* chapter 10 section */
 .chapter10Text {
