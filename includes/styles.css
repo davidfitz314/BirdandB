@@ -52,6 +52,8 @@ p {
 
 /* current logo div */
 .cLogo {
+	min-width: 200px;
+	min-height: 115px;
 	display: table-cell;
 	background-image: url("images/logo.png");
 	background-repeat: no-repeat;
@@ -66,7 +68,7 @@ p {
 	text-align: left;
 	display:table-cell;
 	width: 70%;
-	padding-left: 5%;
+	padding-left: 2%;
 }
 
 .cHeadCells a {
