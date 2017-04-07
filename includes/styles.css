@@ -40,6 +40,11 @@ p {
 	display:table;
 }
 
+.cNavi a {
+	text-decoration:none;
+	color: black;
+}
+
 /*old logo div*/
 .Logo {
 	width: 15%;

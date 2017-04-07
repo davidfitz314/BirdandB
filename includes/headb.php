@@ -14,9 +14,11 @@
 <body>
 <div class="centered-wrapper">
 <div class="cNavi">
-	<div class="cLogo">
+	<a href="www.birdandb.com">
+		<div class="cLogo">
 		
-	</div><!- end logo div ->
+		</div><!- end logo div ->
+	</div>
 	<div class="cHeadCells">
 	  <a href="index.php"></a></li>
 	</div>
