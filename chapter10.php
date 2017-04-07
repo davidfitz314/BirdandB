@@ -18,16 +18,16 @@
 <ul>
 <strong>Chapter 10</strong>
 <li>
-<a href="chapter10.php">default</a>
+<a href="chapter10.php">Most Common STIs</a>
 </li>
 <li>
-<a href="chapter10.php">default</a>
+<a href="chapter10.php">Living With a STI</a>
 </li>
 <li>
-<a href="chapter10.php">default</a>
+<a href="chapter10.php">Preventing STIs</a>
 </li>
 <li>
-<a href="chapter10.php">default</a>
+<a href="chapter10.php">Helpful Links</a>
 </li>
 </ul>
 
@@ -68,7 +68,7 @@
 		<div class="tabbed">		
 			<p>HPV is the most common sexually transmitted infection. There are more than 40 types of HPV. They can infect the genitals, mouth or throat. Most men and women who are sexually active will get at least one type of HPV at some point in their life.</p>
 
-			<p>HPV spreads from one person to another through vaginal, anal or oral sex. You can get the virus even if your partner has no symptoms. Fortunately, vaccines protect people against many types of HPV.</p>
+			<p>HPV spreads from one person to another through vaginal, anal or oral sex. You can get the virus even if ones partner has no symptoms. Fortunately, vaccines protect people against many types of HPV.</p>
 
 			<p>HPV infections are usually not harmful. They often go away on their own within two years. The problem is some types of HPV can lead to serious health problems. These include genital warts and cervical cancer. Most people infected with HPV have no symptoms until they develop other health issues.</p>
 		</div>
@@ -87,9 +87,9 @@
 		<div class="tabbed">		
 			<p>Chlamydia is a bacterial infection. Possible signs of infection are a discharge from the penis or vagina and burning during urination. However, most people with chlamydia have no symptoms.</p>
 
-			<p>Chlamydia spreads through sexual contact with the penis, vagina, mouth or anus of an infected person. A pregnant woman can pass chlamydia to her baby during childbirth. Even if you’ve been treated for chlamydia in the past, you can get the infection again.</p>
+			<p>Chlamydia spreads through sexual contact with the penis, vagina, mouth or anus of an infected person. A pregnant woman can pass chlamydia to her baby during childbirth. Even if one has been treated for chlamydia in the past, one can still get the infection again.</p>
 
-			<p>Your doctor can treat chlamydia with antibiotics. Without treatment, chlamydia can lead to serious health problems. It also is known to cause infertility. Women can develop pelvic inflammatory disease. Men can develop a condition that causes painful inflammation of the tube that helps carry sperm.</p>
+			<p>A doctor can treat chlamydia with antibiotics. Without treatment, chlamydia can lead to serious health problems. It also is known to cause infertility. Women can develop pelvic inflammatory disease. Men can develop a condition that causes painful inflammation of the tube that helps carry sperm.</p>
 		</div>
 	</div>
 
@@ -104,7 +104,9 @@
 		</div>
 		
 		<div class="tabbed">		
-			<p></p>
+			<p>This infection comes from a parasite that passes from one person to another during sex. It can spread from a man to a woman, a woman to a man, or from one woman to another woman. Women usually develop the infection inside the vagina or the urethra. Men can develop trichomoniasis inside the penis. The infection usually doesn’t spread to the mouth, anus, or other parts of the body.</p>
+
+			<p>Most people with trichomoniasis don’t have symptoms. Sometimes infected people experience itching or burning during urination. Discharge from the penis or the vagina is another sign of trichomoniasis. These symptoms may come and go. It takes antibiotics to get rid of the infection.</p>
 		</div>
 	</div>
 
@@ -119,7 +121,13 @@
 		</div>
 		
 		<div class="tabbed">		
-			<p></p>
+			<p>This STD occurs when bacteria infects the lining of a woman's reproductive tract. Gonorrhea can also develop in the urethra, mouth, throat, eyes, and anus of both men and women.</p>
+
+			<p>Gonorrhea spreads through sexual contact with the penis, vagina, mouth or anus of an infected person. A pregnant woman can pass gonorrhea to her baby during childbirth.</p>
+
+			<p>People with gonorrhea often have mild or no symptoms. Signs of the infection include painful urination and white, yellow, or green discharge from the penis or vagina. Men may develop pain in their testicles. Women can also have vaginal bleeding between periods.</p>
+
+			<p>Treatment involves two different antibiotics. Without treatment, gonorrhea can lead to serious health problems. Women can develop pelvic inflammatory disease. This increases women’s risk of infertility and serious complications during pregnancy. Men with untreated gonorrhea can develop inflammation of the tube that helps carry sperm, which can lead to infertility.</p>
 		</div>
 	</div>
 
@@ -134,7 +142,11 @@
 		</div>
 		
 		<div class="tabbed">		
-			<p></p>
+			<p>This infection comes from the herpes simplex virus (HSV), type 1 or type 2. One can get herpes by having vaginal, anal, or oral sex with someone who is infected. Some people with herpes have mild symptoms. Some have none at all. Other people have outbreaks of lesions that look like blisters around their genitals, rectum or mouth. These blisters can break open and become painful sores that take a long time to heal.</p>
+
+			<p>The fluid inside herpes sores contains the virus. One can become infected if one comes in contact with it because the virus can spread through the skin. Infected people can pass the virus to their partners even if they don't have sores. Outbreaks of genital herpes can happen again and again. But the outbreaks usually become shorter and less severe over time.</p>
+
+			<p>There is no cure for herpes. But a doctor can prescribe medicines that help prevent and shorten outbreaks and ease the pain.</p>
 		</div>
 	</div>
 
@@ -149,7 +161,11 @@
 		</div>
 		
 		<div class="tabbed">		
-			<p></p>
+			<p>Syphilis is an infection caused by bacteria. Sores may develop on the genitals and lips, and in the mouth. The infection spreads through contact with these sores during vaginal, anal, or oral sex. A pregnant woman can pass syphilis to her baby.</p>
+
+			<p>It can take up to 90 days after exposure for syphilis symptoms to appear. The infection progresses in stages that can last for weeks or even years. After sores appear, a skin rash develops. This can show up on the palms of the hands and soles of the feet. In some cases, the rash can be all over the body. Left untreated, syphilis can cause serious health problems. They include brain damage, paralysis, blindness, and dementia. In extreme cases, syphilis can be fatal.</p>
+
+			<p>Syphilis is treated with antibiotics to kill the bacteria. The more quickly one gets syphilis treatment, the more completely one will recover from it.</p>
 		</div>
 	</div>
 
@@ -164,24 +180,90 @@
 		</div>
 		
 		<div class="tabbed">		
-			<p></p>
+			<p>HIV is the virus that causes AIDS. When it enters the body, the virus attacks the immune system. It destroys certain white blood cells the body needs to fight off infections. Without enough of these cells, people with HIV develop other serious diseases, such as pneumonia or tuberculosis.</p>
+
+			<p>HIV can’t survive for long outside the body. It spreads from person to person through contact with bodily fluids, such as blood and semen during vaginal and anal sex. It's possible to get HIV through oral sex, but this is not common. A pregnant woman can pass HIV to her baby during pregnancy or while breastfeeding. One can also get the virus from sharing needles or syringes with an infected person.</p>
+
+			<p>There is no cure for HIV. But treatment with several different types of medication helps people live longer and maintain an active life. The medicine also reduces the chances of spreading the virus to others.</p>
 		</div>
 	</div>
 
 	<div class="ch10Images">
-		<img src="includes/images/chapter10/" alt="">
+		<img src="includes/images/chapter10/diagnosis.png" alt="Diagnosis, outline of person in hospital gown">
 	</div>
 
-	<div class="ch10Images">
-		<img src="includes/images/chapter10/" alt="">
-	</div>
+	<h3>Living With a STI</h3>
+
+	<p>While some STIs are curable the others that aren’t leave many people wondering how they should go about their life.</p>
+
+	<p>After talking to a doctor to find out ways to manage an STI there are a few steps people can go about to keeping the love and sex life intact.</p>
+
+	<ul class="closedCircle">
+		<li><strong class="addItalic">First,</strong> It’s easier to talk to your partners about STD/HIV after you’ve come to terms with it yourself. Give yourself time to work through it. If you are well informed and know the facts about STDs or HIV, you’ll be more confident and at-ease when discussing the situation. You can always call 1-800-CDC-INFO (1-800-232-4636) to talk to someone personally and to get brochures and information to give your partners.</li>
+		
+		<li><strong class="addItalic">Second,</strong> it is important to talk to your family and significant others. To do this some people test the waters using role-play and hypothetical situations while others just dive straight in and tell them. It is important to remember that while some may have strong adverse reactions there are many others who will give support instead.</li>
+
+		<li><strong class="addItalic">Third,overcoming rejection. This problem can be from an outside source or just inside of the person. Rejection is never easy to handle and while some people will reject you for your condition, the others who truly love and support you will never reject you.With this step you should find out who rejects you and let them go from your life. If you are rejecting yourself, then instead try joining a support group who will help you see the beautiful person that you still are.</strong> </li>
+	</ul>
 
 	<div class="ch10Images">
-		<img src="includes/images/chapter10/" alt="">
+		<img src="includes/images/chapter10/anonymous.png" alt="Anonymous portrait">
 	</div>
 
+	<h4 class="addItalic">Notifying Partners Anomynously</h4>
+	<p class="tabbed">If notifying your partners is too hard, there are ways to notify your partners anonymously about your STI.</p>
+	
+	<ul class="closedCircle">
+		<li><strong class="addItalic">Third Party Partner Notification:</strong> This service offered at most public health clinics, has trained health workers notify your partners regarding their possible exposure to HIV infection without ever identifying you. For local testing and notification services, visit <a href="http://www.hivtest.org">www.hivtest.org</a></li>
+
+		<li><strong class="addItalic">INSPOT:</strong> An internet service to notify your sexual partners online that they may have been exposed to HIV or an STD. It's free and anonymous. No information is reported to any government or private agency. <a href="http://www.inspot.org">www.inspot.org</a></li>		
+	</ul>	
+	
+	<h4 class="addItalic">Legal Responsibilities for STI Victims</h4>
+
+	<p class="tabbed">Each state has different reporting systems for those who have been tested as positive.</p>
+	
+	<p class="tabbed">Most places that test will update the state with the information only when a positive has been verified.</p>
+
+	<p class="tabbed">If you have been diagnosed with positive, depending on your state you may have certain obligations to the state.</p>
+
+	<p class="tabbed">Almost all states do not require you to tell your partner you have tested positive for an STI, but in the event that you transmit the STI after without the partner's knowledge you can be held legally responsible.</p>
+
+	<p class="tabbed">So the best thing to do to avoid breaking the law is before the sexual act (which could transmit the infection) is to tell your partner.</p>
+
 	<div class="ch10Images">
-		<img src="includes/images/chapter10/" alt="">
+		<img src="includes/images/chapter10/super.png" alt="Super condom with cape">
+	</div>
+
+	<h3>Preventing STIs</h3>
+	<p>The best way to prevent getting an STI is to not have sex. Some STIs can’t be cured, so if you are going to have sex you should always practice safer sex, or find ways to be intimate in a romantic relationship without having sex. This means preventing the passing of body fluids such as blood, semen, and vaginal fluids, and avoiding direct oral, anal, or genital contact (by using a latex condom).</p>
+	
+	<h4 class="addItalic">If one does decide to have sex, one should:</h4>
+	<ul class="closedCircle">
+		<li>Use condoms 100% of the time. You need to make sure that you use a new latex condom (or dental dam) correctly every time you have oral, anal, or vaginal sex. If you are allergic to latex, use a polyurethane male or female condom.</li>
+
+		<li>Use a water-base lubricant with condoms. The lubricant will keep the condom from breaking. Never use lubricants that contain oil or fat, such as petroleum jelly or cooking oil. These products weaken “latex” and can cause the condom to break.</li>
+
+		<li>Limit the number of people you have sex with. The more partners you have, the greater your risk of being exposed to an STI.</li>
+
+		<li>Choose partners who have not had sex with many other partners, and who will have sex only with you while you’re together. You should ask your partner(s) if he/she has an STI, has been exposed to one, or has physical symptoms of an STI.</li>
+
+		<li><strong class="addItalic">NOT</strong> have sex with anyone that has signs of an STI (sores, rashes, or discharge from the genital area).</li>
+
+		<li>Have your partner get checked out for STI before you have sex. Keep in mind that tests for sexually transmitted infections don’t pick up all STIs.</li>
+	</ul>
+
+	<h4 class="addItalic">Other ways to prevent getting an STI include:</h4>
+	<ul class="closedCircle">
+		<li>Don’t inject drugs or have sex with someone who has.</li>
+
+		<li>Avoid alcohol and drugs, since they can make you more likely to take chances with sex.</li>
+
+		<li>Get the Hepatitis B and HPV vaccinations.</li>
+	</ul>
+
+	<div class="ch10Images">
+		<img src="includes/images/chapter10/helpingHands.png" alt="Two hands shaking and grasping each other">
 	</div>
 
 	<h3>Helpful Links</h3>
