@@ -564,8 +564,13 @@ ul li {
 	display: table;
 }
 
+.chapter10sideImagesandText .tabbed {
+	padding-top: 10%;
+}
+
 .chapter10MiniImages {
 	display: table-cell;
+	float:left;
 }
 
 .chapter10MiniImages img {
@@ -574,10 +579,10 @@ ul li {
 }
 
 .chapter10MiniHeaders {
-	display: table-cell;
+	
 	padding-left: 15px;
 	font-size: 105%;
-	float:right;
+	float:left;
 }
 
 /* chapter 11 section */

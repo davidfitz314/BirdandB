@@ -67,7 +67,9 @@
 		
 		<div class="tabbed">		
 			<p>HPV is the most common sexually transmitted infection. There are more than 40 types of HPV. They can infect the genitals, mouth or throat. Most men and women who are sexually active will get at least one type of HPV at some point in their life.</p>
+
 			<p>HPV spreads from one person to another through vaginal, anal or oral sex. You can get the virus even if your partner has no symptoms. Fortunately, vaccines protect people against many types of HPV.</p>
+
 			<p>HPV infections are usually not harmful. They often go away on their own within two years. The problem is some types of HPV can lead to serious health problems. These include genital warts and cervical cancer. Most people infected with HPV have no symptoms until they develop other health issues.</p>
 		</div>
 	</div>
