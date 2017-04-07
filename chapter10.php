@@ -40,7 +40,7 @@
 
 <!- top page image ->
 <div class="chapterLogo">
-<img src="includes/images/medical_instruments.jpg" alt="change to default">
+<img src="includes/images/chapter10/warning.png" alt="warning hand with words saying STOP STI">
 </div>
 
 <!- chapter text division ->
