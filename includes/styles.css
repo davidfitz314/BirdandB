@@ -668,10 +668,20 @@ h3 {
 	float: left;
 }
 
+.ch10Left img{
+	width: 20%;
+	height: auto;
+}
+
 .ch10Right {
 	width: 50%;
 	height: auto;
 	float: right;
+}
+
+.ch10Right img{
+	width: 20%;
+	height: auto;
 }
 
 /* chapter 12 section */

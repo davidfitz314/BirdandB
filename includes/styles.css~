@@ -662,6 +662,23 @@ h3 {
 	height: auto;
 }
 
+.ch10Left {
+	width: 50%;
+	height: auto;
+	float: left;
+}
+
+.ch10Left img{
+	width: 20%;
+	height: auto;
+}
+
+.ch10Right {
+	width: 50%;
+	height: auto;
+	float: right;
+}
+
 /* chapter 12 section */
 .chapter12Text {
 	width: 75%;
