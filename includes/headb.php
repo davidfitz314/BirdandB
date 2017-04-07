@@ -25,7 +25,6 @@
 		<form>
 			<input type="text" name="search" placeholder="Search Bar (coming soon)...">
 		</form>	  
-</li>
 	</div>
 </div>
 
