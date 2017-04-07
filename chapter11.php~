@@ -53,12 +53,28 @@
 	<p>Human sexuality has changed many times over the centuries, from praising sex as being it’s own god or creating the universe, to shunning it in the hopes it would disappear. Humanity has changed its stance on sex many times, always jumping back and forth on how they wish to view it.</p>
 
 	<!- Greek image goes left of text ->
-	<h3>Ancient Greeks</h3>
-	<p></p>
+	<div class="ch10Left">
+		<img src="includes/images/chapter11/greek.png" alt="Greek styled shadow portraits">
+	</div>
+
+	<div class="ch10Right">
+		<h3>Ancient Greeks</h3>
+		<p>In Ancient Greece mythology the universe was created by sex and sexual activities. Sexuality and love were deeply connected to the creation of the Earth, the Heavens, and the Underworld.</p>
+
+		<p>Greeks Myths consist of incest, murder, polygamy, intermarriage, and almost always required some sort of eroticism and / or fertility. From the beginning Greeks demonstrated woman's essential reproductive role in securing the cosmos, extending the human race, and ensuring the fertility of nature.</p>
+
+		<p>Masturbation to the Ancient Greeks was a normal and healthy substitute for other sexual pleasures. It was in fact a handy way to relieve sexual frustration which they deemed sexual frustration as destructive towards man.</p>
+	</div>
 
 	<!- Roman image goes right of text ->
-	<h3>Ancient Romans</h3>
-	<p></p>
+	<div class="ch10Right">
+		<img src="includes/images/chapter11/greek.png" alt="Greek styled shadow portraits">
+	</div>
+
+	<div class="ch10Left">
+		<h3>Ancient Romans</h3>
+		<p>In Ancient Rome not only was sex gratifying but it was also a duty. The men would delight in displaying the vitality, manhood, and sexual prowess, while the woman understood sex to be a great duty for replenishing the population with male soldiers and citizens. The female babies however contributed little to society while growing, but were still high cost as a large dowry would be required for any male who wished to marry her when the time was right.</p>
+	</div>
 
 	<!- Victorian Era image goes left of text ->
 	<h3>Victorian Era</h3>
@@ -69,15 +85,15 @@
 	<p></p>
 
 	<!- China image goes above text banner style ->
-	<div class="ch10Images">
-		<img src="includes/images/chapter10/" alt="Chinese shadow couple drinking tea and doing martial arts">
+	<div class="ch11Images">
+		<img src="includes/images/chapter11/chinese.png" alt="Chinese shadow couple drinking tea and doing martial arts">
 	</div>
 	<h3></h3>
 	<p></p>
 	
 	<!- China second image above second paragraph text ->
-	<div class="ch10Images">
-		<img src="includes/images/chapter10/" alt="Words saying Equality">
+	<div class="ch11Images">
+		<img src="includes/images/chapter11/equality.png" alt="Words saying Equality">
 	</div>
 
 	<p></p>
@@ -100,8 +116,8 @@
 	</p></p>
 
 	<!- image goes above text ->
-	<div class="ch10Images">
-		<img src="includes/images/chapter10/" alt="Penicilin molecular structure">
+	<div class="ch11Images">
+		<img src="includes/images/chapter11/penicillin.png" alt="Penicillin molecular structure">
 	</div>
 
 	<h3>Other Revolutionary Items</h3>

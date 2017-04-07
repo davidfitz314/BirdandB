@@ -37,7 +37,12 @@ p {
 
 .cNavi {
 	height: 125px;
-	display:table;
+	width: 100%;
+}
+
+.cNavi a {
+	text-decoration:none;
+	color: black;
 }
 
 /*old logo div*/
@@ -47,7 +52,9 @@ p {
 
 /* current logo div */
 .cLogo {
-	display: table-cell;
+	min-width: 200px;
+	min-height: 115px;
+	float:left;
 	background-image: url("images/logo.png");
 	background-repeat: no-repeat;
 	background-size: contain;
@@ -59,9 +66,9 @@ p {
 
 .cHeadCells {
 	text-align: left;
-	display:table-cell;
-	width: 70%;
-	padding-left: 5%;
+	float:left;
+	padding-top: 97px;
+	margin-left: 3.5%;
 }
 
 .cHeadCells a {
@@ -74,9 +81,12 @@ p {
 }
 
 .searchBarC {
-	width: 10%;
-	display: table-cell;
-	text-align: right;
+	float: right;
+	margin-top: 10%;
+}
+
+.searchBarC form{
+	/*modify later?*/
 }
 
 .CompanyDescription {
@@ -93,7 +103,7 @@ p {
 
 .disclaimer {
 	text-align:left;
-	width: 85.5%;
+	width: 85%;
 	border: 5px double red;
 	padding: 75px;
 }
@@ -109,7 +119,7 @@ p {
 }
 
 .CallsToAction {
-	display: table;
+	/*display: table;*/
 	
 	width: 102%;
 }
@@ -118,11 +128,19 @@ p {
 	*/
 
 .CTA1 {
-	display: table-cell;
+	padding-top: 2%;
+	/*display: table-cell;*/
 	/*background-color: blue;*/
 	width: 33%;
 	color: black;
-	border: dashed black;
+	/*border: dashed black;*/
+	float: left;
+	
+}
+
+.CTA1 img{
+	width: 125px;
+	height: auto;
 }
 
 .CTA1 a:link {
@@ -136,21 +154,28 @@ p {
 }
 
 .CTA1 a:hover {
-	text-decoration: underline;
+	text-decoration: none;
 	color: black;
 }
 
 .CTA2 {
-	display: table-cell;
+	/*display: table-cell;*/
 	background-color: white;
-	text-align: center;
+	width: 66%;
+	text-align: right;
+	float: right;
+	padding-left: 1%;
 }
 
 .CTA1 p {
 	padding-left: 25px;
 	padding-right: 25px;
+	text-align: justify;
 }
 
+.CTA2 img {
+	width: 78%;
+}
 
 .Survey {
 	padding-top:1%;
@@ -220,9 +245,11 @@ p {
 footer {
 	position: relative;
 	width: 80%;
-	padding: 100px;
+	/*padding: 15% 8% 15% 10%;*/
 	border: 3px dashed black;
 	z-index: 99;
+	text-align: left;
+	line-height:150%;
 }
 
 /* floating menu section */
@@ -265,15 +292,8 @@ ul.floating-menu {
 	margin-left: 25%;
 }
 
-.chapter2Text {
-	width: 75%;
-	margin-left: 25%;
-	line-height: 150%;
-	text-align: left;
-}
+/*generic styling section*/
 
-
-/*generic styling for lists*/
 ul.openCircle {
 	list-style-type: circle;
 }
@@ -286,9 +306,44 @@ ul.closedCircle {
 	font-style: italic;
 }
 
-/*chapter 2 section*/
-.backline {
+.tabbed {
+	padding-left: 20%;
+	font-size: 98%;
+}
 
+.tabbed ul {
+	font-size: 90%;
+}
+
+ul li {
+	padding: 3px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+	font-size: 150%;
+}
+
+h3 {
+	font-size: 135%;
+}
+
+/*chapter 2 section*/
+
+.chapter2Text {
+	width: 75%;
+	margin-left: 25%;
+	line-height: 150%;
+	text-align: left;
+}
+
+.tabbedch2 {
+	padding-left: 30%;
+	font-size: 98%;
+	padding-top: 15px;
 }
 
 .plant_circle img {
@@ -458,8 +513,8 @@ ul.closedCircle {
 }
 
 .ch8Images img {
-	width: auto;
-	height: 80%;
+	width: 100%;
+	height: auto;
 }
 
 /* chapter 9 section */
@@ -475,9 +530,40 @@ ul.closedCircle {
 	line-height: 150%;
 }
 
+.ch9Images {
+	text-align:center;
+}
+
 .ch9Images img {
-	width: 100%;
+	width: 50%;
 	height: auto;
+}
+
+.chapter9sideImagesandText {
+	display: table;
+}
+
+.chapter9MiniImages {
+	display: table-cell;
+}
+
+.chapter9MiniImages img {
+	width: 100px;
+	height: auto;
+}
+
+.chapter9MiniHeaders {
+	display: table-cell;
+	padding-left: 15px;
+	font-size: 105%;
+	float:right;
+}
+
+.chapter9MiniHeadersFC {
+	display: table-cell;
+	font-size: 105%;
+	padding-left: 15px;
+	float:right;
 }
 
 /* chapter 10 section */
@@ -493,7 +579,67 @@ ul.closedCircle {
 	line-height: 150%;
 }
 
+.ch10Images {
+	text-align:center;
+}
+
 .ch10Images img {
+	width: 50%;
+	height: auto;
+}
+
+.chapter10sideImagesandText {
+	display: table;
+}
+
+.chapter10sideImagesandText .tabbed {
+	padding-top: 10%;
+}
+
+.chapter10MiniImages {
+	display: table-cell;
+	float:left;
+}
+
+.chapter10MiniImages img {
+	width: 100px;
+	height: auto;
+}
+
+.chapter10MiniHeaders {
+	
+	padding-left: 15px;
+	font-size: 105%;
+	float:left;
+}
+
+.chapter10Text a{
+	text-decoration: none;
+	color: black;
+}
+
+.chapter10Text a:hover{
+	text-decoration: none;
+	color: blue;
+}
+
+.tabbedch10 {
+	padding-left: 10%;
+	font-size: 96%;
+}
+
+.tabbedch10p2 {
+	padding-left: 10%;
+	font-size: 96%;
+}
+
+.ch10ImagesSP {
+	text-align: center;
+	margin-top: 10%;
+	text-align: left;
+}
+
+.ch10ImagesSP img {
 	width: 100%;
 	height: auto;
 }
