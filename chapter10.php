@@ -269,11 +269,11 @@
 	<h3>Helpful Links</h3>
 	<h4 class="addItalic">Support Group Links</h4>
 	<div class="tabbedch10p2">
-		<p class="addItalic><a href="http://www.thestdproject.com/std-support-groups/">The STD Project Support Groups</a></p>
+		<p class="addItalic"><a href="http://www.thestdproject.com/std-support-groups/">The STD Project Support Groups</a></p>
 
-		<p class="addItalic><a href="https://datingwithherpes.org/herpessupportgroups/">Dating With Herpes Support Groups</a></p>
+		<p class="addItalic"><a href="https://datingwithherpes.org/herpessupportgroups/">Dating With Herpes Support Groups</a></p>
 
-		<p class="addItalic><a href="http://www.ashasexualhealth.org/stdsstis/herpes/support-groups/">Asha Sexual Health Support Groups</a></p>
+		<p class="addItalic"><a href="http://www.ashasexualhealth.org/stdsstis/herpes/support-groups/">Asha Sexual Health Support Groups</a></p>
 	</div>
 
 	<h4 class="addItalic">Health Center Links</h4>
