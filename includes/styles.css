@@ -485,8 +485,8 @@ ul li {
 }
 
 .ch8Images img {
-	width: auto;
-	height: 80%;
+	width: 80%;
+	height: auto;
 }
 
 /* chapter 9 section */
