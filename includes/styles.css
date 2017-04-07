@@ -614,6 +614,16 @@ h3 {
 	font-size: 96%;
 }
 
+.ch10ImagesSP {
+	margin-top: 5%;
+	text-align: center;
+}
+
+.ch10ImageSP img {
+	width: 55%;
+	height: auto;
+}
+
 /* chapter 11 section */
 .chapter11Text {
 	width: 75%;

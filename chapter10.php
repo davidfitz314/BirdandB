@@ -188,7 +188,7 @@
 		</div>
 	</div>
 
-	<div class="ch10Images">
+	<div class="ch10ImagesSP">
 		<img src="includes/images/chapter10/diagnosis.png" alt="Diagnosis, outline of person in hospital gown">
 	</div>
 
