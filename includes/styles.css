@@ -479,6 +479,10 @@ ul li {
 	text-align: left;
 }
 
+.chapter8Text img {
+	text-align:center;
+}
+
 .chapter8Text ul {
 	text-align: left;
 	line-height: 150%;
