@@ -54,7 +54,7 @@ p {
 .cLogo {
 	min-width: 200px;
 	min-height: 115px;
-	display: table-cell;
+	float:left;
 	background-image: url("images/logo.png");
 	background-repeat: no-repeat;
 	background-size: contain;
@@ -66,9 +66,9 @@ p {
 
 .cHeadCells {
 	text-align: left;
-	display:table-cell;
-	width: 70%;
-	padding-left: 3%;
+	float:left;
+	padding-top: 97px;
+	margin-left: 3.5%;
 }
 
 .cHeadCells a {
@@ -82,7 +82,9 @@ p {
 
 .searchBarC {
 	width: 10%;
-	display: table-cell;
+	float: right;
+	padding-top: 85px;
+	margin-left:49%;
 	text-align: right;
 }
 
