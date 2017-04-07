@@ -657,6 +657,10 @@ h3 {
 	line-height: 150%;
 }
 
+.ch11Images {
+	margin-top: 10%;
+}
+
 .ch11Images img {
 	width: 100%;
 	height: auto;

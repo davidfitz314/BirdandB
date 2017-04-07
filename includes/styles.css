@@ -694,6 +694,17 @@ h3 {
 	padding: 15% 0 0 0;
 }
 
+.ch11rightB {
+	width: 50%;
+	height: auto;
+	float: right;
+}
+
+.ch11RightB img {
+	width: 60%;
+	height: auto;
+}
+
 
 /* chapter 12 section */
 .chapter12Text {
