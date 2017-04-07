@@ -76,7 +76,7 @@
 		<p>4 weeks<p>
 		</div>
 		<div class="ch2text">
-		<p class="tabbed">The Blastocyst or ball of cells is now officially called an embryo. The woman is now about 4 weeks from the beginning of the last menstrual cycle. Around this time is when the next menstrual cycle should have started and pregnancy tests can be effective for telling if a woman is pregnant. The baby is the size of a poppy seed.</p>
+		<p class="tabbedch2">The Blastocyst or ball of cells is now officially called an embryo. The woman is now about 4 weeks from the beginning of the last menstrual cycle. Around this time is when the next menstrual cycle should have started and pregnancy tests can be effective for telling if a woman is pregnant. The baby is the size of a poppy seed.</p>
 		</div>
 	</div>
 
@@ -89,7 +89,7 @@
 	<p>5 weeks<p>
 	</div>
 	<div class="ch2text">
-	<p class="tabbed">The baby’s appearance is more similar to a tadpole then a human at this point but it is growing fast. The heart will begin beating this week and a circulatory system will start to form. The baby is the size of a sesame seed.</p>
+	<p class="tabbedch2">The baby’s appearance is more similar to a tadpole then a human at this point but it is growing fast. The heart will begin beating this week and a circulatory system will start to form. The baby is the size of a sesame seed.</p>
 	</div>
 
 	<!- image and week# ->
@@ -98,10 +98,10 @@
 	</div>
 		
 	<div class="weekNum">	
-	<p class="tabbed">6 weeks<p>
+	<p>6 weeks<p>
 	</div>
 	<div class="ch2text">
-	<p>The baby’s facial features (nose, mouth, and ears), brain and intestines are beginning to develop. The baby is now the size of a lentil.</p>
+	<p class="tabbedch2">The baby’s facial features (nose, mouth, and ears), brain and intestines are beginning to develop. The baby is now the size of a lentil.</p>
 	</div>
 
 	<!- image and week# ->
@@ -110,10 +110,10 @@
 	</div>
 		
 	<div class="weekNum">	
-	<p class="tabbed">7 weeks<p>
+	<p>7 weeks<p>
 	</div>
 	<div class="ch2text">
-	<p>The baby still has a tail but its size has doubled since last week and the tail will soon disappear. Arms and legs begin developing alongside of hands and feet which resemble paddles in shape. The baby is now the size of a blueberry.</p>
+	<p class="tabbedch2">The baby still has a tail but its size has doubled since last week and the tail will soon disappear. Arms and legs begin developing alongside of hands and feet which resemble paddles in shape. The baby is now the size of a blueberry.</p>
 	</div>
 
 
@@ -125,10 +125,10 @@
 	</div>
 		
 	<div class="weekNum">	
-	<p class="tabbed">8 weeks<p>
+	<p>8 weeks<p>
 	</div>
 	<div class="ch2text">
-	<p>The baby begins moving around but not enough for the mother to feel it yet. Primitive neural pathways are formed from Nerve cells branching out. The lungs have begun developing alongside of breathing tubes in the throat. The baby is now the size of a kidney bean or about ½ an inch long.</p>
+	<p class="tabbedch2">The baby begins moving around but not enough for the mother to feel it yet. Primitive neural pathways are formed from Nerve cells branching out. The lungs have begun developing alongside of breathing tubes in the throat. The baby is now the size of a kidney bean or about ½ an inch long.</p>
 	</div>
 
 	<!- image and week# ->
@@ -137,10 +137,10 @@
 	</div>
 		
 	<div class="weekNum">	
-	<p class="tabbed">9 weeks<p>
+	<p>9 weeks<p>
 	</div>
 	<div class="ch2text">
-	<p>The baby’s embryonic tail has disappeared and most of it’s basic physiology is in place (earlobes, nose, mouth, and more). The baby’s weight is a fraction of an ounce and is the size of a grape.</p>
+	<p class="tabbedch2">The baby’s embryonic tail has disappeared and most of it’s basic physiology is in place (earlobes, nose, mouth, and more). The baby’s weight is a fraction of an ounce and is the size of a grape.</p>
 	</div>
 
 	<!- image and week# ->
@@ -149,10 +149,10 @@
 	</div>
 		
 	<div class="weekNum">	
-	<p class="tabbed">10 weeks<p>
+	<p>10 weeks<p>
 	</div>
 	<div class="ch2text">
-	<p>The baby has translucent skin and limbs that can bend, finer details like nails are starting to form. The baby is the size of a kumquat.</p>
+	<p class="tabbedch2">The baby has translucent skin and limbs that can bend, finer details like nails are starting to form. The baby is the size of a kumquat.</p>
 	</div>
 
 	<!- image and week# ->
@@ -161,10 +161,10 @@
 	</div>
 		
 	<div class="weekNum">	
-	<p class="tabbed">11 weeks<p>
+	<p>11 weeks<p>
 	</div>
 	<div class="ch2text">
-	<p>The baby has almost fully formed, movement from limbs stretching and kicking are now happening. The diaphragm is developing and can even produce hiccups. The baby is the size of a fig.</p>
+	<p class="tabbedch2">The baby has almost fully formed, movement from limbs stretching and kicking are now happening. The diaphragm is developing and can even produce hiccups. The baby is the size of a fig.</p>
 	</div>
 
 	<!- image and week# ->
@@ -173,10 +173,10 @@
 	</div>
 		
 	<div class="weekNum">	
-	<p class="tabbed">12 weeks<p>
+	<p>12 weeks<p>
 	</div>
 	<div class="ch2text">
-	<p>The baby’s reflexes begin working, fingers and toes will open and close and the baby’s mouth will make sucking movements. At this time the baby can feel a poke from the outside of the stomach, but the mother will not be able to feel the baby’s movements yet. The baby is the size of a lime.</p>
+	<p class="tabbedch2">The baby’s reflexes begin working, fingers and toes will open and close and the baby’s mouth will make sucking movements. At this time the baby can feel a poke from the outside of the stomach, but the mother will not be able to feel the baby’s movements yet. The baby is the size of a lime.</p>
 	</div>
 
 	<!- image and week# ->
@@ -188,7 +188,7 @@
 	<p>13 weeks<p>
 	</div>
 	<div class="ch2text">
-	<p>The baby’s fingers now have fingerprints and the veins and organs can clearly be seen through the skin. The baby is the length of a pea pod.</p><!- interesting fact goes here ->
+	<p class="tabbedch2">The baby’s fingers now have fingerprints and the veins and organs can clearly be seen through the skin. The baby is the length of a pea pod.</p><!- interesting fact goes here ->
 	</div>
 
 	<h3>2nd Trimester</h3>
@@ -201,7 +201,7 @@
 	<p>14 weeks<p>
 	</div>
 	<div class="ch2text">
-	<p>The baby can now use facial muscles, brain impulses have begun firing, and the babies kidney are now working. The baby is the size of a lemon.</p><!- interesting fact goes here ->
+	<p class="tabbedch2">The baby can now use facial muscles, brain impulses have begun firing, and the babies kidney are now working. The baby is the size of a lemon.</p><!- interesting fact goes here ->
 	</div>
 
 	<!- image and week# ->
@@ -213,7 +213,7 @@
 	<p>15 weeks<p>
 	</div>
 	<div class="ch2text">
-	<p>The baby can sense light but the eyelids are still fused shut. At this week ultrasounds may reveal the sex of the baby and the baby is now the size of an apple.</p>
+	<p class="tabbedch2">The baby can sense light but the eyelids are still fused shut. At this week ultrasounds may reveal the sex of the baby and the baby is now the size of an apple.</p>
 	</div>
 
 	<!- image and week# ->
@@ -225,7 +225,7 @@
 	<p>16 weeks<p>
 	</div>
 	<div class="ch2text">
-	<p>The baby’s hair isn’t visible yet but patterning on the baby scalp has begun for it to start growing. The baby’s legs are more developed and moving, the head is more upright and the ears are almost in their final position. The baby is the size of an avocado.</p>
+	<p class="tabbedch2">The baby’s hair isn’t visible yet but patterning on the baby scalp has begun for it to start growing. The baby’s legs are more developed and moving, the head is more upright and the ears are almost in their final position. The baby is the size of an avocado.</p>
 	</div>
 
 	<!- image and week# ->
@@ -237,7 +237,7 @@
 	<p>17 weeks<p>
 	</div>
 	<div class="ch2text">
-	<p>The baby’s formerly soft cartilage is now hardening into bone, the umbilical chord is growing stronger and thicker and the baby can now move its joints. The baby is the size of a turnip.</p>
+	<p class="tabbedch2">The baby’s formerly soft cartilage is now hardening into bone, the umbilical chord is growing stronger and thicker and the baby can now move its joints. The baby is the size of a turnip.</p>
 	</div>
 
 
@@ -252,7 +252,7 @@
 	<p>18 weeks<p>
 	</div>
 	<div class="ch2text">
-	<p>The baby is forming an internal protective coating of myelin around its nerves and the baby’s body is more prone to moving around. The baby is now the size of a bell pepper.</p>
+	<p class="tabbedch2">The baby is forming an internal protective coating of myelin around its nerves and the baby’s body is more prone to moving around. The baby is now the size of a bell pepper.</p>
 	</div>
 
 	<!- image and week# ->
@@ -264,7 +264,7 @@
 	<p>19 weeks<p>
 	</div>
 	<div class="ch2text">
-	<p>The baby is developing its sense of smell, vision, taste, touch, and hearing now. The baby is now the size of a heirloom tomato</p>
+	<p class="tabbedch2">The baby is developing its sense of smell, vision, taste, touch, and hearing now. The baby is now the size of a heirloom tomato</p>
 	</div>
 
 	<!- image and week# ->
@@ -276,7 +276,7 @@
 	<p>20 weeks<p>
 	</div>
 	<div class="ch2text">
-	<p>The baby’s digestive system is now producing Meconium (an early form of poop). The baby is now the size of a banana.</p>
+	<p class="tabbedch2">The baby’s digestive system is now producing Meconium (an early form of poop). The baby is now the size of a banana.</p>
 	</div>
 
 	<!- image and week# ->
@@ -288,7 +288,7 @@
 	<p>21 weeks<p>
 	</div>
 	<div class="ch2text">
-	<p>The baby’s movement has changed and becomes stronger with kicks and jabs against the walls of the womb. The baby is the length of a carrot.</p><!- interesting fact goes here ->
+	<p class="tabbedch2">The baby’s movement has changed and becomes stronger with kicks and jabs against the walls of the womb. The baby is the length of a carrot.</p><!- interesting fact goes here ->
 	</div>
 
 	<!- image and week# ->
@@ -300,7 +300,7 @@
 	<p>22 weeks<p>
 	</div>
 	<div class="ch2text">
-	<p>The baby’s features are now more distinct, such as lips and eyebrows have more definition. The baby is now the size of a spaghetti squash.</p>
+	<p class="tabbedch2">The baby’s features are now more distinct, such as lips and eyebrows have more definition. The baby is now the size of a spaghetti squash.</p>
 	</div>
 
 	<!- image and week# ->
@@ -312,7 +312,7 @@
 	<p>23 weeks<p>
 	</div>
 	<div class="ch2text">
-	<p>The baby is now the size of a large mango.</p><!- interesting fact goes here ->
+	<p class="tabbedch2">The baby is now the size of a large mango.</p><!- interesting fact goes here ->
 	</div>
 
 	<!- image and week# ->
@@ -324,7 +324,7 @@
 	<p>24 weeks<p>
 	</div>
 	<div class="ch2text">
-	<p>The baby is long and slim in its figure but the skin is still thin and translucent. The baby is now the size of an ear of corn.</p>
+	<p class="tabbedch2">The baby is long and slim in its figure but the skin is still thin and translucent. The baby is now the size of an ear of corn.</p>
 	</div>
 
 	<!- image and week# ->
@@ -336,7 +336,7 @@
 	<p>25 weeks<p>
 	</div>
 	<div class="ch2text">
-	<p>The baby is starting to fill in its wrinkly skin with baby fat and resembling more of a newborn. The baby’s hair is starting to come in and have both color and texture. The baby now weighs around the same as an average rutabaga.</p>
+	<p class="tabbedch2">The baby is starting to fill in its wrinkly skin with baby fat and resembling more of a newborn. The baby’s hair is starting to come in and have both color and texture. The baby now weighs around the same as an average rutabaga.</p>
 	</div>
 
 	<!- image and week# ->
@@ -348,7 +348,7 @@
 	<p>26 weeks<p>
 	</div>
 	<div class="ch2text">
-	<p>The baby inhales and exhales amniotic fluid, this helps develop the lungs in preparation for birth when the baby will have to breathe air. The baby is now the size of a bunch of scallions.</p>
+	<p class="tabbedch2">The baby inhales and exhales amniotic fluid, this helps develop the lungs in preparation for birth when the baby will have to breathe air. The baby is now the size of a bunch of scallions.</p>
 	</div>
 
 	<!- image and week# ->
@@ -360,7 +360,7 @@
 	<p>27 weeks<p>
 	</div>
 	<div class="ch2text">
-	<p>The baby has now developed a circadian rhythm for sleeping and its brain is very active. The baby is now the size of a head of cauliflower.</p><!- interesting fact goes here ->
+	<p class="tabbedch2">The baby has now developed a circadian rhythm for sleeping and its brain is very active. The baby is now the size of a head of cauliflower.</p><!- interesting fact goes here ->
 	</div>
 
 	<h3>3rd Trimester</h3>
@@ -373,7 +373,7 @@
 	<p>28 weeks<p>
 	</div>
 	<div class="ch2text">
-	<p>The baby has started developing eyesight allowing more light recognition, it’s eyelids can now blink and the eyelashes are fully grown. The baby is now the size of a large eggplant.</p>
+	<p class="tabbedch2">The baby has started developing eyesight allowing more light recognition, it’s eyelids can now blink and the eyelashes are fully grown. The baby is now the size of a large eggplant.</p>
 	</div>
 
 	<!- image and week# ->
@@ -385,7 +385,7 @@
 	<p>29 weeks<p>
 	</div>
 	<div class="ch2text">
-	<p>The baby’s head is growing larger for it’s developing brain, muscles and lungs are preparing for life outside the womb. The baby is now the size of a butternut squash.</p>
+	<p class="tabbedch2">The baby’s head is growing larger for it’s developing brain, muscles and lungs are preparing for life outside the womb. The baby is now the size of a butternut squash.</p>
 	</div>
 
 	<!- image and week# ->
@@ -397,7 +397,7 @@
 	<p>30 weeks<p>
 	</div>
 	<div class="ch2text">
-	<p>The baby is still growing there is only 1 and ½ pints of amniotic fluid surrounding it now. The baby is the size of a large cabbage.</p>
+	<p class="tabbedch2">The baby is still growing there is only 1 and ½ pints of amniotic fluid surrounding it now. The baby is the size of a large cabbage.</p>
 	</div>
 
 	<!- image and week# ->
@@ -409,7 +409,7 @@
 	<p>31 weeks<p>
 	</div>
 	<div class="ch2text">
-	<p>The baby now has enough control and strength to move its head from side to side, a layer of protective fat has developed throughout its body. The baby is now the size of a coconut.</p>
+	<p class="tabbedch2">The baby now has enough control and strength to move its head from side to side, a layer of protective fat has developed throughout its body. The baby is now the size of a coconut.</p>
 	</div>
 
 	<!- image and week# ->
@@ -421,7 +421,7 @@
 	<p>32 weeks<p>
 	</div>
 	<div class="ch2text">
-	<p>The baby is now going to start gaining ⅓ to ½ of its birth weight in the next seven weeks. The baby is now the size of a large jicama.</p><!- interesting fact goes here ->
+	<p class="tabbedch2">The baby is now going to start gaining ⅓ to ½ of its birth weight in the next seven weeks. The baby is now the size of a large jicama.</p><!- interesting fact goes here ->
 	</div>
 
 	<!- image and week# ->
@@ -445,7 +445,7 @@
 	<p>34 weeks<p>
 	</div>
 	<div class="ch2text">
-	<p>The baby’s lungs and central nervous system are maturing. The baby can now be born as long as there are no other health problems. The baby is now the size of a cantaloupe.</p>
+	<p class="tabbedch2">The baby’s lungs and central nervous system are maturing. The baby can now be born as long as there are no other health problems. The baby is now the size of a cantaloupe.</p>
 	</div>
 
 	<!- image and week# ->
@@ -457,7 +457,7 @@
 	<p>35 weeks<p>
 	</div>
 	<div class="ch2text">
-	<p>The baby’s kidneys are now fully developed and the liver can process some waste products. The baby is now the size of a honeydew melon.</p>
+	<p class="tabbedch2">The baby’s kidneys are now fully developed and the liver can process some waste products. The baby is now the size of a honeydew melon.</p>
 	</div>
 
 	<!- image and week# ->
@@ -469,7 +469,7 @@
 	<p>36 weeks<p>
 	</div>
 	<div class="ch2text">
-	<p>The baby now gains about 1 once each day in weight. The Vernix Casosa, the waxy substance that used to protect its skin, is being shed. The baby is now the size of a head of romaine lettuce.</p>
+	<p class="tabbedch2">The baby now gains about 1 once each day in weight. The Vernix Casosa, the waxy substance that used to protect its skin, is being shed. The baby is now the size of a head of romaine lettuce.</p>
 	</div>
 
 	<!- image and week# ->
@@ -481,7 +481,7 @@
 	<p>37 weeks<p>
 	</div>
 	<div class="ch2text">
-	<p>The baby’s lungs and brains begin their final maturation phase. The baby is now the size of a Swiss chard.</p>
+	<p class="tabbedch2">The baby’s lungs and brains begin their final maturation phase. The baby is now the size of a Swiss chard.</p>
 	</div>
 
 	<!- image and week# ->
@@ -493,7 +493,7 @@
 	<p>38 weeks<p>
 	</div>
 	<div class="ch2text">
-	<p>The baby is now the size of a leek.</p>
+	<p class="tabbedch2">The baby is now the size of a leek.</p>
 	</div>
 
 	<h3>Turning Full Term</h3>
@@ -506,7 +506,7 @@
 	<p>39 weeks<p>
 	</div>
 	<div class="ch2text">
-	<p>The baby’s physical developments are complete and the baby is considered full term. The baby is now the size of a mini watermelon.</p>
+	<p class="tabbedch2">The baby’s physical developments are complete and the baby is considered full term. The baby is now the size of a mini watermelon.</p>
 	</div>
 
 	<!- image and week# ->
@@ -518,7 +518,7 @@
 	<p>40 weeks<p>
 	</div>
 	<div class="ch2text">
-	<p>The baby is now the size of a small pumpkin.</p>
+	<p class="tabbedch2">The baby is now the size of a small pumpkin.</p>
 	</div>	
 
 	<!- image and week# ->
