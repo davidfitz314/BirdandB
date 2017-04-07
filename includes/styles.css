@@ -81,11 +81,7 @@ p {
 }
 
 .searchBarC {
-	width: 10%;
-	float: right;
-	padding-top: 0px;
-	margin-left:49%;
-	text-align: right;
+	float: left;
 }
 
 .CompanyDescription {
