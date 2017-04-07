@@ -618,10 +618,12 @@ h3 {
 
 .ch10ImagesSP {
 	text-align: center;
+	margin-top: 10%;
+	text-align: left;
 }
 
 .ch10ImagesSP img {
-	width: 55%;
+	width: 80%;
 	height: auto;
 }
 
