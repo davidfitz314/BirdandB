@@ -249,6 +249,7 @@ footer {
 	border: 3px dashed black;
 	z-index: 99;
 	text-align: left;
+	line-height:150%;
 }
 
 /* floating menu section */
