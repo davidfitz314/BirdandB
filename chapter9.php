@@ -126,7 +126,7 @@
 
 		<li>Emergency Contraceptives.</li>
 		<ul class="openCircle">
-			<li class="additalic"><strong>Example:</strong> Plan B pill.</li>
+			<li class="addItalic"><strong>Example:</strong> Plan B pill.</li>
 		</ul>
 
 		<li>Sterilization</li>
@@ -142,7 +142,7 @@
 		</div>
 
 		<div class="chapter9MiniHeaders">
-			<h4 class="additalic">Male Condom</h4>	
+			<h4 class="addItalic">Male Condom</h4>	
 		</div>
 	</div>
 
@@ -167,7 +167,7 @@
 		</div>
 
 		<div class="chapter9MiniHeadersFC">
-			<h4 class="additalic">Female Condom</h4>	
+			<h4 class="addItalic">Female Condom</h4>	
 		</div>
 	</div>
 
@@ -178,7 +178,7 @@
 			<li>Relax and get into a comfortable position in preparation for placing the condom inside of the vagina.</li>
 
 			<ul class="openCircle">
-				<li class="additalic">The female condom already comes lubricated but many still add even more lubricant or even a physician approved spermicide.</li>
+				<li class="addItalic">The female condom already comes lubricated but many still add even more lubricant or even a physician approved spermicide.</li>
 			</ul>
 
 			<li>Squeeze together the sides of the inner ring at the closed end of the condom and then slide the inner ring into the vagina.</li>
@@ -196,12 +196,12 @@
 		</div>
 
 		<div class="chapter9MiniHeaders">
-			<h4 class="additalic">Spermicide</h4>
+			<h4 class="addItalic">Spermicide</h4>
 		</div>
 	</div>
 	
 	<div class="tabbed">
-		<p class="additalic">-These are simplified instructions for spermicide for more details please read the instructions that come with your product.-</p>
+		<p class="addItalic">These are simplified instructions for spermicide for more details please read the instructions that come with your product.</p>
 		<ol>
 			<li>Check the expiration date and then open the cap of the spermicide.</li>
 
@@ -217,7 +217,7 @@
 			<img src="includes/images/chapter9/exit.png" alt="Figures in bed thinking of withdrawing before ejaculation">
 		</div>
 		<div class="chapter9MiniHeaders">
-			<h4 class="additalic">Withdrawal</h4>	
+			<h4 class="addItalic">Withdrawal</h4>	
 		</div>
 	</div>
 	
@@ -225,14 +225,14 @@
 		<ol>
 			<li>Prior to ejaculation remove the penis completely from the vagina.</li>
 			<ul class="openCircle">
-				<li class="additalic">This method is only recommended for males who can clearly understand when they are about to ejaculate and can control themselves enough to leave the vagina at the correct moment.</li>
+				<li class="addItalic">This method is only recommended for males who can clearly understand when they are about to ejaculate and can control themselves enough to leave the vagina at the correct moment.</li>
 			</ul>
 		</ol>
 	</div>
 
 	<p>Whether the protection being used is prescribed or non-prescription, they each have a timeframe for when they can be used and how often they can be used. Remember to always check the packaging and healthcare professionals for the time sensitive information and other related information for protection.</p>
 
-	<h4 class="additalic">Where to Acquire Protection</h4>
+	<h4 class="addItalic">Where to Acquire Protection</h4>
 	<p>At most grocery stores and gas stations in the US, a variety of non prescriptions protections like condoms, spermicides, and lubricants are available for purchase.</p>
 
 	<p>One may schedule a doctor’s appointment with an approved physician to get a prescription protection.</p>
@@ -260,7 +260,7 @@
 		<li>Maintaining a moral or religious principle.</li>
 	</ul>
 
-<h4 class="additalic">Is abstinence right for you?</h4>
+<h4 class="addItalic">Is abstinence right for you?</h4>
 
 	<ul class="closedCircle">
 		<li>The choice of abstinence or not is always up to the person. If one chooses yes or no then that is your answer. One should never let someone else make this choice for you, as this is your body and not theirs.</li>
