@@ -125,7 +125,7 @@ p {
 	color: black;
 	/*border: dashed black;*/
 	float: left;
-	text-align: left;
+	
 }
 
 .CTA1 img{
@@ -160,6 +160,7 @@ p {
 .CTA1 p {
 	padding-left: 25px;
 	padding-right: 25px;
+	text-align: left;
 }
 
 .CTA2 img {
