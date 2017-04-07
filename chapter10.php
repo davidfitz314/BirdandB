@@ -61,7 +61,7 @@
 			<img src="includes/images/chapter10/" alt="">
 		</div>
 		<div class="chapter10MiniHeaders">
-			<h4 class="additalic">Genital Human Papillomavirus -HPV</h4>	
+			<h4 class="addItalic">Genital Human Papillomavirus -HPV</h4>	
 		</div>
 		
 		<div class="tabbed">		

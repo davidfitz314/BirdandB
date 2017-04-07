@@ -304,6 +304,10 @@ ul.closedCircle {
 	font-size: 98%;
 }
 
+.tabbed ul {
+	font-size: 90%;
+}
+
 ul li {
 	padding: 3px;
 }
