@@ -19,16 +19,19 @@
 <ul>
 <strong>Chapter 11</strong>
 <li>
-<a href="chapter11.php">default</a>
+<a href="chapter11.php">Ancient Greeks</a>
 </li>
 <li>
-<a href="chapter11.php">default</a>
+<a href="chapter11.php">Ancient Romans</a>
 </li>
 <li>
-<a href="chapter11.php">default</a>
+<a href="chapter11.php">Victorian Era</a>
 </li>
 <li>
-<a href="chapter11.php">default</a>
+<a href="chapter11.php">China</a>
+</li>
+<li>
+<a href="chapter11.php">United States</a>
 </li>
 </ul>
 
@@ -40,22 +43,70 @@
 
 <!- top page image ->
 <div class="chapterLogo">
-<img src="includes/images/medical_instruments.jpg" alt="change to default">
+<img src="includes/images/chapter11/worldSexualHealthDay.png" alt="Banner for world sexual health day">
 </div>
 
 <!- chapter text division ->
-<div class="chapter2Text">
+<div class="chapter11Text">
 <br>
-<h2>Chapter 11: </h2>
+<h2>Chapter 11: Human Sexuality in the World</h2>
+	<p>Human sexuality has changed many times over the centuries, from praising sex as being it’s own god or creating the universe, to shunning it in the hopes it would disappear. Humanity has changed its stance on sex many times, always jumping back and forth on how they wish to view it.</p>
+
+	<!- Greek image goes left of text ->
+	<h3>Ancient Greeks</h3>
+	<p></p>
+
+	<!- Roman image goes right of text ->
+	<h3>Ancient Romans</h3>
+	<p></p>
+
+	<!- Victorian Era image goes left of text ->
+	<h3>Victorian Era</h3>
+	<p></p>
+
+	<!- prostitution section image goes right of text ->
+	<h4></h4>
+	<p></p>
+
+	<!- China image goes above text banner style ->
+	<div class="ch10Images">
+		<img src="includes/images/chapter10/chinese.png" alt="Chinese shadow couple drinking tea and doing martial arts">
+	</div>
 	<h3></h3>
+	<p></p>
+	
+	<!- China second image above second paragraph text ->
+	<div class="ch10Images">
+		<img src="includes/images/chapter10/equality.png" alt="Words saying Equality">
+	</div>
+
+	<p></p>
+
+	<!- image goes left of text ->
+	
+	<h3>United States</h3>
 	</p></p>
 
+	<!- image goes right of text ->
+	<h4>US's Sexual Revolution</h4>
+	</p></p>
+	
+	<!- image goes left of text ->
+	<h4>Alfred Kinsey</h4>
+	</p></p>
 
+	<!- image goes right of text ->
+	<h4>Masters &amp; Johnson</h4>
+	</p></p>
 
-
-	<div class="ch8Images">
-		<img src="includes/images/chapter8/" alt="">
+	<!- image goes above text ->
+	<div class="ch10Images">
+		<img src="includes/images/chapter10/penicillin.png" alt="Penicillin molecular structure">
 	</div>
+
+	<h3>Other Revolutionary Items</h3>
+	</p></p>
+
 </div>
 
 
