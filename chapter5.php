@@ -6,10 +6,10 @@
 <!- navigation side bar ->
 <nav class="floating-menu">
 <h2>Chapter 5: What is Sex </h2>
-<strong><a href="chapter1.php">ch1&#58; Overview</a></strong>
-<strong><a href="chapter2.php">ch2&#58; Conception</a></strong>
-<strong><a href="chapter3.php">ch3&#58; Human Body Development</a></strong>
-<strong><a href="chapter4.php">ch4&#58; Human Nature and Psychological Dependencies</a></strong>
+<strong><a href="chapter1.php">ch1: Overview</a></strong>
+<strong><a href="chapter2.php">ch2: Conception</a></strong>
+<strong><a href="chapter3.php">ch3: Human Body Development</a></strong>
+<strong><a href="chapter4.php">ch4: Human Nature and Psychological Dependencies</a></strong>
 <ul>
 <strong>Chapter 5</strong>
 <li>
@@ -26,15 +26,15 @@
 </li>
 </ul>
 
-<strong><a href="chapter6.php">ch6&#58; Sexuality</a></strong>
-<strong><a href="chapter7.php">ch7&#58; Love vs Sex</a></strong>
-<strong><a href="chapter8.php">ch8&#58; Orgasm</a></strong>
-<strong><a href="chapter9.php">ch9&#58; Staying Safe During Sex</a></strong>
-<strong><a href="chapter10.php">ch10&#58; Sexually Transmitted Infections-STDs</a></strong>
-<strong><a href="chapter11.php">ch11&#58; Human Sexuality in the World</a></strong>
-<strong><a href="chapter12.php">ch12&#58; Kinks and Fetishes</a></strong>
-<strong><a href="chapter13.php">ch13&#58; Sexual Harassment, Assault, &amp; Rape</a></strong>
-<strong><a href="chapter14.php">ch14&#58; Works Cited and External Resources</a></strong>
+<strong><a href="chapter6.php">ch6: Sexuality</a></strong>
+<strong><a href="chapter7.php">ch7: Love vs Sex</a></strong>
+<strong><a href="chapter8.php">ch8: Orgasm</a></strong>
+<strong><a href="chapter9.php">ch9: Staying Safe During Sex</a></strong>
+<strong><a href="chapter10.php">ch10: Sexually Transmitted Infections-STDs</a></strong>
+<strong><a href="chapter11.php">ch11: Human Sexuality in the World</a></strong>
+<strong><a href="chapter12.php">ch12: Kinks and Fetishes</a></strong>
+<strong><a href="chapter13.php">ch13: Sexual Harassment, Assault, &amp; Rape</a></strong>
+<strong><a href="chapter14.php">ch14: Works Cited and External Resources</a></strong>
 </nav>
 <!- end navigation sidebar ->
 
@@ -99,9 +99,9 @@
 		<img src="includes/images/chapter5/map.png" alt="Different nations flags on a map">
 	</div>
 
-	<p>Sexual activity can be regarded in terms of cultural as conventional or alternative. Where a sexual activity in one culture may be regarded as conventional, in a separate culture that same activity could be considered alternative. This is seen regularly in places with different ages of consent for sex. Besides cultural differences, sexual activity can be categorized as fetishm, paraphillia, or BDSM activities. For more information on fetishes, BDSM and kinks please visit <a href="chapter12.php">Chapter 12&#58; Kinks &amp; Fetishes</a>.</p>
+	<p>Sexual activity can be regarded in terms of cultural as conventional or alternative. Where a sexual activity in one culture may be regarded as conventional, in a separate culture that same activity could be considered alternative. This is seen regularly in places with different ages of consent for sex. Besides cultural differences, sexual activity can be categorized as fetishm, paraphillia, or BDSM activities. For more information on fetishes, BDSM and kinks please visit&#8211; <a href="chapter12.php">Chapter 12&#58; Kinks &amp; Fetishes</a>.</p>
 
-	<p>Finally sexual activity has different levels of consent. If all parties agree to the sexual activity it is regarded as consensual. However, in the event where one or more does not consent it becomes regarded as sexual assault or rape, and different laws can criminalize the aggressor. For more information of Sexual Assault or Sexual Rape please visit the following chapter: <a href="chapter13.php">Chapter 13&#58; Sexual Harrassment, Assault, &amp; Rape</a>.</p>
+	<p>Finally sexual activity has different levels of consent. If all parties agree to the sexual activity it is regarded as consensual. However, in the event where one or more does not consent it becomes regarded as sexual assault or rape, and different laws can criminalize the aggressor. For more information of Sexual Assault or Sexual Rape please visit the following chapter&#8211; <a href="chapter13.php">Chapter 13: Sexual Harrassment, Assault, &amp; Rape</a>.</p>
 
 	<!- Insert Image Here ->
 	<div class="ch5Images">
