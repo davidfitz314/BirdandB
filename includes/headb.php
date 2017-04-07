@@ -14,7 +14,7 @@
 <body>
 <div class="centered-wrapper">
 <div class="cNavi">
-	<a href="www.birdandb.com">
+	<a href="http://www.birdandb.com">
 		<div class="cLogo">
 		
 		</div><!- end logo div ->
