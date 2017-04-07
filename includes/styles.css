@@ -82,6 +82,7 @@ p {
 
 .searchBarC {
 	float: right;
+	padding-top: 25%;
 }
 
 .searchBarC form{
