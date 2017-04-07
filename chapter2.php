@@ -76,7 +76,7 @@
 		<p>4 weeks<p>
 		</div>
 		<div class="ch2text">
-		<p>The Blastocyst or ball of cells is now officially called an embryo. The woman is now about 4 weeks from the beginning of the last menstrual cycle. Around this time is when the next menstrual cycle should have started and pregnancy tests can be effective for telling if a woman is pregnant. The baby is the size of a poppy seed.</p>
+		<p class="tabbed">The Blastocyst or ball of cells is now officially called an embryo. The woman is now about 4 weeks from the beginning of the last menstrual cycle. Around this time is when the next menstrual cycle should have started and pregnancy tests can be effective for telling if a woman is pregnant. The baby is the size of a poppy seed.</p>
 		</div>
 	</div>
 
@@ -89,7 +89,7 @@
 	<p>5 weeks<p>
 	</div>
 	<div class="ch2text">
-	<p>The baby’s appearance is more similar to a tadpole then a human at this point but it is growing fast. The heart will begin beating this week and a circulatory system will start to form. The baby is the size of a sesame seed.</p>
+	<p class="tabbed">The baby’s appearance is more similar to a tadpole then a human at this point but it is growing fast. The heart will begin beating this week and a circulatory system will start to form. The baby is the size of a sesame seed.</p>
 	</div>
 
 	<!- image and week# ->
@@ -98,7 +98,7 @@
 	</div>
 		
 	<div class="weekNum">	
-	<p>6 weeks<p>
+	<p class="tabbed">6 weeks<p>
 	</div>
 	<div class="ch2text">
 	<p>The baby’s facial features (nose, mouth, and ears), brain and intestines are beginning to develop. The baby is now the size of a lentil.</p>
@@ -110,7 +110,7 @@
 	</div>
 		
 	<div class="weekNum">	
-	<p>7 weeks<p>
+	<p class="tabbed">7 weeks<p>
 	</div>
 	<div class="ch2text">
 	<p>The baby still has a tail but its size has doubled since last week and the tail will soon disappear. Arms and legs begin developing alongside of hands and feet which resemble paddles in shape. The baby is now the size of a blueberry.</p>
@@ -125,7 +125,7 @@
 	</div>
 		
 	<div class="weekNum">	
-	<p>8 weeks<p>
+	<p class="tabbed">8 weeks<p>
 	</div>
 	<div class="ch2text">
 	<p>The baby begins moving around but not enough for the mother to feel it yet. Primitive neural pathways are formed from Nerve cells branching out. The lungs have begun developing alongside of breathing tubes in the throat. The baby is now the size of a kidney bean or about ½ an inch long.</p>
@@ -137,7 +137,7 @@
 	</div>
 		
 	<div class="weekNum">	
-	<p>9 weeks<p>
+	<p class="tabbed">9 weeks<p>
 	</div>
 	<div class="ch2text">
 	<p>The baby’s embryonic tail has disappeared and most of it’s basic physiology is in place (earlobes, nose, mouth, and more). The baby’s weight is a fraction of an ounce and is the size of a grape.</p>
@@ -149,7 +149,7 @@
 	</div>
 		
 	<div class="weekNum">	
-	<p>10 weeks<p>
+	<p class="tabbed">10 weeks<p>
 	</div>
 	<div class="ch2text">
 	<p>The baby has translucent skin and limbs that can bend, finer details like nails are starting to form. The baby is the size of a kumquat.</p>
@@ -161,7 +161,7 @@
 	</div>
 		
 	<div class="weekNum">	
-	<p>11 weeks<p>
+	<p class="tabbed">11 weeks<p>
 	</div>
 	<div class="ch2text">
 	<p>The baby has almost fully formed, movement from limbs stretching and kicking are now happening. The diaphragm is developing and can even produce hiccups. The baby is the size of a fig.</p>
@@ -173,7 +173,7 @@
 	</div>
 		
 	<div class="weekNum">	
-	<p>12 weeks<p>
+	<p class="tabbed">12 weeks<p>
 	</div>
 	<div class="ch2text">
 	<p>The baby’s reflexes begin working, fingers and toes will open and close and the baby’s mouth will make sucking movements. At this time the baby can feel a poke from the outside of the stomach, but the mother will not be able to feel the baby’s movements yet. The baby is the size of a lime.</p>
