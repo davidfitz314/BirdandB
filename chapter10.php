@@ -203,7 +203,7 @@
 		
 		<li><strong class="addItalic">Second,</strong> it is important to talk to your family and significant others. To do this some people test the waters using role-play and hypothetical situations while others just dive straight in and tell them. It is important to remember that while some may have strong adverse reactions there are many others who will give support instead.</li>
 
-		<li><strong class="addItalic">Third,overcoming rejection. This problem can be from an outside source or just inside of the person. Rejection is never easy to handle and while some people will reject you for your condition, the others who truly love and support you will never reject you.With this step you should find out who rejects you and let them go from your life. If you are rejecting yourself, then instead try joining a support group who will help you see the beautiful person that you still are.</strong> </li>
+		<li><strong class="addItalic">Third,overcoming rejection.</strong> This problem can be from an outside source or just inside of the person. Rejection is never easy to handle and while some people will reject you for your condition, the others who truly love and support you will never reject you.With this step you should find out who rejects you and let them go from your life. If you are rejecting yourself, then instead try joining a support group who will help you see the beautiful person that you still are.</li>
 	</ul>
 
 	<div class="ch10Images">
@@ -211,7 +211,7 @@
 	</div>
 
 	<h4 class="addItalic">Notifying Partners Anomynously</h4>
-	<p class="tabbed">If notifying your partners is too hard, there are ways to notify your partners anonymously about your STI.</p>
+	<p class="addItalic">If notifying your partners is too hard, there are ways to notify your partners anonymously about your STI.</p>
 	
 	<ul class="closedCircle">
 		<li><strong class="addItalic">Third Party Partner Notification:</strong> This service offered at most public health clinics, has trained health workers notify your partners regarding their possible exposure to HIV infection without ever identifying you. For local testing and notification services, visit <a href="http://www.hivtest.org">www.hivtest.org</a></li>
@@ -221,15 +221,15 @@
 	
 	<h4 class="addItalic">Legal Responsibilities for STI Victims</h4>
 
-	<p class="tabbed">Each state has different reporting systems for those who have been tested as positive.</p>
+	<p class="tabbedch10">Each state has different reporting systems for those who have been tested as positive.</p>
 	
-	<p class="tabbed">Most places that test will update the state with the information only when a positive has been verified.</p>
+	<p class="tabbedch10">Most places that test will update the state with the information only when a positive has been verified.</p>
 
-	<p class="tabbed">If you have been diagnosed with positive, depending on your state you may have certain obligations to the state.</p>
+	<p class="tabbedch10">If you have been diagnosed with positive, depending on your state you may have certain obligations to the state.</p>
 
-	<p class="tabbed">Almost all states do not require you to tell your partner you have tested positive for an STI, but in the event that you transmit the STI after without the partner's knowledge you can be held legally responsible.</p>
+	<p class="tabbedch10">Almost all states do not require you to tell your partner you have tested positive for an STI, but in the event that you transmit the STI after without the partner's knowledge you can be held legally responsible.</p>
 
-	<p class="tabbed">So the best thing to do to avoid breaking the law is before the sexual act (which could transmit the infection) is to tell your partner.</p>
+	<p class="tabbedch10">So the best thing to do to avoid breaking the law is before the sexual act (which could transmit the infection) is to tell your partner.</p>
 
 	<div class="ch10Images">
 		<img src="includes/images/chapter10/super.png" alt="Super condom with cape">
@@ -267,16 +267,23 @@
 	</div>
 
 	<h3>Helpful Links</h3>
+	<div class="tabbedch10">
 	<h4 class="addItalic">Support Group Links</h4>
 		<p><a href="http://www.thestdproject.com/std-support-groups/">The STD Project Support Groups</a></p>
+
 		<p><a href="https://datingwithherpes.org/herpessupportgroups/">Dating With Herpes Support Groups</a></p>
+
 		<p><a href="http://www.ashasexualhealth.org/stdsstis/herpes/support-groups/">Asha Sexual Health Support Groups</a></p>
-	
+	</div>
+
+	<div class="tabbedch10">
 	<h4 class="addItalic">Health Center Links</h4>
 		<p><a href="https://www.plannedparenthood.org/health-center">Planned Parenthood</a></p>
+
 		<p><a href="http://www.ashasexualhealth.org/">Asha Sexual Health</a></p>
+
 		<p><a href="http://www.teensource.org/find-a-clinic">Teen Source Find a Clinic</a></p>
-	
+	</div>
 </div>
 
 
