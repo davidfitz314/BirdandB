@@ -20,10 +20,10 @@
 		</div><!- end logo div ->
 	</a>
 	<div class="cHeadCells">
-	  <a href="index.php"></a></li>
+	  <a href="http://www.birdandb.com"></a></li>
 	</div>
 	<div class="searchBarC">
-	  <a href="index.php">Search</a></li>
+	  <a href="">Search</a></li>
 	</div>
 </div>
 
