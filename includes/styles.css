@@ -304,6 +304,10 @@ ul.closedCircle {
 	font-size: 98%;
 }
 
+ul li {
+	padding: 3px;
+}
+
 /*chapter 2 section*/
 .backline {
 
