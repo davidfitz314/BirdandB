@@ -125,6 +125,7 @@ p {
 	color: black;
 	/*border: dashed black;*/
 	float: left;
+	text-align: left;
 }
 
 .CTA1 img{
