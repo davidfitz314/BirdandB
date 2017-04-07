@@ -84,6 +84,11 @@ p {
 	float: right;
 }
 
+.searchBarC form{
+	height: 25px;
+	width: 200px;
+}
+
 .CompanyDescription {
 	text-align: left;
 	/*border: 3px dashed black;*/

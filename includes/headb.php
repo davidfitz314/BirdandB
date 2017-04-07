@@ -23,7 +23,7 @@
 		</div>
 		<div class="searchBarC">
 			<form>
-				<input type="text" name="search" placeholder="Search Bar (coming soon)..." size="15">
+				<input type="text" name="search" placeholder="Search Bar (coming soon)..." size="20">
 			</form>	  
 		</div>
 	</div>
