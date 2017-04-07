@@ -37,7 +37,7 @@ p {
 
 .cNavi {
 	height: 125px;
-	display:table;
+	width: 100%;
 }
 
 .cNavi a {
