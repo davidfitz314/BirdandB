@@ -590,6 +590,11 @@ ul li {
 	color: black;
 }
 
+.chapter10Text a:hover{
+	text-decoration: none;
+	color: blue;
+}
+
 /* chapter 11 section */
 .chapter11Text {
 	width: 75%;
