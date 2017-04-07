@@ -53,11 +53,11 @@
 	<p>Human sexuality has changed many times over the centuries, from praising sex as being it’s own god or creating the universe, to shunning it in the hopes it would disappear. Humanity has changed its stance on sex many times, always jumping back and forth on how they wish to view it.</p>
 
 	<!- Greek image goes left of text ->
-	<div class="ch10Left">
+	<div class="ch11Left">
 		<img src="includes/images/chapter11/greek.png" alt="Greek styled shadow portraits">
 	</div>
 
-	<div class="ch10Right">
+	<div class="ch11Right">
 		<h3>Ancient Greeks</h3>
 		<p>In Ancient Greece mythology the universe was created by sex and sexual activities. Sexuality and love were deeply connected to the creation of the Earth, the Heavens, and the Underworld.</p>
 
@@ -67,11 +67,11 @@
 	</div>
 
 	<!- Roman image goes right of text ->
-	<div class="ch10Right">
-		<img src="includes/images/chapter11/greek.png" alt="Greek styled shadow portraits">
+	<div class="ch11Right">
+		<img src="includes/images/chapter11/roman.png" alt="Roman styled shadow portraits">
 	</div>
 
-	<div class="ch10Left">
+	<div class="ch11Left">
 		<h3>Ancient Romans</h3>
 		<p>In Ancient Rome not only was sex gratifying but it was also a duty. The men would delight in displaying the vitality, manhood, and sexual prowess, while the woman understood sex to be a great duty for replenishing the population with male soldiers and citizens. The female babies however contributed little to society while growing, but were still high cost as a large dowry would be required for any male who wished to marry her when the time was right.</p>
 	</div>

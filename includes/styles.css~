@@ -662,21 +662,30 @@ h3 {
 	height: auto;
 }
 
-.ch10Left {
+.ch11Left {
 	width: 50%;
 	height: auto;
 	float: left;
 }
 
-.ch10Left img{
-	width: 20%;
+.ch11Left img{
+	width: 40%;
 	height: auto;
 }
 
-.ch10Right {
+.ch11Right {
 	width: 50%;
 	height: auto;
 	float: right;
+}
+
+.ch11Right img{
+	width: 40%;
+	height: auto;
+}
+
+.sectionContainer {
+	margin: 20px;
 }
 
 /* chapter 12 section */
