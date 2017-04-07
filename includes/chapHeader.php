@@ -20,10 +20,12 @@
 		</div><!- end logo div ->
 	</a>
 	<div class="cHeadCells">
-	  <a href="http://www.birdandb.com">Home</a></li>
+	  <a href="http://www.birdandb.com">Home</a>
 	</div>
 	<div class="searchBarC">
-	  <a href="">Search</a></li>
+		<form>
+			<input type="text" name="search" value="Search">
+		</form>	
 	</div>
 </div>
 
