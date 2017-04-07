@@ -97,11 +97,11 @@
 
 	<div class="sectionContainer">
 	<!- prostitution section image goes right of text ->
-		<div class="ch11Left">
+		<div class="ch11right">
 			<img src="includes/images/chapter11/prostitution.png" alt="Victorian Era styled  prostitution shadow portraits">
 		</div>
 
-		<div class="ch11Right">
+		<div class="ch11left">
 			<h4 class="addItalic">Prostitution</h4>
 			<p>Prostitutes were quite common, the women engaged in these acts would be considered lower class. Men of this time flocked towards prostitutes, to help alleviate the sexual frustrations that built up inside of them. This was due to men valuing their wives as high quality non sexual beings and prostitutes as lower class tools.</p>
 		</div>
