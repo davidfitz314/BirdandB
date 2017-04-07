@@ -669,7 +669,7 @@ h3 {
 }
 
 .ch11Left img{
-	width: 40%;
+	width: 100%;
 	height: auto;
 }
 
@@ -680,12 +680,12 @@ h3 {
 }
 
 .ch11Right img{
-	width: 40%;
+	width: 100%;
 	height: auto;
 }
 
 .sectionContainer {
-	margin: 8%;
+	margin: 10%;
 }
 
 /* chapter 12 section */
