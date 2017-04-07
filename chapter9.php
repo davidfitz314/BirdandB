@@ -223,7 +223,7 @@
 	
 	<div class="tabbed">
 		<ol>
-			<li>Prior to ejaculation remove the penis completely from the vagina.<li>
+			<li>Prior to ejaculation remove the penis completely from the vagina.</li>
 			<ul class="openCircle">
 				<li class="additalic">This method is only recommended for males who can clearly understand when they are about to ejaculate and can control themselves enough to leave the vagina at the correct moment.</li>
 			</ul>
