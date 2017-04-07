@@ -527,12 +527,13 @@ ul li {
 .chapter9MiniHeaders {
 	display: table-cell;
 	padding-left: 15px;
+	font-size: 105%;
 	float:right;
 }
 
 .chapter9MiniHeadersFC {
 	display: table-cell;
-	margin-bottom: 18%;
+	font-size: 105%;
 	padding-left: 15px;
 	float:right;
 }
