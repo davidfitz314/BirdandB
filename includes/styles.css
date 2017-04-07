@@ -585,6 +585,11 @@ ul li {
 	float:left;
 }
 
+.chapter10Text a{
+	text-decoration: none;
+	color: black;
+}
+
 /* chapter 11 section */
 .chapter11Text {
 	width: 75%;

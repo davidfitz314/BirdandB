@@ -77,99 +77,124 @@
 	<div class="chapter10sideImagesandText">
 		<!- Image goes beside or above h4 header ->
 		<div class="chapter10MiniImages">
-			<img src="includes/images/chapter10/" alt="">
+			<img src="includes/images/chapter10/chlamydia.png" alt="Chlamydia">
 		</div>
 
 		<div class="chapter10MiniHeaders">
-			<h4 class="addItalic">Genital Human Papillomavirus -HPV</h4>	
+			<h4 class="addItalic">Chlamydia</h4>	
 		</div>
 		
 		<div class="tabbed">		
-			<p><p>
+			<p>Chlamydia is a bacterial infection. Possible signs of infection are a discharge from the penis or vagina and burning during urination. However, most people with chlamydia have no symptoms.</p>
+
+			<p>Chlamydia spreads through sexual contact with the penis, vagina, mouth or anus of an infected person. A pregnant woman can pass chlamydia to her baby during childbirth. Even if you’ve been treated for chlamydia in the past, you can get the infection again.</p>
+
+			<p>Your doctor can treat chlamydia with antibiotics. Without treatment, chlamydia can lead to serious health problems. It also is known to cause infertility. Women can develop pelvic inflammatory disease. Men can develop a condition that causes painful inflammation of the tube that helps carry sperm.</p>
 		</div>
 	</div>
 
 	<div class="chapter10sideImagesandText">
 		<!- Image goes beside or above h4 header ->
 		<div class="chapter10MiniImages">
-			<img src="includes/images/chapter10/" alt="">
+			<img src="includes/images/chapter10/trichomoniasis.png" alt="Trichomoniasis">
 		</div>
 
 		<div class="chapter10MiniHeaders">
-			<h4 class="addItalic">Genital Human Papillomavirus -HPV</h4>	
+			<h4 class="addItalic">Trichomoniasis</h4>	
 		</div>
 		
 		<div class="tabbed">		
-			<p><p>
+			<p></p>
 		</div>
 	</div>
 
 	<div class="chapter10sideImagesandText">
 		<!- Image goes beside or above h4 header ->
 		<div class="chapter10MiniImages">
-			<img src="includes/images/chapter10/" alt="">
+			<img src="includes/images/chapter10/gonorrhea.png" alt="Gonorrhea">
 		</div>
 
 		<div class="chapter10MiniHeaders">
-			<h4 class="addItalic">Genital Human Papillomavirus -HPV</h4>	
+			<h4 class="addItalic">Gonorrhea</h4>	
 		</div>
 		
 		<div class="tabbed">		
-			<p><p>
+			<p></p>
 		</div>
 	</div>
 
 	<div class="chapter10sideImagesandText">
 		<!- Image goes beside or above h4 header ->
 		<div class="chapter10MiniImages">
-			<img src="includes/images/chapter10/" alt="">
+			<img src="includes/images/chapter10/herpes.png" alt="Genital Herpes">
 		</div>
 
 		<div class="chapter10MiniHeaders">
-			<h4 class="addItalic">Genital Human Papillomavirus -HPV</h4>	
+			<h4 class="addItalic">Genital Herpes</h4>	
 		</div>
 		
 		<div class="tabbed">		
-			<p><p>
+			<p></p>
 		</div>
 	</div>
 
 	<div class="chapter10sideImagesandText">
 		<!- Image goes beside or above h4 header ->
 		<div class="chapter10MiniImages">
-			<img src="includes/images/chapter10/" alt="">
+			<img src="includes/images/chapter10/syphilis.png" alt="Syphilis">
 		</div>
 
 		<div class="chapter10MiniHeaders">
-			<h4 class="addItalic">Genital Human Papillomavirus -HPV</h4>	
+			<h4 class="addItalic">Syphilis</h4>	
 		</div>
 		
 		<div class="tabbed">		
-			<p><p>
+			<p></p>
 		</div>
 	</div>
 
 	<div class="chapter10sideImagesandText">
 		<!- Image goes beside or above h4 header ->
 		<div class="chapter10MiniImages">
-			<img src="includes/images/chapter10/" alt="">
+			<img src="includes/images/chapter10/HIV.png" alt="Human Immunodeficiency Virus (HIV)">
 		</div>
 
 		<div class="chapter10MiniHeaders">
-			<h4 class="addItalic">Genital Human Papillomavirus -HPV</h4>	
+			<h4 class="addItalic">Human Immunodeficiency Virus -HIV</h4>	
 		</div>
 		
 		<div class="tabbed">		
-			<p><p>
+			<p></p>
 		</div>
 	</div>
 
-
-
-
-	<div class="ch8Images">
-		<img src="includes/images/chapter8/" alt="">
+	<div class="ch10Images">
+		<img src="includes/images/chapter10/" alt="">
 	</div>
+
+	<div class="ch10Images">
+		<img src="includes/images/chapter10/" alt="">
+	</div>
+
+	<div class="ch10Images">
+		<img src="includes/images/chapter10/" alt="">
+	</div>
+
+	<div class="ch10Images">
+		<img src="includes/images/chapter10/" alt="">
+	</div>
+
+	<h3>Helpful Links</h3>
+	<h4 class="addItalic">Support Group Links</h4>
+		<a href="http://www.thestdproject.com/std-support-groups/">The STD Project Support Groups</a>
+		<a href="https://datingwithherpes.org/herpessupportgroups/">Dating With Herpes Support Groups</a>
+		<a href="http://www.ashasexualhealth.org/stdsstis/herpes/support-groups/">Asha Sexual Health Support Groups</a>
+	
+	<h4 class="addItalic">Health Center Links</h4>
+		<a href="https://www.plannedparenthood.org/health-center">Planned Parenthood</a>
+		<a href="http://www.ashasexualhealth.org/">Asha Sexual Health</a>
+		<a href="http://www.teensource.org/find-a-clinic">Teen Source Find a Clinic</a>
+	
 </div>
 
 
