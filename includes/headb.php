@@ -18,7 +18,7 @@
 		<div class="cLogo">
 		
 		</div><!- end logo div ->
-	</div>
+	</a>
 	<div class="cHeadCells">
 	  <a href="index.php"></a></li>
 	</div>
