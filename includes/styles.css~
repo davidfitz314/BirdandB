@@ -667,6 +667,7 @@ h3 {
 }
 
 .sectionContainer {
+	margin-bottom: 100px;
 	clear:both;
 }
 
@@ -691,6 +692,18 @@ h3 {
 .ch11Right img{
 	width: 100%;
 	height: auto;
+	padding: 15% 0 0 0;
+}
+
+.ch11RightB {
+	width: 50%;
+	height: auto;
+	float: right;
+}
+
+.ch11RightB img{
+	width: 100%;
+	height: 50%;
 	padding: 15% 0 0 0;
 }
 

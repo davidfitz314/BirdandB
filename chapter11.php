@@ -87,7 +87,7 @@
 			<img src="includes/images/chapter11/victorian.png" alt="Victorian Era styled shadow portraits">
 		</div>
 
-		<div class="ch11Right">
+		<div class="ch11RightB">
 			<h3>Victorian Era</h3>
 			<p>In the 1800s, or more specifically between 1837-1901, the strict gender roles for males and females returned. Women were to be covered up in cloth at all times unless having sex for reproductive reasons. Some women took it so far as to still wear clothing during the act of sex. Males were supposed to maintain high morals. Expressions of love were looked down upon.</p>
 
@@ -98,13 +98,16 @@
 	<div class="sectionContainer">
 	<!- prostitution section image goes right of text ->
 		<div class="ch11Right">
-			<img src="includes/images/chapter11/prostitution.png" alt="Victorian Era styled  prostitution shadow portraits">
+			<img src="includes/images/chapter11/prostitution.png" alt="Victorian Era styled prostitution shadow portraits">
 		</div>
 
 		<div class="ch11left">
 			<h4 class="addItalic">Prostitution</h4>
 			<p>Prostitutes were quite common, the women engaged in these acts would be considered lower class. Men of this time flocked towards prostitutes, to help alleviate the sexual frustrations that built up inside of them. This was due to men valuing their wives as high quality non sexual beings and prostitutes as lower class tools.</p>
 		</div>
+	</div>
+
+	<div class="sectionContainer">
 	</div>
 
 	<!- China image goes above text banner style ->
