@@ -551,9 +551,33 @@ ul li {
 	line-height: 150%;
 }
 
+.ch10Images {
+	text-align:center;
+}
+
 .ch10Images img {
-	width: 100%;
+	width: 50%;
 	height: auto;
+}
+
+.chapter10sideImagesandText {
+	display: table;
+}
+
+.chapter10MiniImages {
+	display: table-cell;
+}
+
+.chapter10MiniImages img {
+	width: 100px;
+	height: auto;
+}
+
+.chapter10MiniHeaders {
+	display: table-cell;
+	padding-left: 15px;
+	font-size: 105%;
+	float:right;
 }
 
 /* chapter 11 section */
