@@ -58,7 +58,7 @@
 	<div class="chapter10sideImagesandText">
 		<!- Image goes beside or above h4 header ->
 		<div class="chapter10MiniImages">
-			<img src="includes/images/chapter10/" alt="">
+			<img src="includes/images/chapter10/papilloma.png" alt="Papilloma Virus">
 		</div>
 
 		<div class="chapter10MiniHeaders">
