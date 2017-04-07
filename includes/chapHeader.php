@@ -13,20 +13,20 @@
 	
 <body>
 <div class="centered-wrapper">
-<div class="cNavi">
-	<a href="http://www.birdandb.com">
-		<div class="cLogo">
-		</div><!- end logo div ->
-	</a>
-	<div class="cHeadCells">
-	  <a href="http://www.birdandb.com">Home</a>
+	<div class="cNavi">
+		<a href="http://www.birdandb.com">
+			<div class="cLogo">
+			</div><!- end logo div ->
+		</a>
+		<div class="cHeadCells">
+		  <a href="http://www.birdandb.com">Home</a>
+		</div>
+		<div class="searchBarC">
+			<form>
+				<input type="text" name="search" placeholder="Search Bar (coming soon)...">
+			</form>	
+		</div>
 	</div>
-	<div class="searchBarC">
-		<form>
-			<input type="text" name="search" placeholder="Search Bar (coming soon)...">
-		</form>	
-	</div>
-</div>
 
 
 
