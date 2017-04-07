@@ -106,9 +106,6 @@
 		</div>
 	</div>
 
-	<div class="sectionContainer">
-	</div>
-
 	<!- China image goes above text banner style ->
 	<div class="ch11Images">
 		<img src="includes/images/chapter11/chinese.png" alt="Chinese shadow couple drinking tea and doing martial arts">
