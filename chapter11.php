@@ -71,13 +71,13 @@
 
 	<div class="sectionContainer">
 		<!- Roman image goes right of text ->
-		<div class="ch11Right">
-			<img src="includes/images/chapter11/roman.png" alt="Roman styled shadow portraits">
-		</div>
-
 		<div class="ch11Left">
 			<h3>Ancient Romans</h3>
 			<p>In Ancient Rome not only was sex gratifying but it was also a duty. The men would delight in displaying the vitality, manhood, and sexual prowess, while the woman understood sex to be a great duty for replenishing the population with male soldiers and citizens. The female babies however contributed little to society while growing, but were still high cost as a large dowry would be required for any male who wished to marry her when the time was right.</p>
+		</div>
+
+		<div class="ch11Right">
+			<img src="includes/images/chapter11/roman.png" alt="Roman styled shadow portraits">
 		</div>
 	</div>
 
