@@ -278,15 +278,8 @@ ul.floating-menu {
 	margin-left: 25%;
 }
 
-.chapter2Text {
-	width: 75%;
-	margin-left: 25%;
-	line-height: 150%;
-	text-align: left;
-}
+/*generic styling section*/
 
-
-/*generic styling for lists*/
 ul.openCircle {
 	list-style-type: circle;
 }
@@ -300,7 +293,7 @@ ul.closedCircle {
 }
 
 .tabbed {
-	padding-left: 28%;
+	padding-left: 20%;
 	font-size: 98%;
 }
 
@@ -313,6 +306,14 @@ ul li {
 }
 
 /*chapter 2 section*/
+
+.chapter2Text {
+	width: 75%;
+	margin-left: 25%;
+	line-height: 150%;
+	text-align: left;
+}
+
 .backline {
 
 }
@@ -519,7 +520,7 @@ ul li {
 }
 
 .chapter9MiniImages img {
-	width: 150px;
+	width: 100px;
 	height: auto;
 }
 
