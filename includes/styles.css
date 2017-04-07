@@ -245,7 +245,7 @@ p {
 footer {
 	position: relative;
 	width: 80%;
-	padding: 15% 8% 15% 10%;
+	/*padding: 15% 8% 15% 10%;*/
 	border: 3px dashed black;
 	z-index: 99;
 	text-align: left;
