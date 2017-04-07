@@ -24,7 +24,7 @@
 	</div>
 	<div class="searchBarC">
 		<form>
-			<input type="text" name="search" value="Search">
+			<input type="text" name="search" value="Search (coming soon)">
 		</form>	
 	</div>
 </div>
