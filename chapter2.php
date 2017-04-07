@@ -519,7 +519,7 @@
 	</div>
 	<div class="ch2text">
 	<p class="tabbedch2">The baby is now the size of a small pumpkin.</p>
-	</div>	
+	</div>
 
 	<!- image and week# ->
 	<h4>41 weeks</h4>
