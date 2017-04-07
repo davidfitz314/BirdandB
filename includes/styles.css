@@ -685,14 +685,9 @@ h3 {
 }
 
 .sectionContainer {
-	margin: 10%;
 	display: table;
 }
 
-.sectionContainer p {
-	margin: 85%;
-	font-size: 95%;
-}
 
 /* chapter 12 section */
 .chapter12Text {
