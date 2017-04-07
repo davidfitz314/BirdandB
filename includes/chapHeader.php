@@ -16,7 +16,6 @@
 <div class="cNavi">
 	<a href="http://www.birdandb.com">
 		<div class="cLogo">
-		
 		</div><!- end logo div ->
 	</a>
 	<div class="cHeadCells">
