@@ -186,14 +186,14 @@
 
 	<h3>Helpful Links</h3>
 	<h4 class="addItalic">Support Group Links</h4>
-		<a href="http://www.thestdproject.com/std-support-groups/">The STD Project Support Groups</a>
-		<a href="https://datingwithherpes.org/herpessupportgroups/">Dating With Herpes Support Groups</a>
-		<a href="http://www.ashasexualhealth.org/stdsstis/herpes/support-groups/">Asha Sexual Health Support Groups</a>
+		<p><a href="http://www.thestdproject.com/std-support-groups/">The STD Project Support Groups</a></p>
+		<p><a href="https://datingwithherpes.org/herpessupportgroups/">Dating With Herpes Support Groups</a></p>
+		<p><a href="http://www.ashasexualhealth.org/stdsstis/herpes/support-groups/">Asha Sexual Health Support Groups</a></p>
 	
 	<h4 class="addItalic">Health Center Links</h4>
-		<a href="https://www.plannedparenthood.org/health-center">Planned Parenthood</a>
-		<a href="http://www.ashasexualhealth.org/">Asha Sexual Health</a>
-		<a href="http://www.teensource.org/find-a-clinic">Teen Source Find a Clinic</a>
+		<p><a href="https://www.plannedparenthood.org/health-center">Planned Parenthood</a></p>
+		<p><a href="http://www.ashasexualhealth.org/">Asha Sexual Health</a></p>
+		<p><a href="http://www.teensource.org/find-a-clinic">Teen Source Find a Clinic</a></p>
 	
 </div>
 
