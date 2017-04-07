@@ -97,7 +97,7 @@
 
 	<div class="sectionContainer">
 	<!- prostitution section image goes right of text ->
-		<div class="ch11rightB">
+		<div class="ch11Right">
 			<img src="includes/images/chapter11/prostitution.png" alt="Victorian Era styled  prostitution shadow portraits">
 		</div>
 
