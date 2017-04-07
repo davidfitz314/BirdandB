@@ -24,7 +24,7 @@
 	</div>
 	<div class="searchBarC">
 		<form>
-			<input type="text" name="search" value="Search Bar (coming soon)...">
+			<input type="text" name="search" placeholder="Search Bar (coming soon)...">
 		</form>	
 	</div>
 </div>
