@@ -44,8 +44,8 @@
 <div class="chapter12Text">
 <br>
 <h2>Chapter 12: Kinks and Fetishes</h2>
-	<a NAME="what_is_a_fetish">
-	<h3>What is a Fetish &amp; Kink</h3></a>
+	<a NAME="what_is_a_fetish"></a>
+	<h3>What is a Fetish &amp; Kink</h3>
 	</p>A fetish or kink is a form of sexual desire in which gratification is linked to an abnormal degree to a particular object, item of clothing, part of the body, or etc. Fetishes are generally an excessive and irrational devotion or commitment to a particular thing. They can be an inanimate object worshiped for its supposed magical powers, or because it is considered to be inhabited by a spirit or something else.</p>
 
 	<h4>Do I Have to Like Their Fetish</h4>
@@ -60,8 +60,8 @@
 	<h4>How Common are Fetishes?</h4>
 	<p class="addItalic">According to a survey done by Ann Summers in the UK approximately 75% of people have at least one fetish.<br>In an article from Women’s Health by Debra W. Soh, the amount of people with a fetish is 1 in 6. While more stats on sexual fetishes may be hard to find, the Mark Allen Thorton blog published a statistic evaluating the authors of over 2900 books, and graphed them out based on the age group focuses the books were written for. In his studies fetishes were common and varied by different age groups.</p>
 
-	<a NAME="common_fetishes_and_kinks">
-	<h3>Common Fetishes and Kinks</h3></a>
+	<a NAME="common_fetishes_and_kinks"></a>
+	<h3>Common Fetishes and Kinks</h3>
 	</p>Their are plenty of fetishes in today’s world. Below is a compilation of some of the most reported fetishes that are also related to sexuality.</p>
 
 	<div class="sectionContainer">
@@ -71,9 +71,6 @@
 	
 		<p><strong>Adult babies:</strong> Are those individuals that enjoy being a baby again. They may enjoy regressing partially or completely, participating in the act of wearing diapers, being fed by an adult, sucking on a baby bottle or pacifier, dressing up in baby clothes, crawling instead of walking and speaking in “baby” talk. Individuals interested in infantilism most likely enjoy the nurturing aspect. They may be seeking attention or have too many responsibilities in their daily lives, which they wish to escape from.</p>
 	</div>
-
-	<h3>Non-Sexual Fetishes</h3>
-	</p></p>
 
 	<div class="sectionContainer">
 		<div class="ch12RightImg">
@@ -139,7 +136,7 @@
 		<p><strong>Sexual Role-play:</strong> Involves two or more individuals acting out different roles in a sexual scenario. It can be any type of sexual fantasy. It may be as involved as the participating individuals wish. Couples could choose to act the role-play out at a specific location, dressing up in detailed costumes or using different props. It may involve individuals assuming a participating role or that of a spectator. Technology has now brought about the possibility of sexual role-playing on the Internet as well, which many individuals and couples indulge in.</p>
 	</div>
 
-		<div class="sectionContainer">
+	<div class="sectionContainer">
 		<div class="ch12RightImg">
 			<img src="includes/images/chapter12/BDSM.png" alt="Handcuffs and a whip">
 		</div>
@@ -153,8 +150,8 @@
 		<img src="includes/images/chapter12/nonsexual.png" alt="Relaxing in a hammock under the tree">
 	</div>
 
-	<a NAME="non_sexual_fetishes">
-	<h3>Non-Sexual Fetishes</h3></a>
+	<a NAME="non_sexual_fetishes"></a>
+	<h3>Non-Sexual Fetishes</h3>
 	<p>As long as there is a high / abnormal amount of interest in something it can be considered a fetish. Below is a list of fetishes that are non-sexual but still hold many people’s devotion.</p>
 	<ul class="closedCircle">
 		<li><strong class="addItalic">Astrophile</strong>- Someone who loves stars and star gazing.</li>

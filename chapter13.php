@@ -50,7 +50,7 @@
 <div class="chapter13Text">
 <br>
 <h2>Chapter 13: </h2>
-	<a NAME="what_is_sexual_harassment" />
+	<a NAME="what_is_sexual_harassment"></a>
 	<h3>What is Sexual Harassment</h3>
 	</p>Sexual Harassment is very different from sexual assault, but the two do relate to each other. Sexual harassment is a form of gender discrimination that involves unwelcome sexual advances, sexualized jokes or comments, requests for sexual favors, and other verbal or physical conduct of a sexual nature.</p>
 
@@ -114,7 +114,7 @@
 
 	<h4>Sexual Assault or Harassment Legalities</h4>
 
-	<a NAME="sexual_violence_prevention" />
+	<a NAME="sexual_violence_prevention"></a>
 	<h3>Sexual Violence Prevention</h3>
 	<h4>Be Prepared & Stay Calm</h4>
 	<p>This doesn’t mean, let the perpetrator do whatever they want, what this means is think of a plan of escape. While immediately fighting feels like a good idea, many sexual violence cases have a perpetrator that is physically stronger or a better fighter than the victim. So to solve this, one must stay calm and think of a plan.</p>
