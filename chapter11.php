@@ -16,7 +16,7 @@
 <strong><a href="chapter8.php">ch8: Orgasm</a></strong>
 <strong><a href="chapter9.php">ch9: Staying Safe During Sex</a></strong>
 <strong><a href="chapter10.php">ch10: Sexually Transmitted Infections-STDs</a></strong>
-<a href="chapter11.php"><strong>Chapter 11</strong></a>
+<a href="chapter11.php"><strong>Chapter 11:</strong></a>
 <ul>
 <li>
 <a href="#ancient_greeks">Ancient Greeks</a>

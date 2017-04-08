@@ -13,7 +13,7 @@
 <strong><a href="chapter5.php">ch5: What is Sex</a></strong>
 <strong><a href="chapter6.php">ch6: Sexuality</a></strong>
 <strong><a href="chapter7.php">ch7: Love vs Sex</a></strong>
-<a href="chapter8.php"><strong>Chapter 8</strong></a>
+<a href="chapter8.php"><strong>Chapter 8:</strong></a>
 <ul>
 <li>
 <a href="#male_physical_reactions">Male Physical Reactions</a>

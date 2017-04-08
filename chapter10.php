@@ -15,7 +15,7 @@
 <strong><a href="chapter7.php">ch7: Love vs Sex</a></strong>
 <strong><a href="chapter8.php">ch8: Orgasm</a></strong>
 <strong><a href="chapter9.php">ch9: Staying Safe During Sex</a></strong>
-<a href="chapter10.php"><strong>Chapter 10</strong></a>
+<a href="chapter10.php"><strong>Chapter 10:</strong></a>
 <ul>
 <li>
 <a href="#most_common_STIs">Most Common STIs</a>

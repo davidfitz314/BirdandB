@@ -14,7 +14,7 @@
 <strong><a href="chapter6.php">ch6: Sexuality</a></strong>
 <strong><a href="chapter7.php">ch7: Love vs Sex</a></strong>
 <strong><a href="chapter8.php">ch8: Orgasm</a></strong>
-<a href="chapter9.php"><strong>Chapter 9</strong></a>
+<a href="chapter9.php"><strong>Chapter 9:</strong></a>
 <ul>
 <li>
 <a href="#safe_sex">Safe Sex</a>

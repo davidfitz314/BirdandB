@@ -154,6 +154,7 @@
 		<img src="includes/images/chapter8/heelClick.png" alt="Person jumping upwards with joy clicking heels together">
 	</div>
 
+	<a NAME="interesting_facts_about_orgasm"></a>
 	<h3>Interesting Facts About Orgasm</h3>
 	<ul class="closedCircle">
 		<li>The average amount of ejaculate released during orgasm is 3.4 ML(milliliters); just barely less than a teaspoon.</li>
