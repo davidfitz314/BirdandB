@@ -14,19 +14,19 @@
 <strong><a href="chapter6.php">ch6: Sexuality</a></strong>
 <strong><a href="chapter7.php">ch7: Love vs Sex</a></strong>
 <strong><a href="chapter8.php">ch8: Orgasm</a></strong>
+<a href="chapter9.php"><strong>Chapter 9</strong></a>
 <ul>
-<strong>Chapter 9</strong>
 <li>
-<a href="chapter9.php">Safe Sex</a>
+<a href="#safe_sex">Safe Sex</a>
 </li>
 <li>
-<a href="chapter9.php">Sexual Protection</a>
+<a href="#sexual_protection">Sexual Protection</a>
 </li>
 <li>
-<a href="chapter9.php">Nonprescription Protection</a>
+<a href="#nonprescription_protection">Nonprescription Protection</a>
 </li>
 <li>
-<a href="chapter9.php">Abstinence</a>
+<a href="#abstinence">Abstinence</a>
 </li>
 </ul>
 
@@ -47,6 +47,7 @@
 <div class="chapter2Text">
 <br>
 <h2>Chapter 9: Staying Safe During Sex</h2>
+	<a NAME="safe_sex"></a>
 	<h3>Safe Sex</h3>
 	</p>Safe sex is a way to combine the greatest pleasure while having the least amount of risk for contracting HIV and other sexuallt transmitted infections. Safe sex besides protecting a person can also help communication and trust between partners. There are two main groups to safe sex, the safest sex and regular safe sex:</p>
 
@@ -81,6 +82,7 @@
 		<img src="includes/images/chapter9/safe.png" alt="2 safes in a sexual position">
 	</div>
 
+	<a NAME="sexual_protection"></a>
 	<h3>Sexual Protection</h3>
 	<p>For the regular safe sex there are many methods used to protect both partners from STI’s and pregnancies:</p>
 	<ul class="closedCircle">
@@ -132,6 +134,7 @@
 		<li>Sterilization</li>
 	</ul>
 
+	<a NAME="nonprescription_protection"></a>
 	<h3>Nonprescription Protection Use</h3>
 	<p>A quick overview of how to use some non prescription protections is listed below:<p>
 	
@@ -239,10 +242,13 @@
 
 	<p>In the event that one is unable to financially purchase protections, there are still a few options available. Wellness Centers and Planned Parenthood both offer cheaper prescription protections if not free based on the amount of income one has. These places also usually offer a nonprescription condoms for free for all who just come in.</p>
 
+
+	<a NAME="abstinence"></a>
 	<div class="ch9Images">
 		<img src="includes/images/chapter9/ring.png" alt="Pure by choice ring">
 	</div>
 
+	
 	<h3>Abstinence</h3>
 	<p>Abstinence is a valid way to protect oneself from STI’s and pregnancy. Abstinence is the practice of restraining oneself from indulging in something.</p>
 

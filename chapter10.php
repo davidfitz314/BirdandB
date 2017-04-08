@@ -15,19 +15,19 @@
 <strong><a href="chapter7.php">ch7: Love vs Sex</a></strong>
 <strong><a href="chapter8.php">ch8: Orgasm</a></strong>
 <strong><a href="chapter9.php">ch9: Staying Safe During Sex</a></strong>
+<a href="chapter10.php"><strong>Chapter 10</strong></a>
 <ul>
-<strong>Chapter 10</strong>
 <li>
-<a href="chapter10.php">Most Common STIs</a>
+<a href="#most_common_STIs">Most Common STIs</a>
 </li>
 <li>
-<a href="chapter10.php">Living With a STI</a>
+<a href="#living_with_a_STI">Living With a STI</a>
 </li>
 <li>
-<a href="chapter10.php">Preventing STIs</a>
+<a href="#preventing_STIs">Preventing STIs</a>
 </li>
 <li>
-<a href="chapter10.php">Helpful Links</a>
+<a href="#helpful_links">Helpful Links</a>
 </li>
 </ul>
 
@@ -53,6 +53,7 @@
 	<p>An STI is an infection that comes usually comes from sexual contact with someone already infected. Some STIs have been known to infect others through different means like heredity, lip balms, tattoos, toilets, etc…</p>
 	<!- Interesting Fact goes here ->
 
+	<a NAME="most_common_STIs"></a>
 	<h3>Most Common STIs</h3>
 
 	<div class="chapter10sideImagesandText">
@@ -188,6 +189,7 @@
 		</div>
 	</div>
 
+	<a NAME="living_with_a_STI"></a>
 	<div class="ch10ImagesSP">
 		<img src="includes/images/chapter10/diagnosis.png" alt="Diagnosis, outline of person in hospital gown">
 	</div>
@@ -231,6 +233,7 @@
 
 	<p class="tabbedch10">So the best thing to do to avoid breaking the law is before the sexual act (which could transmit the infection) is to tell your partner.</p>
 
+	<a NAME="preventing_STIs"></a>
 	<div class="ch10Images">
 		<img src="includes/images/chapter10/super.png" alt="Super condom with cape">
 	</div>
@@ -262,6 +265,7 @@
 		<li>Get the Hepatitis B and HPV vaccinations.</li>
 	</ul>
 
+	<a NAME="helpful_links"></a>
 	<div class="ch10Images">
 		<img src="includes/images/chapter10/helpingHands.png" alt="Two hands shaking and grasping each other">
 	</div>

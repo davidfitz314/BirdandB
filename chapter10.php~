@@ -15,19 +15,19 @@
 <strong><a href="chapter7.php">ch7: Love vs Sex</a></strong>
 <strong><a href="chapter8.php">ch8: Orgasm</a></strong>
 <strong><a href="chapter9.php">ch9: Staying Safe During Sex</a></strong>
+<a href="chapter10.php"><strong>Chapter 10</strong></a>
 <ul>
-<strong>Chapter 10</strong>
 <li>
-<a href="chapter10.php">Most Common STIs</a>
+<a href="#most_common_STIs">Most Common STIs</a>
 </li>
 <li>
-<a href="chapter10.php">Living With a STI</a>
+<a href="#living_with_a_STI">Living With a STI</a>
 </li>
 <li>
-<a href="chapter10.php">Preventing STIs</a>
+<a href="#preventing_STIs">Preventing STIs</a>
 </li>
 <li>
-<a href="chapter10.php">Helpful Links</a>
+<a href="#helpful_links">Helpful Links</a>
 </li>
 </ul>
 
@@ -53,6 +53,7 @@
 	<p>An STI is an infection that comes usually comes from sexual contact with someone already infected. Some STIs have been known to infect others through different means like heredity, lip balms, tattoos, toilets, etc…</p>
 	<!- Interesting Fact goes here ->
 
+	<a NAME="most_common_STIs"></a>
 	<h3>Most Common STIs</h3>
 
 	<div class="chapter10sideImagesandText">
@@ -188,6 +189,7 @@
 		</div>
 	</div>
 
+	<a NAME="living_with_a_STI"></a>
 	<div class="ch10ImagesSP">
 		<img src="includes/images/chapter10/diagnosis.png" alt="Diagnosis, outline of person in hospital gown">
 	</div>
@@ -214,9 +216,9 @@
 	<p class="addItalic">If notifying your partners is too hard, there are ways to notify your partners anonymously about your STI.</p>
 	
 	<ul class="closedCircle">
-		<li><strong class="addItalic">Third Party Partner Notification:</strong> This service offered at most public health clinics, has trained health workers notify your partners regarding their possible exposure to HIV infection without ever identifying you. For local testing and notification services, visit <a href="http://www.hivtest.org">www.hivtest.org</a></li>
+		<li><strong class="addItalic">Third Party Partner Notification:</strong> This service offered at most public health clinics, has trained health workers notify your partners regarding their possible exposure to HIV infection without ever identifying you. For local testing and notification services, visit <a href="http://www.hivtest.org" target="_blank">www.hivtest.org</a></li>
 
-		<li><strong class="addItalic">INSPOT:</strong> An internet service to notify your sexual partners online that they may have been exposed to HIV or an STD. It's free and anonymous. No information is reported to any government or private agency. <a href="http://www.inspot.org">www.inspot.org</a></li>		
+		<li><strong class="addItalic">INSPOT:</strong> An internet service to notify your sexual partners online that they may have been exposed to HIV or an STD. It's free and anonymous. No information is reported to any government or private agency. <a href="http://www.inspot.org" target="_blank">www.inspot.org</a></li>		
 	</ul>	
 	
 	<h4 class="addItalic">Legal Responsibilities for STI Victims</h4>
@@ -231,6 +233,7 @@
 
 	<p class="tabbedch10">So the best thing to do to avoid breaking the law is before the sexual act (which could transmit the infection) is to tell your partner.</p>
 
+	<a NAME="preventing_STIs"></a>
 	<div class="ch10Images">
 		<img src="includes/images/chapter10/super.png" alt="Super condom with cape">
 	</div>
@@ -269,24 +272,24 @@
 	<h3>Helpful Links</h3>
 	<h4 class="addItalic">Support Group Links</h4>
 	<div class="tabbedch10p2">
-		<p><a href="http://www.thestdproject.com/std-support-groups/"><i>The STD Project Support Groups</i></a>
+		<p><a href="http://www.thestdproject.com/std-support-groups/" target="_blank"><i>The STD Project Support Groups</i></a>
 		<br>
 
-		<a href="https://datingwithherpes.org/herpessupportgroups/"><i>Dating With Herpes Support Groups</i></a>
+		<a href="https://datingwithherpes.org/herpessupportgroups/" target="_blank"><i>Dating With Herpes Support Groups</i></a>
 		<br>
 
-		<a href="http://www.ashasexualhealth.org/stdsstis/herpes/support-groups/"><i>Asha Sexual Health Support Groups</i></a></p>
+		<a href="http://www.ashasexualhealth.org/stdsstis/herpes/support-groups/" target="_blank"><i>Asha Sexual Health Support Groups</i></a></p>
 	</div>
 
 	<h4 class="addItalic">Health Center Links</h4>
 	<div class="tabbedch10p2">
-		<p><a href="https://www.plannedparenthood.org/health-center"><i>Planned Parenthood</i></a>
+		<p><a href="https://www.plannedparenthood.org/health-center" target="_blank"><i>Planned Parenthood</i></a>
 		<br>
 
-		<a href="http://www.ashasexualhealth.org/"><i>Asha Sexual Health</i></a>
+		<a href="http://www.ashasexualhealth.org/" target="_blank"><i>Asha Sexual Health</i></a>
 		<br>
 
-		<a href="http://www.teensource.org/find-a-clinic"><i>Teen Source Find a Clinic</i></a></p>
+		<a href="http://www.teensource.org/find-a-clinic" target="_blank"><i>Teen Source Find a Clinic</i></a></p>
 	</div>
 </div>
 

@@ -16,22 +16,22 @@
 <strong><a href="chapter8.php">ch8: Orgasm</a></strong>
 <strong><a href="chapter9.php">ch9: Staying Safe During Sex</a></strong>
 <strong><a href="chapter10.php">ch10: Sexually Transmitted Infections-STDs</a></strong>
+<a href="chapter11.php"><strong>Chapter 11</strong></a>
 <ul>
-<strong>Chapter 11</strong>
 <li>
-<a href="chapter11.php">Ancient Greeks</a>
+<a href="#ancient_greeks">Ancient Greeks</a>
 </li>
 <li>
-<a href="chapter11.php">Ancient Romans</a>
+<a href="#ancient_romans">Ancient Romans</a>
 </li>
 <li>
-<a href="chapter11.php">Victorian Era</a>
+<a href="#victorian_era">Victorian Era</a>
 </li>
 <li>
-<a href="chapter11.php">China</a>
+<a href="#china">China</a>
 </li>
 <li>
-<a href="chapter11.php">United States</a>
+<a href="#united_states">United States</a>
 </li>
 </ul>
 
@@ -52,6 +52,8 @@
 <h2>Chapter 11: Human Sexuality in the World</h2>
 	<p>Human sexuality has changed many times over the centuries, from praising sex as being it’s own god or creating the universe, to shunning it in the hopes it would disappear. Humanity has changed its stance on sex many times, always jumping back and forth on how they wish to view it.</p>
 
+
+	<a NAME="ancient_greeks"></a>
 	<div class="sectionContainer">
 	<!- Greek image goes left of text ->
 		<div class="ch11Left">
@@ -68,6 +70,8 @@
 		</div>
 	</div>
 
+
+	<a NAME="ancient_romans"></a>
 	<div class="sectionContainer">
 		<!- Roman image goes right of text ->
 		<div class="ch11Right">
@@ -80,6 +84,7 @@
 		</div>
 	</div>
 
+	<a NAME="victorian_era"></a>
 	<div class="sectionContainer">
 	<!- Victorian Era image goes left of text ->
 		<div class="ch11Left">
@@ -106,6 +111,7 @@
 		</div>
 	</div>
 
+	<a NAME="china"></a>
 	<!- China image goes above text banner style ->
 	<div class="ch11Images">
 		<img src="includes/images/chapter11/chinese.png" alt="Chinese shadow couple drinking tea and doing martial arts">
@@ -124,6 +130,7 @@
 
 	<p>Li believes that one of the main driving forces for changing the attitudes towards sex, is the Communist Party’s one-child policy which was enforced from 1979 to 2015. <i>"The one-child policy allows people to have one or two kids only. So unless you give up sex afterwards you are changing your purpose of having sex. Having sex for pleasure gets justified too."</i> -Li Tinhe</p>
 
+	<a NAME="united_states"></a>
 	<div class="sectionContainer">
 	<!- image goes left of text ->
 		<div class="ch11Left">
