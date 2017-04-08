@@ -183,11 +183,11 @@
 
 	<div class="sectionContainer2">
 		<div class="ch13RightB">
-			<img src="includes/images/chapter13/keepcalm.png" alt="Keep Calm Crown">
+			<img src="includes/images/chapter13/noise.png" alt="Noisy megaphone">
 		</div>
 
 		<div class="ch13LeftC">
-	<!- image goes right ->
+		<!- image goes right ->
 			<h4 class="addItalic">Make Lots of Noise</h4>
 			<p>While most people get annoyed of nosy neighbors, they can be of great assistance
 during an emergency. It is highly recommended by police and government
@@ -200,10 +200,17 @@ members of the public that could be of assistance to the victim.<p>
 	<h4 class="addItalic">Say NO! Clearly</h4>
 	<p>When at parties, social events, or just at a private gathering there are many types of people. Some of these people will respond correctly when directly told “No!”. The other reason to say “no” is to protect yourself in the event of malicious people trying to say “you wanted it because you never said ‘No’”. While this type of thing sounds terrible it unfortunately happens, so always be clear and say “No!”.<p>
 
-	<!- image goes right ->
-	<h4 class="addItalic">Be Aware</h4>
-	<p>Many sexual violences occur due to alcohol consumption and other drugs, so to protect oneself be aware of who you are with and help by watching over your friends. Date Rape drugs are very subtle but can occasionally be detected by a salty taste, so be aware of your drinks and what they are supposed to taste like. Be aware of who you are with and ask for help if something feels strange. If at a bar, one of the best helps can be the bartender as they will want to protect the reputation of the bar by not allowing date rape instances to happen in or near it, or they can call you a cab if you just feel you are too intoxicated.<p>
+	<div class="sectionContainer2">
+		<div class="ch13RightB">
+			<img src="includes/images/chapter13/aware.png" alt="Aware symbol, exclamation mark in a triangle">
+		</div>
 
+		<div class="ch13LeftC">
+		<!- image goes right ->
+			<h4 class="addItalic">Be Aware</h4>
+			<p>Many sexual violences occur due to alcohol consumption and other drugs, so to protect oneself be aware of who you are with and help by watching over your friends. Date Rape drugs are very subtle but can occasionally be detected by a salty taste, so be aware of your drinks and what they are supposed to taste like. Be aware of who you are with and ask for help if something feels strange. If at a bar, one of the best helps can be the bartender as they will want to protect the reputation of the bar by not allowing date rape instances to happen in or near it, or they can call you a cab if you just feel you are too intoxicated.<p>
+		</div>
+	</div>
 
 	<a NAME="what_to_do_after_sexual_violence"></a>
 	<h3>What to do After Sexual Violence</h3>
