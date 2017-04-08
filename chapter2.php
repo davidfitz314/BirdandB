@@ -8,18 +8,18 @@
 <h2>Chapter 2: Conception</h2>
 <strong><a href="chapter1.php">ch1: Overview</a></strong>
 <ul>
-<strong>Chapter 2</strong>
+<a href="chapter2.php"><strong>Chapter 2</strong></a>
 <li>
-<a href="chapter2.php">1st Trimester</a>
+<a href="#1st_trimester">1st Trimester</a>
 </li>
 <li>
-<a href="chapter2.php">2nd Trimester</a>
+<a href="#2nd_trimester">2nd Trimester</a>
 </li>
 <li>
-<a href="chapter2.php">3rd Trimester</a>
+<a href="#3rd_trimester">3rd Trimester</a>
 </li>
 <li>
-<a href="chapter2.php">Turning Full Term</a>
+<a href="#turning_full_term">Turning Full Term</a>
 </li>
 </ul>
 <strong><a href="chapter3.php">ch3: Human Body development</a></strong>
@@ -45,6 +45,7 @@
 <!- chapter 2 text division ->
 <div class="chapter2Text">
 <br>
+	<a NAME="1st_trimester"></a>
 	<h2>Chapter 2: Conception</h2>
 	<h3>1st Trimester</h3>
 	<h4>Pre-Fertilization: how an egg gets ready to be fertilized.</h4>
@@ -191,6 +192,7 @@
 	<p class="tabbedch2">The baby’s fingers now have fingerprints and the veins and organs can clearly be seen through the skin. The baby is the length of a pea pod.</p><!- interesting fact goes here ->
 	</div>
 
+	<a NAME="2nd_trimester"></a>
 	<h3>2nd Trimester</h3>
 	<!- image and week# ->
 	<div class="plant_circle">
@@ -239,9 +241,6 @@
 	<div class="ch2text">
 	<p class="tabbedch2">The baby’s formerly soft cartilage is now hardening into bone, the umbilical chord is growing stronger and thicker and the baby can now move its joints. The baby is the size of a turnip.</p>
 	</div>
-
-
-
 
 	<!- image and week# ->
 	<div class="plant_circle">
@@ -363,6 +362,7 @@
 	<p class="tabbedch2">The baby has now developed a circadian rhythm for sleeping and its brain is very active. The baby is now the size of a head of cauliflower.</p><!- interesting fact goes here ->
 	</div>
 
+	<a NAME="3rd_trimester"></a>
 	<h3>3rd Trimester</h3>
 	<!- image and week# ->
 	<div class="plant_circle">
@@ -496,6 +496,7 @@
 	<p class="tabbedch2">The baby is now the size of a leek.</p>
 	</div>
 
+	<a NAME="#turning_full_term"></a>
 	<h3>Turning Full Term</h3>
 	<!- image and week# ->
 	<div class="plant_circle">

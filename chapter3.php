@@ -9,15 +9,15 @@
 <strong><a href="chapter1.php">ch1: Overview</a></strong>
 <strong><a href="chapter2.php">ch2: Conception</a></strong>
 <ul>
-<strong>Chapter 3</strong>
+<a href="chapter3.php"><strong>Chapter 3</strong></a>
 <li>
-<a href="chapter3.php">Pre-Puberty Changes</a>
+<a href="#pre_puberty_changes">Pre-Puberty Changes</a>
 </li>
 <li>
-<a href="chapter3.php">Puberty for Males</a>
+<a href="#puberty_for_males">Puberty for Males</a>
 </li>
 <li>
-<a href="chapter3.php">Puberty for Females</a>
+<a href="#puberty_for_females">Puberty for Females</a>
 </li>
 </ul>
 <strong><a href="chapter4.php">ch4: Human Nature and Psychological Dependencies</a></strong>
@@ -42,6 +42,7 @@
 <!- chapter text division ->
 <div class="chapter3Text">
 </br>
+	<a NAME="pre_puberty_changes"></a>
 	<h2>Chapter 3: Human Body Development</h2>
 	<h4>Pre-Puberty Changes</h4>
 	<p>Quite a few changes happen before even entering the puberty stage, most children will:</p>
@@ -56,6 +57,7 @@
 	<p>These changes happen naturally but at varying degrees to children, so no one child is exactly alike another.</p>
 	<!- Interesting Fact goes here ->
 	
+	<a NAME="puberty_for_males"></a>
 	<h4>Puberty For Males</h4>
 	<p>Early signs of puberty in males usually start 1 year later than females. The first sign is Testes(plural for testicle) growing larger and the Scrotum thinning and reddening. This happens generally around 11 years of age but can actually start early or later usually between 9 and 14yrs old.</p>
 	
@@ -113,6 +115,7 @@
 	<img src="includes/images/chapter3/chestHair-male.png" alt="Male chest hair growth">
 	</div>
 
+	<a NAME="puberty_for_females"></a>
 	<h4>Puberty For Females</h4>
 	<p>Early signs of puberty in females usually start around the age of 10, with some starting as early as 8 and others not starting until 13yrs of age. The most common sign for a female starting puberty is breasts budding or growing.</p>
 	<!- Interesting Fact goes here ->
