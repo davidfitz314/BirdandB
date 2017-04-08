@@ -755,6 +755,7 @@ h3 {
 .ch12Images img {
 	width: 50%;
 	height: auto;
+	text-align:center;
 }
 
 .ch12RightImg {
