@@ -169,7 +169,7 @@
 
 	<p>While most of the above places can’t be avoided all the time, there are still many ways to protect oneself from sexual violence.</p>
 
-	<div class="sectionContainer3">
+	<div class="sectionContainer2">
 		<div class="ch13LeftB">
 			<img src="includes/images/chapter13/keepcalm.png" alt="Keep Calm Crown">
 		</div>
@@ -181,12 +181,20 @@
 		</div>
 	</div>
 
+	<div class="sectionContainer2">
+		<div class="ch13RightB">
+			<img src="includes/images/chapter13/noise.png" alt="Noisy megaphone">
+		</div>
+
+		<div class="ch13LeftC">
 	<!- image goes right ->
-	<h4 class="addItalic">Make Lots of Noise</h4>
-	<p>While most people get annoyed of nosy neighbors, they can be of great assistance
+			<h4 class="addItalic">Make Lots of Noise</h4>
+			<p>While most people get annoyed of nosy neighbors, they can be of great assistance
 during an emergency. It is highly recommended by police and government
 officials to yell and scream when being assaulted, in order to draw attention from
 members of the public that could be of assistance to the victim.<p>
+		</div>
+	</div>
 
 	<!- image goes left ->
 	<h4 class="addItalic">Say NO! Clearly</h4>
