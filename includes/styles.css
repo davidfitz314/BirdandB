@@ -752,8 +752,17 @@ h3 {
 	line-height: 150%;
 }
 
-.ch12Images img {
+.ch12Images2 {
+	text-align: center;
+}
+.ch12Images2 img {
 	width: 50%;
+	height: auto;
+	text-align:center;
+}
+
+.ch12Images img {
+	width: 100%;
 	height: auto;
 	text-align:center;
 }

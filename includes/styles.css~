@@ -752,7 +752,10 @@ h3 {
 	line-height: 150%;
 }
 
-.ch12Images img {
+.ch12Images2 {
+	text-align: center;
+}
+.ch12Images2 img {
 	width: 50%;
 	height: auto;
 	text-align:center;
@@ -780,6 +783,16 @@ h3 {
 	width: 100%;
 	height: auto;
 	padding: 0 15px, 15px, 15px;
+}
+
+.chapter12Text a{
+	text-decoration:none;
+	color: black;
+}
+
+.chapter12Text a:hover{
+	text-decoration:none;
+	color: blue;
 }
 
 /* chapter 13 section */
