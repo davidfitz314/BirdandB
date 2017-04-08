@@ -890,8 +890,8 @@ h3 {
 	width: 70%;
 }
 
-.ch13RightC {
-	float: right;
+.ch13LeftC {
+	float: left;
 	width: 70%;
 }
 
