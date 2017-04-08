@@ -113,7 +113,7 @@
 
 	<h4>Sexual Assualt Statistics</h4>
 	<!- use p and strong instead of h5 ->
-	<p><strong class="addItalic">General Sexual Violence</strong></p>
+	<p><strong class="addItalic2">General Sexual Violence</strong></p>
 
 	<p class="tabbedB">1 in 5 women and 1 in 71 men will be raped at some point in their lives.</p>
 
@@ -121,7 +121,7 @@
 
 	<p class="tabbedB">8% of rapes occur in the victim’s workplace.</p>
 
-	<p><strong class="addItalic">Sexual Violence Against Minors</strong></p>
+	<p><strong class="addItalic2">Sexual Violence Against Minors</strong></p>
 	<p class="tabbedB">1 in four girls and 1 in 6 boys will be sexually abused before they turn 18 years old.</p>
 
 	<p class="tabbedB">34% of people who sexually abuse a child are family members.</p>
@@ -129,12 +129,12 @@
 	<p class="tabbedB">The average age at which girls first become victims of prostitution is 12 to 14 years old, and the average age for boys is 11 to 13 years old.</p>
 
 
-	<p><strong class="addItalic"></strong></p>
+	<p><strong class="addItalic2"></strong></p>
 	<p class="tabbedB"></p>
 
 	<p class="tabbedB"></p>
 
-	<p><strong class="addItalic"></strong></p>
+	<p><strong class="addItalic2"></strong></p>
 	<p class="tabbedB"></p>
 
 	<p class="tabbedB"></p>

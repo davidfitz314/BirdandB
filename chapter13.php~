@@ -113,7 +113,6 @@
 
 	<h4>Sexual Assualt Statistics</h4>
 	<!- use p and strong instead of h5 ->
-	<h5>Sexual Harassment Statistics</h5>
 	<p><strong class="addItalic">General Sexual Violence</strong></p>
 
 	<p class="tabbedB">1 in 5 women and 1 in 71 men will be raped at some point in their lives.</p>
