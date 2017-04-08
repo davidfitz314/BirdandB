@@ -680,7 +680,7 @@ h3 {
 .ch11Left img{
 	width: 100%;
 	height: auto;
-	padding: 18% 2% 0 0;
+	padding: 18% 5% 0 0;
 	margin-bottom: 10%;
 }
 
@@ -693,7 +693,7 @@ h3 {
 .ch11Right img{
 	width: 100%;
 	height: auto;
-	padding: 18% 0 0 2%;
+	padding: 18% 0 0 5%;
 	margin-bottom: 10%;
 }
 
@@ -706,7 +706,7 @@ h3 {
 .ch11RightB img{
 	width: 40%;
 	height: 40%;
-	padding: 18% 0 0 2%;
+	padding: 18% 0 0 5%;
 	margin-bottom: 10%;
 }
 
