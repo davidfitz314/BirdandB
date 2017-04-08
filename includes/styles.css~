@@ -667,7 +667,7 @@ h3 {
 }
 
 .sectionContainer {
-	margin-bottom: 100px;
+	margin-bottom: 20%;
 	clear:both;
 }
 
