@@ -658,7 +658,7 @@ h3 {
 }
 
 .ch11Images {
-	margin-top: 20%;
+	/*margin-top: 20%;*/
 }
 
 .ch11Images img {
@@ -697,18 +697,19 @@ h3 {
 	margin-bottom: 10%;
 }
 
-.ch11RightB {
+.ch11LeftB {
 	width: 50%;
 	height: auto;
 	float: right;
 }
 
-.ch11RightB img{
-	width: 40%;
-	height: 40%;
-	padding: 18% 0 0 5%;
+.ch11LeftB img{
+	width: 30%;
+	height: auto;
+	padding: 18% 0 0 25%;
 	margin-bottom: 10%;
 }
+
 
 
 /* chapter 12 section */
