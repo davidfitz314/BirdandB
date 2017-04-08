@@ -71,7 +71,7 @@
 	</div>
 
 
-	<a NAME="ancient_romans"></a>
+	
 	<div class="sectionContainer">
 		<!- Roman image goes right of text ->
 		<div class="ch11Right">
@@ -79,12 +79,13 @@
 		</div>
 
 		<div class="ch11Left">
+		<a NAME="ancient_romans"></a>
 			<h3>Ancient Romans</h3>
 			<p>In Ancient Rome not only was sex gratifying but it was also a duty. The men would delight in displaying the vitality, manhood, and sexual prowess, while the woman understood sex to be a great duty for replenishing the population with male soldiers and citizens. The female babies however contributed little to society while growing, but were still high cost as a large dowry would be required for any male who wished to marry her when the time was right.</p>
 		</div>
 	</div>
 
-	<a NAME="victorian_era"></a>
+
 	<div class="sectionContainer">
 	<!- Victorian Era image goes left of text ->
 		<div class="ch11Left">
@@ -92,6 +93,7 @@
 		</div>
 
 		<div class="ch11Right">
+			<a NAME="victorian_era"></a>
 			<h3>Victorian Era</h3>
 			<p>In the 1800s, or more specifically between 1837-1901, the strict gender roles for males and females returned. Women were to be covered up in cloth at all times unless having sex for reproductive reasons. Some women took it so far as to still wear clothing during the act of sex. Males were supposed to maintain high morals. Expressions of love were looked down upon.</p>
 
@@ -111,11 +113,12 @@
 		</div>
 	</div>
 
-	<a NAME="china"></a>
+
 	<!- China image goes above text banner style ->
 	<div class="ch11Images">
 		<img src="includes/images/chapter11/chinese.png" alt="Chinese shadow couple drinking tea and doing martial arts">
 	</div>
+	<a NAME="china"></a>
 	<h3>China</h3>
 	<p>Currently China is in what experts call a sexual revolution, according to many this started just over 20 years ago. China’s first female sexologist Li Tinhe, is carefully observing and recording the current sexual revolution in China.</p>
 
@@ -130,7 +133,7 @@
 
 	<p>Li believes that one of the main driving forces for changing the attitudes towards sex, is the Communist Party’s one-child policy which was enforced from 1979 to 2015. <i>"The one-child policy allows people to have one or two kids only. So unless you give up sex afterwards you are changing your purpose of having sex. Having sex for pleasure gets justified too."</i> -Li Tinhe</p>
 
-	<a NAME="united_states"></a>
+
 	<div class="sectionContainer">
 	<!- image goes left of text ->
 		<div class="ch11Left">
@@ -138,6 +141,7 @@
 		</div>
 
 		<div class="ch11Right">
+			<a NAME="united_states"></a>
 			<h3>United States</h3>
 			</p>According to many experts the US’s thoughts about sexuality comes from the “<i>repressive hypothesis</i>” which claims that the history of sexuality over the past 300 years has been a history of repression. Sex for anything other than reproduction is a large taboo. Many experts say that the only way to liberate the US from this repression, is to be more open about discussing sex, embracing sexuality, and enjoying it in general.</p>
 		</div>
