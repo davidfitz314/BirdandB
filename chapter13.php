@@ -171,12 +171,15 @@
 
 
 	<!- image goes left ->
-	<h4>Be Prepared & Stay Calm</h4>
+	<h4 class="addItalic">Be Prepared & Stay Calm</h4>
 	<p>This doesn’t mean, let the perpetrator do whatever they want, what this means is think of a plan of escape. While immediately fighting feels like a good idea, many sexual violence cases have a perpetrator that is physically stronger or a better fighter than the victim. So to solve this, one must stay calm and think of a plan.</p>
 
 	<!- image goes right ->
-	<h4></h4>
-	<p><p>
+	<h4>Make Lots of Noise</h4>
+	<p>While most people get annoyed of nosy neighbors, they can be of great assistance
+during an emergency. It is highly recommended by police and government
+officials to yell and scream when being assaulted, in order to draw attention from
+members of the public that could be of assistance to the victim.<p>
 
 	<!- image goes left ->
 	<h4></h4>
