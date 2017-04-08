@@ -100,44 +100,62 @@
 			<img src="includes/images/chapter11/prostitution.png" alt="Victorian Era styled prostitution shadow portraits">
 		</div>
 
-		<div class="ch11left">
+		<div class="ch11Left">
 			<h4 class="addItalic">Prostitution</h4>
 			<p>Prostitutes were quite common, the women engaged in these acts would be considered lower class. Men of this time flocked towards prostitutes, to help alleviate the sexual frustrations that built up inside of them. This was due to men valuing their wives as high quality non sexual beings and prostitutes as lower class tools.</p>
 		</div>
-	</div>
-
-	<div class="sectionContainer">
 	</div>
 
 	<!- China image goes above text banner style ->
 	<div class="ch11Images">
 		<img src="includes/images/chapter11/chinese.png" alt="Chinese shadow couple drinking tea and doing martial arts">
 	</div>
-	<h3></h3>
-	<p></p>
+	<h3>China</h3>
+	<p>Currently China is in what experts call a sexual revolution, according to many this started just over 20 years ago. China’s first female sexologist Li Tinhe, is carefully observing and recording the current sexual revolution in China.</p>
+
+	<p>In 1996 the owner of a bathhouse was sentenced to death for organising prostitution. According to Li in China’s current mindset the owner today would suffer a far less punishment, the most severe being closure of the business.</p>
+
+	<p>Up to 1980 publishers of pornographic content could also be sentenced to death, the same punishment as those that organized sex parties. Currently pornography is becoming more common, and in 2017 China released its first commercial film featuring gay sexualities. Swinger parties are still illegal but very common due to the lack of reports from the common people.</p>
 	
 	<!- China second image above second paragraph text ->
 	<div class="ch11Images">
 		<img src="includes/images/chapter11/equality.png" alt="Words saying Equality">
 	</div>
 
-	<p></p>
+	<p>Li believes that one of the main driving forces for changing the attitudes towards sex, is the Communist Party’s one-child policy which was enforced from 1979 to 2015. <i>"The one-child policy allows people to have one or two kids only. So unless you give up sex afterwards you are changing your purpose of having sex. Having sex for pleasure gets justified too."</i> -Li Tinhe</p>
 
+
+	<div class="sectionContainer">
 	<!- image goes left of text ->
+		<div class="ch11Left">
+			<img src="includes/images/chapter11/american.png" alt="American Flag and Man walking with umbrella">
+		</div>
+
+		<div class="ch11Right">
+			
+			<h3>United States</h3>
+			</p>According to many experts the US’s thoughts about sexuality comes from the “<i>repressive hypothesis</i>” which claims that the history of sexuality over the past 300 years has been a history of repression. Sex for anything other than reproduction is a large taboo. Many experts say that the only way to liberate the US from this repression, is to be more open about discussing sex, embracing sexuality, and enjoying it in general.</p>
+		</div>
+	</div>
+
+	<div class="sectionContainer">
+	<!- image goes right of text ->
+		<div class="ch11Right">
+			<img src="includes/images/chapter11/revolution.png" alt="Pink and blue interlocking gender symbols">
+		</div>
+
+		<div class="ch11Left">
+			<h4 class="addItalic">US's Sexual Revolution</h4>
+			</p></p>
+		</div>
+	</div>
 	
-	<h3>United States</h3>
+	<!- image goes left of text ->
+	<h4 class="addItalic">Alfred Kinsey</h4>
 	</p></p>
 
 	<!- image goes right of text ->
-	<h4>US's Sexual Revolution</h4>
-	</p></p>
-	
-	<!- image goes left of text ->
-	<h4>Alfred Kinsey</h4>
-	</p></p>
-
-	<!- image goes right of text ->
-	<h4>Masters &amp; Johnson</h4>
+	<h4 class="addItalic">Masters &amp; Johnson</h4>
 	</p></p>
 
 	<!- image goes above text ->
