@@ -830,8 +830,7 @@ h3 {
 
 .ch13Left {
 	float: left;
-	width: 30%;
-	margin: 10%;
+	width: 15%;
 }
 
 .ch13Left img{
@@ -841,7 +840,7 @@ h3 {
 
 .ch13Right {
 	float: right;
-	width: 60%;
+	width: 70%;
 }
 
 /* chapter 14 section */

@@ -829,11 +829,18 @@ h3 {
 }
 
 .ch13Left {
+	float: left;
+	width: 15%;
+}
 
+.ch13Left img{
+	padding-top: 10%;
+	width: 100%;
 }
 
 .ch13Right {
-	
+	float: right;
+	width: 60%;
 }
 
 /* chapter 14 section */

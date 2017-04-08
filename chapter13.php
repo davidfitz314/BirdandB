@@ -55,10 +55,11 @@
 
 	<p>Sexual harassment is generally broken down into 2 categories, Quid Pro Quo and Hostile Environment:</p>
 
-	<div class="ch13Left">
-		<img src="includes/images/chapter13/work.png" alt="Work sexual harassment couple">
-	</div>
 	<div class="sectionContainer">
+		<div class="ch13Left">
+			<img src="includes/images/chapter13/work.png" alt="Work sexual harassment couple">
+		</div>
+	
 		<div class="ch13Right">	
 			</p><strong class="addItalic">Quid Pro Quo</strong> is when conditions are placed on a person’s career or terms of employment for sexual favors. It involves threats of adverse actions or promises of favorable actions depending on the responses of the victim.</p>
 
