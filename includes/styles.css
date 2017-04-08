@@ -752,8 +752,8 @@ h3 {
 }
 
 .ch12Images img {
-	width: 100%;
-	height: auto;
+	width: auto;
+	height: 80%;
 }
 
 /* chapter 13 section */
