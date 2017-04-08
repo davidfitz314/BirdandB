@@ -214,9 +214,9 @@
 	<p class="addItalic">If notifying your partners is too hard, there are ways to notify your partners anonymously about your STI.</p>
 	
 	<ul class="closedCircle">
-		<li><strong class="addItalic">Third Party Partner Notification:</strong> This service offered at most public health clinics, has trained health workers notify your partners regarding their possible exposure to HIV infection without ever identifying you. For local testing and notification services, visit <a href="http://www.hivtest.org">www.hivtest.org</a></li>
+		<li><strong class="addItalic">Third Party Partner Notification:</strong> This service offered at most public health clinics, has trained health workers notify your partners regarding their possible exposure to HIV infection without ever identifying you. For local testing and notification services, visit <a href="http://www.hivtest.org" target="_blank">www.hivtest.org</a></li>
 
-		<li><strong class="addItalic">INSPOT:</strong> An internet service to notify your sexual partners online that they may have been exposed to HIV or an STD. It's free and anonymous. No information is reported to any government or private agency. <a href="http://www.inspot.org">www.inspot.org</a></li>		
+		<li><strong class="addItalic">INSPOT:</strong> An internet service to notify your sexual partners online that they may have been exposed to HIV or an STD. It's free and anonymous. No information is reported to any government or private agency. <a href="http://www.inspot.org" target="_blank">www.inspot.org</a></li>		
 	</ul>	
 	
 	<h4 class="addItalic">Legal Responsibilities for STI Victims</h4>
@@ -269,24 +269,24 @@
 	<h3>Helpful Links</h3>
 	<h4 class="addItalic">Support Group Links</h4>
 	<div class="tabbedch10p2">
-		<p><a href="http://www.thestdproject.com/std-support-groups/"><i>The STD Project Support Groups</i></a>
+		<p><a href="http://www.thestdproject.com/std-support-groups/" target="_blank"><i>The STD Project Support Groups</i></a>
 		<br>
 
-		<a href="https://datingwithherpes.org/herpessupportgroups/"><i>Dating With Herpes Support Groups</i></a>
+		<a href="https://datingwithherpes.org/herpessupportgroups/" target="_blank"><i>Dating With Herpes Support Groups</i></a>
 		<br>
 
-		<a href="http://www.ashasexualhealth.org/stdsstis/herpes/support-groups/"><i>Asha Sexual Health Support Groups</i></a></p>
+		<a href="http://www.ashasexualhealth.org/stdsstis/herpes/support-groups/" target="_blank"><i>Asha Sexual Health Support Groups</i></a></p>
 	</div>
 
 	<h4 class="addItalic">Health Center Links</h4>
 	<div class="tabbedch10p2">
-		<p><a href="https://www.plannedparenthood.org/health-center"><i>Planned Parenthood</i></a>
+		<p><a href="https://www.plannedparenthood.org/health-center" target="_blank"><i>Planned Parenthood</i></a>
 		<br>
 
-		<a href="http://www.ashasexualhealth.org/"><i>Asha Sexual Health</i></a>
+		<a href="http://www.ashasexualhealth.org/" target="_blank"><i>Asha Sexual Health</i></a>
 		<br>
 
-		<a href="http://www.teensource.org/find-a-clinic"><i>Teen Source Find a Clinic</i></a></p>
+		<a href="http://www.teensource.org/find-a-clinic" target="_blank"><i>Teen Source Find a Clinic</i></a></p>
 	</div>
 </div>
 

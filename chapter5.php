@@ -109,7 +109,7 @@
 	</div>
 
 	<h4>Who is Having Sex?</h4>
-	<p>In many cultures sex is a less talked about or even taboo subject. However, in the U.S.A area a few studies have been published showing the results of who is having sex. The information below is from the <a href="https://www.kinseyinstitute.org/">Kinsey Institute</a>, but for a more worldwide perspective the <a href="https://www.guttmacher.org/">GuttMacher Institute</a> also has some studies on sex and sexual matters.</p>
+	<p>In many cultures sex is a less talked about or even taboo subject. However, in the U.S.A area a few studies have been published showing the results of who is having sex. The information below is from the <a href="https://www.kinseyinstitute.org/" target="_blank">Kinsey Institute</a>, but for a more worldwide perspective the <a href="https://www.guttmacher.org/" target="_blank">GuttMacher Institute</a> also has some studies on sex and sexual matters.</p>
 
 	<p>According to the Kinsey Institute studies statistics for:</p>
 	
@@ -176,7 +176,7 @@
 	</ul>
 	<!- Interesting Fact goes here ->
 
-	<p>For more statistical information on sexuality, sex, or love please visit the <a href="https://www.kinseyinstitute.org/">Kinsey Institute</a> or <a heref="https://www.guttmacher.org/">GuttMacher Institute</a>. They are both dedicated to providing data in a well balanced format for most cultures.</p>
+	<p>For more statistical information on sexuality, sex, or love please visit the <a href="https://www.kinseyinstitute.org/" target="_blank">Kinsey Institute</a> or <a heref="https://www.guttmacher.org/" target="_blank">GuttMacher Institute</a>. They are both dedicated to providing data in a well balanced format for most cultures.</p>
 
 </div>
 

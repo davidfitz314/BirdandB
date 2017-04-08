@@ -180,11 +180,11 @@
 	<h4>External Links</h4>
 	<div class="sectionContainer">
 		<div class="ch12LeftImg">
-			<a href="http://www.meetup.com">
+			<a href="http://www.meetup.com" target="_blank">
 				<img src="includes/images/chapter12/meetup.png" alt="Meetup.com similar logo">
 			</a>
 		</div>
-		<p>For those that are looking for others with a similar set of interests, one website that allows the meeting of new people based on specific categories or searches is called <a href="http://www.meetup.com">meetup.com</a>. This site not only gets people together for dating or fetishes, but it also helps gather people who wish to play sports or other hobbies together.</p>
+		<p>For those that are looking for others with a similar set of interests, one website that allows the meeting of new people based on specific categories or searches is called <a href="http://www.meetup.com" target="_blank">meetup.com</a>. This site not only gets people together for dating or fetishes, but it also helps gather people who wish to play sports or other hobbies together.</p>
 	</div>
 </div>
 

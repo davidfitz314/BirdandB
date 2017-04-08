@@ -52,7 +52,7 @@
 
 	<p>To the other person a fetish can be a healthy way to relieve sexuality, sensuality, and sexual desires. Accepting someone’s fetish is simply a way of accepting another person as a friend, and while they may enjoy their fetish, you are never required to do everything they want to. Instead be their friends, but make clear where your stance is on the subject.</p>
 
-	<div class="ch12Images">
+	<div class="ch12Images2">
 		<img src="includes/images/chapter12/speakout.png" alt="Black and white sketch of a person at a podium">
 	</div>
 
