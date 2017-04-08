@@ -196,9 +196,17 @@ members of the public that could be of assistance to the victim.<p>
 		</div>
 	</div>
 
-	<!- image goes left ->
-	<h4 class="addItalic">Say NO! Clearly</h4>
-	<p>When at parties, social events, or just at a private gathering there are many types of people. Some of these people will respond correctly when directly told “No!”. The other reason to say “no” is to protect yourself in the event of malicious people trying to say “you wanted it because you never said ‘No’”. While this type of thing sounds terrible it unfortunately happens, so always be clear and say “No!”.<p>
+	<div class="sectionContainer2">
+		<div class="ch13LeftB">
+			<img src="includes/images/chapter13/NO.png" alt="Say No Clearly">
+		</div>
+
+		<!- image goes left ->
+		<div class="ch13Right">
+			<h4 class="addItalic">Say NO! Clearly</h4>
+			<p>When at parties, social events, or just at a private gathering there are many types of people. Some of these people will respond correctly when directly told “No!”. The other reason to say “no” is to protect yourself in the event of malicious people trying to say “you wanted it because you never said ‘No’”. While this type of thing sounds terrible it unfortunately happens, so always be clear and say “No!”.<p>
+		</div>
+	</div>
 
 	<div class="sectionContainer2">
 		<div class="ch13RightB">

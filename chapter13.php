@@ -169,7 +169,7 @@
 
 	<p>While most of the above places can’t be avoided all the time, there are still many ways to protect oneself from sexual violence.</p>
 
-	<div class="sectionContainer2">
+	<div class="sectionContainer3">
 		<div class="ch13LeftB">
 			<img src="includes/images/chapter13/keepcalm.png" alt="Keep Calm Crown">
 		</div>
@@ -181,7 +181,7 @@
 		</div>
 	</div>
 
-	<div class="sectionContainer2">
+	<div class="sectionContainer3">
 		<div class="ch13RightB">
 			<img src="includes/images/chapter13/noise.png" alt="Noisy megaphone">
 		</div>
@@ -196,7 +196,7 @@ members of the public that could be of assistance to the victim.<p>
 		</div>
 	</div>
 
-	<div class="sectionContainer2">
+	<div class="sectionContainer3">
 		<div class="ch13LeftB">
 			<img src="includes/images/chapter13/NO.png" alt="Say No Clearly">
 		</div>
@@ -208,7 +208,7 @@ members of the public that could be of assistance to the victim.<p>
 		</div>
 	</div>
 
-	<div class="sectionContainer2">
+	<div class="sectionContainer3">
 		<div class="ch13RightB">
 			<img src="includes/images/chapter13/aware.png" alt="Aware symbol, exclamation mark in a triangle">
 		</div>
