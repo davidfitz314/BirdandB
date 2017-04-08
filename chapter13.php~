@@ -71,7 +71,7 @@
 
 	<p class="tabbedB"><i>“When I was 14 I worked at Tim Hortons in Canada. While I was working I had an older man, looked to be in his 60s or 70s, tells me that he couldn’t sleep at night without me beside him in his bed and asked if I would come home with him. I was absolutely disgusted that a man would say that to me as a child.” — Emma, 26”</i>(Agrawal, N. 2015)</p>	
 
-	<div class="sectionContainer2">
+	<div class="sectionContainer3">
 		<div class="ch13LeftB">
 			<img src="includes/images/chapter13/technology.png" alt="Phone sexual harassment">
 		</div>

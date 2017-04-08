@@ -47,7 +47,7 @@
 </div>
 
 <!- chapter text division ->
-<div class="chapter2Text">
+<div class="chapter13Text">
 <br>
 <h2>Chapter 13: </h2>
 	<h3>What is Sexual Harassment</h3>
