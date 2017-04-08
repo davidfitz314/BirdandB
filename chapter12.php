@@ -18,7 +18,7 @@
 <strong><a href="chapter10.php">ch10: Sexually Transmitted Infections-STDs</a></strong>
 <strong><a href="chapter11.php">ch11: Human Sexuality in the World</a></strong>
 <ul>
-<strong>Chapter 12</strong>
+<a href="chapter12.php"><strong>Chapter 12</strong></a>
 <li>
 <a href="#what_is_a_fetish">What is a Fetish &amp; Kink</a>
 </li>
