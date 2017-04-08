@@ -782,6 +782,16 @@ h3 {
 	padding: 0 15px, 15px, 15px;
 }
 
+.chapter12Text a{
+	text-decoration:none;
+	color: black;
+}
+
+.chapter12Text a:hover{
+	text-decoration:none;
+	color: blue;
+}
+
 /* chapter 13 section */
 .chapter13Text {
 	width: 75%;
