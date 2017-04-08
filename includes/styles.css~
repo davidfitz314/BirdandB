@@ -311,6 +311,11 @@ ul.closedCircle {
 	font-size: 95%;
 }
 
+.addItalic3 {
+	font-style: italic;
+	font-size: 85%;
+}
+
 .tabbed {
 	padding-left: 20%;
 	font-size: 98%;
@@ -883,6 +888,22 @@ h3 {
 .ch13Right {
 	float: right;
 	width: 70%;
+}
+
+.ch13RightC {
+	float: right;
+	width: 70%;
+}
+
+.ch13RightB {
+	float: left;
+	padding-top: 5%;
+	width: 20%;
+}
+
+.ch13RightB img{
+	padding-top: 10%;
+	width: 100%;
 }
 
 /* chapter 14 section */
