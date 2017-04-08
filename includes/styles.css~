@@ -726,7 +726,7 @@ h3 {
 .ch11LeftB {
 	width: 50%;
 	height: auto;
-	float: right;
+	float: left;
 }
 
 .ch11LeftB img{
