@@ -906,6 +906,18 @@ h3 {
 	width: 100%;
 }
 
+.ch13RightC {
+	float: right;
+	padding-top: 10%;
+	width: 20%;
+	margin-bottom: 20%;
+}
+
+.ch13RightC img{
+	padding-top: 10%;
+	width: 100%;
+}
+
 /* chapter 14 section */
 .chapter14Text {
 	width: 75%;

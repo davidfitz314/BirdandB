@@ -896,7 +896,7 @@ h3 {
 }
 
 .ch13RightB {
-	float: left;
+	float: right;
 	padding-top: 5%;
 	width: 20%;
 }
