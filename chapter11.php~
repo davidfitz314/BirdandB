@@ -155,7 +155,7 @@
 
 	<div class="sectionContainer">
 	<!- image goes left of text ->
-		<div class="ch11Left">
+		<div class="ch11LeftB">
 			<img src="includes/images/chapter11/kinsey.jpg" alt="Kinsey reports book cover">
 		</div>
 
@@ -167,7 +167,7 @@
 
 	<div class="sectionContainer">
 	<!- image goes right of text ->
-		<div class="ch11Right">
+		<div class="ch11RightB">
 			<img src="includes/images/chapter11/mastersofsex.png" alt="abstract image for masters of sex using wine glass center shape and female legs outer shape">
 		</div>
 

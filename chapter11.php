@@ -167,7 +167,7 @@
 
 	<div class="sectionContainer">
 	<!- image goes right of text ->
-		<div class="ch11RightB">
+		<div class="ch11RightC">
 			<img src="includes/images/chapter11/mastersofsex.png" alt="abstract image for masters of sex using wine glass center shape and female legs outer shape">
 		</div>
 

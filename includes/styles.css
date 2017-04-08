@@ -710,6 +710,19 @@ h3 {
 	margin-bottom: 10%;
 }
 
+.ch11RightC {
+	width: 50%;
+	height: auto;
+	float: right;
+}
+
+.ch11RightC img{
+	width: 70%;
+	height: auto;
+	padding: 18% 0 0 25%;
+	margin-bottom: 10%;
+}
+
 .ch11LeftB {
 	width: 50%;
 	height: auto;
@@ -717,7 +730,7 @@ h3 {
 }
 
 .ch11LeftB img{
-	width: 30%;
+	width: 70%;
 	height: auto;
 	padding: 18% 0 0 25%;
 	margin-bottom: 10%;
