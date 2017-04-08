@@ -224,9 +224,9 @@ members of the public that could be of assistance to the victim.<p>
 	<h3>What to do After Sexual Violence</h3>
 	<p>Unfortunately there are times that sexual violence cannot be avoided, in these instances there are steps one should take so that the victim gets taken care of with proper assistance:</p>
 	<ol>
-		<li><strong class="addItalic">Don’t blame yourself,</strong> The sexual violence was not your fault.</li>
+		<li><strong class="addItalic">Don’t blame yourself.</strong> The sexual violence was not your fault.</li>
 
-		<li><strong class="addItalic">Talk to an adult before going to a police station or hospital,</strong> If you don’t have an adult to talk to then go directly to the police station or hospital.</li>
+		<li><strong class="addItalic">Talk to an adult before going to a police station or hospital.</strong> If you don’t have an adult to talk to then go directly to the police station or hospital.</li>
 
 		<li><strong class="addItalic">Don’t urinate (pee) before getting help.</strong> Get a urine test as soon as possible. A urine test can tell if someone gave you a date rape drug. But these drugs can leave your system in as little as 12 hours.
 </li>
@@ -242,11 +242,26 @@ members of the public that could be of assistance to the victim.<p>
 
 	<a NAME="sexual_violence_help"></a>
 	<h3>Sexual Violence Help</h3>
+	<p>There are free hotlines that you can call 24 hours a day to get help if you have been sexually assaulted or if you need advice on how to leave an unhealthy relationship.</p>
 
+	<div class="sectionContainer5">
 
-	<div class="ch13Images">
-		<img src="includes/images/chapter13/" alt="">
+		<!- image goes left ->
+		<div class="ch13Left">
+			<img src="includes/images/chapter13/hotline.png" alt="Phone Hotline">
+		</div>
+
+		<div class="ch13Right">
+			<p><strong class="addItalic">National Sexual Assault Hotline:</strong><br>1-800-656-HOPE (1-800-656-4673)</p>
+
+			<p><strong class="addItalic">National Domestic Violence Hotline:</strong><br>1-800-799-SAFE ( 1-800-799-7233) or<br>1-800-787-3224 (TDD)</p>
+
+			<p><strong class="addItalic">Girls and Boys Town National Hotline:</strong><br>1-800-448-3000 or<br>1-800-448-1833 (TDD)</p>
+		</div>
 	</div>
+
+	<p class="addItalic">You can also find local resources, including women's shelters or other services, through your local phone book, a religious center, your school counselor or nurse, or a doctor's office.</p>
+
 </div>
 
 

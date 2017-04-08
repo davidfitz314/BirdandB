@@ -242,11 +242,26 @@ members of the public that could be of assistance to the victim.<p>
 
 	<a NAME="sexual_violence_help"></a>
 	<h3>Sexual Violence Help</h3>
+	<p>There are free hotlines that you can call 24 hours a day to get help if you have been sexually assaulted or if you need advice on how to leave an unhealthy relationship.</p>
 
+	<div class="sectionContainer5">
 
-	<div class="ch13Images">
-		<img src="includes/images/chapter13/" alt="">
+		<!- image goes left ->
+		<div class="ch13Left">
+			<img src="includes/images/chapter13/hotline.png" alt="Assault phone help hotline">
+		</div>
+
+		<div class="ch13Right">
+			<p><strong class="addItalic">National Sexual Assault Hotline:</strong><br>1-800-656-HOPE (1-800-656-4673)</p>
+
+			<p><strong class="addItalic">National Domestic Violence Hotline:</strong><br>1-800-799-SAFE ( 1-800-799-7233) or<br>1-800-787-3224 (TDD)</p>
+
+			<p><strong class="addItalic">Girls and Boys Town National Hotline:</strong><br>1-800-448-3000 or<br>1-800-448-1833 (TDD)</p>
+		</div>
 	</div>
+
+	<p class="addItalic">You can also find local resources, including women's shelters or other services, through your local phone book, a religious center, your school counselor or nurse, or a doctor's office.</p>
+
 </div>
 
 

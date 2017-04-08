@@ -378,6 +378,11 @@ h3 {
 	clear:both;
 }
 
+.sectionContainer5 {
+	margin-bottom: 20%;
+	clear:both;
+}
+
 /*chapter 2 section*/
 
 .chapter2Text {
@@ -897,7 +902,7 @@ h3 {
 }
 
 .ch13LeftD img {
-	padding-top: 7%;
+	padding-top: 45%;
 	width: 100%;
 }
 
