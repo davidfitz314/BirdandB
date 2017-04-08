@@ -333,7 +333,7 @@ h3 {
 
 
 .sectionContainer {
-	margin-bottom: 50%;
+	margin-bottom: 20%;
 	clear:both;
 }
 
@@ -760,6 +760,7 @@ h3 {
 .ch12RightImg {
 	float:right;
 	width: 30%;
+	margin:10%;
 }
 
 .ch12RightImg img {
@@ -771,6 +772,7 @@ h3 {
 .ch12LeftImg {
 	float:left;
 	width: 30%;
+	margin:10%;
 }
 
 .ch12LeftImg img {
