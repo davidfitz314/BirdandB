@@ -333,7 +333,7 @@ h3 {
 
 
 .sectionContainer {
-	margin-bottom: 50%;
+	margin-bottom: 20%;
 	clear:both;
 }
 

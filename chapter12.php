@@ -67,7 +67,7 @@
 			<img src="includes/images/chapter12/baby.png" alt="Baby Diaper, rattle, and milk bottle">
 		</div>
 	
-		<p><strong>Adult babies:</strong> are those individuals that enjoy being a baby again. They may enjoy regressing partially or completely, participating in the act of wearing diapers, being fed by an adult, sucking on a baby bottle or pacifier, dressing up in baby clothes, crawling instead of walking and speaking in “baby” talk. Individuals interested in infantilism most likely enjoy the nurturing aspect. They may be seeking attention or have too many responsibilities in their daily lives, which they wish to escape from.</p>
+		<p><strong>Adult babies:</strong> Are those individuals that enjoy being a baby again. They may enjoy regressing partially or completely, participating in the act of wearing diapers, being fed by an adult, sucking on a baby bottle or pacifier, dressing up in baby clothes, crawling instead of walking and speaking in “baby” talk. Individuals interested in infantilism most likely enjoy the nurturing aspect. They may be seeking attention or have too many responsibilities in their daily lives, which they wish to escape from.</p>
 	</div>
 
 	<h3>Non-Sexual Fetishes</h3>
@@ -78,71 +78,71 @@
 			<img src="includes/images/chapter12/swinging.png" alt="2 sets of couples swapping partners while on swing sets">
 		</div>
 
-		<p><strong>Swinging:</strong> refers to the act of a committed, usually married couple indulging in sex with another couple or individual with the full consent of both partners. The idea of swinging or experimentation with group sex is usually driven by the male in the relationship (research showing over 75% of the time).</p>
+		<p><strong>Swinging:</strong> Refers to the act of a committed, usually married couple indulging in sex with another couple or individual with the full consent of both partners. The idea of swinging or experimentation with group sex is usually driven by the male in the relationship (research showing over 75% of the time).</p>
 	</div>
 
 		<div class="sectionContainer">
-		<div class="ch12leftImg">
-			<img src="includes/images/chapter12/" alt="">
+		<div class="ch12LeftImg">
+			<img src="includes/images/chapter12/urolagnia.png" alt="Urolagnia also known as water sports">
 		</div>
 
-		<p><strong></strong></p>		
-	</div>
-
-		<div class="sectionContainer">
-		<div class="ch12RightImg">
-			<img src="includes/images/chapter12/" alt="">
-		</div>
-	
-		<p><strong></strong></p>
-	</div>
-
-		<div class="sectionContainer">
-		<div class="ch12leftImg">
-			<img src="includes/images/chapter12/" alt="">
-		</div>
-	
-		<p><strong></strong></p>
+		<p><strong>Urolagnia:</strong> Is the act of being aroused by urine, whether it is the feel or smell of it. It may involve the consummation or act of bathing in urine as well.  Common types of Urolagnia include: wetting one’s self or the observation of another person wetting themselves while fully clothed, watching the act of someone relieving themselves in the bathroom or even acting as a human urinal, also known as receiving or giving a “<i>golden shower</i>”.</p>		
 	</div>
 
 		<div class="sectionContainer">
 		<div class="ch12RightImg">
-			<img src="includes/images/chapter12/" alt="">
+			<img src="includes/images/chapter12/crossdressing.png" alt="Shadow of a cross dresser dancing">
 		</div>
 	
-		<p><strong></strong></p>
+		<p><strong>Cross Dressing:</strong> Individuals that cross-dress wear clothing and accessories of the “<i>opposite sex</i>.” Cross-dressing is more common than you might think, predominantly affecting heterosexual and gay men.</p>
 	</div>
 
 		<div class="sectionContainer">
-		<div class="ch12leftImg">
-			<img src="includes/images/chapter12/" alt="">
+		<div class="ch12LeftImg">
+			<img src="includes/images/chapter12/feet.png" alt="Feet shadow">
 		</div>
 	
-		<p><strong></strong></p>
-	</div>
-
-		<div class="sectionContainer">
-		<div class="ch12RightImg">
-			<img src="includes/images/chapter12/" alt="">
-		</div>
-	
-		<p><strong></strong></p>
-	</div>
-
-		<div class="sectionContainer">
-		<div class="ch12leftImg">
-			<img src="includes/images/chapter12/" alt="">
-		</div>
-	
-		<p><strong></strong></p>
+		<p><strong>Foot Fetishism:</strong> Is surprisingly common. It is the most common fetish of the non-genital body parts and non-sexual objects. Sigmund Freud offered the explanation that people develop this fetish due to the fact that the human foot resembles a penis. But Freud’s theory on this fetish has yet to be proven.</p>
 	</div>
 
 		<div class="sectionContainer">
 		<div class="ch12RightImg">
-			<img src="includes/images/chapter12/" alt="">
+			<img src="includes/images/chapter12/spanking.png" alt="Outline shadow of a couple spanking each other">
 		</div>
 	
-		<p><strong></strong></p>
+		<p><strong>Spanking:</strong> The area of the buttocks that meets the back of the thigh is considered an erogenous zone and if contact is made with the right amount of pressure and frequency, it can result in arousal for many people.</p>
+	</div>
+
+		<div class="sectionContainer">
+		<div class="ch12LeftImg">
+			<img src="includes/images/chapter12/voyeurism.png" alt="Camera">
+		</div>
+	
+		<p><strong>Voyeurism:</strong> According to researchers at the Carolina Institute, one out of three individuals enjoys watching sex or exposing themselves in public. Studies show that men are more voyeuristic than women with 12% of men being aroused while watching sexual acts compared to 4% of women.</p>
+	</div>
+
+		<div class="sectionContainer">
+		<div class="ch12RightImg">
+			<img src="includes/images/chapter12/materials.png" alt="Materials image female with latex gloves">
+		</div>
+	
+		<p><strong>Rubber/Latex/Leather:</strong> This fetish relates to those that gain sexual enjoyment by wearing or having their partner wear rubber, latex or leather material. They refer to themselves as “<i>rubberists</i>”. The tight material acts as a type of sexual bondage. For some, the smell of rubber/latex/leather may also be a turn on. The fetish can range from wearing the more conventional types of items such as a cat suit to something more unusual such as a gas mask.</p>
+	</div>
+
+		<div class="sectionContainer">
+		<div class="ch12LeftImg">
+			<img src="includes/images/chapter12/roleplay.png" alt="Two masks symbolizing joy and sorrow">
+		</div>
+	
+		<p><strong>Sexual Role-play:</strong> Involves two or more individuals acting out different roles in a sexual scenario. It can be any type of sexual fantasy. It may be as involved as the participating individuals wish. Couples could choose to act the role-play out at a specific location, dressing up in detailed costumes or using different props. It may involve individuals assuming a participating role or that of a spectator. Technology has now brought about the possibility of sexual role-playing on the Internet as well, which many individuals and couples indulge in.</p>
+	</div>
+
+		<div class="sectionContainer">
+		<div class="ch12RightImg">
+			<img src="includes/images/chapter12/BDSM.png" alt="Handcuffs and a whip">
+		</div>
+	
+		<p><strong>Domination &amp; Submission:</strong> </p>
 	</div>
 
 
