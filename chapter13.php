@@ -58,8 +58,9 @@
 	<h3>What is Sexual Assault &amp; Rape</h3>
 
 	<h4>Sexual Violence Statistics</h4>
-	<h5>is this big enough</h5>
-	<p>test comparison</p>
+	<!- use p and strong instead of h5 ->>
+	<p><strong>is this big enough</strong></p>
+	<p class="tabbed">test comparison</p>
 
 	<h4>Sexual Assault or Harassment Legalities</h4>
 
