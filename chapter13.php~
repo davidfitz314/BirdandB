@@ -120,7 +120,7 @@
 
 	<p class="tabbedB">8% of rapes occur in the victim’s workplace.</p>
 
-	<p><strong class="addItalic2">Sexual Violence Against Minors</strong></p>
+	<h5 class="addItalic2">Sexual Violence Against Minors</h5>
 	<p class="tabbedB">1 in four girls and 1 in 6 boys will be sexually abused before they turn 18 years old.</p>
 
 	<p class="tabbedB">34% of people who sexually abuse a child are family members.</p>
@@ -128,12 +128,12 @@
 	<p class="tabbedB">The average age at which girls first become victims of prostitution is 12 to 14 years old, and the average age for boys is 11 to 13 years old.</p>
 
 
-	<p><strong class="addItalic2"></strong></p>
+	<h5 class="addItalic2"></h5>
 	<p class="tabbedB"></p>
 
 	<p class="tabbedB"></p>
 
-	<p><strong class="addItalic2"></strong></p>
+	<h5 class="addItalic2"></h5>
 	<p class="tabbedB"></p>
 
 	<p class="tabbedB"></p>
