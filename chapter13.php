@@ -149,12 +149,31 @@
 	</div>
 
 	<h4>Sexual Assault or Harassment Legalities</h4>
-	<p>Sexual assault is a statutory offense that states that it is a crime to knowingly cause another person to engage in an unwanted sexual act by force or threat.<br> Many states have gone through and redefined rape with statutes that define sexual assault in different degrees. This means that sexual assault can be connected to rape, but with the revised version of rape not all sexual assault acts are included as a rape incident.<br><strong class="addItalic2"> To find out more details or specifics please visit your local legal associations or community resources.</strong></p>
+	<p>Sexual assault is a statutory offense that states that it is a crime to knowingly cause another person to engage in an unwanted sexual act by force or threat.<br> Many states have gone through and redefined rape with statutes that define sexual assault in different degrees. This means that sexual assault can be connected to rape, but with the revised version of rape not all sexual assault acts are included as a rape incident.<br><strong class="addItalic3"> To find out more details or specifics please visit your local legal associations or community resources.</strong></p>
 
 	<a NAME="sexual_violence_prevention"></a>
 	<h3>Sexual Violence Prevention</h3>
+	<p>There are many potential places for sexual violence, the most common to least common according to <a href="https://www.rainn.org/" target="_blank">rainn.org (a website dedicated to sexual assault and awareness)</a> are:</p>
+
+	<ul>
+		<li>55% At or near the victim’s home.</li>
+
+		<li>15% In an open or public place.</li>
+
+		<li>12% At or near a relative's place.</li>
+
+		<li>10% In an enclosed but public area, such as a parking lot or garage.</li>
+
+		<li>8% On school property.</li>
+	</ul>
+
+	<p><strong class="addItalic3">While most of the above places can’t be avoided all the time, there are still many ways to protect oneself from sexual violence. </strong></p>
+
 	<h4>Be Prepared & Stay Calm</h4>
 	<p>This doesn’t mean, let the perpetrator do whatever they want, what this means is think of a plan of escape. While immediately fighting feels like a good idea, many sexual violence cases have a perpetrator that is physically stronger or a better fighter than the victim. So to solve this, one must stay calm and think of a plan.</p>
+
+	<h4></h4>
+	<p><p>
 
 	<a NAME="what_to_do_after_sexual_violence"></a>
 	<h3>What to do After Sexual Violence</h3>
