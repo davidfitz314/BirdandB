@@ -50,7 +50,7 @@
 <div class="chapter13Text">
 <br>
 <h2>Chapter 13: </h2>
-	<a NAME="what_is_sexual_harassment" />
+	<a NAME="what_is_sexual_harassment"></a>
 	<h3>What is Sexual Harassment</h3>
 	</p>Sexual Harassment is very different from sexual assault, but the two do relate to each other. Sexual harassment is a form of gender discrimination that involves unwelcome sexual advances, sexualized jokes or comments, requests for sexual favors, and other verbal or physical conduct of a sexual nature.</p>
 
@@ -107,14 +107,44 @@
 
 	<p><strong class="addItalic">Rape</strong> is a form of sexual assault or sexual violence. Rape is the unlawful sexual intercourse or any other sexual penetration of the vagina, anus, or mouth of another person, with or without force, by a sex organ, other body part, or foreign object without the consent of the victim. (Dictionairy.com LLC 2017)</p>
 
+	<div class="ch13Images">
+		<img src="includes/images/chapter13/assault.png" alt="Assault / fighting">
+	</div>
+
 	<h4>Sexual Assualt Statistics</h4>
 	<!- use p and strong instead of h5 ->
-	<p><strong>Test Size:</strong></p>
-	<p class="tabbedB">test comparison</p>
+	<h5>Sexual Harassment Statistics</h5>
+	<p><strong class="addItalic">General Sexual Violence</strong></p>
+
+	<p class="tabbedB">1 in 5 women and 1 in 71 men will be raped at some point in their lives.</p>
+
+	<p class="tabbedB">In 8 out of 10 cases of rape, the victim knew the person who sexually assaulted them.</p>
+
+	<p class="tabbedB">8% of rapes occur in the victim’s workplace.</p>
+
+	<p><strong class="addItalic">Sexual Violence Against Minors</strong></p>
+	<p class="tabbedB"></p>
+
+	<p class="tabbedB"></p>
+
+	<p class="tabbedB"></p>
+
+	<p class="tabbedB"></p>
+
+	<p><strong class="addItalic"></strong></p>
+	<p class="tabbedB"></p>
+
+	<p class="tabbedB"></p>
+
+	<p><strong class="addItalic"></strong></p>
+	<p class="tabbedB"></p>
+
+	<p class="tabbedB"></p>
+
 
 	<h4>Sexual Assault or Harassment Legalities</h4>
 
-	<a NAME="sexual_violence_prevention" />
+	<a NAME="sexual_violence_prevention"></a>
 	<h3>Sexual Violence Prevention</h3>
 	<h4>Be Prepared & Stay Calm</h4>
 	<p>This doesn’t mean, let the perpetrator do whatever they want, what this means is think of a plan of escape. While immediately fighting feels like a good idea, many sexual violence cases have a perpetrator that is physically stronger or a better fighter than the victim. So to solve this, one must stay calm and think of a plan.</p>

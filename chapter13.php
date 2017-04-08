@@ -107,10 +107,39 @@
 
 	<p><strong class="addItalic">Rape</strong> is a form of sexual assault or sexual violence. Rape is the unlawful sexual intercourse or any other sexual penetration of the vagina, anus, or mouth of another person, with or without force, by a sex organ, other body part, or foreign object without the consent of the victim. (Dictionairy.com LLC 2017)</p>
 
+	<div class="ch13Images">
+		<img src="includes/images/chapter13/assault.png" alt="Assault / fighting">
+	</div>
+
 	<h4>Sexual Assualt Statistics</h4>
 	<!- use p and strong instead of h5 ->
-	<p><strong>Test Size:</strong></p>
-	<p class="tabbedB">test comparison</p>
+	<h5>Sexual Harassment Statistics</h5>
+	<p><strong class="addItalic">General Sexual Violence</strong></p>
+
+	<p class="tabbedB">1 in 5 women and 1 in 71 men will be raped at some point in their lives.</p>
+
+	<p class="tabbedB">In 8 out of 10 cases of rape, the victim knew the person who sexually assaulted them.</p>
+
+	<p class="tabbedB">8% of rapes occur in the victim’s workplace.</p>
+
+	<p><strong class="addItalic">Sexual Violence Against Minors</strong></p>
+	<p class="tabbedB">1 in four girls and 1 in 6 boys will be sexually abused before they turn 18 years old.</p>
+
+	<p class="tabbedB">34% of people who sexually abuse a child are family members.</p>
+
+	<p class="tabbedB">The average age at which girls first become victims of prostitution is 12 to 14 years old, and the average age for boys is 11 to 13 years old.</p>
+
+
+	<p><strong class="addItalic"></strong></p>
+	<p class="tabbedB"></p>
+
+	<p class="tabbedB"></p>
+
+	<p><strong class="addItalic"></strong></p>
+	<p class="tabbedB"></p>
+
+	<p class="tabbedB"></p>
+
 
 	<h4>Sexual Assault or Harassment Legalities</h4>
 
