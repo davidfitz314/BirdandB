@@ -497,7 +497,7 @@
 	<p class="tabbedch2">The baby is now the size of a leek.</p>
 	</div>
 
-	<a NAME="#turning_full_term"></a>
+	<a NAME="turning_full_term"></a>
 	<h3>Turning Full Term</h3>
 	<!- image and week# ->
 	<div class="plant_circle">
