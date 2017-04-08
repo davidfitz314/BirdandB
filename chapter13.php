@@ -19,7 +19,7 @@
 <strong><a href="chapter11.php">ch11: Human Sexuality in the World</a></strong>
 <strong><a href="chapter12.php">ch12: Kinks and Fetishes</a></strong>
 <ul>
-<strong>Chapter 13</strong>
+<a href="chapter13.php"><strong>Chapter 13</strong></a>
 <li>
 <a href="#what_is_sexual_harassment">What is Sexual Harassment</a>
 </li>
