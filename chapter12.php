@@ -63,7 +63,7 @@
 	</p>Their are plenty of fetishes in today’s world. Below is a compilation of some of the most reported fetishes that are also related to sexuality.</p>
 
 	<div class="sectionContainer">
-		<div class="ch12leftImg">
+		<div class="ch12LeftImg">
 			<img src="includes/images/chapter12/baby.png" alt="Baby Diaper, rattle, and milk bottle">
 		</div>
 	
