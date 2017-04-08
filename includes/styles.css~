@@ -331,6 +331,12 @@ h3 {
 	font-size: 135%;
 }
 
+
+.sectionContainer {
+	margin-bottom: 50%;
+	clear:both;
+}
+
 /*chapter 2 section*/
 
 .chapter2Text {
@@ -664,11 +670,6 @@ h3 {
 .ch11Images img {
 	width: 100%;
 	height: auto;
-}
-
-.sectionContainer {
-	margin-bottom: 50%;
-	clear:both;
 }
 
 .ch11Left {
