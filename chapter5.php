@@ -55,12 +55,13 @@
 	<!- Interesting Fact goes here ->
 
 
+	<a NAME="types_of_sex"></a>
 	<!- Insert Image Here ->
 	<div class="ch5Images">
 		<img src="includes/images/chapter5/sex.png" alt="In bed with symbols for sex types">
 	</div>
 
-	<a NAME="types_of_sex"></a>
+	
 	<h4>Types of Sex</h4>
 	<p>There are many different types of sex and sexual activities. While the most generally accepted is heterosexual sex (male and female sex), the others are also quite common in today's world even if they are not as talked about openly. The following list is a few of the most common types of sex:</p>
 	<ul class="solidCircle">
@@ -77,13 +78,13 @@
 	</ul>
 	<!- Interesting Fact goes here ->
 
-
+	<a NAME="sexual_activities"></a>
 	<!- Insert Image Here ->
 	<div class="ch5Images">
 		<img src="includes/images/chapter5/symbols.png" alt="Lips background with gender symbols intertwined">
 	</div>
 
-	<a NAME="sexual_activities"></a>
+	
 	<h4>Sexual Activities</h4>
 	<p>Sex is not only Penetrative into another’s body, it can be divided into acts which involve one person, also called autoeroticism (the sexual gratification obtained solely through stimulation by oneself of one's own body.), two or more people having sex or mutual masturbation, or if there are more than two participants in the sex act it may be referred to as group sex.</p>
 
@@ -106,12 +107,13 @@
 
 	<p>Finally sexual activity has different levels of consent. If all parties agree to the sexual activity it is regarded as consensual. However, in the event where one or more does not consent it becomes regarded as sexual assault or rape, and different laws can criminalize the aggressor. For more information of Sexual Assault or Sexual Rape please visit the following chapter&#8211; <a href="chapter13.php">Chapter 13: Sexual Harrassment, Assault, &amp; Rape</a>.</p>
 
+	<a NAME="who_is_having_sex"></a>
 	<!- Insert Image Here ->
 	<div class="ch5Images">
 		<img src="includes/images/chapter5/world.png" alt="Bed on a globe">
 	</div>
 
-	<a NAME="who_is_having_sex"></a>
+	
 	<h4>Who is Having Sex?</h4>
 	<p>In many cultures sex is a less talked about or even taboo subject. However, in the U.S.A area a few studies have been published showing the results of who is having sex. The information below is from the <a href="https://www.kinseyinstitute.org/" target="_blank">Kinsey Institute</a>, but for a more worldwide perspective the <a href="https://www.guttmacher.org/" target="_blank">GuttMacher Institute</a> also has some studies on sex and sexual matters.</p>
 

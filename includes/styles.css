@@ -486,6 +486,12 @@ h3 {
 	line-height: 150%;
 }
 
+.ch5Images {
+	width: 80%;
+	height: auto;
+	text-align: center;
+}
+
 .ch5Images img {
 	width: 100%;
 	height: auto;
