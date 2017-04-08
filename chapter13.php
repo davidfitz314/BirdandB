@@ -51,7 +51,26 @@
 <br>
 <h2>Chapter 13: </h2>
 	<h3>What is Sexual Harassment</h3>
-	</p></p>
+	</p>Sexual Harassment is very different from sexual assault, but the two do relate to each other. Sexual harassment is a form of gender discrimination that involves unwelcome sexual advances, sexualized jokes or comments, requests for sexual favors, and other verbal or physical conduct of a sexual nature.</p>
+
+	<p>Sexual harassment is generally broken down into 2 categories, Quid Pro Quo and Hostile Environment:</p>
+
+	<div class="ch13Left">
+		<img src="includes/images/chapter13/work.png" alt="Work sexual harassment couple">
+	</div>
+	<div class="sectionContainer">
+		<div class="ch13Right">	
+			</p><strong class="addItalic">Quid Pro Quo</strong> is when conditions are placed on a person’s career or terms of employment for sexual favors. It involves threats of adverse actions or promises of favorable actions depending on the responses of the victim.</p>
+
+			</p><strong class="addItalic">Hostile Environment</strong> is when a person is subjected to offensive, unwanted, and unsolicited comments and behavior of a sexual nature that interferes with that person’s work or performance. It is usually referenced towards the workplace but hostile environments can be any location that a person is required to be at.</p>
+		</div>
+	</div>
+
+	</p>Sexual harassment is unfortunately very common, below is a quote from the Huffington Post for a female’s experience as a young teen with sexual harassment:</p>
+
+	<p class="tabbedB"><i>“When I was 14 I worked at Tim Hortons in Canada. While I was working I had an older man, looked to be in his 60s or 70s, tells me that he couldn’t sleep at night without me beside him in his bed and asked if I would come home with him. I was absolutely disgusted that a man would say that to me as a child.” — Emma, 26”</i>(Agrawal, N. 2015)</p>	
+
+	<p>Sexual harassment does not have to be in person, as technology changes and grows, sexual harassment also expands. Text messages, chat rooms, phone calls, social media, and more are used to sexually harass other people.</p>
 
 	<h4>Sexual Harassment Statistics</h4>
 

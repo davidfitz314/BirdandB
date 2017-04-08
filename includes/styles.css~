@@ -311,6 +311,11 @@ ul.closedCircle {
 	font-size: 98%;
 }
 
+.tabbedB {
+	padding-left: 10%;
+	font-size: 98%;
+}
+
 .tabbed ul {
 	font-size: 90%;
 }
@@ -821,6 +826,14 @@ h3 {
 .ch13Images img {
 	width: 100%;
 	height: auto;
+}
+
+.ch13Left {
+
+}
+
+.ch13Right {
+	
 }
 
 /* chapter 14 section */
