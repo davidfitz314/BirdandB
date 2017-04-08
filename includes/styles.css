@@ -763,7 +763,7 @@ h3 {
 }
 
 .ch12RightImg img {
-	width: 40%;
+	width: 100%;
 	height: auto;
 	padding: 15px;
 }
@@ -774,7 +774,7 @@ h3 {
 }
 
 .ch12LeftImg img {
-	width: 40%;
+	width: 100%;
 	height: auto;
 	padding: 15px;
 }
