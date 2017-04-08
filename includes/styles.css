@@ -809,13 +809,13 @@ h3 {
 .ch12LeftImg {
 	float:left;
 	width: 30%;
-	margin:3% 7% 10% 7%;
+	margin:3% 7% 20% 7%;
 }
 
 .ch12LeftImg img {
 	width: 100%;
 	height: auto;
-	padding: 0 15px, 15px, 15px;
+	padding: 0 15px 15px 15px;
 }
 
 .chapter12Text a{

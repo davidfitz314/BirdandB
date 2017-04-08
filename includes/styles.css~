@@ -306,6 +306,11 @@ ul.closedCircle {
 	font-style: italic;
 }
 
+.addItalic2 {
+	font-style: italic;
+	font-size: 95%;
+}
+
 .tabbed {
 	padding-left: 20%;
 	font-size: 98%;
@@ -804,7 +809,7 @@ h3 {
 .ch12LeftImg {
 	float:left;
 	width: 30%;
-	margin:3% 7% 10% 7%;
+	margin:3% 7% 20% 7%;
 }
 
 .ch12LeftImg img {
