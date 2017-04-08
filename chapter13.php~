@@ -113,13 +113,14 @@
 
 	<h4>Sexual Assualt Statistics</h4>
 	<h5 class="addItalic2">General Sexual Violence</h5>
+	<ul>
+		<li class="tabbedB">1 in 5 women and 1 in 71 men will be raped at some point in their lives.</li>
 
-	<p class="tabbedB">1 in 5 women and 1 in 71 men will be raped at some point in their lives.</p>
+		<li class="tabbedB">In 8 out of 10 cases of rape, the victim knew the person who sexually assaulted them.</li>
 
-	<p class="tabbedB">In 8 out of 10 cases of rape, the victim knew the person who sexually assaulted them.</p>
-
-	<p class="tabbedB">8% of rapes occur in the victim’s workplace.</p>
-
+		<li class="tabbedB">8% of rapes occur in the victim’s workplace.</li>
+	</ul>
+	
 	<h5 class="addItalic2">Sexual Violence Against Minors</h5>
 	<p class="tabbedB">1 in four girls and 1 in 6 boys will be sexually abused before they turn 18 years old.</p>
 
