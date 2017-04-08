@@ -8,8 +8,8 @@
 <h2>Chapter 3: Human Body Development </h2>
 <strong><a href="chapter1.php">ch1: Overview</a></strong>
 <strong><a href="chapter2.php">ch2: Conception</a></strong>
-<ul>
 <a href="chapter3.php"><strong>Chapter 3</strong></a>
+<ul>
 <li>
 <a href="#pre_puberty_changes">Pre-Puberty Changes</a>
 </li>
