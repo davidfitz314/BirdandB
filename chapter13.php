@@ -55,7 +55,7 @@
 
 	<p>Sexual harassment is generally broken down into 2 categories, Quid Pro Quo and Hostile Environment:</p>
 
-	<div class="sectionContainer">
+	<div class="sectionContainer2">
 		<div class="ch13Left">
 			<img src="includes/images/chapter13/work.png" alt="Work sexual harassment couple">
 		</div>
