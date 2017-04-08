@@ -760,25 +760,25 @@ h3 {
 .ch12RightImg {
 	float:right;
 	width: 30%;
-	margin:10%;
+	margin:7%;
 }
 
 .ch12RightImg img {
 	width: 100%;
 	height: auto;
-	padding: 15px;
+	padding: 0 15px, 15px, 15px;
 }
 
 .ch12LeftImg {
 	float:left;
 	width: 30%;
-	margin:10%;
+	margin:3% 7% 7% 7%;
 }
 
 .ch12LeftImg img {
 	width: 100%;
 	height: auto;
-	padding: 15px;
+	padding: 0 15px, 15px, 15px;
 }
 
 /* chapter 13 section */
