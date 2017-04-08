@@ -13,22 +13,22 @@
 <strong><a href="chapter5.php">ch5: What is Sex</a></strong>
 <strong><a href="chapter6.php">ch6: Sexuality</a></strong>
 <strong><a href="chapter7.php">ch7: Love vs Sex</a></strong>
+<a href="chapter8.php"><strong>Chapter 8</strong></a>
 <ul>
-<strong>Chapter 8</strong>
 <li>
-<a href="chapter8.php">Male Physical Reactionst</a>
+<a href="#male_physical_reactions">Male Physical Reactions</a>
 </li>
 <li>
-<a href="chapter8.php">Female Physical Reactions</a>
+<a href="#female_physical_reactions">Female Physical Reactions</a>
 </li>
 <li>
-<a href="chapter8.php">Other Bodily Reactions</a>
+<a href="#other_bodily_reactions">Other Bodily Reactions</a>
 </li>
 <li>
-<a href="chapter8.php">Orgasm &amp; Culture</a>
+<a href="#orgasm_and_culture">Orgasm &amp; Culture</a>
 </li>
 <li>
-<a href="chapter8.php">Interesting Facts About Orgasm</a>
+<a href="#interesting_facts_about_orgasm">Interesting Facts About Orgasm</a>
 </li>
 </ul>
 
@@ -52,6 +52,7 @@
 <h2>Chapter 8: Orgasm</h2>
 	</p>The orgasm: a moment in time where sexual excitement climaxes with feelings of pleasure centered from the genitals. With males, orgasm is accompanied by an ejacularoty response, but that is only a basic description of orgasm. There is much more going on that most overlook. Below is a more indepth review of what is happening for both biological males and females during orgasm.</p>
 	
+	<a NAME="male_physical_reactions"></a>
 	<h3>Male Physical Reactions</h3>
 	<ul class="closedCircle">
 		<li>Penis hardens by more blood flowing into it.</li>
@@ -71,6 +72,7 @@
 		<img src="includes/images/chapter8/ejaculation.png" alt="Male penis shadow releasing ejaculatory fluid">
 	</div>
 
+	<a NAME="female_physical_reactions"></a>
 	<h3>Female Physical Reactions</h3>
 	<ul class="closedCircle">
 		<li>Increased heart rate and blood pressure, and a large portion of blood is redirected towards the genitals.</li>
@@ -94,6 +96,7 @@
 		<img src="includes/images/chapter8/orgasm.png" alt="Female face, mouth agap from pleasure">
 	</div>
 
+	<a NAME="other_bodily_reactions"></a>
 	<h3>Other Bodily Reactions</h3>
 	<p>Not all orgasm reactions are purely physical, throughout the brain, nerves, hormones and chemicals in the body many different reactions are happening. The below is a simplified version of what can happen in both biological males and/or females.</p>
 
@@ -123,6 +126,7 @@
 		<img src="includes/images/chapter8/fireworks.png" alt="Fireworks exploding from a brain due to pleasure">
 	</div>
 
+	<a NAME="orgasm_and_culture"></a>
 	<h3>Orgasm &amp; Culture</h3>
 	<p>While many places today feel the topic of orgasm is a taboo subject, it in fact, has a large history where certain periods of time orgasm was considered a culturally acceptable piece of conversation. Below is list of orgasm related to culture old and current.</p>
 

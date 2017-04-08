@@ -19,21 +19,7 @@
 <strong><a href="chapter11.php">ch11: Human Sexuality in the World</a></strong>
 <strong><a href="chapter12.php">ch12: Kinks and Fetishes</a></strong>
 <strong><a href="chapter13.php">ch13: Sexual Harassmen, Assault, &amp; Rape</a></strong>
-<ul>
-<strong>Chapter 14: Works Cited &amp References</strong>
-<li>
-<a href="chapter14.php">default</a>
-</li>
-<li>
-<a href="chapter14.php">default</a>
-</li>
-<li>
-<a href="chapter14.php">default</a>
-</li>
-<li>
-<a href="chapter14.php">default</a>
-</li>
-</ul>
+<a href="chapter14.php"><strong>Chapter 14:</strong></a>
 </nav>
 <!- end navigation sidebar ->
 

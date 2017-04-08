@@ -18,8 +18,9 @@
 <strong><a href="chapter10.php">ch10: Sexually Transmitted Infections-STDs</a></strong>
 <strong><a href="chapter11.php">ch11: Human Sexuality in the World</a></strong>
 <strong><a href="chapter12.php">ch12: Kinks and Fetishes</a></strong>
+
+<a href="chapter13.php"><strong>Chapter 13:</strong></a>
 <ul>
-<a href="chapter13.php"><strong>Chapter 13</strong></a>
 <li>
 <a href="#what_is_sexual_harassment">What is Sexual Harassment</a>
 </li>
@@ -49,7 +50,8 @@
 <!- chapter text division ->
 <div class="chapter13Text">
 <br>
-<h2>Chapter 13: </h2>
+	<h2>Chapter 13: </h2>
+
 	<a NAME="what_is_sexual_harassment"></a>
 	<h3>What is Sexual Harassment</h3>
 	</p>Sexual Harassment is very different from sexual assault, but the two do relate to each other. Sexual harassment is a form of gender discrimination that involves unwelcome sexual advances, sexualized jokes or comments, requests for sexual favors, and other verbal or physical conduct of a sexual nature.</p>

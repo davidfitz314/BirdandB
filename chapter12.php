@@ -17,8 +17,8 @@
 <strong><a href="chapter9.php">ch9: Staying Safe During Sex</a></strong>
 <strong><a href="chapter10.php">ch10: Sexually Transmitted Infections-STDs</a></strong>
 <strong><a href="chapter11.php">ch11: Human Sexuality in the World</a></strong>
+<a href="chapter12.php"><strong>Chapter 12:</strong></a>
 <ul>
-<a href="chapter12.php"><strong>Chapter 12</strong></a>
 <li>
 <a href="#what_is_a_fetish">What is a Fetish &amp; Kink</a>
 </li>
@@ -44,6 +44,7 @@
 <div class="chapter12Text">
 <br>
 <h2>Chapter 12: Kinks and Fetishes</h2>
+
 	<a NAME="what_is_a_fetish"></a>
 	<h3>What is a Fetish &amp; Kink</h3>
 	</p>A fetish or kink is a form of sexual desire in which gratification is linked to an abnormal degree to a particular object, item of clothing, part of the body, or etc. Fetishes are generally an excessive and irrational devotion or commitment to a particular thing. They can be an inanimate object worshiped for its supposed magical powers, or because it is considered to be inhabited by a spirit or something else.</p>

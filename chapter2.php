@@ -7,7 +7,7 @@
 <nav class="floating-menu">
 <h2>Chapter 2: Conception</h2>
 <strong><a href="chapter1.php">ch1: Overview</a></strong>
-<a href="chapter2.php"><strong>Chapter 2</strong></a>
+<a href="chapter2.php"><strong>Chapter 2:</strong></a>
 <ul>
 <li>
 <a href="#1st_trimester">1st Trimester</a>
@@ -45,8 +45,9 @@
 <!- chapter 2 text division ->
 <div class="chapter2Text">
 <br>
-	<a NAME="1st_trimester"></a>
 	<h2>Chapter 2: Conception</h2>
+
+	<a NAME="1st_trimester"></a>
 	<h3>1st Trimester</h3>
 	<h4>Pre-Fertilization: how an egg gets ready to be fertilized.</h4>
 	<p>Once a month one of a woman’s 2 ovaries release a mature egg, this is called ovulation. Ovulation happens approximately 2 weeks after the start of the woman's most recent menstrual period. The egg at this point travels into the woman’s Fallopian tube where it can be fertilized by a single sperm.</p>

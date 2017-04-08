@@ -12,22 +12,22 @@
 <strong><a href="chapter4.php">ch4: Human Nature and Psychological Dependencies</a></strong>
 <strong><a href="chapter5.php">ch5: What is Sex</a></strong>
 <strong><a href="chapter6.php">ch6: Sexuality</a></strong>
+<a href="chapter7.php"><strong>Chapter 7:</strong></a>
 <ul>
-<strong>Chapter 7</strong>
 <li>
-<a href="chapter7.php">Defining Love</a>
+<a href="#defining_love">Defining Love</a>
 </li>
 <li>
-<a href="chapter7.php">Female Body Reactions</a>
+<a href="#female_body_reactions">Female Body Reactions</a>
 </li>
 <li>
-<a href="chapter7.php">Male Body Reactions</a>
+<a href="#male_body_reactions">Male Body Reactions</a>
 </li>
 <li>
-<a href="chapter7.php">Male and Female Similar Sex Responses</a>
+<a href="#male_and_female_similar_sex_responses">Male and Female Similar Sex Responses</a>
 </li>
 <li>
-<a href="chapter7.php">Psychological Impacts of Sex</a>
+<a href="#psychological_impacts_of_sex">Psychological Impacts of Sex</a>
 </li>
 </ul>
 
@@ -36,7 +36,7 @@
 <strong><a href="chapter10.php">ch10: Sexually Transmitted Infections-STDs</a></strong>
 <strong><a href="chapter11.php">ch11: Human Sexuality in the World</a></strong>
 <strong><a href="chapter12.php">ch12: Kinks and Fetishes</a></strong>
-<strong><a href="chapter13.php">ch13: Sexual Harassment, Assault, &amp; Rapet</a></strong>
+<strong><a href="chapter13.php">ch13: Sexual Harassment, Assault, &amp; Rape</a></strong>
 <strong><a href="chapter14.php">ch14: Works Cited and External Resources</a></strong>
 </nav>
 <!- end navigation sidebar ->
@@ -50,6 +50,8 @@
 <div class="chapter7Text">
 <br>
 <h2>Chapter 7: Love vs Sex</h2>
+
+	<a NAME="defining_love"></a>
 	<h3>Defining Love</h3>
 	</p>Love can be; an intense feeling of deep affection, something one has a great interest and pleasure in, or just something one likes very much but still gets pleasure from.
 People can love:</p>
@@ -110,6 +112,7 @@ People can love:</p>
 
 	<p>To summarize both love and sex can be an amazing feeling by themselves, but when one can have both sex and love, the two will enhance each other greatly, making them stronger for those involved.</p>
 
+	<a NAME="female_body_reactions"></a>
 	<h3>Female Body Reactions</h3>
 	<h4>Love Reactions</h4>
 	<ul class="closedCircle">
@@ -175,6 +178,7 @@ People can love:</p>
 		<img src="includes/images/chapter7/femaleBody.png" alt="2 females posing and sitting">
 	</div>
 
+	<a NAME="male_body_reactions"></a>
 	<h3>Male Body Reactions</h3>
 	<h4>Love Reactions</h4>
 	<!- Interesting Fact goes here ->
@@ -208,6 +212,7 @@ People can love:</p>
 		<img src="includes/images/chapter7/maleBody.png" alt="2 male figures posing">
 	</div>
 
+	<a NAME="male_and_female_similar_sex_responses"></a>
 	<h3>Male &amp; Female Simiar Sex Responses</h3>
 	<p>Besides each male and female having their own physical, chemical, and emotional reactions they also share a wide variety of reactions, the list below is just a few of them:</p>
 

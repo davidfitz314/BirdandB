@@ -10,19 +10,19 @@
 <strong><a href="chapter2.php">ch2: Conception</a></strong>
 <strong><a href="chapter3.php">ch3: Human Body Development</a></strong>
 <strong><a href="chapter4.php">ch4: Human Nature and Psychological Dependencies</a></strong>
+<a href="chapter5.php"><strong>Chapter 5:</strong></a>
 <ul>
-<strong>Chapter 5</strong>
 <li>
-<a href="chapter5.php">Defining Sex</a>
+<a href="#defining_sex">Defining Sex</a>
 </li>
 <li>
-<a href="chapter5.php">Types of Sex</a>
+<a href="#types_of_sex">Types of Sex</a>
 </li>
 <li>
-<a href="chapter5.php">Sexual Activities</a>
+<a href="#sexual_activities">Sexual Activities</a>
 </li>
 <li>
-<a href="chapter5.php">Who is having Sex?</a>
+<a href="#who_is_having_sex">Who is having Sex?</a>
 </li>
 </ul>
 
@@ -47,6 +47,7 @@
 <div class="chapter5Text">
 <br>
 	<h2>Chapter 5: What is Sex?</h2>
+	<a NAME="defining_sex"></a>
 	<h4>Defining Sex</h4>
 	</p>Sex is either of the two major forms of individuals that occur in many species that are distinguished respectively as female or male especially on the basis of their reproductive organs and structures. -Merriam Webster.</p>
 	
@@ -59,6 +60,7 @@
 		<img src="includes/images/chapter5/sex.png" alt="In bed with symbols for sex types">
 	</div>
 
+	<a NAME="types_of_sex"></a>
 	<h4>Types of Sex</h4>
 	<p>There are many different types of sex and sexual activities. While the most generally accepted is heterosexual sex (male and female sex), the others are also quite common in today's world even if they are not as talked about openly. The following list is a few of the most common types of sex:</p>
 	<ul class="solidCircle">
@@ -81,6 +83,7 @@
 		<img src="includes/images/chapter5/symbols.png" alt="Lips background with gender symbols intertwined">
 	</div>
 
+	<a NAME="sexual_activities"></a>
 	<h4>Sexual Activities</h4>
 	<p>Sex is not only Penetrative into another’s body, it can be divided into acts which involve one person, also called autoeroticism (the sexual gratification obtained solely through stimulation by oneself of one's own body.), two or more people having sex or mutual masturbation, or if there are more than two participants in the sex act it may be referred to as group sex.</p>
 
@@ -108,6 +111,7 @@
 		<img src="includes/images/chapter5/world.png" alt="Bed on a globe">
 	</div>
 
+	<a NAME="who_is_having_sex"></a>
 	<h4>Who is Having Sex?</h4>
 	<p>In many cultures sex is a less talked about or even taboo subject. However, in the U.S.A area a few studies have been published showing the results of who is having sex. The information below is from the <a href="https://www.kinseyinstitute.org/" target="_blank">Kinsey Institute</a>, but for a more worldwide perspective the <a href="https://www.guttmacher.org/" target="_blank">GuttMacher Institute</a> also has some studies on sex and sexual matters.</p>
 

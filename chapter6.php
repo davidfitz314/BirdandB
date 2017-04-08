@@ -11,16 +11,16 @@
 <strong><a href="chapter3.php">ch3: Human Body Development</a></strong>
 <strong><a href="chapter4.php">ch4: Human Nature and Psychological Dependencies</a></strong>
 <strong><a href="chapter5.php">ch5: What is Sex</a></strong>
+<a href="chapter6.php"><strong>Chapter 6:</strong></a>
 <ul>
-<strong>Chapter 6</strong>
 <li>
-<a href="chapter6.php">Sexual Identity</a>
+<a href="#sexual_identity">Sexual Identity</a>
 </li>
 <li>
-<a href="chapter6.php">Sexual Preference</a>
+<a href="#sexual_preference">Sexual Preference</a>
 </li>
 <li>
-<a href="chapter6.php">Sex Appeal -local &amp; worldwide</a>
+<a href="#sex_appeal_local_and_worldwide">Sex Appeal -local &amp; worldwide</a>
 </li>
 </ul>
 
@@ -44,6 +44,8 @@
 <div class="chapter6Text">
 <br>
 <h2>Chapter 6: Sexuality</h2>
+
+	<a NAME="sexual_identity"></a>
 	<h3>Sexual Identity</h3>
 	</p>Each person has a sexual identity, it can come from a person’s capacity for sexual feelings, their sexual orientation or preference, and their sexual activity. Even those with low or even no sexual feelings have a sexual identity.</p>
 
@@ -75,6 +77,7 @@
 		<li>Ninth believe in yourself. You are a unique person and you should be proud of that uniqueness.</li>
 	</ol>
 
+	<a NAME="sexual_preference"></a>
 	<h4>Sexual Preference</h4>
 	<p>Sexual preference, also known as sexual orientation, is a repeating pattern of romantic, sexual attraction, or a mix of the two to people of the opposite sex or gender, to both sexes, or more than one gender. These attractions are generally included under heterosexuality, homosexuality, and bisexuality, while asexuality -the lack of sexual attraction to others- is only occasionally identified as a fourth category.</p>
 
@@ -90,6 +93,7 @@
 	<h5>Sex</h5>
 	<p>In relation towards biology, sex is the reproductive organs that people are born with. It consists of three categories Males with XY chromosomes, Females with XX chromosomes, or Transgendered which can be a mixture of different chromosomes other than the common male and female pattern for chromosomes. For more information on Sex in regards to sexual activity please see <a href="chapter5.php">Chapter 5: What is Sex</a>.</p>
 
+	<a NAME="sex_appeal_local_and_worldwide"></a>
 	<h4>Sex Appeal -local &amp; worldwide</h4>
 	<p><strong class="addItalic">Sexual attraction</strong> is the attraction on the basis of sexual desire or the quality of arousing such interests. Sexual attractiveness or sex appeal is an individual’s ability to attract the sexual or erotic interests of another person and is a common factor in sexual selection or mate choice.</p>
 

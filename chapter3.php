@@ -8,7 +8,7 @@
 <h2>Chapter 3: Human Body Development </h2>
 <strong><a href="chapter1.php">ch1: Overview</a></strong>
 <strong><a href="chapter2.php">ch2: Conception</a></strong>
-<a href="chapter3.php"><strong>Chapter 3</strong></a>
+<a href="chapter3.php"><strong>Chapter 3:</strong></a>
 <ul>
 <li>
 <a href="#pre_puberty_changes">Pre-Puberty Changes</a>
@@ -42,8 +42,9 @@
 <!- chapter text division ->
 <div class="chapter3Text">
 </br>
-	<a NAME="pre_puberty_changes"></a>
 	<h2>Chapter 3: Human Body Development</h2>
+
+	<a NAME="pre_puberty_changes"></a>
 	<h4>Pre-Puberty Changes</h4>
 	<p>Quite a few changes happen before even entering the puberty stage, most children will:</p>
 	
