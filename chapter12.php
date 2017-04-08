@@ -60,10 +60,91 @@
 	<p class="addItalic">According to a survey done by Ann Summers in the UK approximately 75% of people have at least one fetish.<br>In an article from Women’s Health by Debra W. Soh, the amount of people with a fetish is 1 in 6. While more stats on sexual fetishes may be hard to find, the Mark Allen Thorton blog published a statistic evaluating the authors of over 2900 books, and graphed them out based on the age group focuses the books were written for. In his studies fetishes were common and varied by different age groups.</p>
 
 	<h3>Common Fetishes and Kinks</h3>
-	</p></p>
+	</p>Their are plenty of fetishes in today’s world. Below is a compilation of some of the most reported fetishes that are also related to sexuality.</p>
+
+	<div class="sectionContainer">
+		<div class="ch12leftImg">
+			<img src="includes/images/chapter12/baby.png" alt="Baby Diaper, rattle, and milk bottle">
+		</div>
+	
+		<p><strong>Adult babies:</strong> are those individuals that enjoy being a baby again. They may enjoy regressing partially or completely, participating in the act of wearing diapers, being fed by an adult, sucking on a baby bottle or pacifier, dressing up in baby clothes, crawling instead of walking and speaking in “baby” talk. Individuals interested in infantilism most likely enjoy the nurturing aspect. They may be seeking attention or have too many responsibilities in their daily lives, which they wish to escape from.</p>
+	</div>
 
 	<h3>Non-Sexual Fetishes</h3>
 	</p></p>
+
+		<div class="sectionContainer">
+		<div class="ch12RightImg">
+			<img src="includes/images/chapter12/swinging.png" alt="2 sets of couples swapping partners while on swing sets">
+		</div>
+
+		<p><strong>Swinging:</strong> refers to the act of a committed, usually married couple indulging in sex with another couple or individual with the full consent of both partners. The idea of swinging or experimentation with group sex is usually driven by the male in the relationship (research showing over 75% of the time).</p>
+	</div>
+
+		<div class="sectionContainer">
+		<div class="ch12leftImg">
+			<img src="includes/images/chapter12/" alt="">
+		</div>
+
+		<p><strong></strong></p>		
+	</div>
+
+		<div class="sectionContainer">
+		<div class="ch12RightImg">
+			<img src="includes/images/chapter12/" alt="">
+		</div>
+	
+		<p><strong></strong></p>
+	</div>
+
+		<div class="sectionContainer">
+		<div class="ch12leftImg">
+			<img src="includes/images/chapter12/" alt="">
+		</div>
+	
+		<p><strong></strong></p>
+	</div>
+
+		<div class="sectionContainer">
+		<div class="ch12RightImg">
+			<img src="includes/images/chapter12/" alt="">
+		</div>
+	
+		<p><strong></strong></p>
+	</div>
+
+		<div class="sectionContainer">
+		<div class="ch12leftImg">
+			<img src="includes/images/chapter12/" alt="">
+		</div>
+	
+		<p><strong></strong></p>
+	</div>
+
+		<div class="sectionContainer">
+		<div class="ch12RightImg">
+			<img src="includes/images/chapter12/" alt="">
+		</div>
+	
+		<p><strong></strong></p>
+	</div>
+
+		<div class="sectionContainer">
+		<div class="ch12leftImg">
+			<img src="includes/images/chapter12/" alt="">
+		</div>
+	
+		<p><strong></strong></p>
+	</div>
+
+		<div class="sectionContainer">
+		<div class="ch12RightImg">
+			<img src="includes/images/chapter12/" alt="">
+		</div>
+	
+		<p><strong></strong></p>
+	</div>
+
 
 
 

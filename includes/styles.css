@@ -331,6 +331,12 @@ h3 {
 	font-size: 135%;
 }
 
+
+.sectionContainer {
+	margin-bottom: 50%;
+	clear:both;
+}
+
 /*chapter 2 section*/
 
 .chapter2Text {
@@ -666,11 +672,6 @@ h3 {
 	height: auto;
 }
 
-.sectionContainer {
-	margin-bottom: 50%;
-	clear:both;
-}
-
 .ch11Left {
 	width: 50%;
 	height: auto;
@@ -752,8 +753,28 @@ h3 {
 }
 
 .ch12Images img {
-	width: 80%;
+	width: 50%;
 	height: auto;
+}
+
+.ch12RightImg {
+	float:right;
+}
+
+.ch12RightImg img {
+	width: 40%;
+	height: auto;
+	padding: 15px;
+}
+
+.ch12LeftImg {
+	float:left;
+}
+
+.ch12LeftImg img {
+	width: 40%;
+	height: auto;
+	padding: 15px;
 }
 
 /* chapter 13 section */

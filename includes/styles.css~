@@ -752,8 +752,28 @@ h3 {
 }
 
 .ch12Images img {
-	width: auto;
-	height: 80%;
+	width: 50%;
+	height: auto;
+}
+
+.ch12RightImg {
+	float:right;
+}
+
+.ch12RightImg img {
+	width: 40%;
+	height: auto;
+	padding: 15px;
+}
+
+.ch12LeftImg {
+	float:left;
+}
+
+.ch12LeftImg img {
+	width: 40%;
+	height: auto;
+	padding: 15px;
 }
 
 /* chapter 13 section */
