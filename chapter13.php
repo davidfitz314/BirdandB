@@ -21,16 +21,19 @@
 <ul>
 <strong>Chapter 13</strong>
 <li>
-<a href="chapter13.php">default</a>
+<a href="chapter13.php">What is Sexual Harassment</a>
 </li>
 <li>
-<a href="chapter13.php">default</a>
+<a href="chapter13.php">What is Sexual Assault &amp; Rape</a>
 </li>
 <li>
-<a href="chapter13.php">default</a>
+<a href="chapter13.php">Sexual Violence Prevention</a>
 </li>
 <li>
-<a href="chapter13.php">default</a>
+<a href="chapter13.php">What to do After Sexual Violence</a>
+</li>
+<li>
+<a href="chapter13.php">Sexual Violence Help</a>
 </li>
 </ul>
 
@@ -40,21 +43,36 @@
 
 <!- top page image ->
 <div class="chapterLogo">
-<img src="includes/images/medical_instruments.jpg" alt="change to default">
+<img src="includes/images/chapter13/hand.png" alt="Harassment hand">
 </div>
 
 <!- chapter text division ->
 <div class="chapter2Text">
 <br>
-<h2>Chapter 12: </h2>
-	<h3></h3>
+<h2>Chapter 13: </h2>
+	<h3>What is Sexual Harassment</h3>
 	</p></p>
 
+	<h4>Sexual Harassment Statistics</h4>
+
+	<h3>What is Sexual Assault &amp; Rape</h3>
+
+	<h4>Sexual Violence Statistics</h4>
+	<h5>is this big enough</h5>
+	<p>test comparison</p>
+
+	<h4>Sexual Assault or Harassment Legalities</h4>
+
+	<h3>Sexual Violence Prevention</h3>
+	<h4>Be Prepared & Stay Calm</h4>
+	<p>This doesn’t mean, let the perpetrator do whatever they want, what this means is think of a plan of escape. While immediately fighting feels like a good idea, many sexual violence cases have a perpetrator that is physically stronger or a better fighter than the victim. So to solve this, one must stay calm and think of a plan.</p>
+
+	<h3>What to do After Sexual Violence</h3>
+	<h3>Sexual Violence Help</h3>
 
 
-
-	<div class="ch8Images">
-		<img src="includes/images/chapter8/" alt="">
+	<div class="ch13Images">
+		<img src="includes/images/chapter13/" alt="">
 	</div>
 </div>
 
