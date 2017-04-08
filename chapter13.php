@@ -67,13 +67,24 @@
 		</div>
 	</div>
 
-	</p>Sexual harassment is unfortunately very common, below is a quote from the Huffington Post for a female’s experience as a young teen with sexual harassment:</p>
+	</p><strong class="addItalic">Sexual harassment</strong> is unfortunately very common, below is a quote from the Huffington Post for a female’s experience as a young teen with sexual harassment:</p>
 
 	<p class="tabbedB"><i>“When I was 14 I worked at Tim Hortons in Canada. While I was working I had an older man, looked to be in his 60s or 70s, tells me that he couldn’t sleep at night without me beside him in his bed and asked if I would come home with him. I was absolutely disgusted that a man would say that to me as a child.” — Emma, 26”</i>(Agrawal, N. 2015)</p>	
 
-	<p>Sexual harassment does not have to be in person, as technology changes and grows, sexual harassment also expands. Text messages, chat rooms, phone calls, social media, and more are used to sexually harass other people.</p>
+	<div class="sectionContainer">
+		<div class="ch13Left">
+			<img src="includes/images/chapter13/technology.png" alt="Phone sexual harassment">
+		</div>
+	
+		<div class="ch13Right">
+			<p>Sexual harassment does not have to be in person, as technology changes and grows, sexual harassment also expands. Text messages, chat rooms, phone calls, social media, and more are used to sexually harass other people.</p>
+		</div>
+	</div>
 
 	<h4>Sexual Harassment Statistics</h4>
+	<ul class="closedCircle">
+		<li></li>
+	</ul>
 
 	<h3>What is Sexual Assault &amp; Rape</h3>
 
