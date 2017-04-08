@@ -77,7 +77,7 @@
 		</div>
 	
 		<div class="ch13Right">
-			<p><strong class="addItalic">Sexual harassment does not have to be in person, as technology changes and grows, sexual harassment also expands. Text messages, chat rooms, phone calls, social media, and more are used to sexually harass other people.</strong></p>
+			<p><strong class="addItalic2">Sexual harassment does not have to be in person, as technology changes and grows, sexual harassment also expands. Text messages, chat rooms, phone calls, social media, and more are used to sexually harass other people.</strong></p>
 		</div>
 	</div>
 
