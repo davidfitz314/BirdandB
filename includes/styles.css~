@@ -347,7 +347,7 @@ h3 {
 }
 
 .sectionContainer2 {
-	margin-bottom: 20%;
+	margin-bottom: 30%;
 	padding-bottom: 20%;
 	clear:both;
 }
@@ -836,7 +836,8 @@ h3 {
 
 .ch13Left {
 	float: left;
-	width: 15%;
+	padding-top: 5%;
+	width: 20%;
 }
 
 .ch13Left img{
@@ -866,5 +867,6 @@ h3 {
 	width: 100%;
 	height: auto;
 }
+
 
 
