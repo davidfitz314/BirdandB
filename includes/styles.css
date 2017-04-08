@@ -760,7 +760,7 @@ h3 {
 
 .ch12RightImg {
 	float:right;
-	width: 30%;
+	width: 25%;
 	margin:3% 7% 7% 7%;
 }
 
@@ -773,7 +773,7 @@ h3 {
 .ch12LeftImg {
 	float:left;
 	width: 30%;
-	margin:3% 7% 7% 7%;
+	margin:3% 7% 10% 7%;
 }
 
 .ch12LeftImg img {
