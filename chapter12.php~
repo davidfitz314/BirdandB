@@ -129,7 +129,7 @@
 		<p><strong>Rubber/Latex/Leather:</strong> This fetish relates to those that gain sexual enjoyment by wearing or having their partner wear rubber, latex or leather material. They refer to themselves as “<i>rubberists</i>”. The tight material acts as a type of sexual bondage. For some, the smell of rubber/latex/leather may also be a turn on. The fetish can range from wearing the more conventional types of items such as a cat suit to something more unusual such as a gas mask.</p>
 	</div>
 
-	<div class="sectionContainer2">
+	<div class="sectionContainer">
 		<div class="ch12LeftImg">
 			<img src="includes/images/chapter12/roleplay.png" alt="Two masks symbolizing joy and sorrow">
 		</div>
