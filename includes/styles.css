@@ -372,6 +372,12 @@ h3 {
 	clear:both;
 }
 
+.sectionContainer3 {
+	margin-bottom: 25%;
+	padding-bottom: 25%;
+	clear:both;
+}
+
 /*chapter 2 section*/
 
 .chapter2Text {
@@ -885,6 +891,16 @@ h3 {
 	width: 100%;
 }
 
+.ch13LeftD {
+	float: left;
+	width: 20%;
+}
+
+.ch13LeftD img {
+	padding-top: 7%;
+	width: 100%;
+}
+
 .ch13Right {
 	float: right;
 	width: 70%;
@@ -910,7 +926,7 @@ h3 {
 	float: right;
 	padding-top: 10%;
 	width: 20%;
-	margin-bottom: 20%;
+	margin-top: 5%;
 }
 
 .ch13RightC img{

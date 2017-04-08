@@ -197,7 +197,7 @@ members of the public that could be of assistance to the victim.<p>
 	</div>
 
 	<div class="sectionContainer3">
-		<div class="ch13LeftB">
+		<div class="ch13LeftD">
 			<img src="includes/images/chapter13/NO.png" alt="Say No Clearly">
 		</div>
 
@@ -208,7 +208,7 @@ members of the public that could be of assistance to the victim.<p>
 		</div>
 	</div>
 
-	<div class="sectionContainer2">
+	<div class="sectionContainer4">
 		<div class="ch13RightC">
 			<img src="includes/images/chapter13/aware.png" alt="Aware symbol, exclamation mark in a triangle">
 		</div>
