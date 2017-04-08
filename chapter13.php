@@ -222,6 +222,23 @@ members of the public that could be of assistance to the victim.<p>
 
 	<a NAME="what_to_do_after_sexual_violence"></a>
 	<h3>What to do After Sexual Violence</h3>
+	<p>Unfortunately there are times that sexual violence cannot be avoided, in these instances there are steps one should take so that the victim gets taken care of with proper assistance:</p>
+	<ol>
+		<li><strong class="addItalic">Don’t blame yourself.</strong> The sexual violence was not your fault.</li>
+
+		<li><strong class="addItalic">Talk to an adult before going to a police station or hospital.</strong> If you don’t have an adult to talk to then go directly to the police station or hospital.</li>
+
+		<li><strong class="addItalic">Don’t urinate (pee) before getting help.</strong> Get a urine test as soon as possible. A urine test can tell if someone gave you a date rape drug. But these drugs can leave your system in as little as 12 hours.
+</li>
+
+		<li><strong class="addItalic">Don’t bathe, douche, or change clothes before getting help.</strong> Doing these things can remove possible evidence of the rape, such as semen (fluid from a man) or hair belonging to the person who assaulted you.</li>
+
+		<li><strong class="addItalic">Get medical care right away.</strong> Tell the doctor or nurse if you think you were drugged. They will give you a urine test right away because date rape drugs leave your body quickly. You will also get a medical exam to make sure you don’t have other injuries. The doctor or nurse will test you for sexually transmitted diseases (STDs), including HIV/AIDS, and offer you emergency contraception to prevent pregnancy. If the doctor or nurse does not mention testing for STDs or emergency contraception, <strong class="addItalic">ask for them</strong>.</li>
+
+		<li><strong class="addItalic">Get emotional support.</strong> You may feel terribly shocked, afraid, or even emotionally numb. Whatever you are feeling, talk to people who care about you. Get help from a mental health professional. The hospital usually can put you in touch with a counselor or support group. You can also talk with a hotline counselor.</li>
+
+		<li><strong class="addItalic">Talk to your parents or guardians.</strong> A counselor can help you talk with your parents or guardians. They may be upset, but that's just because they care about you, but support is still important in these cases and you deserve support from those close to you.</li>
+	</ol>
 
 	<a NAME="sexual_violence_help"></a>
 	<h3>Sexual Violence Help</h3>
