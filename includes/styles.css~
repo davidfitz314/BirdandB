@@ -824,6 +824,16 @@ h3 {
 	text-align: left;
 }
 
+.chapter13Text a{
+	text-decoration: none;
+	color:black;
+}
+
+.chapter13Text a:hover{
+	text-decoration: none;
+	color:blue;
+}
+
 .chapter13Text ul {
 	text-align: left;
 	line-height: 150%;

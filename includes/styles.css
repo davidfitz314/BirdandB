@@ -855,6 +855,16 @@ h3 {
 	width: 100%;
 }
 
+.ch13LeftB {
+	float: left;
+	width: 20%;
+}
+
+.ch13LeftB img {
+	padding-top: 2%;
+	width: 100%;
+}
+
 .ch13Right {
 	float: right;
 	width: 70%;
