@@ -585,9 +585,10 @@ h3 {
 }
 
 .ch5ImagesB {
-	width: 50%;
+	width: 40%;
 	height: auto;
-	text-align: center;
+	margin-left: 30%;
+	
 }
 
 .ch5ImagesB img {
