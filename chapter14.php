@@ -25,21 +25,473 @@
 
 <!- top page image ->
 <div class="chapterLogo">
-<img src="includes/images/medical_instruments.jpg" alt="change to default">
+<img src="includes/images/chapter14/honeycomb.png" alt="Black and white honey comb">
 </div>
 
 <!- chapter text division ->
 <div class="chapter14Text">
 <br>
-<h2>Chapter 14: </h2>
-	<h3></h3>
-	</p></p>
+<h2>Chapter 14: Works Cited &amp; References</h2>
+	<div class="sectionContainer">
+		<div class="ch14group1">
+			<p>"A Statistical Portrait of a Generation". (n.d.). Retrieved March 11, 2017, from http://karmak.org/archive/2002/10/portrait.html</p>
+		</div>
 
+		<div class="ch14group2">
+			<p>84 Interesting Facts about Orgasms | FactRetriever.com. (2014, March 29). Retrieved February 06, 2017, from http://facts.randomhistory.com/orgasm-facts.html</p>
+		</div>
 
+		<div class="ch14group3">
+			<p>Activestudio, 7. (2016, December 04). OVULATION & THE MENSTRUAL CYCLE. Retrieved January 20, 2017, from https://www.youtube.com/watch?v=usEIVynA0Ck</p>
+		</div>
+	</div>
 
+	<div class="sectionContainer">
+		<div class="ch14group1">
+			<p></p>
+		</div>
 
-	<div class="ch8Images">
-		<img src="includes/images/chapter8/" alt="">
+		<div class="ch14group2">
+			<p></p>
+		</div>
+
+		<div class="ch14group3">
+			<p></p>
+		</div>
+	</div>
+
+	<div class="sectionContainer">
+		<div class="ch14group1">
+			<p></p>
+		</div>
+
+		<div class="ch14group2">
+			<p></p>
+		</div>
+
+		<div class="ch14group3">
+			<p></p>
+		</div>
+	</div>
+<!- 3 ->
+	<div class="sectionContainer">
+		<div class="ch14group1">
+			<p></p>
+		</div>
+
+		<div class="ch14group2">
+			<p></p>
+		</div>
+
+		<div class="ch14group3">
+			<p></p>
+		</div>
+	</div>
+
+	<div class="sectionContainer">
+		<div class="ch14group1">
+			<p></p>
+		</div>
+
+		<div class="ch14group2">
+			<p></p>
+		</div>
+
+		<div class="ch14group3">
+			<p></p>
+		</div>
+	</div>
+
+	<div class="sectionContainer">
+		<div class="ch14group1">
+			<p></p>
+		</div>
+
+		<div class="ch14group2">
+			<p></p>
+		</div>
+
+		<div class="ch14group3">
+			<p></p>
+		</div>
+	</div>
+
+	<div class="sectionContainer">
+		<div class="ch14group1">
+			<p></p>
+		</div>
+
+		<div class="ch14group2">
+			<p></p>
+		</div>
+
+		<div class="ch14group3">
+			<p></p>
+		</div>
+	</div>
+
+	<div class="sectionContainer">
+		<div class="ch14group1">
+			<p></p>
+		</div>
+
+		<div class="ch14group2">
+			<p></p>
+		</div>
+
+		<div class="ch14group3">
+			<p></p>
+		</div>
+	</div>
+
+	<div class="sectionContainer">
+		<div class="ch14group1">
+			<p></p>
+		</div>
+
+		<div class="ch14group2">
+			<p></p>
+		</div>
+
+		<div class="ch14group3">
+			<p></p>
+		</div>
+	</div>
+
+	<div class="sectionContainer">
+		<div class="ch14group1">
+			<p></p>
+		</div>
+
+		<div class="ch14group2">
+			<p></p>
+		</div>
+
+		<div class="ch14group3">
+			<p></p>
+		</div>
+	</div>
+
+	<div class="sectionContainer">
+		<div class="ch14group1">
+			<p></p>
+		</div>
+
+		<div class="ch14group2">
+			<p></p>
+		</div>
+
+		<div class="ch14group3">
+			<p></p>
+		</div>
+	</div>
+
+	<div class="sectionContainer">
+		<div class="ch14group1">
+			<p></p>
+		</div>
+
+		<div class="ch14group2">
+			<p></p>
+		</div>
+
+		<div class="ch14group3">
+			<p></p>
+		</div>
+	</div>
+
+	<div class="sectionContainer">
+		<div class="ch14group1">
+			<p></p>
+		</div>
+
+		<div class="ch14group2">
+			<p></p>
+		</div>
+
+		<div class="ch14group3">
+			<p></p>
+		</div>
+	</div>
+
+	<div class="sectionContainer">
+		<div class="ch14group1">
+			<p></p>
+		</div>
+
+		<div class="ch14group2">
+			<p></p>
+		</div>
+
+		<div class="ch14group3">
+			<p></p>
+		</div>
+	</div>
+
+	<div class="sectionContainer">
+		<div class="ch14group1">
+			<p></p>
+		</div>
+
+		<div class="ch14group2">
+			<p></p>
+		</div>
+
+		<div class="ch14group3">
+			<p></p>
+		</div>
+	</div>
+
+	<div class="sectionContainer">
+		<div class="ch14group1">
+			<p></p>
+		</div>
+
+		<div class="ch14group2">
+			<p></p>
+		</div>
+
+		<div class="ch14group3">
+			<p></p>
+		</div>
+	</div>
+
+	<div class="sectionContainer">
+		<div class="ch14group1">
+			<p></p>
+		</div>
+
+		<div class="ch14group2">
+			<p></p>
+		</div>
+
+		<div class="ch14group3">
+			<p></p>
+		</div>
+	</div>
+
+	<div class="sectionContainer">
+		<div class="ch14group1">
+			<p></p>
+		</div>
+
+		<div class="ch14group2">
+			<p></p>
+		</div>
+
+		<div class="ch14group3">
+			<p></p>
+		</div>
+	</div>
+
+	<div class="sectionContainer">
+		<div class="ch14group1">
+			<p></p>
+		</div>
+
+		<div class="ch14group2">
+			<p></p>
+		</div>
+
+		<div class="ch14group3">
+			<p></p>
+		</div>
+	</div>
+
+	<div class="sectionContainer">
+		<div class="ch14group1">
+			<p></p>
+		</div>
+
+		<div class="ch14group2">
+			<p></p>
+		</div>
+
+		<div class="ch14group3">
+			<p></p>
+		</div>
+	</div>
+
+	<div class="sectionContainer">
+		<div class="ch14group1">
+			<p></p>
+		</div>
+
+		<div class="ch14group2">
+			<p></p>
+		</div>
+
+		<div class="ch14group3">
+			<p></p>
+		</div>
+	</div>
+
+	<div class="sectionContainer">
+		<div class="ch14group1">
+			<p></p>
+		</div>
+
+		<div class="ch14group2">
+			<p></p>
+		</div>
+
+		<div class="ch14group3">
+			<p></p>
+		</div>
+	</div>
+
+	<div class="sectionContainer">
+		<div class="ch14group1">
+			<p></p>
+		</div>
+
+		<div class="ch14group2">
+			<p></p>
+		</div>
+
+		<div class="ch14group3">
+			<p></p>
+		</div>
+	</div>
+
+	<div class="sectionContainer">
+		<div class="ch14group1">
+			<p></p>
+		</div>
+
+		<div class="ch14group2">
+			<p></p>
+		</div>
+
+		<div class="ch14group3">
+			<p></p>
+		</div>
+	</div>
+
+	<div class="sectionContainer">
+		<div class="ch14group1">
+			<p></p>
+		</div>
+
+		<div class="ch14group2">
+			<p></p>
+		</div>
+
+		<div class="ch14group3">
+			<p></p>
+		</div>
+	</div>
+
+	<div class="sectionContainer">
+		<div class="ch14group1">
+			<p></p>
+		</div>
+
+		<div class="ch14group2">
+			<p></p>
+		</div>
+
+		<div class="ch14group3">
+			<p></p>
+		</div>
+	</div>
+
+	<div class="sectionContainer">
+		<div class="ch14group1">
+			<p></p>
+		</div>
+
+		<div class="ch14group2">
+			<p></p>
+		</div>
+
+		<div class="ch14group3">
+			<p></p>
+		</div>
+	</div>
+
+	<div class="sectionContainer">
+		<div class="ch14group1">
+			<p></p>
+		</div>
+
+		<div class="ch14group2">
+			<p></p>
+		</div>
+
+		<div class="ch14group3">
+			<p></p>
+		</div>
+	</div>
+
+	<div class="sectionContainer">
+		<div class="ch14group1">
+			<p></p>
+		</div>
+
+		<div class="ch14group2">
+			<p></p>
+		</div>
+
+		<div class="ch14group3">
+			<p></p>
+		</div>
+	</div>
+
+	<div class="sectionContainer">
+		<div class="ch14group1">
+			<p></p>
+		</div>
+
+		<div class="ch14group2">
+			<p></p>
+		</div>
+
+		<div class="ch14group3">
+			<p></p>
+		</div>
+	</div>
+
+	<div class="sectionContainer">
+		<div class="ch14group1">
+			<p></p>
+		</div>
+
+		<div class="ch14group2">
+			<p></p>
+		</div>
+
+		<div class="ch14group3">
+			<p></p>
+		</div>
+	</div>
+
+	<div class="sectionContainer">
+		<div class="ch14group1">
+			<p></p>
+		</div>
+
+		<div class="ch14group2">
+			<p></p>
+		</div>
+
+		<div class="ch14group3">
+			<p></p>
+		</div>
+	</div>
+
+	<div class="sectionContainer">
+		<div class="ch14group1">
+			<p></p>
+		</div>
+
+		<div class="ch14group2">
+			<p></p>
+		</div>
+
+		<div class="ch14group3">
+			<p></p>
+		</div>
 	</div>
 </div>
 

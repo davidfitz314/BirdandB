@@ -297,6 +297,7 @@ ul.floating-menu {
 }
 
 .chapterLogo img{
+	margin-top: 2%;
 	width: 75%;
 	margin-left: 25%;
 }
@@ -1028,5 +1029,25 @@ h3 {
 	height: auto;
 }
 
+.ch14group1 {
+	text-align: left;
+	width: 30%;
+	margin: 3% 5% 3% 0%;
+	float: left;
+}
+
+.ch14group2 {
+	text-align: left;
+	width: 30%;
+	margin: 3% 0% 3% 0%;
+	float: left;
+}
+
+.ch14group3 {
+	text-align: left;
+	width: 30%;
+	margin: 3% 0% 3% 3%;
+	float: right;	
+}
 
 

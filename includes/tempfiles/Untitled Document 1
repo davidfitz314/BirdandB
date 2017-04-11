@@ -26,3 +26,7 @@ removed references
 	text-decoration: underline;
 	color: blue;
 }
+
+<div class="ch8Images">
+	<img src="includes/images/chapter8/" alt="">
+</div>
