@@ -80,11 +80,12 @@
 	</ul>		
 	<!- Interesting Fact goes here ->
 
+	<a NAME="child_behavior_and_attachments"></a>
 	<div class="ch4Images">
 		<img src="includes/images/chapter4/footprints.png" alt="Foot print behaviors, adult and child representation">
 	</div>
 
-	<a NAME="child_behavior_and_attachments"></a>
+	
 	<h4>Child Behavior and Attachments</h4>
 	<p>Even during childhood humans are studied to understand their nature. One area focused on by Mary Ainsworth &mdash;a Canadian-American Psychologist&mdash; is called Attachment Theory and relates to a child’s attachment type to its parents. The theory behind it goes into details saying how children during early stages of their lives learn how they should behave or be dependent on others, which then becomes the basis for their adult selves behavior attachments.</p>
 	
@@ -109,11 +110,11 @@
 		<li>Disorganized from Child: The child has no attaching behaviors, often appears dazed, confused, or apprehensive in presence of caregiver.</li>
 	</ul>	
 	
+	<a NAME="adult_behavior_and_attachments"></a>
 	<div class="ch4Images">
 		<img src="includes/images/chapter4/shadows.png" alt="Shadows of people going in all different directions">
 	</div>
 
-	<a NAME="adult_behavior_and_attachments"></a>
 	<h4>Adult Behavior and Attachments</h4>
 	<p>After childhood the experience in care reflects in humans quite deeply. The second part of Attachment theory by Mary Ainsworth dives into the effects the attachment still holds over the adults behavior. The adult Attachment Behavior can be broken down into 4 sections: Autonomous/Secure, Dismissing, Resistant/Preoccupied, Unresolved/Disorganized.</p>
 	<ul class="solidCircle">

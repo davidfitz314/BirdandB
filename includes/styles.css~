@@ -425,6 +425,7 @@ h3 {
 
 .sectionContainer6 {
 	clear: both;
+	margin-bottom: 8%;
 }
 
 /*chapter 1 section*/
@@ -510,7 +511,7 @@ h3 {
 	font-weight: bold;
 	font-family: Arial, Helvetica, sans-serif;
 	margin: 0% 0% 0% 5%;
-	padding-top: 3%;
+	padding-top: .0%;
 }
 
 .ch2text {	
@@ -1094,5 +1095,6 @@ h3 {
 	word-wrap: break-word;
 	float: right;	
 }
+
 
 
