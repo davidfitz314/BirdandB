@@ -265,6 +265,30 @@ footer a:hover {
 	clear: both;
 }
 
+.mini1 {
+	width: 150px;
+	height: auto;
+	float: left;
+	padding-right: 5%;
+}
+
+.mini1 img {
+	width: 100%;
+	height: auto;
+}
+
+.mini2 {
+	width: 150px;
+	height: auto;
+	float: right;
+	padding-right: 5%;
+}
+
+.mini2 img {
+	width: 100%;
+	height: auto;
+}
+
 /* floating menu section */
 .floating-menu {
 	font-family: sans-serif;
