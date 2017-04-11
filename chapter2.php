@@ -53,16 +53,16 @@
 	<p>Once a month one of a woman’s 2 ovaries release a mature egg, this is called ovulation. Ovulation happens approximately 2 weeks after the start of the woman's most recent menstrual period. The egg at this point travels into the woman’s Fallopian tube where it can be fertilized by a single sperm.</p>
 
 	<h4>Fertilization: sperm and its journey to the egg</h4>
-	<p>To begin the male ejacualtes releasing approximately 40 million to 150 million sperm into the vagina, there the sperm travel upwards towards the woman’s reproductive tract. The sperm swim towards the Fallopian tubes from the vaginal opening, this can take from 30 minutes to even days for some sperm.</p><!- interesting fact goes here ->
+	<p>To begin the male ejaculates releasing approximately 40 million to 150 million sperm into the vagina, there the sperm travel upwards towards the woman’s reproductive tract. The sperm swim towards the Fallopian tubes from the vaginal opening, this can take from 30 minutes to even days for some sperm.</p><!- interesting fact goes here ->
 	
 	<h4>Fertilization: Sperm Penetrates the Egg</h4>
-	<p>Once both an egg and sperm are in the Fallopian tube the egg releases a chemical which attracts the sperm towards it. The sperm travels towards the egg and when the first sperm penetrates the egg, the egg’s surface changes to prevent entry from any other sperm. This process -which is called fertilization- takes around 24 hours, and it is at this time that the babies sex will be decided by what genes the sperm is carrying.</p><!- interesting fact goes here ->
+	<p>Once both an egg and sperm are in the Fallopian tube the egg releases a chemical which attracts the sperm towards it. The sperm travels towards the egg and when the first sperm penetrates the egg, the egg’s surface changes to prevent entry from any other sperm. This process &mdash;which is called fertilization&mdash; takes around 24 hours, and it is at this time that the baby's sex will be decided by what genes the sperm is carrying.</p><!- interesting fact goes here ->
 
 	<h4>After Fertilization: A baby’s beginning.</h4>
 	<p>In this stage the fertilized egg starts to divide rapidly into new cells, to make room for this new growth the egg moves from the Fallopian tubes and into the uterus, this process usually takes 3 to 4 days.</p><!- interesting fact goes here ->
 
 	<h4>Implantation and Fetal Development</h4>
-	<p>During implantation the fertilized egg attaches to the Endometrium -The lining tissues of the uterus- and continues to divide. After implantation in the uterus the cells will start forming different parts necessary for the babies development. Some cells will form the placenta and others will remain in the embryo to continue developing.</p><!- interesting fact goes here ->
+	<p>During implantation the fertilized egg attaches to the Endometrium &mdash;The lining tissues of the uterus&mdash; and continues to divide. After implantation in the uterus the cells will start forming different parts necessary for the babies development. Some cells will form the placenta and others will remain in the embryo to continue developing.</p><!- interesting fact goes here ->
 
 	<h3>1st Trimester (after fertilization)</h3>
 	<h4>3 weeks</h4>
@@ -78,7 +78,7 @@
 		<p>4 weeks<p>
 		</div>
 		<div class="ch2text">
-		<p class="tabbedch2">The Blastocyst or ball of cells is now officially called an embryo. The woman is now about 4 weeks from the beginning of the last menstrual cycle. Around this time is when the next menstrual cycle should have started and pregnancy tests can be effective for telling if a woman is pregnant. The baby is the size of a poppy seed.</p>
+		<p class="tabbedch2">The Blastocyst or ball of cells is now officially called an embryo. The woman is now about 4 weeks from the beginning of the last menstrual cycle. Around this time is when the next menstrual cycle should have started and pregnancy tests can be effective for telling if a woman is pregnant. The baby is the size of a poppy-seed.</p>
 		</div>
 	</div>
 
@@ -103,7 +103,7 @@
 	<p>6 weeks<p>
 	</div>
 	<div class="ch2text">
-	<p class="tabbedch2">The baby’s facial features (nose, mouth, and ears), brain and intestines are beginning to develop. The baby is now the size of a lentil.</p>
+	<p class="tabbedch2">The baby’s facial features (nose, mouth, and ears), brain, and intestines are beginning to develop. The baby is now the size of a lentil.</p>
 	</div>
 
 	<!- image and week# ->
@@ -240,7 +240,7 @@
 	<p>17 weeks<p>
 	</div>
 	<div class="ch2text">
-	<p class="tabbedch2">The baby’s formerly soft cartilage is now hardening into bone, the umbilical chord is growing stronger and thicker and the baby can now move its joints. The baby is the size of a turnip.</p>
+	<p class="tabbedch2">The baby’s formerly soft cartilage is now hardening into bone, the umbilical cord is growing stronger and thicker and the baby can now move its joints. The baby is the size of a turnip.</p>
 	</div>
 
 	<!- image and week# ->
