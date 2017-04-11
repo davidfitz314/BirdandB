@@ -511,7 +511,6 @@ h3 {
 	background-size: contain;
 	background-repeat: no-repeat;*/
 	text-align: center;
-	float: left;
 	margin-left: 5%;
 	margin: 7px 10px 10px 10px;
 }
@@ -538,6 +537,11 @@ h3 {
 .chapter3Text ul {
 	text-align: left;
 	line-height: 150%;
+}
+
+.ch3Images {
+	margin-top: 5%;
+	margin-bottom: 5%;
 }
 
 .ch3Images img {
