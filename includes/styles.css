@@ -402,6 +402,11 @@ h3 {
 	text-align: left;
 }
 
+.chapter1Text a {
+	text-decoration: none;
+	color: black;
+}
+
 .chapter1chaptersheader {
 	background-color:#91A8d0;
 	color: white;

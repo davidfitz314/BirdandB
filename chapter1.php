@@ -71,6 +71,7 @@
 	</div>
 
 	<div class="sectionContainer">
+		<a href="chapter5.php">
 		<div class="ch1group1">
 			<h3>05</h3>
 			<div class="chapter1chaptersheader">
@@ -80,7 +81,9 @@
 types including the solitary and group use of objects to achieve sexual performance.</p>
 			<p>A quick overview of the percentage of people having sex and sexual activities.</p>
 		</div>
+		</a>
 
+		<a href="chapter6.php">
 		<div class="ch1group2">
 			<h3>06</h3>
 			<div class="chapter1chaptersheader">
@@ -89,7 +92,9 @@ types including the solitary and group use of objects to achieve sexual performa
 			<p>Definitions and explanations of sexual identity, gender, sexual preference, and sex in regards to biology.</p>
 			<p>Sex appeal and beauty in both a local culture and world wide.</p>
 		</div>
+		</a>
 
+		<a href="chapter7.php">
 		<div class="ch1group3">
 			<h3>07</h3>
 			<div class="chapter1chaptersheader">
@@ -99,9 +104,11 @@ types including the solitary and group use of objects to achieve sexual performa
 			<p>Descriptions of biological reactions to love and sex from both the male and female perspective.</p>
 			<p>Overview of the psychological reactions produced from having sex or being in love.</p>
 		</div>
+		</a>
 	</div>
 
 	<div class="sectionContainer">
+		<a href="chapter8.php">
 		<div class="ch1group1">
 			<h3>08</h3>
 			<div class="chapter1chaptersheader">
@@ -111,7 +118,9 @@ types including the solitary and group use of objects to achieve sexual performa
 			<p>Discussion on orgasm and culture and how it is honored in different places.</p>
 			<p>Interesting and possibly weird facts related to orgasm.</p>
 		</div>
+		</a>
 
+		<a href="chapter9.php">
 		<div class="ch1group2">
 			<h3>09</h3>
 			<div class="chapter1chaptersheader">
@@ -121,7 +130,9 @@ types including the solitary and group use of objects to achieve sexual performa
 			<p>How to use and about nonprescription contraceptives including outside resources for more information.</p>
 			<p>Overview on abstinence and why some people choose it.</p>
 		</div>
+		</a>
 
+		<a href="chapter10.php">
 		<div class="ch1group3">
 			<h3>10</h3>
 			<div class="chapter1chaptersheader">
@@ -132,9 +143,11 @@ types including the solitary and group use of objects to achieve sexual performa
 			<p>Legal issues for reporting STIs.</p>
 			<p>Support groups for testing and living with STIs.</p>
 		</div>
+		</a>
 	</div>
 
 	<div class="sectionContainer">
+		<a href="chapter11.php">
 		<div class="ch1group1">
 			<h3>11</h3>
 			<div class="chapter1chaptersheader">
@@ -142,7 +155,9 @@ types including the solitary and group use of objects to achieve sexual performa
 			</div>
 			<p>A brief glimpse through time from Ancient Greeks and romans, to the Victorian Era, to China’s current sexual revolution and to U.S. sexual culture revolution.</p>
 		</div>
+		</a>
 
+		<a href="chapter12.php">
 		<div class="ch1group2">
 			<h3>12</h3>
 			<div class="chapter1chaptersheader">
@@ -150,7 +165,9 @@ types including the solitary and group use of objects to achieve sexual performa
 			</div>
 			<p>A basic understanding of the different types of fetishes people have have in regards to both sexual and non-sexual.</p>
 		</div>
+		</a>
 
+		<a href="chapter13.php">
 		<div class="ch1group3">
 			<h3>13</h3>
 			<div class="chapter1chaptersheader">
@@ -160,6 +177,7 @@ types including the solitary and group use of objects to achieve sexual performa
 			<p>Associated legal issues with regarding harassment, assault, and rape.</p>
 			<p>Prevention, preparation, and support in sexual cases.</p>
 		</div>
+		</a>
 	</div>
 </div>
 <div class="expandtest">
