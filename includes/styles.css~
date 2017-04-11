@@ -553,6 +553,9 @@ h3 {
 	line-height: 150%;
 }
 
+.ch4Images {
+	margin-top:5%;
+}
 .ch4Images img {
 	width: 100%;
 	height: auto;
@@ -572,7 +575,7 @@ h3 {
 }
 
 .ch5Images {
-	width: 80%;
+	width: 60%;
 	height: auto;
 	text-align: center;
 }
