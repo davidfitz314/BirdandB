@@ -284,274 +284,318 @@
 		</div>
 	</div>
 
-	<!- image and week# ->
-	<div class="plant_circle">
-	<img src="includes/images/chapter2/tomato.png" alt="heirloom tomato" style="width:100px;height:100px">	
-	</div>
+	<div class="sectionContainer6">
+		<!- image and week# ->
+		<div class="plant_circle">
+		<img src="includes/images/chapter2/tomato.png" alt="heirloom tomato" style="width:100px;height:100px">	
+		</div>
 		
-	<div class="weekNum">	
-	<p>19 weeks<p>
-	</div>
-	<div class="ch2text">
-	<p class="tabbedch2">The baby is developing its sense of smell, vision, taste, touch, and hearing now. The baby is now the size of an heirloom tomato</p>
+		<div class="weekNum">	
+		<p>19 weeks<p>
+		</div>
+		<div class="ch2text">
+		<p class="tabbedch2">The baby is developing its sense of smell, vision, taste, touch, and hearing now. The baby is now the size of an heirloom tomato</p>
+		</div>
 	</div>
 
-	<!- image and week# ->
-	<div class="plant_circle">
-	<img src="includes/images/chapter2/banana.png" alt="banana" style="width:100px;height:100px">	
-	</div>
+	<div class="sectionContainer6">
+		<!- image and week# ->
+		<div class="plant_circle">
+		<img src="includes/images/chapter2/banana.png" alt="banana" style="width:100px;height:100px">	
+		</div>
 		
-	<div class="weekNum">	
-	<p>20 weeks<p>
-	</div>
-	<div class="ch2text">
-	<p class="tabbedch2">The baby’s digestive system is now producing Meconium (an early form of poop). The baby is now the size of a banana.</p>
+		<div class="weekNum">	
+		<p>20 weeks<p>
+		</div>
+		<div class="ch2text">
+		<p class="tabbedch2">The baby’s digestive system is now producing Meconium (an early form of poop). The baby is now the size of a banana.</p>
+		</div>
 	</div>
 
-	<!- image and week# ->
-	<div class="plant_circle">
-	<img src="includes/images/chapter2/carrot.png" alt="carrot" style="width:100px;height:100px">	
-	</div>
+	<div class="sectionContainer6">
+		<!- image and week# ->
+		<div class="plant_circle">
+		<img src="includes/images/chapter2/carrot.png" alt="carrot" style="width:100px;height:100px">	
+		</div>
 		
-	<div class="weekNum">	
-	<p>21 weeks<p>
-	</div>
-	<div class="ch2text">
-	<p class="tabbedch2">The baby’s movement has changed and becomes stronger with kicks and jabs against the walls of the womb. The baby is the length of a carrot.</p><!- interesting fact goes here ->
+		<div class="weekNum">	
+		<p>21 weeks<p>
+		</div>
+		<div class="ch2text">
+		<p class="tabbedch2">The baby’s movement has changed and becomes stronger with kicks and jabs against the walls of the womb. The baby is the length of a carrot.</p><!- interesting fact goes here ->
+		</div>
 	</div>
 
-	<!- image and week# ->
-	<div class="plant_circle">
-	<img src="includes/images/chapter2/spaghettiSquash.png" alt="spaghetti squash" style="width:100px;height:100px">	
-	</div>
+	<div class="sectionContainer6">
+		<!- image and week# ->
+		<div class="plant_circle">
+		<img src="includes/images/chapter2/spaghettiSquash.png" alt="spaghetti squash" style="width:100px;height:100px">	
+		</div>
 		
-	<div class="weekNum">	
-	<p>22 weeks<p>
-	</div>
-	<div class="ch2text">
-	<p class="tabbedch2">The baby’s features are now more distinct, such as lips and eyebrows have more definition. The baby is now the size of a spaghetti squash.</p>
+		<div class="weekNum">	
+		<p>22 weeks<p>
+		</div>
+		<div class="ch2text">
+		<p class="tabbedch2">The baby’s features are now more distinct, such as lips and eyebrows have more definition. The baby is now the size of a spaghetti squash.</p>
+		</div>
 	</div>
 
-	<!- image and week# ->
-	<div class="plant_circle">
-	<img src="includes/images/chapter2/mango.png" alt="mango" style="width:100px;height:100px">	
-	</div>
+	<div class="sectionContainer6">
+		<!- image and week# ->
+		<div class="plant_circle">
+		<img src="includes/images/chapter2/mango.png" alt="mango" style="width:100px;height:100px">	
+		</div>
 		
-	<div class="weekNum">	
-	<p>23 weeks<p>
-	</div>
-	<div class="ch2text">
-	<p class="tabbedch2">The baby is now the size of a large mango.</p><!- interesting fact goes here ->
+		<div class="weekNum">	
+		<p>23 weeks<p>
+		</div>
+		<div class="ch2text">
+		<p class="tabbedch2">The baby is now the size of a large mango.</p><!- interesting fact goes here ->
+		</div>
 	</div>
 
-	<!- image and week# ->
-	<div class="plant_circle">
-	<img src="includes/images/chapter2/corn.png" alt="corn" style="width:100px;height:100px">	
-	</div>
+	<div class="sectionContainer6">
+		<!- image and week# ->
+		<div class="plant_circle">
+		<img src="includes/images/chapter2/corn.png" alt="corn" style="width:100px;height:100px">	
+		</div>
 		
-	<div class="weekNum">	
-	<p>24 weeks<p>
-	</div>
-	<div class="ch2text">
-	<p class="tabbedch2">The baby is long and slim in its figure but the skin is still thin and translucent. The baby is now the size of an ear of corn.</p>
+		<div class="weekNum">	
+		<p>24 weeks<p>
+		</div>
+		<div class="ch2text">
+		<p class="tabbedch2">The baby is long and slim in its figure but the skin is still thin and translucent. The baby is now the size of an ear of corn.</p>
+		</div>
 	</div>
 
-	<!- image and week# ->
-	<div class="plant_circle">
-	<img src="includes/images/chapter2/rutabaga.png" alt="rutabaga" style="width:100px;height:100px">	
-	</div>
+	<div class="sectionContainer6">
+		<!- image and week# ->
+		<div class="plant_circle">
+		<img src="includes/images/chapter2/rutabaga.png" alt="rutabaga" style="width:100px;height:100px">	
+		</div>
 		
-	<div class="weekNum">	
-	<p>25 weeks<p>
-	</div>
-	<div class="ch2text">
-	<p class="tabbedch2">The baby is starting to fill in its wrinkly skin with baby fat and resembling more of a newborn. The baby’s hair is starting to come in and have both color and texture. The baby now weighs around the same as an average rutabaga.</p>
+		<div class="weekNum">	
+		<p>25 weeks<p>
+		</div>
+		<div class="ch2text">
+		<p class="tabbedch2">The baby is starting to fill in its wrinkly skin with baby fat and resembling more of a newborn. The baby’s hair is starting to come in and have both color and texture. The baby now weighs around the same as an average rutabaga.</p>
+		</div>
 	</div>
 
-	<!- image and week# ->
-	<div class="plant_circle">
-	<img src="includes/images/chapter2/scallions.png" alt="scallion" style="width:100px;height:100px">	
-	</div>
+	<div class="sectionContainer6">
+		<!- image and week# ->
+		<div class="plant_circle">
+		<img src="includes/images/chapter2/scallions.png" alt="scallion" style="width:100px;height:100px">	
+		</div>
 		
-	<div class="weekNum">	
-	<p>26 weeks<p>
-	</div>
-	<div class="ch2text">
-	<p class="tabbedch2">The baby inhales and exhales amniotic fluid, this helps develop the lungs in preparation for birth when the baby will have to breathe air. The baby is now the size of a bunch of scallions.</p>
+		<div class="weekNum">	
+		<p>26 weeks<p>
+		</div>
+		<div class="ch2text">
+		<p class="tabbedch2">The baby inhales and exhales amniotic fluid, this helps develop the lungs in preparation for birth when the baby will have to breathe air. The baby is now the size of a bunch of scallions.</p>
+		</div>
 	</div>
 
-	<!- image and week# ->
-	<div class="plant_circle">
-	<img src="includes/images/chapter2/cauliflower.png" alt="cauliflower" style="width:100px;height:100px">	
-	</div>
+	<div class="sectionContainer6">
+		<!- image and week# ->
+		<div class="plant_circle">
+		<img src="includes/images/chapter2/cauliflower.png" alt="cauliflower" style="width:100px;height:100px">	
+		</div>
 		
-	<div class="weekNum">	
-	<p>27 weeks<p>
-	</div>
-	<div class="ch2text">
-	<p class="tabbedch2">The baby has now developed a circadian rhythm for sleeping and its brain is very active. The baby is now the size of a head of cauliflower.</p><!- interesting fact goes here ->
+		<div class="weekNum">	
+		<p>27 weeks<p>
+		</div>
+		<div class="ch2text">
+		<p class="tabbedch2">The baby has now developed a circadian rhythm for sleeping and its brain is very active. The baby is now the size of a head of cauliflower.</p><!- interesting fact goes here ->
+		</div>
 	</div>
 
 	<a NAME="3rd_trimester"></a>
 	<h3>3rd Trimester</h3>
 
-	<!- image and week# ->
-	<div class="plant_circle">
-	<img src="includes/images/chapter2/eggplant.png" alt="eggplant" style="width:100px;height:100px">	
-	</div>
+	<div class="sectionContainer6">
+		<!- image and week# ->
+		<div class="plant_circle">
+		<img src="includes/images/chapter2/eggplant.png" alt="eggplant" style="width:100px;height:100px">	
+		</div>
 		
-	<div class="weekNum">	
-	<p>28 weeks<p>
-	</div>
-	<div class="ch2text">
-	<p class="tabbedch2">The baby has started developing eyesight allowing more light recognition, it’s eyelids can now blink and the eyelashes are fully grown. The baby is now the size of a large eggplant.</p>
+		<div class="weekNum">	
+		<p>28 weeks<p>
+		</div>
+		<div class="ch2text">
+		<p class="tabbedch2">The baby has started developing eyesight allowing more light recognition, it’s eyelids can now blink and the eyelashes are fully grown. The baby is now the size of a large eggplant.</p>
+		</div>
 	</div>
 
-	<!- image and week# ->
-	<div class="plant_circle">
-	<img src="includes/images/chapter2/butternutSquash.png" alt="butternut squash" style="width:100px;height:100px">	
-	</div>
+	<div class="sectionContainer6">
+		<!- image and week# ->
+		<div class="plant_circle">
+		<img src="includes/images/chapter2/butternutSquash.png" alt="butternut squash" style="width:100px;height:100px">	
+		</div>
 		
-	<div class="weekNum">	
-	<p>29 weeks<p>
-	</div>
-	<div class="ch2text">
-	<p class="tabbedch2">The baby’s head is growing larger for it’s developing brain, muscles and lungs are preparing for life outside the womb. The baby is now the size of a butternut squash.</p>
+		<div class="weekNum">	
+		<p>29 weeks<p>
+		</div>
+		<div class="ch2text">
+		<p class="tabbedch2">The baby’s head is growing larger for it’s developing brain, muscles and lungs are preparing for life outside the womb. The baby is now the size of a butternut squash.</p>
+		</div>
 	</div>
 
-	<!- image and week# ->
-	<div class="plant_circle">
-	<img src="includes/images/chapter2/cabbage.png" alt="cabbage" style="width:100px;height:100px">	
-	</div>
+	<div class="sectionContainer6">
+		<!- image and week# ->
+		<div class="plant_circle">
+		<img src="includes/images/chapter2/cabbage.png" alt="cabbage" style="width:100px;height:100px">	
+		</div>
 		
-	<div class="weekNum">	
-	<p>30 weeks<p>
-	</div>
-	<div class="ch2text">
-	<p class="tabbedch2">The baby is still growing there is only 1 and ½ pints of amniotic fluid surrounding it now. The baby is the size of a large cabbage.</p>
+		<div class="weekNum">	
+		<p>30 weeks<p>
+		</div>
+		<div class="ch2text">
+		<p class="tabbedch2">The baby is still growing there is only 1 and ½ pints of amniotic fluid surrounding it now. The baby is the size of a large cabbage.</p>
+		</div>
 	</div>
 
-	<!- image and week# ->
-	<div class="plant_circle">
-	<img src="includes/images/chapter2/coconut.png" alt="coconut" style="width:100px;height:100px">	
-	</div>
+	<div class="sectionContainer6">
+		<!- image and week# ->
+		<div class="plant_circle">
+		<img src="includes/images/chapter2/coconut.png" alt="coconut" style="width:100px;height:100px">	
+		</div>
 		
-	<div class="weekNum">	
-	<p>31 weeks<p>
-	</div>
-	<div class="ch2text">
-	<p class="tabbedch2">The baby now has enough control and strength to move its head from side to side, a layer of protective fat has developed throughout its body. The baby is now the size of a coconut.</p>
+		<div class="weekNum">	
+		<p>31 weeks<p>
+		</div>
+		<div class="ch2text">
+		<p class="tabbedch2">The baby now has enough control and strength to move its head from side to side, a layer of protective fat has developed throughout its body. The baby is now the size of a coconut.</p>
+		</div>
 	</div>
 
-	<!- image and week# ->
-	<div class="plant_circle">
-	<img src="includes/images/chapter2/jicama.png" alt="jicama" style="width:100px;height:100px">	
-	</div>
+	<div class="sectionContainer6">
+		<!- image and week# ->
+		<div class="plant_circle">
+		<img src="includes/images/chapter2/jicama.png" alt="jicama" style="width:100px;height:100px">	
+		</div>
 		
-	<div class="weekNum">	
-	<p>32 weeks<p>
-	</div>
-	<div class="ch2text">
-	<p class="tabbedch2">The baby is now going to start gaining ⅓ to ½ of its birth weight in the next seven weeks. The baby is now the size of a large jicama.</p><!- interesting fact goes here ->
+		<div class="weekNum">	
+		<p>32 weeks<p>
+		</div>
+		<div class="ch2text">
+		<p class="tabbedch2">The baby is now going to start gaining ⅓ to ½ of its birth weight in the next seven weeks. The baby is now the size of a large jicama.</p><!- interesting fact goes here ->
+		</div>
 	</div>
 
-	<!- image and week# ->
-	<div class="plant_circle">
-	<img src="includes/images/chapter2/pineapple.png" alt="pineapple" style="width:100px;height:100px">	
-	</div>
+	<div class="sectionContainer6">
+		<!- image and week# ->
+		<div class="plant_circle">
+		<img src="includes/images/chapter2/pineapple.png" alt="pineapple" style="width:100px;height:100px">	
+		</div>
 		
-	<div class="weekNum">	
-	<p>33 weeks<p>
-	</div>
-	<div class="ch2text">
-	<p>The baby is now the size of a pineapple.</p><!- interesting fact goes here ->
+		<div class="weekNum">	
+		<p>33 weeks<p>
+		</div>
+		<div class="ch2text">
+		<p>The baby is now the size of a pineapple.</p><!- interesting fact goes here ->
+		</div>
 	</div>
 
-	<!- image and week# ->
-	<div class="plant_circle">
-	<img src="includes/images/chapter2/cantaloupe.png" alt="cantaloupe" style="width:100px;height:100px">	
-	</div>
+	<div class="sectionContainer6">
+		<!- image and week# ->
+		<div class="plant_circle">
+		<img src="includes/images/chapter2/cantaloupe.png" alt="cantaloupe" style="width:100px;height:100px">	
+		</div>
 		
-	<div class="weekNum">	
-	<p>34 weeks<p>
-	</div>
-	<div class="ch2text">
-	<p class="tabbedch2">The baby’s lungs and central nervous system are maturing. The baby can now be born as long as there are no other health problems. The baby is now the size of a cantaloupe.</p>
+		<div class="weekNum">	
+		<p>34 weeks<p>
+		</div>
+		<div class="ch2text">
+		<p class="tabbedch2">The baby’s lungs and central nervous system are maturing. The baby can now be born as long as there are no other health problems. The baby is now the size of a cantaloupe.</p>
+		</div>
 	</div>
 
-	<!- image and week# ->
-	<div class="plant_circle">
-	<img src="includes/images/chapter2/honeydew.png" alt="honeydew melon" style="width:100px;height:100px">	
-	</div>
-		
-	<div class="weekNum">	
-	<p>35 weeks<p>
-	</div>
-	<div class="ch2text">
-	<p class="tabbedch2">The baby’s kidneys are now fully developed and the liver can process some waste products. The baby is now the size of a honeydew melon.</p>
-	</div>
-
-	<!- image and week# ->
-	<div class="plant_circle">
-	<img src="includes/images/chapter2/romaineLettuce.png" alt="romain lettuce" style="width:100px;height:100px">	
-	</div>
-		
-	<div class="weekNum">	
-	<p>36 weeks<p>
-	</div>
-	<div class="ch2text">
-	<p class="tabbedch2">The baby now gains about 1 once each day in weight. The Vernix Casosa, the waxy substance that used to protect its skin, is being shed. The baby is now the size of a head of romaine lettuce.</p>
+	<div class="sectionContainer6">
+		<!- image and week# ->
+		<div class="plant_circle">
+		<img src="includes/images/chapter2/honeydew.png" alt="honeydew melon" style="width:100px;height:100px">	
+		</div>
+	
+		<div class="weekNum">	
+		<p>35 weeks<p>
+		</div>
+		<div class="ch2text">
+		<p class="tabbedch2">The baby’s kidneys are now fully developed and the liver can process some waste products. The baby is now the size of a honeydew melon.</p>
+		</div>
 	</div>
 
-	<!- image and week# ->
-	<div class="plant_circle">
-	<img src="includes/images/chapter2/swissChard.png" alt="swiss chard" style="width:100px;height:100px">	
-	</div>
+	<div class="sectionContainer6">
+		<!- image and week# ->
+		<div class="plant_circle">
+		<img src="includes/images/chapter2/romaineLettuce.png" alt="romain lettuce" style="width:100px;height:100px">	
+		</div>
 		
-	<div class="weekNum">	
-	<p>37 weeks<p>
-	</div>
-	<div class="ch2text">
-	<p class="tabbedch2">The baby’s lungs and brains begin their final maturation phase. The baby is now the size of a Swiss chard.</p>
+		<div class="weekNum">	
+		<p>36 weeks<p>
+		</div>
+		<div class="ch2text">
+		<p class="tabbedch2">The baby now gains about 1 once each day in weight. The Vernix Casosa, the waxy substance that used to protect its skin, is being shed. The baby is now the size of a head of romaine lettuce.</p>
+		</div>
 	</div>
 
-	<!- image and week# ->
-	<div class="plant_circle">
-	<img src="includes/images/chapter2/leek.png" alt="leek" style="width:100px;height:100px">	
-	</div>
+	<div class="sectionContainer6">
+		<!- image and week# ->
+		<div class="plant_circle">
+		<img src="includes/images/chapter2/swissChard.png" alt="swiss chard" style="width:100px;height:100px">	
+		</div>
 		
-	<div class="weekNum">	
-	<p>38 weeks<p>
+		<div class="weekNum">	
+		<p>37 weeks<p>
+		</div>
+		<div class="ch2text">
+		<p class="tabbedch2">The baby’s lungs and brains begin their final maturation phase. The baby is now the size of a Swiss chard.</p>
+		</div>
 	</div>
-	<div class="ch2text">
-	<p class="tabbedch2">The baby is now the size of a leek.</p>
+
+	<div class="sectionContainer6">	
+		<!- image and week# ->
+		<div class="plant_circle">
+		<img src="includes/images/chapter2/leek.png" alt="leek" style="width:100px;height:100px">	
+		</div>
+		
+		<div class="weekNum">	
+		<p>38 weeks<p>
+		</div>
+		<div class="ch2text">
+		<p class="tabbedch2">The baby is now the size of a leek.</p>
+		</div>
 	</div>
 
 	<a NAME="turning_full_term"></a>
 	<h3>Turning Full Term</h3>
 
-	<!- image and week# ->
-	<div class="plant_circle">
-	<img src="includes/images/chapter2/watermelon.png" alt="watermelon" style="width:100px;height:100px">	
-	</div>
+	<div class="sectionContainer6">
+		<!- image and week# ->
+		<div class="plant_circle">
+		<img src="includes/images/chapter2/watermelon.png" alt="watermelon" style="width:100px;height:100px">	
+		</div>
 		
-	<div class="weekNum">	
-	<p>39 weeks<p>
-	</div>
-	<div class="ch2text">
-	<p class="tabbedch2">The baby’s physical developments are complete and the baby is considered full term. The baby is now the size of a mini watermelon.</p>
+		<div class="weekNum">	
+		<p>39 weeks<p>
+		</div>
+		<div class="ch2text">
+		<p class="tabbedch2">The baby’s physical developments are complete and the baby is considered full term. The baby is now the size of a mini watermelon.</p>
+		</div>
 	</div>
 
-	<!- image and week# ->
-	<div class="plant_circle">
-	<img src="includes/images/chapter2/pumpkin.png" alt="pumpkin" style="width:100px;height:100px">	
-	</div>
+	<div class="sectionContainer6">
+		<!- image and week# ->
+		<div class="plant_circle">
+		<img src="includes/images/chapter2/pumpkin.png" alt="pumpkin" style="width:100px;height:100px">	
+		</div>
 		
-	<div class="weekNum">	
-	<p>40 weeks<p>
-	</div>
-	<div class="ch2text">
-	<p class="tabbedch2">The baby is now the size of a small pumpkin.</p>
+		<div class="weekNum">	
+		<p>40 weeks<p>
+		</div>
+		<div class="ch2text">
+		<p class="tabbedch2">The baby is now the size of a small pumpkin.</p>
+		</div>
 	</div>
 
 	<!- image and week# ->
