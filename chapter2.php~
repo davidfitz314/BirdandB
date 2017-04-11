@@ -210,7 +210,7 @@
 		</div>
 	</div>
 
-	
+	<br>
 	<a NAME="2nd_trimester"></a>
 	<h3>2nd Trimester</h3>
 
@@ -410,6 +410,7 @@
 		</div>
 	</div>
 
+	<br>
 	<a NAME="3rd_trimester"></a>
 	<h3>3rd Trimester</h3>
 
@@ -567,6 +568,7 @@
 		</div>
 	</div>
 
+	<br>
 	<a NAME="turning_full_term"></a>
 	<h3>Turning Full Term</h3>
 
