@@ -100,28 +100,28 @@
 	<div class="sectionContainer6">
 		<!- image and week# ->
 		<div class="plant_circle">
-		<img src="includes/images/chapter2/lentil.png" alt="lentil" style="width:100px;height:100px">	
+			<img src="includes/images/chapter2/lentil.png" alt="lentil" style="width:100px;height:100px">	
 		</div>
 		
 		<div class="weekNum">	
-		<p>6 weeks<p>
+			<p>6 weeks<p>
 		</div>
 		<div class="ch2text">
-		<p class="tabbedch2">The baby’s facial features (nose, mouth, and ears), brain, and intestines are beginning to develop. The baby is now the size of a lentil.</p>
+			<p class="tabbedch2">The baby’s facial features (nose, mouth, and ears), brain, and intestines are beginning to develop. The baby is now the size of a lentil.</p>
 		</div>
 	</div>
 
 	<div class="sectionContainer6">
 		<!- image and week# ->
 		<div class="plant_circle">
-		<img src="includes/images/chapter2/blueberry.png" alt="blue berry" style="width:100px;height:100px">	
+			<img src="includes/images/chapter2/blueberry.png" alt="blue berry" style="width:100px;height:100px">	
 		</div>
 		
 		<div class="weekNum">	
-		<p>7 weeks<p>
+			<p>7 weeks<p>
 		</div>
 		<div class="ch2text">
-		<p class="tabbedch2">The baby still has a tail but its size has doubled since last week and the tail will soon disappear. Arms and legs begin developing alongside of hands and feet which resemble paddles in shape. The baby is now the size of a blueberry.</p>
+			<p class="tabbedch2">The baby still has a tail but its size has doubled since last week and the tail will soon disappear. Arms and legs begin developing alongside of hands and feet which resemble paddles in shape. The baby is now the size of a blueberry.</p>
 		</div>
 	</div>
 
@@ -129,84 +129,84 @@
 	<div class="sectionContainer6">
 		<!- image and week# ->
 		<div class="plant_circle">
-		<img src="includes/images/chapter2/kidneyBean.png" alt="kidneybean" style="width:100px;height:100px">	
+			<img src="includes/images/chapter2/kidneyBean.png" alt="kidneybean" style="width:100px;height:100px">	
 		</div>
 		
 		<div class="weekNum">	
-		<p>8 weeks<p>
+			<p>8 weeks<p>
 		</div>
 		<div class="ch2text">
-		<p class="tabbedch2">The baby begins moving around but not enough for the mother to feel it yet. Primitive neural pathways are formed from Nerve cells branching out. The lungs have begun developing alongside of breathing tubes in the throat. The baby is now the size of a kidney bean or about ½ an inch long.</p>
+			<p class="tabbedch2">The baby begins moving around but not enough for the mother to feel it yet. Primitive neural pathways are formed from Nerve cells branching out. The lungs have begun developing alongside of breathing tubes in the throat. The baby is now the size of a kidney bean or about ½ an inch long.</p>
 		</div>
 	</div>
 
 	<div class="sectionContainer6">
 		<!- image and week# ->
 		<div class="plant_circle">
-		<img src="includes/images/chapter2/grape.png" alt="grape" style="width:100px;height:100px">	
+			<img src="includes/images/chapter2/grape.png" alt="grape" style="width:100px;height:100px">	
 		</div>
 		
 		<div class="weekNum">	
-		<p>9 weeks<p>
+			<p>9 weeks<p>
 		</div>
 		<div class="ch2text">
-		<p class="tabbedch2">The baby’s embryonic tail has disappeared and most of it’s basic physiology is in place (earlobes, nose, mouth, and more). The baby’s weight is a fraction of an ounce and is the size of a grape.</p>
+			<p class="tabbedch2">The baby’s embryonic tail has disappeared and most of it’s basic physiology is in place (earlobes, nose, mouth, and more). The baby’s weight is a fraction of an ounce and is the size of a grape.</p>
 		</div>
 	</div>
 
 	<div class="sectionContainer6">
 		<!- image and week# ->
 		<div class="plant_circle">
-		<img src="includes/images/chapter2/kumquat.png" alt="kumquat" style="width:100px;height:100px">	
+			<img src="includes/images/chapter2/kumquat.png" alt="kumquat" style="width:100px;height:100px">	
 		</div>
 		
 		<div class="weekNum">	
-		<p>10 weeks<p>
+			<p>10 weeks<p>
 		</div>
 		<div class="ch2text">
-		<p class="tabbedch2">The baby has translucent skin and limbs that can bend, finer details like nails are starting to form. The baby is the size of a kumquat.</p>
+			<p class="tabbedch2">The baby has translucent skin and limbs that can bend, finer details like nails are starting to form. The baby is the size of a kumquat.</p>
 		</div>
 	</div>
 
 	<div class="sectionContainer6">
 		<!- image and week# ->
 		<div class="plant_circle">
-		<img src="includes/images/chapter2/fig.png" alt="fig" style="width:100px;height:100px">	
+			<img src="includes/images/chapter2/fig.png" alt="fig" style="width:100px;height:100px">	
 		</div>
 		
 		<div class="weekNum">	
-		<p>11 weeks<p>
+			<p>11 weeks<p>
 		</div>
 		<div class="ch2text">
-		<p class="tabbedch2">The baby has almost fully formed, movement from limbs stretching and kicking are now happening. The diaphragm is developing and can even produce hiccups. The baby is the size of a fig.</p>
+			<p class="tabbedch2">The baby has almost fully formed, movement from limbs stretching and kicking are now happening. The diaphragm is developing and can even produce hiccups. The baby is the size of a fig.</p>
 		</div>
 	</div>
 
 	<div class="sectionContainer6">
 		<!- image and week# ->
 		<div class="plant_circle">
-		<img src="includes/images/chapter2/lime.png" alt="lime" style="width:100px;height:100px">	
+			<img src="includes/images/chapter2/lime.png" alt="lime" style="width:100px;height:100px">	
 		</div>
 		
 		<div class="weekNum">	
-		<p>12 weeks<p>
+			<p>12 weeks<p>
 		</div>
 		<div class="ch2text">
-		<p class="tabbedch2">The baby’s reflexes begin working, fingers and toes will open and close and the baby’s mouth will make sucking movements. At this time the baby can feel a poke from the outside of the stomach, but the mother will not be able to feel the baby’s movements yet. The baby is the size of a lime.</p>
+			<p class="tabbedch2">The baby’s reflexes begin working, fingers and toes will open and close and the baby’s mouth will make sucking movements. At this time the baby can feel a poke from the outside of the stomach, but the mother will not be able to feel the baby’s movements yet. The baby is the size of a lime.</p>
 		</div>
 	</div>
 
 	<div class="sectionContainer6">
 		<!- image and week# ->
 		<div class="plant_circle">
-		<img src="includes/images/chapter2/peas.png" alt="pea pod" style="width:100px;height:100px">	
+			<img src="includes/images/chapter2/peas.png" alt="pea pod" style="width:100px;height:100px">	
 		</div>
 		
 		<div class="weekNum">	
-		<p>13 weeks<p>
+			<p>13 weeks<p>
 		</div>
 		<div class="ch2text">
-		<p class="tabbedch2">The baby’s fingers now have fingerprints and the veins and organs can clearly be seen through the skin. The baby is the length of a pea pod.</p><!- interesting fact goes here ->
+			<p class="tabbedch2">The baby’s fingers now have fingerprints and the veins and organs can clearly be seen through the skin. The baby is the length of a pea pod.</p><!- interesting fact goes here ->
 		</div>
 	</div>
 
@@ -217,84 +217,84 @@
 	<div class="sectionContainer6">	
 	<!- image and week# ->
 		<div class="plant_circle">
-		<img src="includes/images/chapter2/lemon.png" alt="lemon" style="width:100px;height:100px">	
+			<img src="includes/images/chapter2/lemon.png" alt="lemon" style="width:100px;height:100px">	
 		</div>
 		
 		<div class="weekNum">	
-		<p>14 weeks<p>
+			<p>14 weeks<p>
 		</div>
 		<div class="ch2text">
-		<p class="tabbedch2">The baby can now use facial muscles, brain impulses have begun firing, and the babies kidney are now working. The baby is the size of a lemon.</p><!- interesting fact goes here ->
+			<p class="tabbedch2">The baby can now use facial muscles, brain impulses have begun firing, and the babies kidney are now working. The baby is the size of a lemon.</p><!- interesting fact goes here ->
 		</div>
 	</div>
 
 	<div class="sectionContainer6">
 		<!- image and week# ->
 		<div class="plant_circle">
-		<img src="includes/images/chapter2/apple.png" alt="apple" style="width:100px;height:100px">	
+			<img src="includes/images/chapter2/apple.png" alt="apple" style="width:100px;height:100px">	
 		</div>
 		
 		<div class="weekNum">	
-		<p>15 weeks<p>
+			<p>15 weeks<p>
 		</div>
 		<div class="ch2text">
-		<p class="tabbedch2">The baby can sense light but the eyelids are still fused shut. At this week ultrasounds may reveal the sex of the baby and the baby is now the size of an apple.</p>
+			<p class="tabbedch2">The baby can sense light but the eyelids are still fused shut. At this week ultrasounds may reveal the sex of the baby and the baby is now the size of an apple.</p>
 		</div>
 	</div>
 
 	<div class="sectionContainer6">
 		<!- image and week# ->
 		<div class="plant_circle">
-		<img src="includes/images/chapter2/avocado.png" alt="avocado" style="width:100px;height:100px">	
+			<img src="includes/images/chapter2/avocado.png" alt="avocado" style="width:100px;height:100px">	
 		</div>
 		
 		<div class="weekNum">	
-		<p>16 weeks<p>
+			<p>16 weeks<p>
 		</div>
 		<div class="ch2text">
-		<p class="tabbedch2">The baby’s hair isn’t visible yet but patterning on the baby scalp has begun for it to start growing. The baby’s legs are more developed and moving, the head is more upright and the ears are almost in their final position. The baby is the size of an avocado.</p>
+			<p class="tabbedch2">The baby’s hair isn’t visible yet but patterning on the baby scalp has begun for it to start growing. The baby’s legs are more developed and moving, the head is more upright and the ears are almost in their final position. The baby is the size of an avocado.</p>
 		</div>
 	</div>
 
 	<div class="sectionContainer6">
 		<!- image and week# ->
 		<div class="plant_circle">
-		<img src="includes/images/chapter2/turnip.png" alt="turnip" style="width:100px;height:100px">	
+			<img src="includes/images/chapter2/turnip.png" alt="turnip" style="width:100px;height:100px">	
 		</div>
 		
 		<div class="weekNum">	
-		<p>17 weeks<p>
+			<p>17 weeks<p>
 		</div>
 		<div class="ch2text">
-		<p class="tabbedch2">The baby’s formerly soft cartilage is now hardening into bone, the umbilical cord is growing stronger and thicker and the baby can now move its joints. The baby is the size of a turnip.</p>
+			<p class="tabbedch2">The baby’s formerly soft cartilage is now hardening into bone, the umbilical cord is growing stronger and thicker and the baby can now move its joints. The baby is the size of a turnip.</p>
 		</div>
 	</div>
 
 	<!- image and week# ->
-	<div class="sectionContainer">
+	<div class="sectionContainer6">
 		<div class="plant_circle">
-		<img src="includes/images/chapter2/bellPepper.png" alt="bell pepper" style="width:100px;height:100px">	
+			<img src="includes/images/chapter2/bellPepper.png" alt="bell pepper" style="width:100px;height:100px">	
 		</div>
 		
 		<div class="weekNum">	
-		<p>18 weeks<p>
+			<p>18 weeks<p>
 		</div>
 		<div class="ch2text">
-		<p class="tabbedch2">The baby is forming an internal protective coating of myelin around its nerves and the baby’s body is more prone to moving around. The baby is now the size of a bell pepper.</p>
+			<p class="tabbedch2">The baby is forming an internal protective coating of myelin around its nerves and the baby’s body is more prone to moving around. The baby is now the size of a bell pepper.</p>
 		</div>
 	</div>
 
 	<div class="sectionContainer6">
 		<!- image and week# ->
 		<div class="plant_circle">
-		<img src="includes/images/chapter2/tomato.png" alt="heirloom tomato" style="width:100px;height:100px">	
+			<img src="includes/images/chapter2/tomato.png" alt="heirloom tomato" style="width:100px;height:100px">	
 		</div>
 		
 		<div class="weekNum">	
-		<p>19 weeks<p>
+			<p>19 weeks<p>
 		</div>
 		<div class="ch2text">
-		<p class="tabbedch2">The baby is developing its sense of smell, vision, taste, touch, and hearing now. The baby is now the size of an heirloom tomato</p>
+			<p class="tabbedch2">The baby is developing its sense of smell, vision, taste, touch, and hearing now. The baby is now the size of an heirloom tomato</p>
 		</div>
 	</div>
 
