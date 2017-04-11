@@ -505,18 +505,15 @@ h3 {
 }
 
 .weekNum {
-	width: 90px;
-	height: 90px;
-	/*background-image: url("images/chapter2/circle.png");
-	background-size: contain;
-	background-repeat: no-repeat;*/
-	text-align: center;
+	text-align: left;
+	font-weight: bold;
+	font-family:
 	margin-left: 5%;
 	margin: 7px 10px 10px 10px;
 }
 
 .weekNum p {
-	padding: 15%;
+	margin-left: 5%;
 	/*font-size: 105%;*/
 }
 
