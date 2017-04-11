@@ -714,12 +714,23 @@ h3 {
 }
 
 .ch8Images {
-	width: 70%;
+	width: 50%;
 	height: auto;
 	text-align:center;
 }
 
 .ch8Images img {
+	width: 100%;
+	height: auto;
+}
+
+.ch8ImagesB {
+	width: 70%;
+	height: auto;
+	text-align:right;
+}
+
+.ch8ImagesB img {
 	width: 100%;
 	height: auto;
 }
