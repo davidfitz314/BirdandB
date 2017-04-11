@@ -67,7 +67,7 @@ p {
 .cHeadCells {
 	text-align: left;
 	float:left;
-	padding-top: 97px;
+	padding-top: 10%;
 	margin-left: 3.5%;
 }
 
@@ -82,9 +82,8 @@ p {
 
 .searchBarC {
 	float: right;
-	margin-top: 10%;
+	margin-top: 9%;
 }
-
 .searchBarC form{
 	/*modify later?*/
 }
