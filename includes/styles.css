@@ -1097,10 +1097,9 @@ h3 {
 /* chapter 14 section */
 .chapter14Text {
 	width: 75%;
-	margin-left: 25%;
 	line-height: 150%;
 	text-align: left;
-	margin: 0 0 5% 0;
+	margin: 0 0 10% 25%;
 }
 
 .chapter14Text ul {
