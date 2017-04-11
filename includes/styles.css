@@ -408,15 +408,18 @@ h3 {
 	color: black;
 }
 
+.chapter1Text a:hover {
+	font-size: 125%;
+}
+
 .chapter1chaptersheader {
 	background-color:#91A8d0;
 	color: white;
 	text-align:center;
-	height: 100px;
-	padding-top: 15%;
-	padding-bottom: 5%;
+	padding-top: 9%;
+	padding-bottom: 9%;
 	padding-left: 3%;
-	padding-right: 5%;
+	padding-right: 3%;
 }
 
 .ch1group1 {
