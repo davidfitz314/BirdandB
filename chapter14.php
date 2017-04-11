@@ -146,351 +146,342 @@
 
 	<div class="sectionContainer">
 		<div class="ch14group1">
-			<p></p>
+			<p>Fetal development week by week - Photo Gallery. (n.d.). Retrieved January 20, 2017, from https://www.babycenter.com/fetal-development-week-by-week
+BabyCenter, L.L.C.</p>
 		</div>
 
 		<div class="ch14group2">
-			<p></p>
+			<p>Fetish. (n.d.). Retrieved February 16, 2017, from https://www.merriam-webster.com/dictionary/fetish</p>
 		</div>
 
 		<div class="ch14group3">
-			<p></p>
+			<p>Foucalt, M. (n.d.). The History of Sexuality: An Introduction, Volume 1. Retrieved February 16, 2017, from http://www.sparknotes.com/philosophy/histofsex/summary.html</p>
 		</div>
 	</div>
 
 	<div class="sectionContainer">
 		<div class="ch14group1">
-			<p></p>
+			<p>Gain More Value from Your Healthcare Website. (n.d.). Retrieved January 20, 2017, from http://www.nucleushealth.com/?utm_source=youtube&utm_medium=video-description&utm_campaign=fertile-013113</p>
 		</div>
 
 		<div class="ch14group2">
-			<p></p>
+			<p>Gartee, M. (2015, March 10). 5 Weird (But Totally Normal) Side Effects of Sex. Retrieved February 05, 2017, from http://www.shape.com/lifestyle/sex-and-love/5-embarrassing-normal-side-effects-sex</p>
 		</div>
 
 		<div class="ch14group3">
-			<p></p>
+			<p>Google. (n.d.). Define Orgasm. Retrieved February 06, 2017, from https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=define%20orgasm</p>
 		</div>
 	</div>
 
 	<div class="sectionContainer">
 		<div class="ch14group1">
-			<p></p>
+			<p>Google -Define Love. (n.d.). Retrieved February 05, 2017, from https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=define love</p>
 		</div>
 
 		<div class="ch14group2">
-			<p></p>
+			<p>Google -Define Sexuality. (n.d.). Retrieved February 02, 2017, from https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=sexuality definition</p>
 		</div>
 
 		<div class="ch14group3">
-			<p></p>
+			<p>Greenfeld, L., Ph.D. (2013, June 27). Women And Sex. Retrieved February 05, 2017, from https://www.psychologytoday.com/blog/the-modern-mind/201306/women-and-sex</p>
 		</div>
 	</div>
 
 	<div class="sectionContainer">
 		<div class="ch14group1">
-			<p></p>
+			<p>Human nature. (2017, March 26). Retrieved January 27, 2017, from https://en.wikipedia.org/wiki/Human_nature</p>
 		</div>
 
 		<div class="ch14group2">
-			<p></p>
+			<p>Human sexual activity. (2017, April 06). Retrieved February 05, 2017, from https://en.wikipedia.org/wiki/Human_sexual_activity</p>
 		</div>
 
 		<div class="ch14group3">
-			<p></p>
+			<p>Humanity Sayings and Humanity Quotes | Wise Old Sayings. (n.d.). Retrieved February 16, 2017, from http://www.wiseoldsayings.com/humanity-quotes/</p>
 		</div>
 	</div>
 
 	<div class="sectionContainer">
 		<div class="ch14group1">
-			<p></p>
+			<p>Introduction to attachment theory in developmental psychology, including Bowlby and Ainsworth's contributions, evaluation and criticisms of attachment theory. (n.d.). How Your Infant Attachments Can Affect You In Later Life. Retrieved March 02, 2017, from https://www.psychologistworld.com/developmental/attachment-theory.php</p>
 		</div>
 
 		<div class="ch14group2">
-			<p></p>
+			<p>Johnson, B. (2014, June 18). Top 10 Human Reflexes and Natural Instincts. Retrieved January 29, 2017, from http://listverse.com/2012/01/28/top-10-human-reflexes-and-natural-instincts/</p>
 		</div>
 
 		<div class="ch14group3">
-			<p></p>
+			<p>Kinsey Institute -Topics. (n.d.). Retrieved February 01, 2017, from https://www.kinseyinstitute.org/research/publications/faq.php</p>
 		</div>
 	</div>
 
 	<div class="sectionContainer">
 		<div class="ch14group1">
-			<p></p>
+			<p>Large, D. (2004, March). A BIOLOGICAL UNDERSTANDING OF HUMAN NATURE:. Retrieved January 29, 2017, from http://www.thegreatdebate.org.uk/OfB&ZDLPinkPrnt.html</p>
 		</div>
 
 		<div class="ch14group2">
-			<p></p>
+			<p>LeMind, A. (2013, July 01). 20 Interesting Facts You Didn't Know About Human Behavior. Retrieved March 13, 2017, from http://www.learning-mind.com/20-interesting-facts-you-didnt-know-about-human-behavior/</p>
 		</div>
 
 		<div class="ch14group3">
-			<p></p>
+			<p>Levine, D. (n.d.). The Sexual-Response Cycle: What Happens to Our Bodies During Sex. Retrieved February 05, 2017, from http://www.webmd.com/sex-relationships/features/sexual-response-cycle</p>
 		</div>
 	</div>
 
 	<div class="sectionContainer">
 		<div class="ch14group1">
-			<p></p>
+			<p>Li Yinhe. (n.d.). Retrieved February 16, 2017, from http://www.womenofchina.cn/womenofchina/html1/special/9/9485-1.htm</p>
 		</div>
 
 		<div class="ch14group2">
-			<p></p>
+			<p>Living with an STD. (n.d.). Retrieved February 16, 2017, from http://www.nakedtruth.idaho.gov/living-with-an-std.aspx</p>
 		</div>
 
 		<div class="ch14group3">
-			<p></p>
+			<p>Male Puberty | SexInfo Online. (2016, February 20). Retrieved January 20, 2017, from http://www.soc.ucsb.edu/sexinfo/article/male-puberty</p>
 		</div>
 	</div>
 
 	<div class="sectionContainer">
 		<div class="ch14group1">
-			<p></p>
+			<p>Mallikarjuna, K. (2014, July 09). 35 Eye-Opening Facts About Orgasms. Retrieved February 13, 2017, from https://www.buzzfeed.com/kmallikarjuna/eye-opening-facts-about-orgasms?utm_term=.ixL8pggNP#.pek7kzzjO</p>
 		</div>
 
 		<div class="ch14group2">
-			<p></p>
+			<p>Marsh, J. (2013, April 25). Sex & Sexuality. Retrieved February 16, 2017, from http://www.vam.ac.uk/content/articles/s/sex-and-sexuality-19th-century/</p>
 		</div>
 
 		<div class="ch14group3">
-			<p></p>
+			<p>Mary Ainsworth. (1970, January 01). Retrieved March 02, 2017, from http://www.simplypsychology.org/mary-ainsworth.html</p>
 		</div>
 	</div>
 
 	<div class="sectionContainer">
 		<div class="ch14group1">
-			<p></p>
+			<p>Mason, E. (n.d.). A brief history of sex and sexuality in Ancient Greece. Retrieved February 16, 2017, from http://www.historyextra.com/article/ancient-greece/brief-history-sex-and-sexuality-ancient-greece</p>
 		</div>
 
 		<div class="ch14group2">
-			<p></p>
+			<p>Mason, E. (n.d.). In bed with the Romans: a brief history of sex in Ancient Rome. Retrieved February 16, 2017, from http://www.historyextra.com/article/international-history/bed-romans-brief-history-sex-ancient-rome</p>
 		</div>
 
 		<div class="ch14group3">
-			<p></p>
+			<p>Masters and Johnson. (2017, February 15). Retrieved February 16, 2017, from https://en.wikipedia.org/wiki/Masters_and_Johnson</p>
 		</div>
 	</div>
 
 	<div class="sectionContainer">
 		<div class="ch14group1">
-			<p></p>
+			<p>Masters of Sex. (2017, February 15). Retrieved February 16, 2017, from https://en.wikipedia.org/wiki/Masters_of_Sex</p>
 		</div>
 
 		<div class="ch14group2">
-			<p></p>
+			<p>Medical Definition of Sexually transmitted infection. (n.d.). Retrieved February 16, 2017, from http://www.medicinenet.com/script/main/art.asp?articlekey=26192</p>
 		</div>
 
 		<div class="ch14group3">
-			<p></p>
+			<p>Meyer, K. (2016, April 10). Designing for Young Adults (Ages 18–25). Retrieved February 23, 2017, from https://www.nngroup.com/articles/young-adults-ux/</p>
 		</div>
 	</div>
 
 	<div class="sectionContainer">
 		<div class="ch14group1">
-			<p></p>
+			<p>Ortony, A., & Turner, T. J. (1990). What's Basic About Basic Emotions? Psychological Review , 97(No. 3), 315-331. Retrieved March 2, 2017, from http://moodle.uws.ac.uk/pluginfile.php/109934/mod_resource/content/1/Week%202%20Ortony%20and%20Turner%20(1990).pdf. doi:http://dx.doi.org/10.1037/0033-295X.97.3.315</p>
 		</div>
 
 		<div class="ch14group2">
-			<p></p>
+			<p>Parenthood, P. (2017, March 10). Birth Control Methods - Birth Control Options. Retrieved February 13, 2017, from https://www.plannedparenthood.org/learn/birth-control</p>
 		</div>
 
 		<div class="ch14group3">
-			<p></p>
+			<p>Parenthood, P. (2015, December 28). Birth Control for Men. Retrieved February 13, 2017, from https://www.plannedparenthood.org/learn/men/birth-control-men</p>
 		</div>
 	</div>
 
 	<div class="sectionContainer">
 		<div class="ch14group1">
-			<p></p>
+			<p>Physical Changes During Puberty. (n.d.). Retrieved January 20, 2017, from https://www.healthychildren.org/English/ages-stages/gradeschool/puberty/Pages/Physical-Development-of-School-Age-Children.aspx</p>
 		</div>
 
 		<div class="ch14group2">
-			<p></p>
+			<p>Physical Development in Boys: What to Expect. (2015, November 21). Retrieved February 23, 2017, from https://www.healthychildren.org/English/ages-stages/gradeschool/puberty/Pages/Physical-Development-Boys-What-to-Expect.aspx</p>
 		</div>
 
 		<div class="ch14group3">
-			<p></p>
+			<p>Physical Development in Girls: What to Expect. (2015, November 21). Retrieved February 23, 2017, from https://www.healthychildren.org/English/ages-stages/gradeschool/puberty/Pages/Physical-Development-Girls-What-to-Expect.aspx</p>
 		</div>
 	</div>
 
 	<div class="sectionContainer">
 		<div class="ch14group1">
-			<p></p>
+			<p>Quotes About Sexuality (886 quotes). (n.d.). Retrieved February 16, 2017, from http://www.goodreads.com/quotes/tag/sexuality</p>
 		</div>
 
 		<div class="ch14group2">
-			<p></p>
+			<p>Rajvanshi, K. (2015, August 11). Who’s beautiful? How beauty is defined around the world. Retrieved February 04, 2017, from http://indianexpress.com/article/lifestyle/fashion/whos-beautiful-how-beauty-is-defined-around-the-world/</p>
 		</div>
 
 		<div class="ch14group3">
-			<p></p>
+			<p>Rape. (n.d.). Retrieved April 04, 2017, from http://www.dictionary.com/browse/rape</p>
 		</div>
 	</div>
 
 	<div class="sectionContainer">
 		<div class="ch14group1">
-			<p></p>
+			<p>Ratini, M. (2015, July 04). Preventing HIV and Other STDs With Safe Sex. Retrieved February 13, 2017, from http://www.webmd.com/sex/safe-sex-preventing-hiv-aids-stds#1</p>
 		</div>
 
 		<div class="ch14group2">
-			<p></p>
+			<p>Redding, E. (2017, February 24). 37 Of The Smartest Quotes About Sex And Love That You’ll Ever Read. Retrieved February 06, 2017, from http://thoughtcatalog.com/eric-redding/2015/06/37-of-the-smartest-quotes-about-sex-and-love-that-youll-ever-read/</p>
 		</div>
 
 		<div class="ch14group3">
-			<p></p>
+			<p>SEXUAL HARASSMENT/ASSAULT RESPONSE & PREVENTION. (n.d.). Retrieved April 04, 2017, from http://www.sexualassault.army.mil/faqs.cfm#question2</p>
 		</div>
 	</div>
 
 	<div class="sectionContainer">
 		<div class="ch14group1">
-			<p></p>
+			<p>STDs/STIs. (n.d.). Retrieved February 16, 2017, from http://www.ashasexualhealth.org/stdsstis/</p>
 		</div>
 
 		<div class="ch14group2">
-			<p></p>
+			<p>Scope of the Problem: Statistics | RAINN. (n.d.). Retrieved April 04, 2017, from https://www.rainn.org/statistics/scope-problem</p>
 		</div>
 
 		<div class="ch14group3">
-			<p></p>
+			<p>Sensual. (n.d.). Retrieved February 05, 2017, from https://www.merriam-webster.com/dictionary/sensual</p>
 		</div>
 	</div>
 
 	<div class="sectionContainer">
 		<div class="ch14group1">
-			<p></p>
+			<p>Sexual attraction. (2017, February 03). Retrieved February 03, 2017, from https://en.wikipedia.org/wiki/Sexual_attraction</p>
 		</div>
 
 		<div class="ch14group2">
-			<p></p>
+			<p>Sexual orientation. (2017, April 02). Retrieved February 09, 2017, from https://en.wikipedia.org/wiki/Sexual_orientation</p>
 		</div>
 
 		<div class="ch14group3">
-			<p></p>
+			<p>Sexual revolution. (2017, February 15). Retrieved February 16, 2017, from https://en.wikipedia.org/wiki/Sexual_revolution</p>
 		</div>
 	</div>
 
 	<div class="sectionContainer">
 		<div class="ch14group1">
-			<p></p>
+			<p>Sexually Transmitted Infections (STIs): General Information. (2015, March 11). Retrieved February 16, 2017, from http://youngwomenshealth.org/2013/01/16/sti-information/</p>
 		</div>
 
 		<div class="ch14group2">
-			<p></p>
+			<p>Soh, D. W. (2016, November 04). 1 in 6 People Has a Sex Fetish-Here Are a Few of the Craziest. Retrieved February 16, 2017, from http://www.womenshealthmag.com/sex-and-love/extreme-fetishes</p>
 		</div>
 
 		<div class="ch14group3">
-			<p></p>
+			<p>Statistics. (2016, September 07). Retrieved April 04, 2017, from http://www.aware.org.sg/training/wsh-site/14-statistics/</p>
 		</div>
 	</div>
 
 	<div class="sectionContainer">
 		<div class="ch14group1">
-			<p></p>
+			<p>Statistics About Sexual Violence. (n.d.). Retrieved April 04, 2017, from http://www.nsvrc.org/sites/default/files/publications_nsvrc_factsheet_media-packet_statistics-about-sexual-violence_0.pdf<br>
+National Sexual Violence Resource Center 2012, 2013, 2015</p>
 		</div>
 
 		<div class="ch14group2">
-			<p></p>
+			<p>Support groups. (n.d.). Retrieved February 16, 2017, from http://www.ashasexualhealth.org/stdsstis/herpes/support-groups/</p>
 		</div>
 
 		<div class="ch14group3">
-			<p></p>
+			<p>T. (2015, May 16). Weird Sex Facts. Retrieved March 11, 2017, from http://www.enki-village.com/weird-sex-facts.html</p>
 		</div>
 	</div>
 
 	<div class="sectionContainer">
 		<div class="ch14group1">
-			<p></p>
+			<p>Teresa, K. K. (n.d.). Puberty: Changes for Males. Retrieved January 25, 2017, from http://www.pamf.org/teen/health/puberty/physicalchanges.html</p>
 		</div>
 
 		<div class="ch14group2">
-			<p></p>
+			<p>Teresa, K. Karen. (n.d.). Puberty: Changes for Females. Retrieved January 25, 2017, from http://www.pamf.org/teen/health/puberty/girlschanges.html</p>
 		</div>
 
 		<div class="ch14group3">
-			<p></p>
+			<p>Thapoung, K. (2016, February 11). 10 Fascinating Things That Happen to Your Body When You're in Love. Retrieved February 12, 2017, from http://www.womenshealthmag.com/sex-and-love/effects-of-love</p>
 		</div>
 	</div>
 
 	<div class="sectionContainer">
 		<div class="ch14group1">
-			<p></p>
+			<p>The Reproductive Health Access Project. (n.d.). Retrieved February 16, 2017, from http://www.reproductiveaccess.org/</p>
 		</div>
 
 		<div class="ch14group2">
-			<p></p>
+			<p>The Victorian Era. (n.d.). Retrieved February 16, 2017, from http://historyofsexuality.umwblogs.org/pre-20th-century/victorian-era-2/</p>
 		</div>
 
 		<div class="ch14group3">
-			<p></p>
+			<p>Thompson, D., Jr. (2009, July 16). Good Reasons for Sexual Abstinence. Retrieved February 16, 2017, from http://www.everydayhealth.com/sexual-health/sexual-abstinence.aspx</p>
 		</div>
 	</div>
 
 	<div class="sectionContainer">
 		<div class="ch14group1">
-			<p></p>
+			<p>Thornton, M. A. (2015, January 17). Demographics of Sexual Fantasy. Retrieved February 16, 2017, from http://markallenthornton.com/blog/sexual-demographics/</p>
 		</div>
 
 		<div class="ch14group2">
-			<p></p>
+			<p>Tigar, L. (2016, February 12). How your body reacts when you fall in love. Retrieved February 05, 2017, from http://www.cnn.com/2016/02/12/health/your-body-on-love</p>
 		</div>
 
 		<div class="ch14group3">
-			<p></p>
+			<p>Tracee Ellis Ross Quotes. (n.d.). Retrieved March 02, 2017, from https://www.brainyquote.com/quotes/quotes/t/traceeelli791490.html?src=t_feelings</p>
 		</div>
 	</div>
 
 	<div class="sectionContainer">
 		<div class="ch14group1">
-			<p></p>
+			<p>Types of Contraceptives. (n.d.). Retrieved February 16, 2017, from https://www.dred.com/uk/types-of-contraceptives.html</p>
 		</div>
 
 		<div class="ch14group2">
-			<p></p>
+			<p>Types of Sex. (n.d.). Retrieved January 30, 2017, from http://www.healthyrespect.co.uk/SexualHealthEssentialGuide/Pages/TypesOfSex.aspx</p>
 		</div>
 
 		<div class="ch14group3">
-			<p></p>
+			<p>Understanding the 18-25 market. (2014, June 19). Retrieved February 24, 2017, from http://www.experian.co.uk/blogs/latest-thinking/understanding-the-18-25-market/
+Marketing and Customer Insight Blog.</p>
 		</div>
 	</div>
 
 	<div class="sectionContainer">
 		<div class="ch14group1">
-			<p></p>
+			<p>Velan, S. S. (2014, July 04). 19 Interesting Facts About Human Behaviour. Retrieved March 13, 2017, from https://www.linkedin.com/pulse/20140704105805-253087124-19-interesting-facts-about-human-behaviour</p>
 		</div>
 
 		<div class="ch14group2">
-			<p></p>
+			<p>Vrangalova, Z., Ph.D, Ben-Zeév, A., Ph.D, Weber, J. P., Ph.D, & Krauss Whitbourne, S., Ph.D. (2013, March 09). How Casual Sex Can Affect Our Mental Health. Retrieved February 05, 2017, from https://www.psychologytoday.com/blog/fulfillment-any-age/201303/how-casual-sex-can-affect-our-mental-health</p>
 		</div>
 
 		<div class="ch14group3">
-			<p></p>
+			<p>Watkins, D. (2016, October 28). 10 Things You Didn't Know about Your Orgasms. Retrieved February 06, 2017, from http://www.menshealth.com/sex-women/10-things-about-orgasms/</p>
 		</div>
 	</div>
 
 	<div class="sectionContainer">
 		<div class="ch14group1">
-			<p></p>
+			<p>What Happens During an Orgasm? (2017, February 03). Retrieved February 06, 2017, from http://www.intimina.com/blog/female-orgasm/</p>
 		</div>
 
 		<div class="ch14group2">
-			<p></p>
+			<p>What do love and jealousy taste like?
+Chan, Kai Qin; Tong, Eddie M. W.; Tan, Deborah H.; Koh, Alethea H. Q.
+Emotion, Vol 13(6), Dec 2013, 1142-1149. http://dx.doi.org/10.1037/a0033758</p>
 		</div>
 
 		<div class="ch14group3">
-			<p></p>
-		</div>
-	</div>
-
-	<div class="sectionContainer">
-		<div class="ch14group1">
-			<p></p>
-		</div>
-
-		<div class="ch14group2">
-			<p></p>
-		</div>
-
-		<div class="ch14group3">
-			<p></p>
+			<p>What is rape and date rape? (2015, March 25). Retrieved April 05, 2017, from https://www.girlshealth.gov/safety/saferelationships/daterape.html</p>
 		</div>
 	</div>
 </div>
