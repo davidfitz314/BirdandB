@@ -639,7 +639,7 @@ h3 {
 	width: 50%;
 	height: auto;
 	text-align:center;
-	margin-left: 35%;
+	margin: 7% 0 0 22%;
 }
 
 .ch6ImagesB img {
@@ -671,6 +671,16 @@ h3 {
 }
 
 .ch7Images img {
+	width: 100%;
+	height: auto;
+}
+
+.ch7ImagesB {
+	width: 80%;
+	height: auto;
+}
+
+.ch7ImagesB img {
 	width: 100%;
 	height: auto;
 }
@@ -1108,6 +1118,7 @@ h3 {
 	word-wrap: break-word;
 	float: right;	
 }
+
 
 
 

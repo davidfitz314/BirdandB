@@ -675,6 +675,17 @@ h3 {
 	height: auto;
 }
 
+.ch7ImagesB {
+	width: 80%;
+	height: auto;
+	text-align: center;
+}
+
+.ch7ImagesB img {
+	width: 100%;
+	height: auto;
+}
+
 /* chapter 8 section */
 .chapter8Text {
 	width: 75%;
