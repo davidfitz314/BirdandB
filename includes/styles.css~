@@ -635,6 +635,7 @@ h3 {
 }
 
 .ch6ImagesB {
+	margin-top: 2%;
 	width: 50%;
 	height: auto;
 	text-align:center;
