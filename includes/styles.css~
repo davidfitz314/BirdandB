@@ -67,7 +67,7 @@ p {
 .cHeadCells {
 	text-align: left;
 	float:left;
-	padding-top: 97px;
+	padding-top: 10%;
 	margin-left: 3.5%;
 }
 
@@ -82,9 +82,8 @@ p {
 
 .searchBarC {
 	float: right;
-	margin-top: 10%;
+	margin-top: 9%;
 }
-
 .searchBarC form{
 	/*modify later?*/
 }
@@ -93,7 +92,7 @@ p {
 	text-align: left;
 	/*border: 3px dashed black;*/
 	/*background-color: blue;*/
-	padding: 75px;
+	padding: 30px 75px 75px 75px;
 	/*margin-top: 100px;*/
 }
 
@@ -252,6 +251,20 @@ footer {
 	line-height:150%;
 }
 
+footer a {
+	text-decoration:none;
+	color: black;
+}
+
+footer a:hover {
+	color:blue;
+	text-decoration: none;
+}
+
+.footerImages {
+	clear: both;
+}
+
 /* floating menu section */
 .floating-menu {
 	font-family: sans-serif;
@@ -288,6 +301,7 @@ ul.floating-menu {
 }
 
 .chapterLogo img{
+	margin-top: 2%;
 	width: 75%;
 	margin-left: 25%;
 }
@@ -385,6 +399,54 @@ h3 {
 	clear:both;
 }
 
+/*chapter 1 section*/
+.chapter1Text {
+	width: 75%;
+	margin-left: 25%;
+	line-height: 150%;
+	text-align: left;
+}
+
+.chapter1Text a {
+	text-decoration: none;
+	color: black;
+}
+
+.chapter1Text a:hover {
+	font-size: 125%;
+}
+
+.chapter1chaptersheader {
+	background-color:#91A8d0;
+	color: white;
+	text-align:center;
+	padding-top: 9%;
+	padding-bottom: 9%;
+	padding-left: 3%;
+	padding-right: 3%;
+}
+
+.ch1group1 {
+	text-align: left;
+	width: 30%;
+	margin: 3% 5% 3% 0%;
+	float: left;
+}
+
+.ch1group2 {
+	text-align: left;
+	width: 30%;
+	margin: 3% 0% 3% 0%;
+	float: left;
+}
+
+.ch1group3 {
+	text-align: left;
+	width: 30%;
+	margin: 3% 0% 3% 3%;
+	float: right;
+}
+
 /*chapter 2 section*/
 
 .chapter2Text {
@@ -392,6 +454,11 @@ h3 {
 	margin-left: 25%;
 	line-height: 150%;
 	text-align: left;
+}
+
+.chapter2Text a {
+	text-decoration: none;
+	color: black;
 }
 
 .tabbedch2 {
@@ -486,7 +553,7 @@ h3 {
 	line-height: 150%;
 }
 
-.ch5Images img {
+.ch5Images {
 	width: 80%;
 	height: auto;
 	text-align: center;
@@ -969,5 +1036,28 @@ h3 {
 	height: auto;
 }
 
+.ch14group1 {
+	text-align: left;
+	width: 30%;
+	margin: 3% 5% 3% 0%;
+	word-wrap: break-word;
+	float: left;
+}
+
+.ch14group2 {
+	text-align: left;
+	width: 30%;
+	margin: 3% 0% 3% 0%;
+	word-wrap: break-word;
+	float: left;
+}
+
+.ch14group3 {
+	text-align: left;
+	width: 30%;
+	margin: 3% 0% 3% 3%;
+	word-wrap: break-word;
+	float: right;	
+}
 
 
