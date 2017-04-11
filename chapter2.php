@@ -597,8 +597,7 @@
 		<p class="tabbedch2">The baby is now the size of a small pumpkin.</p>
 		</div>
 	</div>
-<div class="sectionContainer6">
-</div>
+
 	<!- image and week# ->
 	<h4>41 weeks</h4>
 	<p>The baby is now considered late-term. Health care practitioners will encourage the mother into inducing labor to avoid any health risks.</p>
