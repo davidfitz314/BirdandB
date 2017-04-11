@@ -687,6 +687,19 @@ h3 {
 	height: auto;
 }
 
+.ch7ImagesC {
+	padding-top: 3%;
+	width: 50%;
+	height: auto;
+	text-align: center;
+	margin: 0 0 0 25%;
+}
+
+.ch7ImagesC img {
+	width: 100%;
+	height: auto;
+}
+
 /* chapter 8 section */
 .chapter8Text {
 	width: 75%;
