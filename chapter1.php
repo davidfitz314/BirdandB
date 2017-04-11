@@ -24,7 +24,7 @@
 
 <!- top page image ->
 <div class="chapterLogo">
-<img src="includes/images/chapter1/honeycomb.png" alt="Black and white honey comb">
+	<img src="includes/images/chapter1/honeycomb.png" alt="Black and white honey comb">
 </div>
 
 <!- chapter text division ->
