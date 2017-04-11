@@ -540,6 +540,11 @@ h3 {
 	line-height: 150%;
 }
 
+.ch3Images {
+	margin-top: 5%;
+	margin-bottom: 5%;
+}
+
 .ch3Images img {
 	width: 100%;
 	height: auto;
