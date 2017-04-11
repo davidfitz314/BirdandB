@@ -405,6 +405,10 @@ h3 {
 .chapter1chaptersheader {
 	background-color:#91A8d0;
 	color: white;
+	text-align:center;
+	height: 75px;
+	padding-top: 5%;
+	padding-bottom: 5%;
 }
 
 .ch1group1 {
