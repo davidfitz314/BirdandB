@@ -86,7 +86,7 @@ People can love:</p>
 	<h4>Defining Sex in comparison to love</h4>
 	<p>Sex is sexual activity, specifically including sexual intercourse. While sex can be an act of love, sex by itself is a separate group of hormones and emotions.</p>
 
-	<p>When one loves someone they may express it sexually, sensually (to arouse gratification of the senses -smell, touch, sight, etc- by giving them pleasure.) or in other ways that show love. A few of these ways are:</p>
+	<p>When one loves someone they may express it sexually, sensually (to arouse gratification of the senses &mdash;smell, touch, sight, etc&mdash; by giving them pleasure.) or in other ways that show love. A few of these ways are:</p>
 
 	<ul class="closedCircle">
 		<li>Giving someone flowers, this is a sensual way to express love.</li>
@@ -130,7 +130,7 @@ People can love:</p>
 
 		<li>Things taste sweeter. Students in one study wrote about love, then sampled various foods and drinks. Regardless of what they tasted, they said everything had a sweet flavor, according to the American Psychological Association.</li>
 
-		<li>Being so concentrated on the one you love can make your focus on other important matters wayne, meaning studying can become harder since you aren’t as focused on it as you could be.</li>
+		<li>Being so concentrated on the one you love can make your focus on other important matters wane, meaning studying can become harder since you aren’t as focused on it as you could be.</li>
 
 		<li>Voices become higher when they are attracted to someone.</li>
 	</ul>
@@ -213,7 +213,7 @@ People can love:</p>
 	</div>
 
 	<a NAME="male_and_female_similar_sex_responses"></a>
-	<h3>Male &amp; Female Simiar Sex Responses</h3>
+	<h3>Male &amp; Female Similar Sex Responses</h3>
 	<p>Besides each male and female having their own physical, chemical, and emotional reactions they also share a wide variety of reactions, the list below is just a few of them:</p>
 
 	<ul class="closedCircle">

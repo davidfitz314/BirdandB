@@ -172,7 +172,7 @@
 
 		<div class="ch11Right">
 			<h4 class="addItalic">Alfred Kinsey</h4>
-			</p>One of the more revolutionary items in the US’s sexual revolution were studies done by Alfred Kinsey. Kinsey started one of the earliest statistical recordings of sexuality, going across the US’s and having meetings with the general populace he gathered and recorded their sexual data, and later released it. These studies are now famously known as the Kinsey Reports, some years after the initial release of his studies a movie was based off of Alfred Kinsey and all the work he did. Kinsey’s work was so popular that sexual data is still being recorded and published through the Kinsey Institute.</p>
+			</p>One of the more revolutionary items in the US’s sexual revolution were studies done by Alfred Kinsey. Kinsey started statistical recordings of sexuality, going across the US’s and having meetings with the general populace he gathered and recorded their sexual data, and later released it. These studies are now famously known as the Kinsey Reports, some years after the initial release of his studies a movie was based off of Alfred Kinsey and all the work he did. Kinsey’s work was so popular that sexual data is still being recorded and published through the Kinsey Institute.</p>
 		</div>
 	</div>
 
@@ -185,7 +185,7 @@
 		<div class="ch11Left">
 	<!- image goes right of text ->
 			<h4 class="addItalic">Masters &amp; Johnson</h4>
-			</p>A second major factor of the US’s sexual revolution was the Masters and Johnson’s studies, from 1957 until 1965, they recorded some of the first laboratory data on the anatomy and physiology of human sexual response based on direct observation of 382 women and 312 men. Their study estimated to have around 10,000 complete cycles of sex response. Their findings, on the nature of female sexual arousal and orgasm, showed that female lubricant did not originate from the cervix, that orgasm had similar physiological responses regardless of stimulation through clitoral or vaginal, and proved that some were women were multiorgasmic.</p>
+			</p>A second major factor of the US’s sexual revolution was the Masters and Johnson’s studies, from 1957 until 1965, they recorded some of the first laboratory data on the anatomy and physiology of human sexual response based on direct observation of 382 women and 312 men. Their study estimated to have around 10,000 complete cycles of sex response. Their findings, on the nature of female sexual arousal and orgasm, showed that female lubricant did not originate from the cervix, that orgasm had similar physiological responses regardless of stimulation through clitoral or vaginal, and proved that some were women were multi-orgasmic.</p>
 
 			<p>Masters and Johnson’s studies held a smaller demographic than the Kinsey reports, having their focus more based on white college students, but the statistical data became so popular that a TV series was released about them in 2013 titled “<i>The Masters of Sex</i>”.</p>
 		</div>
@@ -197,7 +197,7 @@
 	</div>
 
 	<h3>Other Revolutionary Items</h3>
-	</p>A few other US sexual revolutionary items were the invention of penicillin (which allowed for cures of certain STIs/STDs), Feminism during the early 60’s, Freudians school (where they focused on sex as the ultimate drive for humans), and books like “Mead’s Coming of Age in Samoa” which discusses important psychological changes in human biology, and erotic novels becoming more and more popular.</p>
+	</p>A few other US sexual revolutionary items were the invention of penicillin (which allowed for cures of certain STIs/STDs), Feminism during the early 60’s, Freudian's school (where they focused on sex as the ultimate drive for humans), and books like “Mead’s Coming of Age in Samoa” which discusses important psychological changes in human biology, and erotic novels becoming more and more popular.</p>
 
 </div>
 
