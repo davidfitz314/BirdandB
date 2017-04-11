@@ -39,6 +39,7 @@
 
 
 	<div class="sectionContainer">
+		<a href="chapter2.php">
 		<div class="ch1group1">
 			<h3>02</h3>
 			<div class="chapter1chaptersheader">
@@ -46,7 +47,9 @@
 			</div>
 			<p>The action of conceiving a child from fertilization to full term development and size comparisons per developmental weeks.</p>
 		</div>
+		</a>
 
+		<a href="chapter3.php">
 		<div class="ch1group2">
 			<h3>03</h3>
 			<div class="chapter1chaptersheader">
@@ -54,7 +57,9 @@
 			</div>
 			<p>Human biological development for male and female sexes, from pre-puberty through post-puberty. Includes the basics of sexual anatomy primary and secondary developments, other biological development (hair, acne, etc...) and hormonal changes.</p>
 		</div>
-			
+		</a>			
+
+		<a href="chapter4.php">
 		<div class="ch1group3">
 			<h3>04</h3>
 			<div class="chapter1chaptersheader">
@@ -62,6 +67,7 @@
 			</div>
 			<p>Human Nature and the distinguishing characteristics; including ways of thinking, feeling, and acting. The psychological patterns related to child development from different parenting types and their effect as the child becomes an adult.</p>
 		</div>
+		</a>
 	</div>
 
 	<div class="sectionContainer">
