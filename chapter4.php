@@ -48,19 +48,19 @@
 <br>
 	
 	<h2>Chapter 4: Human Nature &amp; Psychological Dependencies</h2>
-	<p>Every human is a mammal, but what appears to make us different from other mammals is our comprehension of self and our emotions. When one talks about animal nature they are usually discussing base desires for reproducing, eating, and self defense, but when one talks about Human nature they discuss it in a more philosophical manner.</p>
+	<p>Every human is a mammal, but what appears to make us different from other mammals is our comprehension of self and our emotions. When one talks about animal nature they are usually discussing base desires for reproducing, eating, and self-defense, but when one talks about Human nature they discuss it in a more philosophical manner.</p>
 	<!- Interesting Fact goes here ->
 
 	<a NAME="human_nature"></a>
 	<h4>Human Nature</h4>
 	<p>Human nature is defined as: referring to distinguishing characteristics of thinking feeling and acting. “I think, therefore I am” is a famous saying from the philosopher Rene Descartes, it is used often in the study of the mind but came into western culture as a building block for foundation of knowledge in the face of doubt. It describes human thoughts as always looking for a foundation to build upon and trying hard to resist the doubts from the inner and outer self.</p>
 	<p>Human nature deals with emotions as a core foundation point for thoughts and actions. How you feel decides what actions you take, Tracee Ellis Ross an American Actress once said “I need to see my own beauty and to continue to be reminded that I am enough, that I am worthy of love without effort, that I am beautiful, that the texture of my hair and that the shape of my curves, the size of my lips, the color of my skin, and the feelings that I have are all worthy and okay.” Her point shows that without positive emotions it was hard to continue to act when it came to love.</p>
-	<p>Human nature also closely studies the actions taken by humans, Mahatma Gandhi an Indian civil rights leader and well known figure for peace once said “Your beliefs become your thoughts, Your thoughts become your words, Your words become your actions, Your actions become your habits, Your habits become your values, Your values become your destiny.” This shows that after your emotions and thoughts come together they become words and actions which tells the world who you are.</p>
+	<p>Human nature also closely studies the actions taken by humans, Mahatma Gandhi an Indian civil rights leader and well-known figure for peace once said “Your beliefs become your thoughts, Your thoughts become your words, Your words become your actions, Your actions become your habits, Your habits become your values, Your values become your destiny.” This shows that after your emotions and thoughts come together they become words and actions which tells the world who you are.</p>
 	<!- Interesting Fact goes here ->
 
 	<a NAME="emotions"></a>
 	<h4>Emotions</h4>
-	<p>It is currently believed that humans have 4 to 8 base emotions that when combined make up all known emotions. A famous psychologist Robert Plutchik after many years of study put together the Plutchik Model for emotions, which is commonly used today. The model consist of 8 different emotions -Disgust, Anger, Anticipation, Joy, Acceptance, Fear, Surprise, and Sadness.- and how they combine with the emotions closest to them:</p>
+	<p>It is currently believed that humans have 4 to 8 base emotions that when combined make up all known emotions. A famous psychologist Robert Plutchik after many years of study put together the Plutchik Model for emotions, which is commonly used today. The model consists of 8 different emotions &mdash;Disgust, Anger, Anticipation, Joy, Acceptance, Fear, Surprise, and Sadness.&mdash; and how they combine with the emotions closest to them:</p>
 	<ul class="solidCircle">
 		<li>Disgust: combines with Anger to create Contempt or combines with Sadness to create Remorse.</li>
 
@@ -86,7 +86,7 @@
 
 	<a NAME="child_behavior_and_attachments"></a>
 	<h4>Child Behavior and Attachments</h4>
-	<p>Even during childhood humans are studied to understand their nature. One area focused on by Mary Ainsworth -a Canadian-American Psychologist- is called Attachment Theory and relates to a child’s attachment type to its parents. The theory behind it goes into details saying how children during early stages of their lives learn how they should behave or be dependent on others, which then becomes the basis for their adult selves behavior attachments.</p>
+	<p>Even during childhood humans are studied to understand their nature. One area focused on by Mary Ainsworth &mdash;a Canadian-American Psychologist&mdash; is called Attachment Theory and relates to a child’s attachment type to its parents. The theory behind it goes into details saying how children during early stages of their lives learn how they should behave or be dependent on others, which then becomes the basis for their adult selves behavior attachments.</p>
 	
 	<p>The 4 main categories for child attachment are Secure, Avoidant, Ambivalent, Disorganized. The behaviors of both the child and caregiver for these attachments are given below.</p>
 

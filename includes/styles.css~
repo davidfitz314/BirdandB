@@ -511,14 +511,8 @@ h3 {
 	margin-left: 5%;
 }
 
-.weekNum p {
-	margin-left: 5%;
-	/*font-size: 105%;*/
-}
-
 .ch2text {	
-	padding-left: 5%;
-	padding-top: 10%;
+	margin-left: 5%;
 }
 
 /*chapter 3 section*/
