@@ -486,9 +486,7 @@ h3 {
 }
 
 .tabbedch2 {
-	padding-left: 30%;
 	font-size: 98%;
-	padding-top: 15px;
 }
 
 .plant_circle img {
@@ -575,7 +573,7 @@ h3 {
 }
 
 .ch5Images {
-	width: 60%;
+	width: 50%;
 	height: auto;
 	text-align: center;
 }
