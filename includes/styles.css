@@ -412,8 +412,10 @@ h3 {
 	color: white;
 	text-align:center;
 	height: 100px;
-	padding-top: 5%;
+	padding-top: 15%;
 	padding-bottom: 5%;
+	padding-left: 3%;
+	padding-right: 5%;
 }
 
 .ch1group1 {
