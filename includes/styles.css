@@ -406,28 +406,28 @@ h3 {
 	background-color:#91A8d0;
 	color: white;
 	text-align:center;
-	height: 75px;
+	height: 100px;
 	padding-top: 5%;
 	padding-bottom: 5%;
 }
 
 .ch1group1 {
 	text-align: left;
-	width: 25%;
+	width: 30%;
 	margin: 5% 5% 5% 0%;
 	float: left;
 }
 
 .ch1group2 {
 	text-align: left;
-	width: 25%;
+	width: 30%;
 	margin: 5% 5% 5% 5%;
 	float: left;
 }
 
 .ch1group3 {
 	text-align: left;
-	width: 25%;
+	width: 30%;
 	margin: 5% 0% 5% 5%;
 	float: right;
 }
