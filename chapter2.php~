@@ -110,18 +110,20 @@
 		<p class="tabbedch2">The baby’s facial features (nose, mouth, and ears), brain, and intestines are beginning to develop. The baby is now the size of a lentil.</p>
 		</div>
 	</div>
-	<!- image and week# ->
-	<div class="plant_circle">
-	<img src="includes/images/chapter2/blueberry.png" alt="blue berry" style="width:100px;height:100px">	
-	</div>
-		
-	<div class="weekNum">	
-	<p>7 weeks<p>
-	</div>
-	<div class="ch2text">
-	<p class="tabbedch2">The baby still has a tail but its size has doubled since last week and the tail will soon disappear. Arms and legs begin developing alongside of hands and feet which resemble paddles in shape. The baby is now the size of a blueberry.</p>
-	</div>
 
+	<div class="sectionContainer">
+		<!- image and week# ->
+		<div class="plant_circle">
+		<img src="includes/images/chapter2/blueberry.png" alt="blue berry" style="width:100px;height:100px">	
+		</div>
+		
+		<div class="weekNum">	
+		<p>7 weeks<p>
+		</div>
+		<div class="ch2text">
+		<p class="tabbedch2">The baby still has a tail but its size has doubled since last week and the tail will soon disappear. Arms and legs begin developing alongside of hands and feet which resemble paddles in shape. The baby is now the size of a blueberry.</p>
+		</div>
+	</div>
 
 <!- note check images sizes from here on ->
 

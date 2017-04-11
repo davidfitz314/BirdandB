@@ -423,6 +423,11 @@ h3 {
 	clear:both;
 }
 
+.sectionContainer6 {
+	margin-bottom: 7%;
+	clear: both;
+}
+
 /*chapter 1 section*/
 .chapter1Text {
 	width: 75%;
@@ -495,12 +500,10 @@ h3 {
 }
 
 .plant_circle {
-	
 	width: 100px;
 	height: 100px;
-	text-align: center;
 	float: left;
-	margin: 5% 5% 0% 0%;
+	margin: 0% 5% 14% 0%;
 }
 
 .weekNum {

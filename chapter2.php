@@ -70,7 +70,7 @@
 
 	<!- image and week# ->
 	
-	<div class="sectionContainer">
+	<div class="sectionContainer6">
 		<div class="plant_circle">
 			<img src="includes/images/chapter2/poppySeed.png" alt="poppy seed" style="width:100px;height:100px">	
 		</div>
@@ -83,7 +83,7 @@
 		</div>
 	</div>
 
-	<div class="sectionContainer">
+	<div class="sectionContainer6">
 		<!- image and week# ->
 		<div class="plant_circle">
 			<img src="includes/images/chapter2/sesameSeed.png" alt="sesame seed" style="width:100px;height:100px">	
@@ -97,7 +97,7 @@
 		</div>
 	</div>
 
-	<div class="sectionContainer">
+	<div class="sectionContainer6">
 		<!- image and week# ->
 		<div class="plant_circle">
 		<img src="includes/images/chapter2/lentil.png" alt="lentil" style="width:100px;height:100px">	
@@ -111,7 +111,7 @@
 		</div>
 	</div>
 
-	<div class="sectionContainer">
+	<div class="sectionContainer6">
 		<!- image and week# ->
 		<div class="plant_circle">
 		<img src="includes/images/chapter2/blueberry.png" alt="blue berry" style="width:100px;height:100px">	

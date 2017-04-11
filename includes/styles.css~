@@ -495,12 +495,10 @@ h3 {
 }
 
 .plant_circle {
-	
 	width: 100px;
 	height: 100px;
-	text-align: center;
 	float: left;
-	margin: 5% 5% 0% 0%;
+	margin: 0% 5% 14% 0%;
 }
 
 .weekNum {
@@ -585,9 +583,10 @@ h3 {
 }
 
 .ch5ImagesB {
-	width: 50%;
+	width: 40%;
 	height: auto;
-	text-align: center;
+	margin-left: 30%;
+	
 }
 
 .ch5ImagesB img {
