@@ -69,55 +69,61 @@
 	<p>Now inside of the woman is a microscopic ball of hundreds of rapidly multiplying cells that will develop into the baby. This ball is called a Blastocyst and is producing HCG to tell the ovaries to stop producing eggs.</p>
 
 	<!- image and week# ->
-	<div class="backline">	
+	
+	<div class="sectionContainer">
 		<div class="plant_circle">
-		<img src="includes/images/chapter2/poppySeed.png" alt="poppy seed" style="width:100px;height:100px">	
+			<img src="includes/images/chapter2/poppySeed.png" alt="poppy seed" style="width:100px;height:100px">	
 		</div>
 
 		<div class="weekNum">	
-		<p>4 weeks<p>
+			<p>4 weeks<p>
 		</div>
 		<div class="ch2text">
-		<p class="tabbedch2">The Blastocyst or ball of cells is now officially called an embryo. The woman is now about 4 weeks from the beginning of the last menstrual cycle. Around this time is when the next menstrual cycle should have started and pregnancy tests can be effective for telling if a woman is pregnant. The baby is the size of a poppy-seed.</p>
+			<p class="tabbedch2">The Blastocyst or ball of cells is now officially called an embryo. The woman is now about 4 weeks from the beginning of the last menstrual cycle. Around this time is when the next menstrual cycle should have started and pregnancy tests can be effective for telling if a woman is pregnant. The baby is the size of a poppy-seed.</p>
 		</div>
 	</div>
 
-	<!- image and week# ->
-	<div class="plant_circle">
-	<img src="includes/images/chapter2/sesameSeed.png" alt="sesame seed" style="width:100px;height:100px">	
+	<div class="sectionContainer">
+		<!- image and week# ->
+		<div class="plant_circle">
+			<img src="includes/images/chapter2/sesameSeed.png" alt="sesame seed" style="width:100px;height:100px">	
+		</div>
+
+		<div class="weekNum">	
+			<p>5 weeks<p>
+		</div>
+		<div class="ch2text">
+			<p class="tabbedch2">The baby’s appearance is more similar to a tadpole then a human at this point but it is growing fast. The heart will begin beating this week and a circulatory system will start to form. The baby is the size of a sesame seed.</p>
+		</div>
 	</div>
 
-	<div class="weekNum">	
-	<p>5 weeks<p>
-	</div>
-	<div class="ch2text">
-	<p class="tabbedch2">The baby’s appearance is more similar to a tadpole then a human at this point but it is growing fast. The heart will begin beating this week and a circulatory system will start to form. The baby is the size of a sesame seed.</p>
-	</div>
-
-	<!- image and week# ->
-	<div class="plant_circle">
-	<img src="includes/images/chapter2/lentil.png" alt="lentil" style="width:100px;height:100px">	
-	</div>
+	<div class="sectionContainer">
+		<!- image and week# ->
+		<div class="plant_circle">
+		<img src="includes/images/chapter2/lentil.png" alt="lentil" style="width:100px;height:100px">	
+		</div>
 		
-	<div class="weekNum">	
-	<p>6 weeks<p>
-	</div>
-	<div class="ch2text">
-	<p class="tabbedch2">The baby’s facial features (nose, mouth, and ears), brain, and intestines are beginning to develop. The baby is now the size of a lentil.</p>
+		<div class="weekNum">	
+		<p>6 weeks<p>
+		</div>
+		<div class="ch2text">
+		<p class="tabbedch2">The baby’s facial features (nose, mouth, and ears), brain, and intestines are beginning to develop. The baby is now the size of a lentil.</p>
+		</div>
 	</div>
 
-	<!- image and week# ->
-	<div class="plant_circle">
-	<img src="includes/images/chapter2/blueberry.png" alt="blue berry" style="width:100px;height:100px">	
-	</div>
+	<div class="sectionContainer">
+		<!- image and week# ->
+		<div class="plant_circle">
+		<img src="includes/images/chapter2/blueberry.png" alt="blue berry" style="width:100px;height:100px">	
+		</div>
 		
-	<div class="weekNum">	
-	<p>7 weeks<p>
+		<div class="weekNum">	
+		<p>7 weeks<p>
+		</div>
+		<div class="ch2text">
+		<p class="tabbedch2">The baby still has a tail but its size has doubled since last week and the tail will soon disappear. Arms and legs begin developing alongside of hands and feet which resemble paddles in shape. The baby is now the size of a blueberry.</p>
+		</div>
 	</div>
-	<div class="ch2text">
-	<p class="tabbedch2">The baby still has a tail but its size has doubled since last week and the tail will soon disappear. Arms and legs begin developing alongside of hands and feet which resemble paddles in shape. The baby is now the size of a blueberry.</p>
-	</div>
-
 
 <!- note check images sizes from here on ->
 
@@ -244,15 +250,17 @@
 	</div>
 
 	<!- image and week# ->
-	<div class="plant_circle">
-	<img src="includes/images/chapter2/bellPepper.png" alt="bell pepper" style="width:100px;height:100px">	
-	</div>
+	<div class="sectionContainer">
+		<div class="plant_circle">
+		<img src="includes/images/chapter2/bellPepper.png" alt="bell pepper" style="width:100px;height:100px">	
+		</div>
 		
-	<div class="weekNum">	
-	<p>18 weeks<p>
-	</div>
-	<div class="ch2text">
-	<p class="tabbedch2">The baby is forming an internal protective coating of myelin around its nerves and the baby’s body is more prone to moving around. The baby is now the size of a bell pepper.</p>
+		<div class="weekNum">	
+		<p>18 weeks<p>
+		</div>
+		<div class="ch2text">
+		<p class="tabbedch2">The baby is forming an internal protective coating of myelin around its nerves and the baby’s body is more prone to moving around. The baby is now the size of a bell pepper.</p>
+		</div>
 	</div>
 
 	<!- image and week# ->
