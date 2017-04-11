@@ -264,7 +264,7 @@
 	<p>19 weeks<p>
 	</div>
 	<div class="ch2text">
-	<p class="tabbedch2">The baby is developing its sense of smell, vision, taste, touch, and hearing now. The baby is now the size of a heirloom tomato</p>
+	<p class="tabbedch2">The baby is developing its sense of smell, vision, taste, touch, and hearing now. The baby is now the size of an heirloom tomato</p>
 	</div>
 
 	<!- image and week# ->
