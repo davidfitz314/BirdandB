@@ -109,7 +109,7 @@
 
 	<a NAME="who_is_having_sex"></a>
 	<!- Insert Image Here ->
-	<div class="ch5Images">
+	<div class="ch5ImagesB">
 		<img src="includes/images/chapter5/world.png" alt="Bed on a globe">
 	</div>
 

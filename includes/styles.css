@@ -574,12 +574,23 @@ h3 {
 }
 
 .ch5Images {
-	width: 50%;
+	width: 100%;
 	height: auto;
 	text-align: center;
 }
 
 .ch5Images img {
+	width: 100%;
+	height: auto;
+}
+
+.ch5ImagesB {
+	width: 50%;
+	height: auto;
+	text-align: center;
+}
+
+.ch5ImagesB img {
 	width: 100%;
 	height: auto;
 }

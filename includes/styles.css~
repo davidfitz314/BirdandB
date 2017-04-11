@@ -500,6 +500,7 @@ h3 {
 	height: 100px;
 	text-align: center;
 	float: left;
+	margin: 5% 5% 0% 0%;
 }
 
 .weekNum {
@@ -573,7 +574,7 @@ h3 {
 }
 
 .ch5Images {
-	width: 50%;
+	width: 100%;
 	height: auto;
 	text-align: center;
 }
