@@ -81,7 +81,7 @@
 	<h4>Sexual Preference</h4>
 	<p>Sexual preference, also known as sexual orientation, is a repeating pattern of romantic, sexual attraction, or a mix of the two to people of the opposite sex or gender, to both sexes, or more than one gender. These attractions are generally included under heterosexuality, homosexuality, and bisexuality, while asexuality &mdash;the lack of sexual attraction to others&mdash; is only occasionally identified as a fourth category.</p>
 
-	<div class="ch6Images">
+	<div class="ch6ImagesB">
 		<img src="includes/images/chapter6/searching.png" alt="Magnifying glass over a hart shape">
 	</div>
 
