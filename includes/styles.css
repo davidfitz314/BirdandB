@@ -104,7 +104,7 @@ p {
 	text-align:left;
 	width: 85%;
 	border: 5px double red;
-	padding: 75px;
+	padding: 5% 10% 10% 10%;
 }
 
 .disclaimer h3{

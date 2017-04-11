@@ -640,7 +640,7 @@ h3 {
 	text-align:center;
 }
 
-.ch6Images img {
+.ch6ImagesB img {
 	width: 100%;
 	height: auto;
 }
