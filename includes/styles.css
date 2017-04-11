@@ -394,6 +394,33 @@ h3 {
 	clear:both;
 }
 
+/*chapter 1 section*/
+.chapter1chaptersheader {
+	background-color:#91A8d0;
+	color: white;
+}
+
+.ch1group1 {
+	text-align: left;
+	width: 25%;
+	margin: 5% 5% 5% 0%;
+	float: left;
+}
+
+.ch1group2 {
+	text-align: left;
+	width: 25%;
+	margin: 5% 5% 5% 5%;
+	float: left;
+}
+
+.ch1group3 {
+	text-align: left;
+	width: 25%;
+	margin: 5% 0% 5% 5%;
+	float: right;
+}
+
 /*chapter 2 section*/
 
 .chapter2Text {
