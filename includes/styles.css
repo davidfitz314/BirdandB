@@ -266,10 +266,10 @@ footer a:hover {
 }
 
 .mini1 {
-	width: 50px;
+	width: 35px;
 	height: auto;
 	float: left;
-	padding-right: 5%;
+	padding-left: 44%;
 }
 
 .mini1 img {
@@ -278,10 +278,10 @@ footer a:hover {
 }
 
 .mini2 {
-	width: 50px;
+	width: 35px;
 	height: auto;
 	float: right;
-	padding-left: 5%;
+	padding-right: 44%;
 }
 
 .mini2 img {
