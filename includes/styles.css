@@ -252,6 +252,16 @@ footer {
 	line-height:150%;
 }
 
+footer a {
+	text-decoration:none;
+	color: black;
+}
+
+footer a:hover {
+	color:blue;
+	text-decoration: none;
+}
+
 /* floating menu section */
 .floating-menu {
 	font-family: sans-serif;
