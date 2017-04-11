@@ -101,7 +101,9 @@ types including the solitary and group use of objects to achieve sexual performa
 			<div class="chapter1chaptersheader">
 				<h4>Orgasm</h4>			
 			</div>
-			<p></p>
+			<p>Defining orgasm and what is happening physically and chemically to both sexes during an orgasm.</p>
+			<p>Discussion on orgasm and culture and how it is honored in different places.</p>
+			<p>Interesting and possibly weird facts related to orgasm.</p>
 		</div>
 
 		<div class="ch1group2">
@@ -109,7 +111,9 @@ types including the solitary and group use of objects to achieve sexual performa
 			<div class="chapter1chaptersheader">
 				<h4>Staying Safe During Sex</h4>			
 			</div>
-			<p></p>
+			<p>Overview of the different methods of sexual protection for both male and female sexes and why some engage in the use of contraceptives.</p>
+			<p>How to use and about nonprescription contraceptives including outside resources for more information.</p>
+			<p>Overview on abstinence and why some people choose it.</p>
 		</div>
 
 		<div class="ch1group3">
@@ -117,7 +121,10 @@ types including the solitary and group use of objects to achieve sexual performa
 			<div class="chapter1chaptersheader">
 				<h4>Sexually Transmitted Infections (STDs)</h4>			
 			</div>
-			<p></p>
+			<p>What is an STI and why it’s name changed from STD.</p>
+			<p>7 Most common types of STIs and how they are transferred.</p>
+			<p>Legal issues for reporting STIs.</p>
+			<p>Support groups for testing and living with STIs.</p>
 		</div>
 	</div>
 
@@ -127,7 +134,7 @@ types including the solitary and group use of objects to achieve sexual performa
 			<div class="chapter1chaptersheader">
 				<h4>Human Sexuality in the World</h4>			
 			</div>
-			<p></p>
+			<p>A brief glimpse through time from Ancient Greeks and romans, to the Victorian Era, to China’s current sexual revolution and to U.S. sexual culture revolution.</p>
 		</div>
 
 		<div class="ch1group2">
@@ -135,7 +142,7 @@ types including the solitary and group use of objects to achieve sexual performa
 			<div class="chapter1chaptersheader">
 				<h4>Kinks and Fetishes</h4>			
 			</div>
-			<p></p>
+			<p>A basic understanding of the different types of fetishes people have have in regards to both sexual and non-sexual.</p>
 		</div>
 
 		<div class="ch1group3">
@@ -143,7 +150,9 @@ types including the solitary and group use of objects to achieve sexual performa
 			<div class="chapter1chaptersheader">
 				<h4>Sexual Harassment, Assault, & Rape</h4>			
 			</div>
-			<p></p>
+			<p>Aspects of sexual assault in relation to sexual violence.</p>
+			<p>Associated legal issues with regarding harassment, assault, and rape.</p>
+			<p>Prevention, preparation, and support in sexual cases.</p>
 		</div>
 	</div>
 </div>
