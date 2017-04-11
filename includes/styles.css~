@@ -688,7 +688,6 @@ h3 {
 }
 
 .ch7ImagesC {
-	padding-top: 3%;
 	width: 50%;
 	height: auto;
 	text-align: center;
@@ -714,11 +713,13 @@ h3 {
 }
 
 .ch8Images {
+	width: 70%;
+	height: auto;
 	text-align:center;
 }
 
 .ch8Images img {
-	width: 80%;
+	width: 100%;
 	height: auto;
 }
 
