@@ -790,11 +790,28 @@ h3 {
 	height: auto;
 }
 
+.chapter9MiniImagesB {
+	display: table-cell;
+}
+
+.chapter9MiniImagesB img {
+	width: 100px;
+	height: auto;
+}
+
 .chapter9MiniHeaders {
 	display: table-cell;
 	padding-left: 15px;
 	font-size: 105%;
 	float:right;
+}
+
+.chapter9MiniHeadersB {
+	display: table-cell;
+	padding-left: 15px;
+	font-size: 105%;
+	float:right;
+	padding-top: 2%;
 }
 
 .chapter9MiniHeadersFC {

@@ -744,6 +744,17 @@ h3 {
 	height: auto;
 }
 
+.ch8ImagesD {
+	width: 100%;
+	height: auto;
+	text-align:center;
+}
+
+.ch8ImagesD img {
+	width: 40%;
+	height: auto;
+}
+
 /* chapter 9 section */
 .chapter9Text {
 	width: 75%;
@@ -775,6 +786,15 @@ h3 {
 }
 
 .chapter9MiniImages img {
+	width: 100px;
+	height: auto;
+}
+
+.chapter9MiniImagesB {
+	display: table-cell;
+}
+
+.chapter9MiniImagesB img {
 	width: 100px;
 	height: auto;
 }

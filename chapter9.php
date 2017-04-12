@@ -140,11 +140,11 @@
 	
 	<div class="chapter9sideImagesandText">
 		<!- Image goes beside h4 header ->
-		<div class="chapter9MiniImages">
+		<div class="chapter9MiniImagesB">
 			<img src="includes/images/chapter9/male.png" alt="Male condom full example">
 		</div>
 
-		<div class="chapter9MiniHeaders">
+		<div class="chapter9MiniHeadersB">
 			<h4 class="addItalic">Male Condom</h4>	
 		</div>
 	</div>
