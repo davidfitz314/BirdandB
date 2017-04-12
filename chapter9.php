@@ -150,7 +150,7 @@
 		</div>
 	</div>
 
-	<div class="tabbed">
+	<div class="tabbedSpecial">
 		<ol>
 			<li>Check the expiration date and then open the package carefully from the top corner, inspecting the condom for any damage.</li>
 

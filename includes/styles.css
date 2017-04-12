@@ -365,6 +365,12 @@ ul.closedCircle {
 	font-size: 98%;
 }
 
+.tabbedSpecial {
+	padding-top: 2%;
+	padding-left: 20%;
+	font-size: 98%;
+}
+
 .tabbed ul {
 	font-size: 90%;
 }
@@ -778,7 +784,7 @@ h3 {
 }
 
 .chapter9sideImagesandText {
-	
+	clear: both;	
 }
 
 .chapter9MiniImages {

@@ -137,7 +137,8 @@
 	<a NAME="nonprescription_protection"></a>
 	<h3>Non-prescription Protection Use</h3>
 	<p>A quick overview of how to use some non-prescription protections is listed below:<p>
-	
+	<br>
+
 	<div class="chapter9sideImagesandText">
 		<!- Image goes beside h4 header ->
 		<div class="chapter9MiniImagesB">
