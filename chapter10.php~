@@ -208,7 +208,7 @@
 		<li><strong class="addItalic">Third,</strong> <span class="addItalic">overcoming rejection</span>. This problem can be from an outside source or just inside of the person. Rejection is never easy to handle and while some people will reject you for your condition, the others who truly love and support you will never reject you.With this step you should find out who rejects you and let them go from your life. If you are rejecting yourself, then instead try joining a support group who will help you see the beautiful person that you still are.</li>
 	</ul>
 
-	<div class="ch10Images">
+	<div class="ch10ImagesMW">
 		<img src="includes/images/chapter10/anonymous.png" alt="Anonymous portrait">
 	</div>
 
@@ -234,7 +234,7 @@
 	<p class="tabbedch10">So the best thing to do to avoid breaking the law is before the sexual act (which could transmit the infection) is to tell your partner.</p>
 
 	<a NAME="preventing_STIs"></a>
-	<div class="ch10Images">
+	<div class="ch10ImagesMW">
 		<img src="includes/images/chapter10/super.png" alt="Super condom with cape">
 	</div>
 
