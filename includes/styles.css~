@@ -305,7 +305,7 @@ footer a:hover {
 
 .floating-menu a, 
 .floating-menu h3 {
-	font-size: 0.8em;
+	font-size: 0.7em;
 	display: block;
 	margin: 0 0.5em;
 	color: black;
@@ -315,8 +315,8 @@ footer a:hover {
 ul.floating-menu {
 	list-style-type: circle;
 	text-align: left;
-	margin-top: .5em;
-	margin-bottom: .5em;
+	margin-top: .3em;
+	margin-bottom: .3em;
 }
 
 li.floating-menu {

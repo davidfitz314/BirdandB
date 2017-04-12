@@ -299,7 +299,7 @@ footer a:hover {
 	width: 200px;
 	z-index: 100;
 	position: fixed;
-	line-height: 115%;
+	line-height: 125%;
 	text-align:left;
 }
 
@@ -307,7 +307,7 @@ footer a:hover {
 .floating-menu h3 {
 	font-size: 0.7em;
 	display: block;
-	margin: 0 0.5em;
+	margin: 0 0 0 0.5em;
 	color: black;
 	text-decoration: none;
 }
@@ -315,13 +315,6 @@ footer a:hover {
 ul.floating-menu {
 	list-style-type: circle;
 	text-align: left;
-	margin-top: .3em;
-	margin-bottom: .3em;
-}
-
-li.floating-menu {
-	margin-top: .3em;
-	margin-bottom: .3em;
 }
 
 .floating-menu h2 {
@@ -1210,6 +1203,7 @@ h3 {
 	word-wrap: break-word;
 	float: right;	
 }
+
 
 
 
