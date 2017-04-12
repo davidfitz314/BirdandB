@@ -175,7 +175,7 @@
 		</div>
 	</div>
 
-	<div class="tabbed">
+	<div class="tabbedSpecial">
 		<ol>
 			<li>Check the expiration date and then open the package carefully from the top corner, inspecting the condom for any damage.</li>
 		
@@ -204,7 +204,7 @@
 		</div>
 	</div>
 	
-	<div class="tabbed">
+	<div class="tabbedSpecial">
 		<p class="addItalic">These are simplified instructions for spermicide for more details please read the instructions that come with your product.</p>
 		<ol>
 			<li>Check the expiration date and then open the cap of the spermicide.</li>
@@ -225,7 +225,7 @@
 		</div>
 	</div>
 	
-	<div class="tabbed">
+	<div class="tabbedSpecial">
 		<ol>
 			<li>Prior to ejaculation remove the penis completely from the vagina.</li>
 			<ul class="openCircle">
