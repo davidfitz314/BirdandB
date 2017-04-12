@@ -806,6 +806,14 @@ h3 {
 	float:right;
 }
 
+.chapter9MiniHeadersB {
+	display: table-cell;
+	padding-left: 15px;
+	font-size: 105%;
+	float:right;
+	padding-top: 2%;
+}
+
 .chapter9MiniHeadersFC {
 	display: table-cell;
 	font-size: 105%;

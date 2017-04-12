@@ -778,11 +778,11 @@ h3 {
 }
 
 .chapter9sideImagesandText {
-	display: table;
+	
 }
 
 .chapter9MiniImages {
-	display: table-cell;
+	
 }
 
 .chapter9MiniImages img {
@@ -791,7 +791,7 @@ h3 {
 }
 
 .chapter9MiniImagesB {
-	display: table-cell;
+	
 }
 
 .chapter9MiniImagesB img {
@@ -800,25 +800,24 @@ h3 {
 }
 
 .chapter9MiniHeaders {
-	display: table-cell;
-	padding-left: 15px;
+	
+
 	font-size: 105%;
-	float:right;
+	float:left;
 }
 
 .chapter9MiniHeadersB {
-	display: table-cell;
-	padding-left: 15px;
+	 
 	font-size: 105%;
-	float:right;
-	padding-top: 2%;
+	float:left;
+	
 }
 
 .chapter9MiniHeadersFC {
-	display: table-cell;
+	
 	font-size: 105%;
-	padding-left: 15px;
-	float:right;
+
+	float:left;
 }
 
 /* chapter 10 section */
@@ -1183,6 +1182,7 @@ h3 {
 	word-wrap: break-word;
 	float: right;	
 }
+
 
 
 
