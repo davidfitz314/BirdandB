@@ -53,7 +53,7 @@
 	<h2>Chapter 13: </h2>
 
 	<a NAME="what_is_sexual_harassment"></a>
-	<h3>What is Sexual Harassment</h3>
+	<h3>What is Sexual Harassment?</h3>
 	</p>Sexual Harassment is very different from sexual assault, but the two do relate to each other. Sexual harassment is a form of gender discrimination that involves unwelcome sexual advances, sexualized jokes or comments, requests for sexual favors, and other verbal or physical conduct of a sexual nature.</p>
 
 	<p>Sexual harassment is generally broken down into 2 categories, Quid Pro Quo and Hostile Environment:</p>
@@ -87,7 +87,7 @@
 	<h4>Sexual Harassment Statistics</h4>
 	<p>Sexual harassment is very common, the most reported location to be sexually harassed is the workplace. In a survey done by <a href="http://www.aware.org/" target="_blank">AWARE (Association of Women for Action and Research)</a> in 2008 they analyzed 92 different companies and gathered 500 respondents data.</p>
 
-	<ul class="closedCircle">
+	<ul>
 		<li>54% (272) had experienced some form of workplace sexual harassment.</li>
 
 		<li>79% of the victims are women; 21% were men.</li>
@@ -104,7 +104,7 @@
 	<p>These statistics show that both biological genders experience sexual harassment, but barely half of them know what to do about it or where they can go to find out more information. While many companies are progressively pushing to have better policies to cover this problem, it still requires each person to help. If you or someone you know has been sexually harassed or assaulted please document it, and report it to the proper authorities (police, human resources, etc...) and then follow up on it. Only by doing this can sexual harassment and assault be stopped</p>
 
 	<a NAME="what_is_sexual_assualt"></a>
-	<h3>What is Sexual Assault &amp; Rape</h3>
+	<h3>What is Sexual Assault &amp; Rape?</h3>
 	<p><strong class="addItalic">Sexual Assault</strong> has many aspects and can also be referred to as <strong class="addItalic">sexual violence</strong>. It is defined as any unwanted sexual contact from another party, this includes but is not limited to kissing, touching, groping, molestation, and penetration or rape. <strong class="addItalic">Sexual assault</strong> is different from <strong class="addItalic">sexual harassment</strong> as sexual assault requires a physical contact between 2 parties, where as sexual harassment doesn’t require physical contact but can include it. Sexual assault refers to: rape, forcible sodomy (oral or anal sex), and other unwanted sexual contact that is aggravated, abusive or wrongful, or even attempting to commit any of these acts. Sexual assault has no age limits, there have been many cases where children and elderly have been sexually assaulted.</p>
 
 	<p><strong class="addItalic">Rape</strong> is a form of sexual assault or sexual violence. Rape is the unlawful sexual intercourse or any other sexual penetration of the vagina, anus, or mouth of another person, with or without force, by a sex organ, other body part, or foreign object without the consent of the victim. (Dictionairy.com LLC 2017)</p>
