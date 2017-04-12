@@ -365,6 +365,13 @@ ul.closedCircle {
 	font-size: 98%;
 }
 
+.tabbedSpecial {
+	padding-top: 2%;
+	padding-left: 20%;
+	font-size: 98%;
+	float: right;
+}
+
 .tabbed ul {
 	font-size: 90%;
 }
