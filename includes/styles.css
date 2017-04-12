@@ -170,7 +170,7 @@ p {
 .CTA1 p {
 	padding-left: 25px;
 	padding-right: 25px;
-	text-align: justify;
+	text-align: left;
 }
 
 .CTA2 img {
@@ -1153,6 +1153,7 @@ h3 {
 .ch13LeftB2 {
 	float: left;
 	width: 15%;
+	padding: 5% 0 0 8%;
 }
 
 .ch13LeftB2 img {
