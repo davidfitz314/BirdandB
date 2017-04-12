@@ -849,6 +849,15 @@ h3 {
 	height: auto;
 }
 
+.ch10ImagesMW {
+	text-align:center;
+}
+
+.ch10ImagesMW img {
+	width: 40%;
+	height: auto;
+}
+
 .chapter10sideImagesandText {
 	display: table;
 }
