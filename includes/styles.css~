@@ -636,14 +636,14 @@ h3 {
 }
 
 .ch6ImagesB {
-	width: 50%;
+	width: 100%;
 	height: auto;
 	text-align:center;
-	margin: 7% 0 0 22%;
+	margin: 7% 0 0 0;
 }
 
 .ch6ImagesB img {
-	width: 100%;
+	width: 50%;
 	height: auto;
 }
 
@@ -677,26 +677,24 @@ h3 {
 
 .ch7ImagesB {
 	padding-top: 3%;
-	width: 70%;
+	width: 100%;
 	height: auto;
 	text-align: center;
-	margin: 0 0 0 15%;
 }
 
 .ch7ImagesB img {
-	width: 100%;
+	width: 70%;
 	height: auto;
 }
 
 .ch7ImagesC {
-	width: 50%;
+	width: 100%;
 	height: auto;
 	text-align: center;
-	margin: 0 0 0 25%;
 }
 
 .ch7ImagesC img {
-	width: 100%;
+	width: 50%;
 	height: auto;
 }
 
@@ -714,24 +712,35 @@ h3 {
 }
 
 .ch8Images {
-	width: 50%;
+	width: 100%;
 	height: auto;
 	text-align:center;
 }
 
 .ch8Images img {
-	width: 100%;
+	width: 50%;
 	height: auto;
 }
 
 .ch8ImagesB {
-	width: 70%;
+	width: 100%;
 	height: auto;
 	text-align:right;
 }
 
 .ch8ImagesB img {
+	width: 50%;
+	height: auto;
+}
+
+.ch8ImagesC {
 	width: 100%;
+	height: auto;
+	text-align:left;
+}
+
+.ch8ImagesC img {
+	width: 50%;
 	height: auto;
 }
 
@@ -1146,6 +1155,7 @@ h3 {
 	word-wrap: break-word;
 	float: right;	
 }
+
 
 
 
