@@ -87,7 +87,7 @@
 	<h4>Sexual Harassment Statistics</h4>
 	<p>Sexual harassment is very common, the most reported location to be sexually harassed is the workplace. In a survey done by <a href="http://www.aware.org/" target="_blank">AWARE (Association of Women for Action and Research)</a> in 2008 they analyzed 92 different companies and gathered 500 respondents data.</p>
 
-	<ul class="closedCircle">
+	<ul>
 		<li>54% (272) had experienced some form of workplace sexual harassment.</li>
 
 		<li>79% of the victims are women; 21% were men.</li>
@@ -115,7 +115,7 @@
 
 	<h4>Sexual Assualt Statistics</h4>
 	<h5 class="addItalic2">General Sexual Violence</h5>
-	<ul class=closedCircle>
+	<ul>
 		<li>1 in 5 women and 1 in 71 men will be raped at some point in their lives.</li>
 
 		<li>In 8 out of 10 cases of rape, the victim knew the person who sexually assaulted them.</li>
@@ -132,7 +132,7 @@
 		<li>The average age at which girls first become victims of prostitution is 12 to 14 years old, and the average age for boys is 11 to 13 years old.</li>
 	</ul>
 
-	<h5 class="addItalic2"></h5>
+	<h5 class="addItalic2">Sexual Violence on Campus</h5>
 	<ul>
 		<li>1 in 5 women and 1 in 16 men are sexually assaulted while in college.</li>
 

@@ -132,14 +132,14 @@
 		<li>The average age at which girls first become victims of prostitution is 12 to 14 years old, and the average age for boys is 11 to 13 years old.</li>
 	</ul>
 
-	<h5 class="addItalic2"></h5>
+	<h5 class="addItalic2">Sexual Violence on Campus</h5>
 	<ul>
 		<li>1 in 5 women and 1 in 16 men are sexually assaulted while in college.</li>
 
 		<li>More than 90% of sexual assault victims on college campuses do not report the assault.</li>
 	</ul>
 
-	<h5 class="addItalic2"></h5>
+	<h5 class="addItalic2">Crime Rates for Sexual Assault</h5>
 	<ul>
 		<li>Rape is the most under-reported crime; 63% of sexual assaults are not reported to police (o). Only 12% of child sexual abuse is reported to the authorities.</li>
 
