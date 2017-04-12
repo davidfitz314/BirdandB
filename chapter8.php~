@@ -92,7 +92,7 @@
 		<li>Orgasm climax can last from a few seconds to a full minute. The amount of contractions also varies, but the normal range is between 1 and 12 contractions lasting about 1 second a piece.</li>
 	</ul>	
 
-	<div class="ch8Images">
+	<div class="ch8ImagesB">
 		<img src="includes/images/chapter8/orgasm.png" alt="Female face, mouth agap from pleasure">
 	</div>
 

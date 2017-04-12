@@ -68,7 +68,7 @@
 		<li>During orgasm and ejaculation the males release fluid around 28 miles per hour.</li>
 	</ul>
 
-	<div class="ch8Images">
+	<div class="ch8ImagesC">
 		<img src="includes/images/chapter8/ejaculation.png" alt="Male penis shadow releasing ejaculatory fluid">
 	</div>
 

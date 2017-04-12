@@ -714,24 +714,35 @@ h3 {
 }
 
 .ch8Images {
-	width: 50%;
+	width: 100%;
 	height: auto;
 	text-align:center;
 }
 
 .ch8Images img {
-	width: 100%;
+	width: 50%;
 	height: auto;
 }
 
 .ch8ImagesB {
-	width: 70%;
+	width: 100%;
 	height: auto;
 	text-align:right;
 }
 
 .ch8ImagesB img {
+	width: 50%;
+	height: auto;
+}
+
+.ch8ImagesC {
 	width: 100%;
+	height: auto;
+	text-align:left;
+}
+
+.ch8ImagesC img {
+	width: 50%;
 	height: auto;
 }
 
@@ -1146,6 +1157,7 @@ h3 {
 	word-wrap: break-word;
 	float: right;	
 }
+
 
 
 
