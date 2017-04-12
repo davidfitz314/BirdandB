@@ -390,6 +390,7 @@ h4 {
 
 h5 {
 	font-size: 103%;
+	margin-bottom: 0%;
 }
 
 h2 {
@@ -854,7 +855,7 @@ h3 {
 }
 
 .ch10ImagesMW img {
-	width: 40%;
+	width: 25%;
 	height: auto;
 }
 
