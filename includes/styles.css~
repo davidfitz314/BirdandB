@@ -305,7 +305,7 @@ footer a:hover {
 
 .floating-menu a, 
 .floating-menu h3 {
-	font-size: 0.6em;
+	font-size: 0.8em;
 	display: block;
 	margin: 0 0.5em;
 	color: black;
@@ -1075,10 +1075,6 @@ h3 {
 
 .chapter13Text h5{
 	margin-bottom: 0;
-}
-
-.chapter13Text ul{
-	
 }
 
 .chapter13Text a{
