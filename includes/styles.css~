@@ -590,14 +590,14 @@ h3 {
 }
 
 .ch5ImagesB {
-	width: 40%;
+	width: 100%;
 	height: auto;
-	margin-left: 30%;
+	text-align: center;
 	
 }
 
 .ch5ImagesB img {
-	width: 100%;
+	width: 40%;
 	height: auto;
 }
 
