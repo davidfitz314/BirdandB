@@ -49,7 +49,7 @@
 	<h3>What is a Fetish &amp; Kink</h3>
 	</p>A fetish or kink is a form of sexual desire in which gratification is linked to an abnormal degree to a particular object, item of clothing, part of the body, or etc. Fetishes are generally an excessive and irrational devotion or commitment to a particular thing. They can be an inanimate object worshiped for its supposed magical powers, or because it is considered to be inhabited by a spirit or something else.</p>
 
-	<h4>Do I Have to Like Their Fetish</h4>
+	<h4>Do I Have to Like Their Fetish?</h4>
 	<p>Each person has the chance to have a fetish, whether it be to specific body parts, clothing, or more. When interacting with someone who has expressed their fetish to you verbally it is important to understand their opinion, but that does not mean you have to also engage in their fetish.</p>
 
 	<p>To the other person a fetish can be a healthy way to relieve sexuality, sensuality, and sexual desires. Accepting someone’s fetish is simply a way of accepting another person as a friend, and while they may enjoy their fetish, you are never required to do everything they want to. Instead be their friends, but make clear where your stance is on the subject.</p>
@@ -155,7 +155,7 @@
 	<h3>Non-Sexual Fetishes</h3>
 	<p>As long as there is a high / abnormal amount of interest in something it can be considered a fetish. Below is a list of fetishes that are non-sexual but still hold many people’s devotion.</p>
 	<ul class="closedCircle">
-		<li><strong class="addItalic">Astrophile</strong>- Someone who loves stars and star gazing.</li>
+		<li><strong class="addItalic">Astrophile</strong>- Someone who loves stars and star-gazing.</li>
 
 		<li><strong class="addItalic">Clinophile</strong>- Someone who loves reclining in bed.</li>
 
