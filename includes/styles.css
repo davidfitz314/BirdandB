@@ -1150,6 +1150,16 @@ h3 {
 	width: 100%;
 }
 
+.ch13LeftB2 {
+	float: left;
+	width: 15%;
+}
+
+.ch13LeftB2 img {
+	padding-top: 2%;
+	width: 100%;
+}
+
 .ch13RightC {
 	float: right;
 	padding-top: 10%;

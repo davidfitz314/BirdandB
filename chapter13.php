@@ -172,7 +172,7 @@
 	<p>While most of the above places can’t be avoided all the time, there are still many ways to protect oneself from sexual violence.</p>
 
 	<div class="sectionContainer3">
-		<div class="ch13LeftB">
+		<div class="ch13LeftB2">
 			<img src="includes/images/chapter13/keepcalm.png" alt="Keep Calm Crown">
 		</div>
 
