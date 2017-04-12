@@ -390,7 +390,6 @@ h4 {
 
 h5 {
 	font-size: 103%;
-	margin-bottom: 0;
 }
 
 h2 {
@@ -1072,6 +1071,10 @@ h3 {
 	margin-left: 25%;
 	line-height: 150%;
 	text-align: left;
+}
+
+.chapter13Text h5{
+	margin-bottom: 0;
 }
 
 .chapter13Text a{
