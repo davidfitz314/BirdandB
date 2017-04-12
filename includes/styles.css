@@ -1109,6 +1109,17 @@ h3 {
 	width: 100%;
 }
 
+.ch13LeftE {
+	float: left;
+	padding: 5% 0 0 5%;
+	width: 20%;
+}
+
+.ch13LeftE img{
+	padding-top: 10%;
+	width: 100%;
+}
+
 .ch13LeftB {
 	float: left;
 	width: 20%;
