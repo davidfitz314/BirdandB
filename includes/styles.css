@@ -986,6 +986,19 @@ h3 {
 	margin-bottom: 10%;
 }
 
+.ch11RightR{
+	width: 50%;
+	height: auto;
+	float: right;
+}
+
+.ch11RightR img{
+	width: 100%;
+	height: auto;
+	padding: 10% 0 0 5%;
+	margin-bottom: 10%;
+}
+
 .ch11RightB {
 	width: 50%;
 	height: auto;

@@ -73,7 +73,7 @@
 	
 	<div class="sectionContainer">
 		<!- Roman image goes right of text ->
-		<div class="ch11Right">
+		<div class="ch11RightR">
 			<img src="includes/images/chapter11/roman.png" alt="Roman styled shadow portraits">
 		</div>
 
