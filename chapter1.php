@@ -180,8 +180,6 @@ types including the solitary and group use of objects to achieve sexual performa
 		</a>
 	</div>
 </div>
-<div class="expandtest">
-</div>
 
 
 <!- Footer section ->
