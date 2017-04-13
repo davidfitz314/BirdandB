@@ -944,7 +944,7 @@ h3 {
 }
 
 .ch11Left {
-	width: 50%;
+	width: 48%;
 	height: auto;
 	float: left;
 }
@@ -952,7 +952,7 @@ h3 {
 .ch11Left img{
 	width: 100%;
 	height: auto;
-	padding: 18% 5% 0 0;
+	padding: 24.01% 5% 0 1%;
 	margin-bottom: 10%;
 }
 
@@ -999,7 +999,7 @@ h3 {
 .ch11Right img{
 	width: 100%;
 	height: auto;
-	padding: 18% 0 0 5%;
+	padding: 50% 0 0 5%;
 	margin-bottom: 10%;
 }
 
@@ -1285,6 +1285,7 @@ h3 {
 	word-wrap: break-word;
 	float: right;	
 }
+
 
 
 
