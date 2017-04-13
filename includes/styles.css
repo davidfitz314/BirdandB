@@ -5,10 +5,10 @@ header {
 	height: 350px;
 }
 
-@media screen and (max-width: 1050px) {
+@media only screen and (max-width: 1050px) {
     /* For mobile phones: */
     .centered-wrapper {
-        width: 100%;
+        width: 50%;
     }
 }
 
