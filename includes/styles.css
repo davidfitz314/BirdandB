@@ -1106,7 +1106,7 @@ h3 {
 
 .ch13Left {
 	float: left;
-	padding: 8% 0 0 0;
+	padding: 7% 0 0 2%;
 	width: 24%;
 }
 
@@ -1148,6 +1148,12 @@ h3 {
 .ch13Right {
 	float: right;
 	width: 70%;
+}
+
+.ch13RightH {
+	float: right;
+	width: 70%;
+	margin-left: 5%;
 }
 
 .ch13LeftC {
