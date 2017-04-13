@@ -56,7 +56,7 @@
 	<a NAME="ancient_greeks"></a>
 	<div class="sectionContainer">
 	<!- Greek image goes left of text ->
-		<div class="ch11Left">
+		<div class="ch11LeftG">
 			<img src="includes/images/chapter11/greek.png" alt="Greek styled shadow portraits">
 		</div>
 
@@ -66,10 +66,11 @@
 
 			<p>Greeks Myths consist of incest, murder, polygamy, intermarriage, and almost always required some sort of eroticism and / or fertility. From the beginning Greeks demonstrated woman's essential reproductive role in securing the cosmos, extending the human race, and ensuring the fertility of nature.</p>
 
-			<p>Masturbation to the Ancient Greeks was a normal and healthy substitute for other sexual pleasures. It was in fact a handy way to relieve sexual frustration which they deemed sexual frustration as destructive towards man.</p>
 		</div>
-	</div>
 
+		<p>Masturbation to the Ancient Greeks was a normal and healthy substitute for other sexual pleasures. It was in fact a handy way to relieve sexual frustration which they deemed sexual frustration as destructive towards man.</p>
+	</div>
+	
 
 	
 	<div class="sectionContainer">
