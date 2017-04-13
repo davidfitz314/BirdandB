@@ -306,7 +306,7 @@ footer a:hover {
 
 .floating-menu a, 
 .floating-menu h3 {
-	font-size: 0.7em;
+	font-size: 0.8em;
 	display: block;
 	margin: 0 0 0 0.5em;
 	color: black;
@@ -321,6 +321,7 @@ ul.floating-menu {
 .floating-menu h2 {
 	font-size: 95%;
 }
+
 
 .expandtest {
 	height: 900px;
