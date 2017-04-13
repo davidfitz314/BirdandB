@@ -965,11 +965,12 @@ h3 {
 .ch11LeftG img{
 	width: 89%;
 	height: auto;
-	padding: 10% 5% 0 5%;
+	padding: 53% 5% 0 5%;
 }
 
 .ch1pushDown {
-	margin-top: 10%;
+	margin-top: 64%;
+	margin-bottom: 5%;
 }
 
 .ch11Right {
@@ -1254,6 +1255,7 @@ h3 {
 	word-wrap: break-word;
 	float: right;	
 }
+
 
 
 
