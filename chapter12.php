@@ -81,7 +81,7 @@
 		<p><strong>Swinging:</strong> Refers to the act of a committed, usually married couple indulging in sex with another couple or individual with the full consent of both partners. The idea of swinging or experimentation with group sex is usually driven by the male in the relationship (research showing over 75% of the time).</p>
 	</div>
 
-	<div class="sectionContainer6">
+	<div class="sectionContainer8">
 		<div class="ch12LeftImg">
 			<img src="includes/images/chapter12/urolagnia.png" alt="Urolagnia also known as water sports">
 		</div>
