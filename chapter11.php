@@ -68,7 +68,7 @@
 
 		</div>
 	</div>
-	<p class="ch1pushDown">Masturbation to the Ancient Greeks was a normal and healthy substitute for other sexual pleasures. It was in fact a handy way to relieve sexual frustration which they deemed sexual frustration as destructive towards man.</p>
+	<p class="ch11pushDown">Masturbation to the Ancient Greeks was a normal and healthy substitute for other sexual pleasures. It was in fact a handy way to relieve sexual frustration which they deemed sexual frustration as destructive towards man.</p>
 
 	
 	<div class="sectionContainer">
@@ -97,7 +97,7 @@
 
 		</div>
 	</div>
-	<p class="ch1pushDown">The women during this time were believed to not know much of sex and that they held no desire to have sex or sexual activities. To men the women were supposed to not be a sexual being, but merely a tool for reproduction. These strict views on gender and sex became what we now think of as the Victorian stereotype.</p>
+	<p class="ch11pushDown2">The women during this time were believed to not know much of sex and that they held no desire to have sex or sexual activities. To men the women were supposed to not be a sexual being, but merely a tool for reproduction. These strict views on gender and sex became what we now think of as the Victorian stereotype.</p>
 
 	<div class="sectionContainer">
 	<!- prostitution section image goes right of text ->
