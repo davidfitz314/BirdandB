@@ -253,7 +253,7 @@ members of the public that could be of assistance to the victim.<p>
 			<img src="includes/images/chapter13/hotline.png" alt="Assault phone help hotline">
 		</div>
 
-		<div class="ch13Right">
+		<div class="ch13RightH">
 			<p><strong class="addItalic">National Sexual Assault Hotline:</strong><br>1-800-656-HOPE (1-800-656-4673)</p>
 
 			<p><strong class="addItalic">National Domestic Violence Hotline:</strong><br>1-800-799-SAFE ( 1-800-799-7233) or<br>1-800-787-3224 (TDD)</p>
