@@ -188,7 +188,7 @@
 
 		</div>
 	</div>
-	<p class="ch11pushDown3">Masters and Johnson’s studies held a smaller demographic than the Kinsey reports, having their focus more based on white college students, but the statistical data became so popular that a TV series was released about them in 2013 titled “<i>The Masters of Sex</i>”.</p>
+	<p class="ch11pushDown4">Masters and Johnson’s studies held a smaller demographic than the Kinsey reports, having their focus more based on white college students, but the statistical data became so popular that a TV series was released about them in 2013 titled “<i>The Masters of Sex</i>”.</p>
 
 	<!- image goes above text ->
 	<div class="ch11Images">
