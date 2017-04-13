@@ -990,6 +990,11 @@ h3 {
 	margin-bottom: 5%;
 }
 
+.ch11pushDown2 {
+	margin-top: 55%;
+	margin-bottom: 5%;
+}
+
 .ch11Right {
 	width: 50%;
 	height: auto;
@@ -1000,7 +1005,7 @@ h3 {
 	width: 100%;
 	height: auto;
 	padding: 50% 0 0 5%;
-	margin-bottom: 10%;
+	
 }
 
 .ch11RightR{
@@ -1285,6 +1290,7 @@ h3 {
 	word-wrap: break-word;
 	float: right;	
 }
+
 
 
 

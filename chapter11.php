@@ -160,7 +160,7 @@
 
 		</div>
 	</div>
-	<p class="ch11pushDown2">Many experts argue the the US’s and some parts of Europe sexual revolution began between 1960 to 1980, others state that is started as early as 1940s around the Great Depression.</p>	
+	<p class="ch11pushDown3">Many experts argue the the US’s and some parts of Europe sexual revolution began between 1960 to 1980, others state that is started as early as 1940s around the Great Depression.</p>	
 
 	<div class="sectionContainer">
 	<!- image goes left of text ->
