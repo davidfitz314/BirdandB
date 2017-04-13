@@ -246,7 +246,7 @@ members of the public that could be of assistance to the victim.<p>
 	<h3>Sexual Violence Help</h3>
 	<p>There are free hotlines that you can call 24 hours a day to get help if you have been sexually assaulted or if you need advice on how to leave an unhealthy relationship.</p>
 
-	<div class="sectionContainer5">
+	<div class="sectionContainer7">
 
 		<!- image goes left ->
 		<div class="ch13Left">
