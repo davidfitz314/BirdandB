@@ -93,8 +93,9 @@
 		<div class="ch12RightImgCD">
 			<img src="includes/images/chapter12/crossdressing.png" alt="Shadow of a cross dresser dancing">
 		</div>
-	
-		<p><strong>Cross Dressing:</strong> Individuals that cross-dress wear clothing and accessories of the “<i>opposite sex</i>.” Cross-dressing is more common than you might think, predominantly affecting heterosexual and gay men.</p>
+		<div class="ch12paragrapCD">
+			<p><strong>Cross Dressing:</strong> Individuals that cross-dress wear clothing and accessories of the “<i>opposite sex</i>.” Cross-dressing is more common than you might think, predominantly affecting heterosexual and gay men.</p>
+		</div>
 	</div>
 
 	<div class="sectionContainer">

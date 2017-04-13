@@ -1131,7 +1131,7 @@ h3 {
 .ch12LeftImgDiaper {
 	float:left;
 	width: 30%;
-	margin:1% 7% 20% 7%;
+	margin:7% 7% 20% 7%;
 }
 
 .ch12LeftImgDiaper img {
@@ -1142,7 +1142,7 @@ h3 {
 
 .ch12RightImgSwing {
 	float:right;
-	width: 25%;
+	width: 30%;
 	margin:0.5% 7% 7% 7%;
 }
 
@@ -1162,6 +1162,10 @@ h3 {
 	width: 100%;
 	height: auto;
 	padding: 0 15px, 15px, 15px;
+}
+
+.ch12paragrapCD {
+
 }
 
 .chapter12Text a{
@@ -1400,6 +1404,7 @@ h3 {
 	word-wrap: break-word;
 	float: right;	
 }
+
 
 
 
