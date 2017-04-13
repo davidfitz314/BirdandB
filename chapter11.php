@@ -185,9 +185,9 @@
 			<h4 class="addItalic">Masters &amp; Johnson</h4>
 			</p>A second major factor of the US’s sexual revolution was the Masters and Johnson’s studies, from 1957 until 1965, they recorded some of the first laboratory data on the anatomy and physiology of human sexual response based on direct observation of 382 women and 312 men. Their study estimated to have around 10,000 complete cycles of sex response. Their findings, on the nature of female sexual arousal and orgasm, showed that female lubricant did not originate from the cervix, that orgasm had similar physiological responses regardless of stimulation through clitoral or vaginal, and proved that some were women were multi-orgasmic.</p>
 
-			<p>Masters and Johnson’s studies held a smaller demographic than the Kinsey reports, having their focus more based on white college students, but the statistical data became so popular that a TV series was released about them in 2013 titled “<i>The Masters of Sex</i>”.</p>
 		</div>
 	</div>
+	<p class="ch11pushDown3">Masters and Johnson’s studies held a smaller demographic than the Kinsey reports, having their focus more based on white college students, but the statistical data became so popular that a TV series was released about them in 2013 titled “<i>The Masters of Sex</i>”.</p>
 
 	<!- image goes above text ->
 	<div class="ch11Images">
