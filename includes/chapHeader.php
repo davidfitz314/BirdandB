@@ -7,7 +7,7 @@
   <meta name="keywords" content="HTML,CSS,XML,PHP,JavaScript">
   <meta name="author" content="David ChenFitzgerald">
   <meta name="author" content="Jamie Chapmans">
-  <meta name="viewport" content="width=device-width, initial-scale=0.38">
+  <meta name="viewport" content="width=device-width, initial-scale=0.39">
   <link rel="stylesheet" type="text/css" href="includes/styles.css">
 </head>
 
