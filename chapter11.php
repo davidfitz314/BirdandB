@@ -86,7 +86,7 @@
 
 	<div class="sectionContainer">
 	<!- Victorian Era image goes left of text ->
-		<div class="ch11Left">
+		<div class="ch11LeftV">
 			<img src="includes/images/chapter11/victorian.png" alt="Victorian Era styled shadow portraits">
 		</div>
 
@@ -95,9 +95,9 @@
 			<h3>Victorian Era</h3>
 			<p>In the 1800s, or more specifically between 1837-1901, the strict gender roles for males and females returned. Women were to be covered up in cloth at all times unless having sex for reproductive reasons. Some women took it so far as to still wear clothing during the act of sex. Males were supposed to maintain high morals. Expressions of love were looked down upon.</p>
 
-			<p>The women during this time were believed to not know much of sex and that they held no desire to have sex or sexual activities. To men the women were supposed to not be a sexual being, but merely a tool for reproduction. These strict views on gender and sex became what we now think of as the Victorian stereotype.</p>
 		</div>
 	</div>
+	<p class="ch1pushDown">The women during this time were believed to not know much of sex and that they held no desire to have sex or sexual activities. To men the women were supposed to not be a sexual being, but merely a tool for reproduction. These strict views on gender and sex became what we now think of as the Victorian stereotype.</p>
 
 	<div class="sectionContainer">
 	<!- prostitution section image goes right of text ->
