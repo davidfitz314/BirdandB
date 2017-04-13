@@ -68,7 +68,7 @@
 
 		</div>
 	</div>
-	<p>Masturbation to the Ancient Greeks was a normal and healthy substitute for other sexual pleasures. It was in fact a handy way to relieve sexual frustration which they deemed sexual frustration as destructive towards man.</p>
+	<p class="ch1pushDown">Masturbation to the Ancient Greeks was a normal and healthy substitute for other sexual pleasures. It was in fact a handy way to relieve sexual frustration which they deemed sexual frustration as destructive towards man.</p>
 
 	
 	<div class="sectionContainer">
