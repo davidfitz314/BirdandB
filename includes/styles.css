@@ -307,11 +307,11 @@ footer a:hover {
 .floating-menu a, 
 .floating-menu h3 {
 	font-size: 0.8em;
-	display: inline-block;
+	display: block;
 	margin: 0 0 0 0.5em;
 	color: black;
 	text-decoration: none;
-	left: 5em;
+	left: 15px;
 }
 
 ul.floating-menu {
