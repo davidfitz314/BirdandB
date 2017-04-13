@@ -138,7 +138,7 @@
 		<p><strong>Sexual Role-play:</strong> Involves two or more individuals acting out different roles in a sexual scenario. It can be any type of sexual fantasy. It may be as involved as the participating individuals wish. Couples could choose to act the role-play out at a specific location, dressing up in detailed costumes or using different props. It may involve individuals assuming a participating role or that of a spectator. Technology has now brought about the possibility of sexual role-playing on the Internet as well, which many individuals and couples indulge in.</p>
 	</div>
 
-	<div class="sectionContainer">
+	<div class="sectionContainer8">
 		<div class="ch12RightImg">
 			<img src="includes/images/chapter12/BDSM.png" alt="Handcuffs and a whip">
 		</div>
