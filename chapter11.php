@@ -84,7 +84,6 @@
 		</div>
 	</div>
 
-
 	<div class="sectionContainer">
 	<!- Victorian Era image goes left of text ->
 		<div class="ch11Left">
