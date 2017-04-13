@@ -1165,7 +1165,7 @@ h3 {
 }
 
 .ch12paragrapCD {
-
+  padding-top: 10%;
 }
 
 .chapter12Text a{
@@ -1404,6 +1404,7 @@ h3 {
 	word-wrap: break-word;
 	float: right;	
 }
+
 
 
 
