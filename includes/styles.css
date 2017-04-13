@@ -439,6 +439,7 @@ h3 {
 .sectionContainer7 {
 	padding-bottom: 20%;
 	margin-bottom: 20%;
+	margin-left:10%;
 	clear:both;
 }
 
@@ -1106,7 +1107,8 @@ h3 {
 
 .ch13Left {
 	float: left;
-	padding: 7% 0 0 2%;
+	padding: 8% 2% 0 0%;
+	
 	width: 24%;
 }
 
@@ -1153,7 +1155,7 @@ h3 {
 .ch13RightH {
 	float: right;
 	width: 70%;
-	margin-left: 5%;
+	padding-left: 4%;
 }
 
 .ch13LeftC {
@@ -1236,6 +1238,7 @@ h3 {
 	word-wrap: break-word;
 	float: right;	
 }
+
 
 
 
