@@ -66,7 +66,7 @@
 	</p>Their are plenty of fetishes in today’s world. Below is a compilation of some of the most reported fetishes that are also related to sexuality.</p>
 
 	<div class="sectionContainer">
-		<div class="ch12LeftImg">
+		<div class="ch12LeftImgDiaper">
 			<img src="includes/images/chapter12/baby.png" alt="Baby Diaper, rattle, and milk bottle">
 		</div>
 	
@@ -74,7 +74,7 @@
 	</div>
 
 	<div class="sectionContainer">
-		<div class="ch12RightImg">
+		<div class="ch12RightImgSwing">
 			<img src="includes/images/chapter12/swinging.png" alt="2 sets of couples swapping partners while on swing sets">
 		</div>
 
@@ -90,7 +90,7 @@
 	</div>
 
 	<div class="sectionContainer">
-		<div class="ch12RightImg">
+		<div class="ch12RightImgCD">
 			<img src="includes/images/chapter12/crossdressing.png" alt="Shadow of a cross dresser dancing">
 		</div>
 	
@@ -98,7 +98,7 @@
 	</div>
 
 	<div class="sectionContainer">
-		<div class="ch12LeftImg">
+		<div class="ch12LeftImgFeet">
 			<img src="includes/images/chapter12/feet.png" alt="Feet shadow">
 		</div>
 	
@@ -106,7 +106,7 @@
 	</div>
 
 	<div class="sectionContainer">
-		<div class="ch12RightImg">
+		<div class="ch12RightImgSpanking">
 			<img src="includes/images/chapter12/spanking.png" alt="Outline shadow of a couple spanking each other">
 		</div>
 	
@@ -114,7 +114,7 @@
 	</div>
 
 		<div class="sectionContainer">
-		<div class="ch12LeftImg">
+		<div class="ch12LeftImgVoyeur">
 			<img src="includes/images/chapter12/voyeurism.png" alt="Camera">
 		</div>
 	
@@ -122,7 +122,7 @@
 	</div>
 
 	<div class="sectionContainer">
-		<div class="ch12RightImg">
+		<div class="ch12RightImgMaterials">
 			<img src="includes/images/chapter12/materials.png" alt="Materials image female with latex gloves">
 		</div>
 	
@@ -180,7 +180,7 @@
 
 	<h4>External Links</h4>
 	<div class="sectionContainer">
-		<div class="ch12LeftImg">
+		<div class="ch12LeftImgMeet">
 			<a href="http://www.meetup.com" target="_blank">
 				<img src="includes/images/chapter12/meetup.png" alt="Meetup.com similar logo">
 			</a>

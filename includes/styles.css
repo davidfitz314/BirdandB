@@ -1094,9 +1094,8 @@ h3 {
 	text-align: center;
 }
 .ch12Images2 img {
-	width: 50%;
+	width: 30%;
 	height: auto;
-	text-align:center;
 }
 
 .ch12Images img {
@@ -1129,6 +1128,42 @@ h3 {
 	padding: 0 15px 15px 15px;
 }
 
+.ch12LeftImgDiaper {
+	float:left;
+	width: 30%;
+	margin:3% 7% 20% 7%;
+}
+
+.ch12LeftImgDiaper img {
+	width: 100%;
+	height: auto;
+	padding: 0 15px 15px 15px;
+}
+
+.ch12RightImgSwing {
+	float:right;
+	width: 25%;
+	margin:3% 7% 7% 7%;
+}
+
+.ch12RightImgSwing img {
+	width: 100%;
+	height: auto;
+	padding: 0 15px, 15px, 15px;
+}
+
+.ch12RightImgCD {
+	float:right;
+	width: 30%;
+	margin:3% 7% 7% 7%;
+}
+
+.ch12RightImgCD img {
+	width: 100%;
+	height: auto;
+	padding: 0 15px, 15px, 15px;
+}
+
 .chapter12Text a{
 	text-decoration:none;
 	color: black;
@@ -1137,6 +1172,66 @@ h3 {
 .chapter12Text a:hover{
 	text-decoration:none;
 	color: blue;
+}
+
+.ch12LeftImgFeet {
+	float:left;
+	width: 30%;
+	margin:3% 7% 20% 7%;
+}
+
+.ch12LeftImgFeet img {
+	width: 100%;
+	height: auto;
+	padding: 0 15px 15px 15px;
+}
+
+.ch12RightImgSpanking {
+	float:right;
+	width: 25%;
+	margin:3% 7% 7% 7%;
+}
+
+.ch12RightImgSpanking img {
+	width: 100%;
+	height: auto;
+	padding: 0 15px, 15px, 15px;
+}
+
+.ch12LeftImgVoyeur {
+	float:left;
+	width: 30%;
+	margin:3% 7% 20% 7%;
+}
+
+.ch12LeftImgVoyeur img {
+	width: 100%;
+	height: auto;
+	padding: 0 15px 15px 15px;
+}
+
+.ch12RightImgMaterials {
+	float:right;
+	width: 25%;
+	margin:3% 7% 7% 7%;
+}
+
+.ch12RightImgMaterials img {
+	width: 100%;
+	height: auto;
+	padding: 0 15px, 15px, 15px;
+}
+
+.ch12LeftImgMeet {
+	float:left;
+	width: 30%;
+	margin:3% 7% 20% 7%;
+}
+
+.ch12LeftImgMeet img {
+	width: 100%;
+	height: auto;
+	padding: 0 15px 15px 15px;
 }
 
 /* chapter 13 section */
@@ -1305,6 +1400,7 @@ h3 {
 	word-wrap: break-word;
 	float: right;	
 }
+
 
 
 
