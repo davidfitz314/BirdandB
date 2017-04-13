@@ -1412,7 +1412,12 @@ h3 {
 	float: right;	
 }
 
-
+@media only screen and (max-width: 1080px) {
+    /* For mobile phones: */
+    .centered-wrapper {
+        width: 100%;
+    }
+}
 
 
 
