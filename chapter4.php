@@ -30,10 +30,10 @@
 <strong><a href="chapter7.php">ch7: Love vs Sex</a></strong>
 <strong><a href="chapter8.php">ch8: Orgasm</a></strong>
 <strong><a href="chapter9.php">ch9: Staying Safe During Sex</a></strong>
-<strong><a href="chapter10.php">ch10: Sexually Transmitted &nbsp;&nbsp;&nbsp;&nbsp;Infections-STDs</a></strong>
-<strong><a href="chapter11.php">ch11: Human Sexuality in the &nbsp;&nbsp;&nbsp;&nbsp;World</a></strong>
+<strong><a href="chapter10.php">ch10: Sexually Transmitted &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Infections-STDs</a></strong>
+<strong><a href="chapter11.php">ch11: Human Sexuality in the &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;World</a></strong>
 <strong><a href="chapter12.php">ch12: Kinks and Fetishes</a></strong>
-<strong><a href="chapter13.php">ch13: Sexual Harassment, &nbsp;&nbsp;&nbsp;&nbsp;Assault, &amp; Rape</a></strong>
+<strong><a href="chapter13.php">ch13: Sexual Harassment, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Assault, &amp; Rape</a></strong>
 <strong><a href="chapter14.php">ch14: Works Cited and External &nbsp;&nbsp;&nbsp;&nbsp;Resources</a></strong>
 </nav>
 <!- end navigation sidebar ->
