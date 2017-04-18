@@ -1535,20 +1535,6 @@ h3 {
     border-bottom: 1px dotted black;
 }
 
-.tooltip .tooltiptext {
-    visibility: hidden;
-    width: 100px;
-    background-color: #FFD700;
-    color: black;
-    text-align: center;
-    border-radius: 6px;
-    padding: 5px;
-
-    /* Position the tooltip */
-    position: absolute;
-    z-index: 1;
-}
-
 .tooltip:hover .tooltiptext {
     visibility: visible;
 }
@@ -1556,7 +1542,6 @@ h3 {
 .ch1num1:hover .tooltiptext {
     visibility: visible;
 }
-
 
 .ch1num1 {
 	width: 50px;
@@ -1569,6 +1554,26 @@ h3 {
 	height: 100%;
 	width: auto;
 }
+
+.ch1num1 .tooltip .tooltiptext {
+    visibility: hidden;
+    width: 200px;
+    background-color: #FFD700;
+    color: black;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px;
+
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+	
+	right: 105%;
+}
+
+
+
+
 
 @media only screen and (max-width: 1080px) {
     /* For mobile phones: */

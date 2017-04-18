@@ -53,13 +53,13 @@
 	<p>Once a month one of a woman’s 2 ovaries release a mature egg, this is called ovulation. Ovulation happens approximately 2 weeks after the start of the woman's most recent menstrual period. The egg at this point travels into the woman’s Fallopian tube where it can be fertilized by a single sperm.</p>
 
 	<h4>Fertilization: sperm and its journey to the egg</h4>
-	<p>To begin the male ejaculates releasing approximately 40 million to 150 million sperm into the vagina, there the sperm travel upwards towards the woman’s reproductive tract. The sperm swim towards the Fallopian tubes from the vaginal opening, this can take from 30 minutes to even days for some sperm.</p><!- interesting fact goes here ->
+	<p>To begin the male ejaculates releasing approximately 40 million to 150 million sperm into the vagina, there the sperm travel upwards towards the woman’s reproductive tract. The sperm swim towards the Fallopian tubes from the vaginal opening, this can take from 30 minutes to even days for some sperm.</p>
 
-<!- tool tip section ->
+<!- interesting fact goes here ->
 <div class="ch1num1">
 	<img src='includes/images/lightOFF.png' onmouseover="this.src='includes/images/lightON.png';" onmouseout="this.src='includes/images/lightOFF.png';" />
 	<div class="tooltip">
-  		<span class="tooltiptext">Tooltip text test tes t test tes t tes t test test </span>
+  		<span class="tooltiptext">Interesting fact: Inside of the vagina, sperm can live for up to 48 to 72 hours and out of the millions of sperm only a few hundred even come close to the egg.</span>
 	</div>
 </div>
 <!- end test section ->
