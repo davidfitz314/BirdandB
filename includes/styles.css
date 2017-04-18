@@ -218,24 +218,24 @@ p {
 
 .single2chap a:hover, .single4chap a:hover, .single6chap a:hover, .single8chap a:hover, .single10chap a:hover, .single12chap a:hover, .single14chap a:hover {
 	text-decoration: none;
-	color: #800000;
+	color: #F4A460;
 }
  
 .single1chap a:hover, .single3chap a:hover, .single5chap a:hover, .single7chap a:hover, .single9chap a:hover, .single11chap a:hover, .single13chap a:hover {
 	text-decoration: none;
-	color: #800000;
+	color: #F4A460;
 }
 
 .single2chap p:hover, .single4chap p:hover, .single6chap p:hover, .single8chap p:hover, .single10chap p:hover, .single12chap p:hover, .single14chap p:hover {
 	padding: 10px;
-	border: solid #800000;
+	border: solid #F4A460;
 	margin-left: 10px;
 	margin-right: 10px;
 }
  
 .single1chap p:hover, .single3chap p:hover, .single5chap p:hover, .single7chap p:hover, .single9chap p:hover, .single11chap p:hover, .single13chap p:hover {
 	padding: 10px;
-	border: solid #800000;
+	border: solid #F4A460;
 	margin-left: 10px;
 	margin-right: 10px;
 }
@@ -244,56 +244,56 @@ p {
 	background-image: url("images/chapter1/honeycomb.png");
 	background-size: 100% 100%;
 	background-repeat: no-repeat;
-	color: #800000;
+	color: #F4A460;
 }
 
 .single2chap p {
 	background-image: url("images/chapter2/sperm&egg.png");
 	background-size: cover;
 	background-repeat: no-repeat;
-	color: #800000;
+	color: #F4A460;
 }
 
 .single3chap p {
 	background-image: url("images/chapter3/growth.png");
 	background-size: 100% 100%;
 	background-repeat: no-repeat;
-	color: #800000;
+	color: #F4A460;
 }
 
 .single4chap p {
 	background-image: url("images/chapter4/faces(bounce).png");
 	background-size: 100% 100%;
 	background-repeat: no-repeat;
-	color: #A0522D;
+	color: #F4A460;
 }
 
 .single5chap p {
 	background-image: url("images/chapter5/kiss.png");
 	background-size: 100% 100%;
 	background-repeat: no-repeat;
-	color: #A0522D;
+	color: #F4A460;
 }
 
 .single6chap p {
 	background-image: url("images/chapter6/burlesque.png");
 	background-size: 100% 100%;
 	background-repeat: no-repeat;
-	color: #A0522D;
+	color: #F4A460;
 }
 
 .single7chap p {
 	background-image: url("images/chapter7/VS.PNG");
 	background-size: 100% 100%;
 	background-repeat: no-repeat;
-	color: #A0522D;
+	color: #F4A460;
 }
 
 .single8chap p {
 	background-image: url("images/chapter8/sheetgrip.png");
 	background-size: 100% 100%;
 	background-repeat: no-repeat;
-	color: #A0522D;
+	color: #F4A460;
 }
 
 .single9chap p {
