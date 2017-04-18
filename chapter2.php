@@ -615,15 +615,6 @@
 </div>
 </div>
 
-<!- tool tip section ->
-<div class="ch1num1">
-	<img src='includes/images/lightOFF.png' onmouseover="this.src='includes/images/lightON.png';" onmouseout="this.src='includes/images/lightOFF.png';" />
-	<div class="tooltip">
-  		<span class="tooltiptext">Tooltip text test tes t test tes t tes t test test </span>
-	</div>
-</div>
-<!- end test section ->
-
 <!- Footer section ->
 <?php include 'includes/footer.php'; ?>
 
