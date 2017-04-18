@@ -1,17 +1,8 @@
 header {
-	background-image: url("images/logo.png");
-	background-repeat: no-repeat;
-	background-size: 350px;
-	height: 350px;
+	margin: 0 auto;
+	background-color:#91A8d0;
 }
 
-
-/*header h1 {
-	padding: 100px 0px 475px 0px;
-}*/
-
-
-/***** we still need @media-queries for sizes smaller then the default *****/
 .centered-wrapper {
     margin: auto;
 	width: 900px;
@@ -40,7 +31,7 @@ p {
 .cNavi {
 	height: 125px;
 	width: 100%;
-	background-color:#91A8d0;
+	
 	margin: 0 auto;
 }
 
@@ -215,7 +206,7 @@ p {
 	border: solid black;
 	margin-left: 10px;
 	margin-right: 10px;
-	height: 135%;
+	height: 100px;
 	width: 155px;
 	border-radius: 25px;
 }
@@ -227,26 +218,139 @@ p {
 
 .single2chap a:hover, .single4chap a:hover, .single6chap a:hover, .single8chap a:hover, .single10chap a:hover, .single12chap a:hover, .single14chap a:hover {
 	text-decoration: none;
-	color: #f06492;
+	color: rgba(0, 0, 0, 1.0);
+	background-color: #0000FF;
+	color: rgba(0, 0, 0, 1.0);
 }
  
 .single1chap a:hover, .single3chap a:hover, .single5chap a:hover, .single7chap a:hover, .single9chap a:hover, .single11chap a:hover, .single13chap a:hover {
 	text-decoration: none;
-	color: #7990c9;
+	color: #E9967A;
+	background-color: #0000FF;
+
+	color: rgba(0, 0, 0, 1.0);
 }
 
 .single2chap p:hover, .single4chap p:hover, .single6chap p:hover, .single8chap p:hover, .single10chap p:hover, .single12chap p:hover, .single14chap p:hover {
 	padding: 10px;
-	border: solid #f06492;
+	border: solid rgba(0, 0, 0, 1.0);
 	margin-left: 10px;
 	margin-right: 10px;
+	background-color: #0000FF;
+	color: rgba(0, 0, 0, 1.0);
+	background-image: url("");
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
 }
  
 .single1chap p:hover, .single3chap p:hover, .single5chap p:hover, .single7chap p:hover, .single9chap p:hover, .single11chap p:hover, .single13chap p:hover {
 	padding: 10px;
-	border: solid #7990c9;
+	border: solid rgba(0, 0, 0, 1.0);
 	margin-left: 10px;
 	margin-right: 10px;
+	background-color: #0000FF;
+	color: rgba(0, 0, 0, 1.0);
+	background-image: url("");
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+}
+
+.single1chap p {
+	background-image: url("images/chapter1/honeycomb.png");
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	color: rgba(0, 0, 0, 0.0);
+}
+
+.single2chap p {
+	background-image: url("images/chapter2/sperm&egg.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+	color: rgba(0, 0, 0, 0.0);
+}
+
+.single3chap p {
+	background-image: url("images/chapter3/growth.png");
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	color: rgba(0, 0, 0, 0.0);
+}
+
+.single4chap p {
+	background-image: url("images/chapter4/faces(bounce).png");
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	color: rgba(0, 0, 0, 0.0);
+}
+
+.single5chap p {
+	background-image: url("images/chapter5/kiss.png");
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	color: rgba(0, 0, 0, 0.0);
+}
+
+.single6chap p {
+	background-image: url("images/chapter6/burlesque.png");
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	color: rgba(0, 0, 0, 0.0);
+}
+
+.single7chap p {
+	background-image: url("images/chapter7/VS.PNG");
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	color: rgba(0, 0, 0, 0.0);
+}
+
+.single8chap p {
+	background-image: url("images/chapter8/sheetgrip.png");
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	color: rgba(0, 0, 0, 0.0);
+}
+
+.single9chap p {
+	background-image: url("images/chapter9/condom.png");
+	background-size: auto;
+	background-repeat: no-repeat;
+	color: rgba(0, 0, 0, 0.0);
+}
+
+.single10chap p {
+	background-image: url("images/chapter10/warning.png");
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	color: rgba(0, 0, 0, 0.0);
+}
+
+.single11chap p {
+	background-image: url("images/chapter11/worldSexualHealthDay.png");
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	color: rgba(0, 0, 0, 0.0);
+}
+
+.single12chap p {
+	background-image: url("images/chapter12/kinky.png");
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	color: rgba(0, 0, 0, 0.0);
+}
+
+.single13chap p {
+	background-image: url("images/chapter13/hand.png");
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	color: rgba(0, 0, 0, 0.0);
+}
+
+.single14chap p {
+	background-image: url("images/chapter14/honeycomb.png");
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	color: rgba(0, 0, 0, 0.0);
 }
 
 footer {
@@ -1430,4 +1534,5 @@ h3 {
         width: 100%;
     }
 }
+
 
