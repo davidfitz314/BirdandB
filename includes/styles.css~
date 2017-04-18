@@ -570,7 +570,7 @@ h3 {
 	margin-left: 25%;
 	line-height: 150%;
 	text-align: left;
-	margin-bottom:40%;
+	margin-bottom:50%;
 }
 
 .chapter1Text a {
