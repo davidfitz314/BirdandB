@@ -605,6 +605,13 @@
 	<p>The baby is now considered late-term. Health care practitioners will encourage the mother into inducing labor to avoid any health risks.</p>
 </div>
 </div>
+
+<!- tool tip section ->
+<div class="tooltip">
+	<img src='includes/images/lightOFF.png' onmouseover="this.src='includes/images/lightON.png';" onmouseout="this.src='includes/images/lightOFF.png';" />
+  <span class="tooltiptext">Tooltip text test tes t test tes t tes t test test </span>
+</div>
+
 <!- Footer section ->
 <?php include 'includes/footer.php'; ?>
 
