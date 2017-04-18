@@ -1575,8 +1575,8 @@ h3 {
     /* Position the tooltip */
     position: absolute;
     z-index: 1;
-	  top: -75px;
-	  right: 50px;
+	  top: -18px;
+	  right: 10px;
 	  font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -1590,6 +1590,7 @@ h3 {
         width: 100%;
     }
 }
+
 
 
 
