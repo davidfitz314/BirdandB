@@ -1368,6 +1368,7 @@ h3 {
 	margin-left: 25%;
 	line-height: 150%;
 	text-align: left;
+	margin-bottom: 10%;
 }
 
 .chapter13Text h5{
@@ -1492,7 +1493,7 @@ h3 {
 	width: 75%;
 	line-height: 150%;
 	text-align: left;
-	margin: 0 0 10% 25%;
+	margin: 0 0 18% 25%;
 }
 
 .chapter14Text ul {
