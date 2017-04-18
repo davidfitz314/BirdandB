@@ -240,11 +240,11 @@ People can love:</p>
 		<img src="includes/images/chapter7/psychology.png" alt="Two heads interconnected working together">
 	</div>
 </div>
-
+</div>
 <!- Footer section ->
 <?php include 'includes/footer.php'; ?>
 
-</div>
+
 <!- end centered-wrapper div ->
 </body>
 </html>

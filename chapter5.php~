@@ -30,11 +30,11 @@
 <strong><a href="chapter7.php">ch7: Love vs Sex</a></strong>
 <strong><a href="chapter8.php">ch8: Orgasm</a></strong>
 <strong><a href="chapter9.php">ch9: Staying Safe During Sex</a></strong>
-<strong><a href="chapter10.php">ch10: Sexually Transmitted Infections-STDs</a></strong>
-<strong><a href="chapter11.php">ch11: Human Sexuality in the World</a></strong>
+<strong><a href="chapter10.php">ch10: Sexually Transmitted <br><span class="indent">Infections-STDs</span></a></strong>
+<strong><a href="chapter11.php">ch11: Human Sexuality in the <br><span class="indent">World</span></a></strong>
 <strong><a href="chapter12.php">ch12: Kinks and Fetishes</a></strong>
-<strong><a href="chapter13.php">ch13: Sexual Harassment, Assault, &amp; Rape</a></strong>
-<strong><a href="chapter14.php">ch14: Works Cited and External Resources</a></strong>
+<strong><a href="chapter13.php">ch13: Sexual Harassment, <br><span class="indent">Assault, &amp; Rape</a></strong>
+<strong><a href="chapter14.php">ch14: Works Cited and External <br><span class="indent">Resources</span></a></strong>
 </nav>
 <!- end navigation sidebar ->
 
@@ -185,11 +185,11 @@
 	<p>For more statistical information on sexuality, sex, or love please visit the <a href="https://www.kinseyinstitute.org/" target="_blank">Kinsey Institute</a> or <a heref="https://www.guttmacher.org/" target="_blank">GuttMacher Institute</a>. They are both dedicated to providing data in a well-balanced format for most cultures.</p>
 
 </div>
-
+</div>
 <!- Footer section ->
 <?php include 'includes/footer.php'; ?>
 
-</div>
+
 <!- end centered-wrapper div ->
 </body>
 </html>
