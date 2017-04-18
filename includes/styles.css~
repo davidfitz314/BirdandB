@@ -570,6 +570,10 @@ h3 {
 	padding-left: 16%;
 }
 
+.colorChange {
+	background-color: #D7D7D7;
+}
+
 /*chapter 1 section*/
 .chapter1Text {
 	width: 75%;
