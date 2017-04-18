@@ -212,6 +212,9 @@ p {
 	border: solid black;
 	margin-left: 10px;
 	margin-right: 10px;
+	height: 135%;
+	width: 150px;
+	border-radius: 25px;
 }
 
 .single1chap a, .single2chap a, .single3chap a, .single4chap a, .single5chap a, .single6chap a, .single7chap a, .single8chap a, .single9chap a, .single10chap a, .single11chap a, .single12chap a, .single13chap a, .single14chap a {
@@ -1423,3 +1426,4 @@ h3 {
         width: 100%;
     }
 }
+
