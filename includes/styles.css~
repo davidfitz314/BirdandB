@@ -572,6 +572,7 @@ h3 {
 
 .colorChange {
 	background-color: #D7D7D7;
+	margin-right: 10px;
 }
 
 /*chapter 1 section*/
