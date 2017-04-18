@@ -298,7 +298,7 @@ p {
 
 .single9chap p {
 	background-image: url("images/chapter9/condom.png");
-	background-size: 110% 110%;
+	background-size: auto;
 	background-repeat: no-repeat;
 	color: #E9967A;
 }
