@@ -83,7 +83,7 @@
 <div class="ch1num1">
 	<img src='includes/images/lightOFF.png' onmouseover="this.src='includes/images/lightON.png';" onmouseout="this.src='includes/images/lightOFF.png';" />
 	<div class="tooltip">
-  		<span class="tooltiptext">Interesting fact: If the the fertilized egg does not enter the uterus properly a tubal or ectopic pregnancy can occur, in the case of an ectopic pregnancy the mother’s health will be at serious risk.</span>
+  		<span class="tooltiptext">Interesting fact: If the fertilized egg does not enter the uterus properly a tubal or ectopic pregnancy can occur, in the case of an ectopic pregnancy the mother’s health will be at serious risk.</span>
 	</div>
 </div>
 <!- end interesting fact section ->

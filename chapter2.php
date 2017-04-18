@@ -57,7 +57,7 @@
 
 <!- interesting fact goes here ->
 <div class="ch1num1">
-	<img src='includes/images/lightOFF.png' onmouseover="this.src='includes/images/lightON.png';" onmouseout="this.src='includes/images/lightOFF.png';" />
+	
 	<div class="tooltip">
   		<span class="tooltiptext">Interesting fact: Inside of the vagina, sperm can live for up to 48 to 72 hours and out of the millions of sperm only a few hundred even come close to the egg.</span>
 	</div>
