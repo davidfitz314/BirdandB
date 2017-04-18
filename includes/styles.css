@@ -1,5 +1,5 @@
 header {
-	margin: 0 auto;
+	margin: -10px -10px 0px -10px;
 	background-color:#91A8d0;
 }
 
@@ -359,7 +359,7 @@ footer {
 	text-align: center;
 	line-height:150%;
 	background-color:#91A8d0;
-	margin: 0 auto;
+	margin: 400px -10px -10px -10px;
 }
 
 footer a {
