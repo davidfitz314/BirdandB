@@ -11,22 +11,26 @@
   <link rel="stylesheet" type="text/css" href="includes/styles.css">
 </head>
 
+<header>
+<div class="cNavi">
+	<a href="http://www.birdandb.com">
+		<div class="cLogo">
+		</div><!- end logo div ->
+	</a>
+	<div class="cHeadCells">
+		<a href="http://www.birdandb.com">Home</a>
+	</div>
+	<div class="searchBarC">
+		<form>
+			<input type="text" name="search" placeholder="Search Bar (coming soon)..." size="20">
+		</form>	
+	</div>
+</div>
+</header>
+
 <body>
 
-	<div class="cNavi">
-		<a href="http://www.birdandb.com">
-			<div class="cLogo">
-			</div><!- end logo div ->
-		</a>
-		<div class="cHeadCells">
-		  <a href="http://www.birdandb.com">Home</a>
-		</div>
-		<div class="searchBarC">
-			<form>
-				<input type="text" name="search" placeholder="Search Bar (coming soon)..." size="20">
-			</form>	
-		</div>
-	</div>
+	
 <div class="centered-wrapper">
 
 

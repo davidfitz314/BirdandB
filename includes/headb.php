@@ -11,8 +11,7 @@
   <link rel="stylesheet" type="text/css" href="includes/styles.css">
 </head>
 	
-<body>
-
+<header>
 	<div class="cNavi">
 		<a href="http://www.birdandb.com">
 			<div class="cLogo">
@@ -27,4 +26,8 @@
 			</form>	  
 		</div>
 	</div>
+</header>
+<body>
+
+	
 <div class="centered-wrapper">

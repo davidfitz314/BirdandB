@@ -12,7 +12,7 @@
 </head>
 
 <body>
-<div class="centered-wrapper">
+
 	<div class="cNavi">
 		<a href="http://www.birdandb.com">
 			<div class="cLogo">
@@ -27,7 +27,7 @@
 			</form>	
 		</div>
 	</div>
-
+<div class="centered-wrapper">
 
 
 
