@@ -1,5 +1,6 @@
 header {
 	margin: 0 auto;
+	background-color:#91A8d0;
 }
 
 
@@ -37,7 +38,7 @@ p {
 .cNavi {
 	height: 125px;
 	width: 100%;
-	background-color:#91A8d0;
+	
 	margin: 0 auto;
 }
 
