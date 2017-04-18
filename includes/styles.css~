@@ -1554,6 +1554,12 @@ h3 {
     visibility: visible;
 }
 
+.ch1num1 {
+	width: 100px;
+	height: 100px;
+	float: right;
+}
+
 @media only screen and (max-width: 1080px) {
     /* For mobile phones: */
     .centered-wrapper {

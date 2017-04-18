@@ -607,9 +607,11 @@
 </div>
 
 <!- tool tip section ->
-<div class="tooltip">
-	<img src='includes/images/lightOFF.png' onmouseover="this.src='includes/images/lightON.png';" onmouseout="this.src='includes/images/lightOFF.png';" />
-  <span class="tooltiptext">Tooltip text test tes t test tes t tes t test test </span>
+<div class="ch1num1">
+	<div class="tooltip">
+		<img src='includes/images/lightOFF.png' onmouseover="this.src='includes/images/lightON.png';" onmouseout="this.src='includes/images/lightOFF.png';" />
+  	<span class="tooltiptext">Tooltip text test tes t test tes t tes t test test </span>
+	</div>
 </div>
 
 <!- Footer section ->
