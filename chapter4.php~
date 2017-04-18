@@ -30,11 +30,11 @@
 <strong><a href="chapter7.php">ch7: Love vs Sex</a></strong>
 <strong><a href="chapter8.php">ch8: Orgasm</a></strong>
 <strong><a href="chapter9.php">ch9: Staying Safe During Sex</a></strong>
-<strong><a href="chapter10.php">ch10: Sexually Transmitted <br>Infections-STDs</a></strong>
-<strong><a href="chapter11.php">ch11: Human Sexuality in the <br>World</a></strong>
+<strong><a href="chapter10.php">ch10: Sexually Transmitted <br><span class="indent">Infections-STDs</span></a></strong>
+<strong><a href="chapter11.php">ch11: Human Sexuality in the <br><span class="indent">World</span></a></strong>
 <strong><a href="chapter12.php">ch12: Kinks and Fetishes</a></strong>
-<strong><a href="chapter13.php">ch13: Sexual Harassment, <br>Assault, &amp; Rape</a></strong>
-<strong><a href="chapter14.php">ch14: Works Cited and External <br>Resources</a></strong>
+<strong><a href="chapter13.php">ch13: Sexual Harassment, <br><span class="indent">Assault, &amp; Rape</a></strong>
+<strong><a href="chapter14.php">ch14: Works Cited and External <br><span class="indent">Resources</span></a></strong>
 </nav>
 <!- end navigation sidebar ->
 
@@ -49,14 +49,28 @@
 	
 	<h2>Chapter 4: Human Nature &amp; Psychological Dependencies</h2>
 	<p>Every human is a mammal, but what appears to make us different from other mammals is our comprehension of self and our emotions. When one talks about animal nature they are usually discussing base desires for reproducing, eating, and self-defense, but when one talks about Human nature they discuss it in a more philosophical manner.</p>
-	<!- Interesting Fact goes here ->
+
+<!- interesting fact goes here ->
+<div class="ch1num1">
+	<div class="tooltip">
+  		<span class="tooltiptext">Interesting Fact: </span>
+	</div>
+</div>
+<!- end interesting fact section ->
 
 	<a NAME="human_nature"></a>
 	<h4>Human Nature</h4>
 	<p>Human nature is defined as: referring to distinguishing characteristics of thinking feeling and acting. “I think, therefore I am” is a famous saying from the philosopher Rene Descartes, it is used often in the study of the mind but came into western culture as a building block for foundation of knowledge in the face of doubt. It describes human thoughts as always looking for a foundation to build upon and trying hard to resist the doubts from the inner and outer self.</p>
 	<p>Human nature deals with emotions as a core foundation point for thoughts and actions. How you feel decides what actions you take, Tracee Ellis Ross an American Actress once said “I need to see my own beauty and to continue to be reminded that I am enough, that I am worthy of love without effort, that I am beautiful, that the texture of my hair and that the shape of my curves, the size of my lips, the color of my skin, and the feelings that I have are all worthy and okay.” Her point shows that without positive emotions it was hard to continue to act when it came to love.</p>
 	<p>Human nature also closely studies the actions taken by humans, Mahatma Gandhi an Indian civil rights leader and well-known figure for peace once said “Your beliefs become your thoughts, Your thoughts become your words, Your words become your actions, Your actions become your habits, Your habits become your values, Your values become your destiny.” This shows that after your emotions and thoughts come together they become words and actions which tells the world who you are.</p>
-	<!- Interesting Fact goes here ->
+
+<!- interesting fact goes here ->
+<div class="ch1num1">
+	<div class="tooltip">
+  		<span class="tooltiptext">Interesting Fact: Boredom has a bright side. Bored people are often looking for ways to do good things as the entertainment bores them and does not bring meaning to their lives.</span>
+	</div>
+</div>
+<!- end interesting fact section ->
 
 	<a NAME="emotions"></a>
 	<h4>Emotions</h4>
@@ -65,7 +79,15 @@
 		<li>Disgust: combines with Anger to create Contempt or combines with Sadness to create Remorse.</li>
 
 		<li>Anger: combines with Anticipation to create Aggressiveness or combines with disgust to create Contempt.</li>
-	<!- Interesting Fact goes here ->
+
+<!- interesting fact goes here ->
+<div class="ch1num1">
+	<div class="tooltip">
+  		<span class="tooltiptext">Interesting Fact: The feeling of rigidity and hardness makes people inflexible. People sitting on hard chairs were more uncompromising in the negotiations. Feeling a rough surface causes in people a sense of the complexity of human relations, and cold is tightly connected with the feeling of loneliness.</span>
+	</div>
+</div>
+<!- end interesting fact section ->
+
 		<li>Anticipation: combines with Joy to create Optimism or combines with Anger to create Aggressiveness.</li>
 
 		<li>Joy: combines with Acceptance to create Love or combines with Anticipation to create Optimism.</li>
@@ -78,7 +100,14 @@
 
 		<li>Sadness: combines with Disgust to create Remorse or combines with Surprise to create Disappointment.</li>
 	</ul>		
-	<!- Interesting Fact goes here ->
+
+<!- interesting fact goes here ->
+<div class="ch1num1">
+	<div class="tooltip">
+  		<span class="tooltiptext">Interesting Fact: In 1990 Ortony and Turner published a table for Robert Plutchik’s emotion model and added in an inclusion section discussing relationships of emotional groups and where they are seen in Human Nature.</span>
+	</div>
+</div>
+<!- end interesting fact section ->
 
 	<a NAME="child_behavior_and_attachments"></a>
 	<div class="ch4Images">
@@ -95,7 +124,14 @@
 		<li>Secure from Caregiver: The caregiver is responsive, quick and positive towards the child’s needs.</li>
 
 		<li>Secure from Child: The child is Distressed when caregiver leaves, happy when caregiver returns, and seeks comfort from the caregiver when scared or sad.</li>	
-	<!- Interesting Fact goes here ->
+
+<!- interesting fact goes here ->
+<div class="ch1num1">
+	<div class="tooltip">
+  		<span class="tooltiptext">Interesting Fact: When people are being watched, they behave better. And the illusion of being watched works, too. It was enough to hang a picture of human eyes in a self-service cafeteria, so that more people began to collect their dishes.</span>
+	</div>
+</div>
+<!- end interesting fact section ->
 
 		<li>Avoidant from Caregiver: The caregiver is unresponsive, uncaring or dismissive towards the child.</li>
 
@@ -128,9 +164,14 @@
 	</ul>
 
 	<p>When it comes to human nature it is important to understand who you are and how you respond to getting close to people. If your past was Autonomous/Secure you may have an easier time than others in terms of loving others, but regardless of how you were raised it is up to the adult to realize patterns from their past that may harm their relationships and to change them.</p>	
-	<!- Interesting Fact goes here ->
 
-	
+<!- interesting fact goes here ->
+<div class="ch1num1">
+	<div class="tooltip">
+  		<span class="tooltiptext">Interesting Fact: People tend to commit immoral acts or do not fulfill someone’s request for help, if no effort is needed and they do not have to refuse a person directly.</span>
+	</div>
+</div>
+<!- end interesting fact section ->
 
 
 </div>
