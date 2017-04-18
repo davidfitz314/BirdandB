@@ -1545,7 +1545,8 @@ h3 {
 	width: 50px;
 	height: 50px;
 	float:right;
-	margin-right: -50px;
+	margin-right: -70px;
+	margin-top: -175px;
 }
 
 .ch1num1 img {
@@ -1580,6 +1581,7 @@ h3 {
         width: 100%;
     }
 }
+
 
 
 

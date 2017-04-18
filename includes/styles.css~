@@ -1532,15 +1532,13 @@ h3 {
 .tooltip {
     position: relative;
     display: inline-block;
-    border-bottom: 1px dotted black;
 }
 
-.tooltip:hover .tooltiptext {
-    visibility: visible;
-}
+
 
 .ch1num1:hover .tooltiptext {
     visibility: visible;
+	  border: 2px solid black;
 }
 
 .ch1num1 {
@@ -1555,9 +1553,9 @@ h3 {
 	width: auto;
 }
 
-.ch1num1 .tooltip .tooltiptext {
+.tooltip .tooltiptext {
     visibility: hidden;
-    width: 200px;
+    width: 400px;
     background-color: #FFD700;
     color: black;
     text-align: center;
@@ -1567,8 +1565,9 @@ h3 {
     /* Position the tooltip */
     position: absolute;
     z-index: 1;
-	
-	right: 105%;
+	  top: -75px;
+	  right: 50px;
+	  font-family: Arial, Helvetica, sans-serif;
 }
 
 
@@ -1581,6 +1580,7 @@ h3 {
         width: 100%;
     }
 }
+
 
 
 

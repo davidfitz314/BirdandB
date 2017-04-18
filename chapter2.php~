@@ -569,7 +569,7 @@
 <div class="ch1num1">
 	<img src='includes/images/lightOFF.png' onmouseover="this.src='includes/images/lightON.png';" onmouseout="this.src='includes/images/lightOFF.png';" />
 	<div class="tooltip">
-  		<span class="tooltiptext"></span>
+  		<span class="tooltiptext">Interesting Fact: The average baby’s mother gains about 1lb a week at this time but ½ of that goes to the baby.</span>
 	</div>
 </div>
 <!- end interesting fact section ->
@@ -592,7 +592,7 @@
 <div class="ch1num1">
 	<img src='includes/images/lightOFF.png' onmouseover="this.src='includes/images/lightON.png';" onmouseout="this.src='includes/images/lightOFF.png';" />
 	<div class="tooltip">
-  		<span class="tooltiptext"></span>
+  		<span class="tooltiptext">Interesting Fact: The baby’s skull won’t be fully fused until adulthood this allows the baby’s head to squeeze through the birth canal.</span>
 	</div>
 </div>
 <!- end interesting fact section ->
