@@ -240,6 +240,12 @@ p {
 	margin-right: 10px;
 }
 
+.single1chap p {
+	background-image: url("/include/images/chapter1/honeycomb.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+
 footer {
 	position: relative;
 	width: 80%;
