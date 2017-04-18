@@ -1553,10 +1553,14 @@ h3 {
     visibility: visible;
 }
 
+.ch1num1:hover .tooltiptext {
+    visibility: visible;
+}
+
+
 .ch1num1 {
 	width: 100px;
 	height: 100px;
-	float: right;
 }
 
 .ch1num1 img {
