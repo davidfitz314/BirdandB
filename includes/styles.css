@@ -3,13 +3,6 @@ header {
 	background-color:#91A8d0;
 }
 
-
-/*header h1 {
-	padding: 100px 0px 475px 0px;
-}*/
-
-
-/***** we still need @media-queries for sizes smaller then the default *****/
 .centered-wrapper {
     margin: auto;
 	width: 900px;
@@ -213,7 +206,7 @@ p {
 	border: solid black;
 	margin-left: 10px;
 	margin-right: 10px;
-	height: 135%;
+	height: 100px;
 	width: 155px;
 	border-radius: 25px;
 }
@@ -1428,4 +1421,5 @@ h3 {
         width: 100%;
     }
 }
+
 
