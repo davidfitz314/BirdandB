@@ -1537,7 +1537,7 @@ h3 {
 
 .tooltip .tooltiptext {
     visibility: hidden;
-    width: 100%;
+    width: 100px;
     background-color: #FFD700;
     color: black;
     text-align: center;
@@ -1560,7 +1560,9 @@ h3 {
 
 .ch1num1 {
 	width: 50px;
-	height: auto;
+	height: 50px;
+	float:right;
+	margin-right: -50px;
 }
 
 .ch1num1 img {
@@ -1574,5 +1576,6 @@ h3 {
         width: 100%;
     }
 }
+
 
 

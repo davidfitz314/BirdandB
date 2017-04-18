@@ -54,6 +54,15 @@
 
 	<h4>Fertilization: sperm and its journey to the egg</h4>
 	<p>To begin the male ejaculates releasing approximately 40 million to 150 million sperm into the vagina, there the sperm travel upwards towards the woman’s reproductive tract. The sperm swim towards the Fallopian tubes from the vaginal opening, this can take from 30 minutes to even days for some sperm.</p><!- interesting fact goes here ->
+
+<!- tool tip section ->
+<div class="ch1num1">
+	<img src='includes/images/lightOFF.png' onmouseover="this.src='includes/images/lightON.png';" onmouseout="this.src='includes/images/lightOFF.png';" />
+	<div class="tooltip">
+  		<span class="tooltiptext">Tooltip text test tes t test tes t tes t test test </span>
+	</div>
+</div>
+<!- end test section ->
 	
 	<h4>Fertilization: Sperm Penetrates the Egg</h4>
 	<p>Once both an egg and sperm are in the Fallopian tube the egg releases a chemical which attracts the sperm towards it. The sperm travels towards the egg and when the first sperm penetrates the egg, the egg’s surface changes to prevent entry from any other sperm. This process &mdash;which is called fertilization&mdash; takes around 24 hours, and it is at this time that the baby's sex will be decided by what genes the sperm is carrying.</p><!- interesting fact goes here ->
@@ -610,10 +619,10 @@
 <div class="ch1num1">
 	<img src='includes/images/lightOFF.png' onmouseover="this.src='includes/images/lightON.png';" onmouseout="this.src='includes/images/lightOFF.png';" />
 	<div class="tooltip">
-		
-  	<span class="tooltiptext">Tooltip text test tes t test tes t tes t test test </span>
+  		<span class="tooltiptext">Tooltip text test tes t test tes t tes t test test </span>
 	</div>
 </div>
+<!- end test section ->
 
 <!- Footer section ->
 <?php include 'includes/footer.php'; ?>
