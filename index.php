@@ -137,10 +137,12 @@
 	</div>
 </div>
 </div>
+<!- end centered-wrapper div ->
+
 <!- Footer section ->
 <?php include 'includes/footer.php'; ?>
 
 
-<!- end centered-wrapper div ->
+
 </body>
 </html>
