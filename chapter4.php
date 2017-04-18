@@ -9,7 +9,7 @@
 <strong><a href="chapter1.php">ch1: &nbsp;&nbsp;Overview</a></strong>
 <strong><a href="chapter2.php">ch2: &nbsp;&nbsp;Conception</a></strong>
 <strong><a href="chapter3.php">ch3: &nbsp;&nbsp;Human Body Development</a></strong>
-<a href="chapter4.php"><strong>Chapter 4: </strong></a>
+<a href="chapter4.php"><strong><u>Chapter 4:</u></strong></a>
 <ul>
 <li>
 <a href="#human_nature">Human Nature</a>
