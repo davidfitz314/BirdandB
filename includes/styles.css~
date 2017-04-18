@@ -1542,7 +1542,7 @@ h3 {
     color: black;
     text-align: center;
     border-radius: 6px;
-    padding: 5px 0;
+    padding: 5px;
 
     /* Position the tooltip */
     position: absolute;
@@ -1557,6 +1557,11 @@ h3 {
 	width: 100px;
 	height: 100px;
 	float: right;
+}
+
+.ch1num1 img {
+	height: 100%;
+		width: auto;
 }
 
 @media only screen and (max-width: 1080px) {

@@ -1559,6 +1559,11 @@ h3 {
 	float: right;
 }
 
+.ch1num1 img {
+	height: 100%;
+	width: auto;
+}
+
 @media only screen and (max-width: 1080px) {
     /* For mobile phones: */
     .centered-wrapper {
