@@ -34,7 +34,6 @@ removed references
 
 <!- interesting fact goes here ->
 <div class="ch1num1">
-	<img src='includes/images/lightOFF.png' onmouseover="this.src='includes/images/lightON.png';" onmouseout="this.src='includes/images/lightOFF.png';" />
 	<div class="tooltip">
   		<span class="tooltiptext">Interesting Fact: </span>
 	</div>

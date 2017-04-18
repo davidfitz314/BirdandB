@@ -30,3 +30,13 @@ removed references
 <div class="ch8Images">
 	<img src="includes/images/chapter8/" alt="">
 </div>
+
+
+<!- interesting fact goes here ->
+<div class="ch1num1">
+	<img src='includes/images/lightOFF.png' onmouseover="this.src='includes/images/lightON.png';" onmouseout="this.src='includes/images/lightOFF.png';" />
+	<div class="tooltip">
+  		<span class="tooltiptext">Interesting Fact: </span>
+	</div>
+</div>
+<!- end interesting fact section ->
