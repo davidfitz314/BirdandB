@@ -1542,7 +1542,7 @@ h3 {
 }
 
 .ch1num1 {
-	background-image: url("images/lightOFF.png");
+	background-image: url("includes/images/lightOFF.png");
 	width: 50px;
 	height: 50px;
 	float:right;
@@ -1551,7 +1551,7 @@ h3 {
 }
 
 .ch1num1:hover {
-	background-image: url("images/lightON.png");
+	background-image: url("includes/images/lightON.png");
 }
 
 .ch1num1 img {

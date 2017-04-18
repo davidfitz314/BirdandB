@@ -1551,7 +1551,7 @@ h3 {
 }
 
 .ch1num1:hover {
-	background-image: url("images/lightON.png")
+	background-image: url("images/lightON.png");
 }
 
 .ch1num1 img {
