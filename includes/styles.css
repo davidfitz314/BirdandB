@@ -241,7 +241,7 @@ p {
 }
 
 .single1chap p {
-	background-image: url("/include/images/chapter1/honeycomb.png");
+	background-image: url("images/chapter1/honeycomb.png");
 	background-size: contain;
 	background-repeat: no-repeat;
 }
