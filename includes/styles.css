@@ -30,6 +30,7 @@ p {
 	width: 80%;
     list-style-type: none;
 	padding: 10px;
+	background-color:#91A8d0;
 }
 
 .navi li {
@@ -254,6 +255,7 @@ footer {
 	z-index: 99;
 	text-align: center;
 	line-height:150%;
+	background-color:#91A8d0;
 }
 
 footer a {
