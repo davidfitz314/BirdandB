@@ -450,6 +450,10 @@ h3 {
 	clear:both;
 }
 
+.shrinkText {
+	font-size: 80%;
+}
+
 /*chapter 1 section*/
 .chapter1Text {
 	width: 75%;
