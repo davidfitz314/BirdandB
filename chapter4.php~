@@ -6,9 +6,9 @@
 <!- navigation side bar ->
 <nav class="floating-menu">
 <h2>Chapter 4: Human Nature and Psychological Dependencies </h2>
-<strong><a href="chapter1.php">ch1:  Overview</a></strong>
-<strong><a href="chapter2.php">ch2:  Conception</a></strong>
-<strong><a href="chapter3.php">ch3:  Human Body Development</a></strong>
+<strong><a href="chapter1.php">ch1: &nbsp;Overview</a></strong>
+<strong><a href="chapter2.php">ch2: &nbsp;Conception</a></strong>
+<strong><a href="chapter3.php">ch3: &nbsp;Human Body Development</a></strong>
 <a href="chapter4.php"><strong>Chapter 4: </strong></a>
 <ul>
 <li>
@@ -25,11 +25,11 @@
 </li>
 </ul>
 
-<strong><a href="chapter5.php">ch5:  What is Sex</a></strong>
-<strong><a href="chapter6.php">ch6:  Sexuality</a></strong>
-<strong><a href="chapter7.php">ch7:  Love vs Sex</a></strong>
-<strong><a href="chapter8.php">ch8:  Orgasm</a></strong>
-<strong><a href="chapter9.php">ch9:  Staying Safe During Sex</a></strong>
+<strong><a href="chapter5.php">ch5: &nbsp;What is Sex</a></strong>
+<strong><a href="chapter6.php">ch6: &nbsp;Sexuality</a></strong>
+<strong><a href="chapter7.php">ch7: &nbsp;Love vs Sex</a></strong>
+<strong><a href="chapter8.php">ch8: &nbsp;Orgasm</a></strong>
+<strong><a href="chapter9.php">ch9: &nbsp;Staying Safe During Sex</a></strong>
 <strong><a href="chapter10.php">ch10: Sexually Transmitted <br><span class="indent">Infections-STDs</span></a></strong>
 <strong><a href="chapter11.php">ch11: Human Sexuality in the <br><span class="indent">World</span></a></strong>
 <strong><a href="chapter12.php">ch12: Kinks and Fetishes</a></strong>
