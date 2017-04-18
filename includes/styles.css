@@ -218,24 +218,24 @@ p {
 
 .single2chap a:hover, .single4chap a:hover, .single6chap a:hover, .single8chap a:hover, .single10chap a:hover, .single12chap a:hover, .single14chap a:hover {
 	text-decoration: none;
-	color: #F4A460;
+	color: #5F9EA0;
 }
  
 .single1chap a:hover, .single3chap a:hover, .single5chap a:hover, .single7chap a:hover, .single9chap a:hover, .single11chap a:hover, .single13chap a:hover {
 	text-decoration: none;
-	color: #F4A460;
+	color: #5F9EA0;
 }
 
 .single2chap p:hover, .single4chap p:hover, .single6chap p:hover, .single8chap p:hover, .single10chap p:hover, .single12chap p:hover, .single14chap p:hover {
 	padding: 10px;
-	border: solid #F4A460;
+	border: solid #5F9EA0;
 	margin-left: 10px;
 	margin-right: 10px;
 }
  
 .single1chap p:hover, .single3chap p:hover, .single5chap p:hover, .single7chap p:hover, .single9chap p:hover, .single11chap p:hover, .single13chap p:hover {
 	padding: 10px;
-	border: solid #F4A460;
+	border: solid #5F9EA0;
 	margin-left: 10px;
 	margin-right: 10px;
 }
@@ -244,28 +244,28 @@ p {
 	background-image: url("images/chapter1/honeycomb.png");
 	background-size: 100% 100%;
 	background-repeat: no-repeat;
-	color: #F4A460;
+	color: #5F9EA0;
 }
 
 .single2chap p {
 	background-image: url("images/chapter2/sperm&egg.png");
 	background-size: cover;
 	background-repeat: no-repeat;
-	color: #F4A460;
+	color: #5F9EA0;
 }
 
 .single3chap p {
 	background-image: url("images/chapter3/growth.png");
 	background-size: 100% 100%;
 	background-repeat: no-repeat;
-	color: #F4A460;
+	color: #5F9EA0;
 }
 
 .single4chap p {
 	background-image: url("images/chapter4/faces(bounce).png");
 	background-size: 100% 100%;
 	background-repeat: no-repeat;
-	color: #F4A460;
+	color: #5F9EA0;
 }
 
 .single5chap p {
@@ -314,7 +314,7 @@ p {
 	background-image: url("images/chapter11/worldSexualHealthDay.png");
 	background-size: 100% 100%;
 	background-repeat: no-repeat;
-	color: #8A2BE2;
+	color: #5F9EA0;
 }
 
 .single12chap p {
