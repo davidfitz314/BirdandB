@@ -571,8 +571,8 @@ h3 {
 }
 
 .colorChange {
-	background-color: #D7D7D7;
-	margin-right: 10px;
+	text-decoration-color: #F5F5F5;
+	margin-right: 20px;
 }
 
 /*chapter 1 section*/
