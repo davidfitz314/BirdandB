@@ -210,7 +210,7 @@
 
 	<div class="ch10ImagesMW">
 		<img src="includes/images/chapter10/anonymous.png" alt="Anonymous portrait">
-	</div>
+	</div> 
 
 	<h4 class="addItalic">Notifying Partners Anonymously</h4>
 	<p class="addItalic">If notifying your partners is too hard, there are ways to notify your partners anonymously about your STI.</p>

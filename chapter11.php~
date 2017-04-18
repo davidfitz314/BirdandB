@@ -56,7 +56,7 @@
 	<a NAME="ancient_greeks"></a>
 	<div class="sectionContainer">
 	<!- Greek image goes left of text ->
-		<div class="ch11Left">
+		<div class="ch11LeftG">
 			<img src="includes/images/chapter11/greek.png" alt="Greek styled shadow portraits">
 		</div>
 
@@ -66,15 +66,14 @@
 
 			<p>Greeks Myths consist of incest, murder, polygamy, intermarriage, and almost always required some sort of eroticism and / or fertility. From the beginning Greeks demonstrated woman's essential reproductive role in securing the cosmos, extending the human race, and ensuring the fertility of nature.</p>
 
-			<p>Masturbation to the Ancient Greeks was a normal and healthy substitute for other sexual pleasures. It was in fact a handy way to relieve sexual frustration which they deemed sexual frustration as destructive towards man.</p>
 		</div>
 	</div>
-
+	<p class="ch11pushDown">Masturbation to the Ancient Greeks was a normal and healthy substitute for other sexual pleasures. It was in fact a handy way to relieve sexual frustration which they deemed sexual frustration as destructive towards man.</p>
 
 	
 	<div class="sectionContainer">
 		<!- Roman image goes right of text ->
-		<div class="ch11Right">
+		<div class="ch11RightR">
 			<img src="includes/images/chapter11/roman.png" alt="Roman styled shadow portraits">
 		</div>
 
@@ -85,10 +84,9 @@
 		</div>
 	</div>
 
-
 	<div class="sectionContainer">
 	<!- Victorian Era image goes left of text ->
-		<div class="ch11Left">
+		<div class="ch11LeftV">
 			<img src="includes/images/chapter11/victorian.png" alt="Victorian Era styled shadow portraits">
 		</div>
 
@@ -97,9 +95,9 @@
 			<h3>Victorian Era</h3>
 			<p>In the 1800s, or more specifically between 1837-1901, the strict gender roles for males and females returned. Women were to be covered up in cloth at all times unless having sex for reproductive reasons. Some women took it so far as to still wear clothing during the act of sex. Males were supposed to maintain high morals. Expressions of love were looked down upon.</p>
 
-			<p>The women during this time were believed to not know much of sex and that they held no desire to have sex or sexual activities. To men the women were supposed to not be a sexual being, but merely a tool for reproduction. These strict views on gender and sex became what we now think of as the Victorian stereotype.</p>
 		</div>
 	</div>
+	<p class="ch11pushDown2">The women during this time were believed to not know much of sex and that they held no desire to have sex or sexual activities. To men the women were supposed to not be a sexual being, but merely a tool for reproduction. These strict views on gender and sex became what we now think of as the Victorian stereotype.</p>
 
 	<div class="sectionContainer">
 	<!- prostitution section image goes right of text ->
@@ -113,12 +111,14 @@
 		</div>
 	</div>
 
-	<a NAME="china"></a>
+	
 	<!- China image goes above text banner style ->
 	<div class="ch11Images">
+		<a NAME="china"></a>
 		<img src="includes/images/chapter11/chinese.png" alt="Chinese shadow couple drinking tea and doing martial arts">
 	</div>
-	
+
+
 	<h3>China</h3>
 	<p>Currently China is in what experts call a sexual revolution, according to many this started just over 20 years ago. China’s first female sexologist Li Tinhe, is carefully observing and recording the current sexual revolution in China.</p>
 
@@ -159,10 +159,9 @@
 
 			<p>The US’s culture is distinct, because it is currently treating sex as a scientia sexualis (an object of distanced, scientific investigation). Scientific studies mixed with the form of confession have begun to shape the US’s communication about sex and are expanding the knowledge base for their culture.</p>
 
-			<p>Many experts argue the the US’s and some parts of Europe sexual revolution began between 1960 to 1980, others state that is started as early as 1940s around the Great Depression.</p>
 		</div>
 	</div>
-	
+	<p class="ch11pushDown3">Many experts argue the the US’s and some parts of Europe sexual revolution began between 1960 to 1980, others state that is started as early as 1940s around the Great Depression.</p>	
 
 	<div class="sectionContainer">
 	<!- image goes left of text ->
@@ -187,12 +186,12 @@
 			<h4 class="addItalic">Masters &amp; Johnson</h4>
 			</p>A second major factor of the US’s sexual revolution was the Masters and Johnson’s studies, from 1957 until 1965, they recorded some of the first laboratory data on the anatomy and physiology of human sexual response based on direct observation of 382 women and 312 men. Their study estimated to have around 10,000 complete cycles of sex response. Their findings, on the nature of female sexual arousal and orgasm, showed that female lubricant did not originate from the cervix, that orgasm had similar physiological responses regardless of stimulation through clitoral or vaginal, and proved that some were women were multi-orgasmic.</p>
 
-			<p>Masters and Johnson’s studies held a smaller demographic than the Kinsey reports, having their focus more based on white college students, but the statistical data became so popular that a TV series was released about them in 2013 titled “<i>The Masters of Sex</i>”.</p>
 		</div>
 	</div>
+	<p class="ch11pushDown4">Masters and Johnson’s studies held a smaller demographic than the Kinsey reports, having their focus more based on white college students, but the statistical data became so popular that a TV series was released about them in 2013 titled “<i>The Masters of Sex</i>”.</p>
 
 	<!- image goes above text ->
-	<div class="ch11Images">
+	<div class="ch11ImagesB">
 		<img src="includes/images/chapter11/penicillin.png" alt="Penicillin molecular structure">
 	</div>
 

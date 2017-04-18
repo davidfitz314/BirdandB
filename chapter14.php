@@ -485,12 +485,12 @@ Emotion, Vol 13(6), Dec 2013, 1142-1149. http://dx.doi.org/10.1037/a0033758</p>
 		</div>
 	</div>
 </div>
-
+</div>
 
 <!- Footer section ->
 <?php include 'includes/footer.php'; ?>
 
-</div>
+
 <!- end centered-wrapper div ->
 </body>
 </html>

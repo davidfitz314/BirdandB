@@ -604,11 +604,11 @@
 	<h4>41 weeks</h4>
 	<p>The baby is now considered late-term. Health care practitioners will encourage the mother into inducing labor to avoid any health risks.</p>
 </div>
-
+</div>
 <!- Footer section ->
 <?php include 'includes/footer.php'; ?>
 
-</div>
+
 <!- end centered-wrapper div ->
 </body>
 </html>

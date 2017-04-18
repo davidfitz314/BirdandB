@@ -293,12 +293,12 @@
 		<a href="http://www.teensource.org/find-a-clinic" target="_blank"><i>Teen Source Find a Clinic</i></a></p>
 	</div>
 </div>
-
+</div>
 
 <!- Footer section ->
 <?php include 'includes/footer.php'; ?>
 
-</div>
+
 <!- end centered-wrapper div ->
 </body>
 </html>

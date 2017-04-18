@@ -185,11 +185,11 @@
 	<p>For more statistical information on sexuality, sex, or love please visit the <a href="https://www.kinseyinstitute.org/" target="_blank">Kinsey Institute</a> or <a heref="https://www.guttmacher.org/" target="_blank">GuttMacher Institute</a>. They are both dedicated to providing data in a well-balanced format for most cultures.</p>
 
 </div>
-
+</div>
 <!- Footer section ->
 <?php include 'includes/footer.php'; ?>
 
-</div>
+
 <!- end centered-wrapper div ->
 </body>
 </html>

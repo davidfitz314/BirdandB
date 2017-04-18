@@ -179,7 +179,7 @@
 
 		<li>Some people look like they’re in pain during orgasm, this is due to orgasm stimulating the same region of the brain that is associated with pain.</li>
 
-		<div class="ch8Images">
+		<div class="ch8ImagesD">
 			<img src="includes/images/chapter8/kneeling.png" alt="Lovers entwined in eachothers arms">
 		</div>
 

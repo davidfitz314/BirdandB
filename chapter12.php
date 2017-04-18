@@ -190,12 +190,12 @@
 		<p>For those that are looking for others with a similar set of interests, one website that allows the meeting of new people based on specific categories or searches is called <a href="http://www.meetup.com" target="_blank">meetup.com</a>. This site not only gets people together for dating or fetishes, but it also helps gather people who wish to play sports or other hobbies together.</p>
 	</div>
 </div>
-
+</div>
 
 <!- Footer section ->
 <?php include 'includes/footer.php'; ?>
 
-</div>
+
 <!- end centered-wrapper div ->
 </body>
 </html>

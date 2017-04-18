@@ -181,11 +181,11 @@ types including the solitary and group use of objects to achieve sexual performa
 	</div>
 </div>
 
-
+</div>
 <!- Footer section ->
 <?php include 'includes/footer.php'; ?>
 
-</div>
+
 <!- end centered-wrapper div ->
 </body>
 </html>

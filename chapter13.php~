@@ -59,7 +59,7 @@
 	<p>Sexual harassment is generally broken down into 2 categories, Quid Pro Quo and Hostile Environment:</p>
 
 	<div class="sectionContainer2">
-		<div class="ch13Left">
+		<div class="ch13LeftE">
 			<img src="includes/images/chapter13/work.png" alt="Work sexual harassment couple">
 		</div>
 	
@@ -139,7 +139,7 @@
 		<li>More than 90% of sexual assault victims on college campuses do not report the assault.</li>
 	</ul>
 
-	<h5 class="addItalic2"></h5>
+	<h5 class="addItalic2">Crime Rates for Sexual Assault</h5>
 	<ul>
 		<li>Rape is the most under-reported crime; 63% of sexual assaults are not reported to police (o). Only 12% of child sexual abuse is reported to the authorities.</li>
 
@@ -172,7 +172,7 @@
 	<p>While most of the above places can’t be avoided all the time, there are still many ways to protect oneself from sexual violence.</p>
 
 	<div class="sectionContainer3">
-		<div class="ch13LeftB">
+		<div class="ch13LeftB2">
 			<img src="includes/images/chapter13/keepcalm.png" alt="Keep Calm Crown">
 		</div>
 
@@ -246,14 +246,14 @@ members of the public that could be of assistance to the victim.<p>
 	<h3>Sexual Violence Help</h3>
 	<p>There are free hotlines that you can call 24 hours a day to get help if you have been sexually assaulted or if you need advice on how to leave an unhealthy relationship.</p>
 
-	<div class="sectionContainer5">
+	<div class="sectionContainer7">
 
 		<!- image goes left ->
 		<div class="ch13Left">
 			<img src="includes/images/chapter13/hotline.png" alt="Assault phone help hotline">
 		</div>
 
-		<div class="ch13Right">
+		<div class="ch13RightH">
 			<p><strong class="addItalic">National Sexual Assault Hotline:</strong><br>1-800-656-HOPE (1-800-656-4673)</p>
 
 			<p><strong class="addItalic">National Domestic Violence Hotline:</strong><br>1-800-799-SAFE ( 1-800-799-7233) or<br>1-800-787-3224 (TDD)</p>

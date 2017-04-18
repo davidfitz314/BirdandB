@@ -7,27 +7,23 @@
   <meta name="keywords" content="HTML,CSS,XML,PHP,JavaScript">
   <meta name="author" content="David ChenFitzgerald">
   <meta name="author" content="Jamie Chapmans">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=0.39">
   <link rel="stylesheet" type="text/css" href="includes/styles.css">
 </head>
 	
 <body>
 <div class="centered-wrapper">
-<div class="cNavi">
-	<div class="cLogo">
-		
-	</div><!- end logo div ->
-	<div class="cHeadCells">
-	  <a href="index.php">Home</a></li>
+	<div class="cNavi">
+		<a href="http://www.birdandb.com">
+			<div class="cLogo">
+			</div><!- end logo div ->
+		</a>
+		<div class="cHeadCells">
+			<a href="http://www.birdandb.com"></a></li>
+		</div>
+		<div class="searchBarC">
+			<form>
+				<input type="text" name="search" placeholder="Search Bar (coming soon)..." size="20">
+			</form>	  
+		</div>
 	</div>
-	<div class="searchBarC">
-	  <a href="index.php">Search</a></li>
-	</div>
-</div>
-
-
-
-
-
-
-

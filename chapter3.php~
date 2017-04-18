@@ -60,7 +60,7 @@
 	
 	<a NAME="puberty_for_males"></a>
 	<h4>Puberty For Males</h4>
-	<p>Early signs of puberty in males usually start 1 year later than females. The first sign is Testes(plural for testicle) growing larger and the Scrotum thinning and reddening. This happens generally around 11 years of age but can actually start early or later usually between 9 and 14yrs old.</p>
+	<p>Early signs of puberty in males usually start 1 year later than females. The first sign is Testes(plural for testicle) growing larger and the Scrotum thinning and reddening. This happens generally around 11 years of age but can actually start early or later usually between 9 and 14 yrs old.</p>
 	
 	<p>The second major puberty sign, growth spurts, usually happen 2 years after males have begun puberty.</p>
 	<!- Interesting Fact goes here ->
@@ -80,7 +80,7 @@
 		<li>Penis growth:</li>
 		<ul class="openCircle">
 			<li>First the male’s penis will grow in length and then in width. A male can have adult sized genitals anywhere between the ages of 13 and 18 years old.</li>
-			<li>Many males at this stage will become worried about their penis size or length not being correct, since males develop at different rates having a medical professional exam them and telling them that they are normal can improve their self esteem and put their worries to rest.</li>		
+			<li>Many males at this stage will become worried about their penis size or length not being correct, since males develop at different rates having a medical professional exam them and telling them that they are normal can improve their self-esteem and put their worries to rest.</li>		
 		</ul>
 	<div class="ch3Images">
 	<img src="includes/images/chapter3/pubicHair-male.png" alt="Male pubic hair growth" >
@@ -118,7 +118,7 @@
 
 	<a NAME="puberty_for_females"></a>
 	<h4>Puberty For Females</h4>
-	<p>Early signs of puberty in females usually start around the age of 10, with some starting as early as 8 and others not starting until 13yrs of age. The most common sign for a female starting puberty is breasts budding or growing.</p>
+	<p>Early signs of puberty in females usually start around the age of 10, with some starting as early as 8 and others not starting until 13 yrs of age. The most common sign for a female starting puberty is breasts budding or growing.</p>
 	<!- Interesting Fact goes here ->
 
 	<p>Puberty for females can be a very confusing time, they will be going about many different changes in their physiology and hormones. The following is a list of changes that generally happen in females to a greater or lesser extent</p>

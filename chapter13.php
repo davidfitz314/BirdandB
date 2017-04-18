@@ -267,11 +267,11 @@ members of the public that could be of assistance to the victim.<p>
 </div>
 
 
-
+</div>
 <!- Footer section ->
 <?php include 'includes/footer.php'; ?>
 
-</div>
+
 <!- end centered-wrapper div ->
 </body>
 </html>
