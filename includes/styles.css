@@ -566,6 +566,10 @@ h3 {
 	font-size: 80%;
 }
 
+.indent {
+	padding-left: 15px;
+}
+
 /*chapter 1 section*/
 .chapter1Text {
 	width: 75%;
