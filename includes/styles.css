@@ -30,7 +30,7 @@ p {
 	width: 80%;
     list-style-type: none;
 	padding: 10px;
-	background-color:#91A8d0;
+
 }
 
 .navi li {
@@ -40,6 +40,7 @@ p {
 .cNavi {
 	height: 125px;
 	width: 100%;
+		background-color:#91A8d0;
 }
 
 .cNavi a {
@@ -252,7 +253,6 @@ footer {
 	width: 80%;
 	padding: 10% 8% 10% 10%;
 	/*border: 3px dashed black;*/
-	z-index: 99;
 	text-align: center;
 	line-height:150%;
 	background-color:#91A8d0;
