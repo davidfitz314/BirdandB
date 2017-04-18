@@ -44,25 +44,25 @@
 		
 		<div class="single1chap">
 		<a href="chapter1.php">
-		<p><strong>Chapter 1</strong><br><span class="shrinkText">Introduction</span></p>
+		<p><strong>Chapter 1<br><span class="shrinkText">Introduction</span></strong></p>
 		</a>
 		</div>
 
 		<div class="single2chap">
 		<a href="chapter2.php">
-		<p><strong>Chapter 2</strong><br><span class="shrinkText">Conception</span></p>
+		<p><strong>Chapter 2<br><span class="shrinkText">Conception</span></strong></p>
 		</a>
 
 		</div>
 		<div class="single3chap">
 		<a href="chapter3.php">
-		<p><strong>Chapter 3</strong><br><span class="shrinkText">Human Body Development</span></p>
+		<p><strong>Chapter 3<br><span class="shrinkText">Human Body Development</span></strong></p>
 		</a>
 		</div>
 
 		<div class="single4chap">
 		<a href="chapter4.php">
-		<p><strong>Chapter 4</strong><br><span class="shrinkText">Human Nature &amp; Psychological Dependencies</span></p>
+		<p><strong>Chapter 4<br><span class="shrinkText">Human Nature &amp; Psychological Dependencies</span></strong></p>
 		</a>
 		</div>
 
@@ -71,25 +71,25 @@
 
 		<div class="single5chap">
 		<a href="chapter5.php">
-		<p><strong>Chapter 5</strong><br><span class="shrinkText">What is Sex</span></p>
+		<p><strong>Chapter 5<br><span class="shrinkText">What is Sex</span></strong></p>
 		</a>		
 		</div>
 		
 		<div class="single6chap">
 		<a href="chapter6.php">
-		<p><strong>Chapter 6</strong><br><span class="shrinkText">Sexuality</span></p>
+		<p><strong>Chapter 6<br><span class="shrinkText">Sexuality</span></strong></p>
 		</a>
 		</div>
 
 		<div class="single7chap">
 		<a href="chapter7.php">
-		<p><strong>Chapter 7</strong><br><span class="shrinkText">Love VS Sex</span></p>
+		<p><strong>Chapter 7<br><span class="shrinkText">Love VS Sex</span></strong></p>
 		</a>		
 		</div>
 
 		<div class="single8chap">
 		<a href="chapter8.php">
-		<p><strong>Chapter 8</strong><br><span class="shrinkText">Orgasm</span></p>
+		<p><strong>Chapter 8<br><span class="shrinkText">Orgasm</span></strong></p>
 		</a>
 		</div>
 
@@ -98,25 +98,25 @@
 
 		<div class="single9chap">
 		<a href="chapter9.php">
-		<p><strong>Chapter 9</strong><br><span class="shrinkText">Staying Safe During Sex</span></p>
+		<p><strong>Chapter 9<br><span class="shrinkText">Staying Safe During Sex</span></strong></p>
 		</a>
 		</div>
 
 		<div class="single10chap">
 		<a href="chapter10.php">
-		<p><strong>Chapter 10</strong><br><span class="shrinkText">Sexually Transmitted Infections (STDs)</span></p>
+		<p><strong>Chapter 10<br><span class="shrinkText">Sexually Transmitted Infections (STDs)</span></strong></p>
 		</a>
 		</div>
 
 		<div class="single11chap">
 		<a href="chapter11.php">
-		<p><strong>Chapter 11</strong><br><span class="shrinkText">Human Sexuality in the World</span></p>
+		<p><strong>Chapter 11<br><span class="shrinkText">Human Sexuality in the World</span></strong></p>
 		</a>
 		</div>
 
 		<div class="single12chap">
 		<a href="chapter12.php">
-		<p><strong>Chapter 12</strong><br><span class="shrinkText">Kinks &amp; Fetishes</span></p>
+		<p><strong>Chapter 12<br><span class="shrinkText">Kinks &amp; Fetishes</span></strong></p>
 		</a>
 		</div>
 	</div>
@@ -124,13 +124,13 @@
 
 		<div class="single13chap">
 		<a href="chapter13.php">
-		<p><strong>Chapter 13</strong><br><span class="shrinkText">Sexual Harassment, Assault, &amp; Rape</span></p>
+		<p><strong>Chapter 13<br><span class="shrinkText">Sexual Harassment, Assault, &amp; Rape</span></strong></p>
 		</a>
 		</div>
 
 		<div class="single14chap">
 		<a href="chapter14.php">
-		<p><strong>Chapter 14</strong><br><span class="shrinkText">References</span></p>
+		<p><strong>Chapter 14<br><span class="shrinkText">References</span></strong></p>
 		</a>
 		</div>
 
