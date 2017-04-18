@@ -6,9 +6,9 @@
 <!- navigation side bar ->
 <nav class="floating-menu">
 <h2>Chapter 4: Human Nature and Psychological Dependencies </h2>
-<strong><a href="chapter1.php">ch1: Overview</a></strong>
-<strong><a href="chapter2.php">ch2: Conception</a></strong>
-<strong><a href="chapter3.php">ch3: Human Body Development</a></strong>
+<strong><a href="chapter1.php">ch1:  Overview</a></strong>
+<strong><a href="chapter2.php">ch2:  Conception</a></strong>
+<strong><a href="chapter3.php">ch3:  Human Body Development</a></strong>
 <a href="chapter4.php"><strong>Chapter 4: </strong></a>
 <ul>
 <li>
@@ -53,7 +53,7 @@
 <!- interesting fact goes here ->
 <div class="ch1num1">
 	<div class="tooltip">
-  		<span class="tooltiptext">Interesting Fact: </span>
+  		<span class="tooltiptext">Interesting Fact: If two people live together for a long time, they start to look like each other. They grow to look alike partly because of nutrition – shared diets and eating habits – but much of the effect is simple imitation of facial expressions. Couples who end up looking alike also tend to be happier.</span>
 	</div>
 </div>
 <!- end interesting fact section ->

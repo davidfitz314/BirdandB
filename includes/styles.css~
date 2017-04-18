@@ -567,7 +567,7 @@ h3 {
 }
 
 .indent {
-	padding-left: 15px;
+	padding-left: 18%;
 }
 
 /*chapter 1 section*/

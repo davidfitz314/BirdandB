@@ -408,12 +408,12 @@ footer a:hover {
 	/*border: solid black;*/
 	margin-right: 25px;
 	padding-bottom: 5px;
-	width: 250px;
+	width: 280px;
 	z-index: 100;
 	position: fixed;
 	line-height: 125%;
 	text-align:left;
-	left: 15%;
+	left: 14%;
 }
 
 .floating-menu a, 
@@ -567,7 +567,7 @@ h3 {
 }
 
 .indent {
-	padding-left: 18%;
+	padding-left: 16%;
 }
 
 /*chapter 1 section*/
@@ -1597,6 +1597,7 @@ h3 {
         width: 100%;
     }
 }
+
 
 
 
