@@ -62,16 +62,43 @@
   		<span class="tooltiptext">Interesting fact: Inside of the vagina, sperm can live for up to 48 to 72 hours and out of the millions of sperm only a few hundred even come close to the egg.</span>
 	</div>
 </div>
-<!- end test section ->
+<!- end interesting fact section ->
 	
 	<h4>Fertilization: Sperm Penetrates the Egg</h4>
-	<p>Once both an egg and sperm are in the Fallopian tube the egg releases a chemical which attracts the sperm towards it. The sperm travels towards the egg and when the first sperm penetrates the egg, the egg’s surface changes to prevent entry from any other sperm. This process &mdash;which is called fertilization&mdash; takes around 24 hours, and it is at this time that the baby's sex will be decided by what genes the sperm is carrying.</p><!- interesting fact goes here ->
+	<p>Once both an egg and sperm are in the Fallopian tube the egg releases a chemical which attracts the sperm towards it. The sperm travels towards the egg and when the first sperm penetrates the egg, the egg’s surface changes to prevent entry from any other sperm. This process &mdash;which is called fertilization&mdash; takes around 24 hours, and it is at this time that the baby's sex will be decided by what genes the sperm is carrying.</p>
+
+<!- interesting fact goes here ->
+<div class="ch1num1">
+	<img src='includes/images/lightOFF.png' onmouseover="this.src='includes/images/lightON.png';" onmouseout="this.src='includes/images/lightOFF.png';" />
+	<div class="tooltip">
+  		<span class="tooltiptext">Interesting Fact: If an egg is not already in the Fallopian tube, the sperm will stop moving and wait until the egg moves in before continuing its journey. Unlike other parts of the female reproductive tract the Fallopian Tubes provide the sperm with an environment where they can live up to 5 days.</span>
+	</div>
+</div>
+<!- end interesting fact section ->
 
 	<h4>After Fertilization: A baby’s beginning.</h4>
-	<p>In this stage the fertilized egg starts to divide rapidly into new cells, to make room for this new growth the egg moves from the Fallopian tubes and into the uterus, this process usually takes 3 to 4 days.</p><!- interesting fact goes here ->
+	<p>In this stage the fertilized egg starts to divide rapidly into new cells, to make room for this new growth the egg moves from the Fallopian tubes and into the uterus, this process usually takes 3 to 4 days.</p>
+
+<!- interesting fact goes here ->
+<div class="ch1num1">
+	<img src='includes/images/lightOFF.png' onmouseover="this.src='includes/images/lightON.png';" onmouseout="this.src='includes/images/lightOFF.png';" />
+	<div class="tooltip">
+  		<span class="tooltiptext">Interesting fact: If the the fertilized egg does not enter the uterus properly a tubal or ectopic pregnancy can occur, in the case of an ectopic pregnancy the mother’s health will be at serious risk.</span>
+	</div>
+</div>
+<!- end interesting fact section ->
 
 	<h4>Implantation and Fetal Development</h4>
-	<p>During implantation the fertilized egg attaches to the Endometrium &mdash;The lining tissues of the uterus&mdash; and continues to divide. After implantation in the uterus the cells will start forming different parts necessary for the babies development. Some cells will form the placenta and others will remain in the embryo to continue developing.</p><!- interesting fact goes here ->
+	<p>During implantation the fertilized egg attaches to the Endometrium &mdash;The lining tissues of the uterus&mdash; and continues to divide. After implantation in the uterus the cells will start forming different parts necessary for the babies development. Some cells will form the placenta and others will remain in the embryo to continue developing.</p>
+
+<!- interesting fact goes here ->
+<div class="ch1num1">
+	<img src='includes/images/lightOFF.png' onmouseover="this.src='includes/images/lightON.png';" onmouseout="this.src='includes/images/lightOFF.png';" />
+	<div class="tooltip">
+  		<span class="tooltiptext">Interesting fact: The hormones used to test for pregnancy in women are called Human Chorionic Gonadotrophin (HCG), these hormones were produced by the cells that later changed into the baby’s placenta.</span>
+	</div>
+</div>
+<!- end interesting fact section ->
 
 	<h3>1st Trimester (after fertilization)</h3>
 	<h4>3 weeks</h4>
@@ -219,6 +246,15 @@
 		</div>
 	</div>
 
+<!- interesting fact goes here ->
+<div class="ch1num1">
+	<img src='includes/images/lightOFF.png' onmouseover="this.src='includes/images/lightON.png';" onmouseout="this.src='includes/images/lightOFF.png';" />
+	<div class="tooltip">
+  		<span class="tooltiptext">Interesting fact: at week 13, if the baby is female, her ovaries will contain more than 2 million eggs at this developmental stage.</span>
+	</div>
+</div>
+<!- end interesting fact section ->
+
 	<br>
 	<a NAME="2nd_trimester"></a>
 	<h3>2nd Trimester</h3>
@@ -233,9 +269,18 @@
 			<p>14 weeks<p>
 		</div>
 		<div class="ch2text">
-			<p class="tabbedch2">The baby can now use facial muscles, brain impulses have begun firing, and the babies kidney are now working. The baby is the size of a lemon.</p><!- interesting fact goes here ->
+			<p class="tabbedch2">The baby can now use facial muscles, brain impulses have begun firing, and the babies kidney are now working. The baby is the size of a lemon.</p>
 		</div>
 	</div>
+
+<!- interesting fact goes here ->
+<div class="ch1num1">
+	<img src='includes/images/lightOFF.png' onmouseover="this.src='includes/images/lightON.png';" onmouseout="this.src='includes/images/lightOFF.png';" />
+	<div class="tooltip">
+  		<span class="tooltiptext">Interesting Fact: At week 14 some babies have been seen sucking their thumb through the ultrasound. At week 15 if a flashlight is shined on the mother’s belly, the baby inside will move away from the beam.</span>
+	</div>
+</div>
+<!- end interesting fact section ->
 
 	<div class="sectionContainer6">
 		<!- image and week# ->
@@ -331,9 +376,18 @@
 		<p>21 weeks<p>
 		</div>
 		<div class="ch2text">
-		<p class="tabbedch2">The baby’s movement has changed and becomes stronger with kicks and jabs against the walls of the womb. The baby is the length of a carrot.</p><!- interesting fact goes here ->
+		<p class="tabbedch2">The baby’s movement has changed and becomes stronger with kicks and jabs against the walls of the womb. The baby is the length of a carrot.</p>
 		</div>
 	</div>
+
+<!- interesting fact goes here ->
+<div class="ch1num1">
+	<img src='includes/images/lightOFF.png' onmouseover="this.src='includes/images/lightON.png';" onmouseout="this.src='includes/images/lightOFF.png';" />
+	<div class="tooltip">
+  		<span class="tooltiptext">Interesting fact: Starting around week 21 when the babies movement becomes stronger some mothers start to recognize patterns of movement from their baby.</span>
+	</div>
+</div>
+<!- end interesting fact section ->
 
 	<div class="sectionContainer6">
 		<!- image and week# ->
@@ -359,9 +413,18 @@
 		<p>23 weeks<p>
 		</div>
 		<div class="ch2text">
-		<p class="tabbedch2">The baby is now the size of a large mango.</p><!- interesting fact goes here ->
+		<p class="tabbedch2">The baby is now the size of a large mango.</p>
 		</div>
 	</div>
+
+<!- interesting fact goes here ->
+<div class="ch1num1">
+	<img src='includes/images/lightOFF.png' onmouseover="this.src='includes/images/lightON.png';" onmouseout="this.src='includes/images/lightOFF.png';" />
+	<div class="tooltip">
+  		<span class="tooltiptext">Interesting Fact: At 23 weeks the baby’s ear have now become adjusted to hearing sounds and some sounds after birth will be recognized from the time spent in the womb.</span>
+	</div>
+</div>
+<!- end interesting fact section ->
 
 	<div class="sectionContainer6">
 		<!- image and week# ->
@@ -418,6 +481,15 @@
 		<p class="tabbedch2">The baby has now developed a circadian rhythm for sleeping and its brain is very active. The baby is now the size of a head of cauliflower.</p><!- interesting fact goes here ->
 		</div>
 	</div>
+
+<!- interesting fact goes here ->
+<div class="ch1num1">
+	<img src='includes/images/lightOFF.png' onmouseover="this.src='includes/images/lightON.png';" onmouseout="this.src='includes/images/lightOFF.png';" />
+	<div class="tooltip">
+  		<span class="tooltiptext">Interesting fact: at week 27 the baby’s lungs aren’t fully formed, but if an early birth occurs the lungs can still function with medical help.</span>
+	</div>
+</div>
+<!- end interesting fact section ->
 
 	<br>
 	<a NAME="3rd_trimester"></a>
@@ -489,9 +561,18 @@
 		<p>32 weeks<p>
 		</div>
 		<div class="ch2text">
-		<p class="tabbedch2">The baby is now going to start gaining ⅓ to ½ of its birth weight in the next seven weeks. The baby is now the size of a large jicama.</p><!- interesting fact goes here ->
+		<p class="tabbedch2">The baby is now going to start gaining ⅓ to ½ of its birth weight in the next seven weeks. The baby is now the size of a large jicama.</p>
 		</div>
 	</div>
+
+<!- interesting fact goes here ->
+<div class="ch1num1">
+	<img src='includes/images/lightOFF.png' onmouseover="this.src='includes/images/lightON.png';" onmouseout="this.src='includes/images/lightOFF.png';" />
+	<div class="tooltip">
+  		<span class="tooltiptext"></span>
+	</div>
+</div>
+<!- end interesting fact section ->
 
 	<div class="sectionContainer6">
 		<!- image and week# ->
@@ -503,9 +584,18 @@
 		<p>33 weeks<p>
 		</div>
 		<div class="ch2text">
-		<p>The baby is now the size of a pineapple.</p><!- interesting fact goes here ->
+		<p>The baby is now the size of a pineapple.</p>
 		</div>
 	</div>
+
+<!- interesting fact goes here ->
+<div class="ch1num1">
+	<img src='includes/images/lightOFF.png' onmouseover="this.src='includes/images/lightON.png';" onmouseout="this.src='includes/images/lightOFF.png';" />
+	<div class="tooltip">
+  		<span class="tooltiptext"></span>
+	</div>
+</div>
+<!- end interesting fact section ->
 
 	<div class="sectionContainer6">
 		<!- image and week# ->
@@ -614,15 +704,6 @@
 	<p>The baby is now considered late-term. Health care practitioners will encourage the mother into inducing labor to avoid any health risks.</p>
 </div>
 </div>
-
-<!- tool tip section ->
-<div class="ch1num1">
-	<img src='includes/images/lightOFF.png' onmouseover="this.src='includes/images/lightON.png';" onmouseout="this.src='includes/images/lightOFF.png';" />
-	<div class="tooltip">
-  		<span class="tooltiptext">Tooltip text test tes t test tes t tes t test test </span>
-	</div>
-</div>
-<!- end test section ->
 
 <!- Footer section ->
 <?php include 'includes/footer.php'; ?>
