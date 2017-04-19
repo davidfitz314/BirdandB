@@ -421,6 +421,7 @@ footer a:hover {
 
 .floating-menu a, 
 .floating-menu h3 {
+	list-style-type: none;
 	font-size: 0.8em;
 	display: block;
 	margin: 0 0 0 0.5em;
@@ -603,6 +604,8 @@ h3 {
 }
 
 hr {
+	margin-top: 35px;
+	margin-bottom:-20px;
 	text-decoration-color: #7990C9;
 	color: #7990C9;
 }
