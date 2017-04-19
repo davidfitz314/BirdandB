@@ -419,6 +419,10 @@ footer a:hover {
 	list-style-type: none;
 }
 
+.floating-menu element {
+	list-style-type: none;
+}
+
 .floating-menu a, 
 .floating-menu h3 {
 	list-style-type: none;
