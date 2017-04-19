@@ -50,7 +50,7 @@
 <br>
 	<h2>Chapter 5: What is Sex?</h2>
 	<a NAME="defining_sex"></a>
-	<h4>Defining Sex</h4>
+	<h3>Defining Sex</h3>
 	</p>Sex is either of the two major forms of individuals that occur in many species that are distinguished respectively as female or male especially on the basis of their reproductive organs and structures. -Merriam Webster.</p>
 	
 	<p>Sex is also a term used to describe the action of reproduction in species regardless of gender, but the technical word for sex actions is Sexual Intercourse. The most common type of sexual intercourse is heterosexual Intercourse, also known as the act of penetration of the vagina by a penis. </p>
@@ -64,7 +64,7 @@
 	</div>
 
 	
-	<h4>Types of Sex</h4>
+	<h3>Types of Sex</h3>
 	<p>There are many different types of sex and sexual activities. While the most generally accepted is heterosexual sex (male and female sex), the others are also quite common in today's world even if they are not as talked about openly. The following list is a few of the most common types of sex:</p>
 	<ul class="solidCircle">
 		<li><strong>Vaginal Sex:</strong> commonly referred to as heterosexual sex, is the act of a penis entering the vagina.</li>
@@ -87,7 +87,7 @@
 	</div>
 
 	
-	<h4>Sexual Activities</h4>
+	<h3>Sexual Activities</h3>
 	<p>Sex is not only Penetrative into another’s body, it can be divided into acts which involve one person, also called autoeroticism (the sexual gratification obtained solely through stimulation by oneself of one's own body.), two or more people having sex or mutual masturbation, or if there are more than two participants in the sex act it may be referred to as group sex.</p>
 
 	<p><strong class="addItalic">Sexual activity</strong> is slightly different than sex because it can be classified into sexual orientations, relationships, and genders of the participants. A quick look at how they categorize sexual activity is listed below:</p>
@@ -116,7 +116,7 @@
 	</div>
 
 	
-	<h4>Who is Having Sex?</h4>
+	<h3>Who is Having Sex?</h3>
 	<p>In many cultures sex is a less talked about or even taboo subject. However, in the U.S.A area a few studies have been published showing the results of who is having sex. The information below is from the <a href="https://www.kinseyinstitute.org/" target="_blank">Kinsey Institute</a>, but for a more worldwide perspective the <a href="https://www.guttmacher.org/" target="_blank">GuttMacher Institute</a> also has some studies on sex and sexual matters.</p>
 
 	<p>According to the Kinsey Institute studies statistics for:</p>

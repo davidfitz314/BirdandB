@@ -9,7 +9,7 @@
 <strong><a href="chapter1.php">ch1: &nbsp;&nbsp;Overview</a></strong>
 <strong><a href="chapter2.php">ch2: &nbsp;&nbsp;Conception</a></strong>
 <div class="colorChange">
-<a href="chapter3.php"><strong><u>Chapter 3:</u></strong></a>
+<a href="chapter3.php"><strong>Chapter 3:</strong></a>
 </div>
 <ul>
 <li>
