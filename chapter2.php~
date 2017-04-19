@@ -9,6 +9,7 @@
 <strong><a href="chapter1.php">ch1: &nbsp;&nbsp;Overview</a></strong>
 <div class="colorChange">
 <a href="chapter2.php"><strong><u>Chapter 2:</u></strong></a>
+</div>
 <ul>
 <li>
 <a href="#1st_trimester">1st Trimester</a>
@@ -23,7 +24,7 @@
 <a href="#turning_full_term">Turning Full Term</a>
 </li>
 </ul>
-</div>
+
 <strong><a href="chapter3.php">ch3: &nbsp;&nbsp;Human Body development</a></strong>
 <strong><a href="chapter4.php">ch4: &nbsp;&nbsp;Human Nature and <br><span class="indent">Psychological Dependencies</span></a></strong>
 <strong><a href="chapter5.php">ch5: &nbsp;&nbsp;What is Sex</a></strong>

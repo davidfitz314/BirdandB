@@ -44,7 +44,7 @@
 <!- chapter text division ->
 <div class="chapter3Text">
 </br>
-	<h2>Chapter 3: Human Body Development</h2>
+	<h2>CHAPTER 3: HUMAN BODY DEVELOPMENT</h2>
 
 	<a NAME="pre_puberty_changes"></a>
 	<h4>Pre-Puberty Changes</h4>

@@ -48,7 +48,7 @@
 <!- chapter 2 text division ->
 <div class="chapter2Text">
 <br>
-	<h2>Chapter 2: Conception</h2>
+	<h2>CHAPTER 2: CONCEPTION</h2>
 
 	<a NAME="1st_trimester"></a>
 	<h3>1st Trimester</h3>
