@@ -113,20 +113,18 @@
 		<div class="ch11Left">
 			<h4 class="addItalic">Prostitution</h4>
 			<p>Prostitutes were quite common, the women engaged in these acts would be considered lower class. Men of this time flocked towards prostitutes, to help alleviate the sexual frustrations that built up inside of them. This was due to men valuing their wives as high quality non sexual beings and prostitutes as lower class tools.</p>
+		<hr />
 		</div>
 	</div>
 
-	<hr />
 	<!- China image goes above text banner style ->
-	<div class="ch11Images">
-		
-		
+	<div class="ch11Images">	
 		<img src="includes/images/chapter11/chinese.png" alt="Chinese shadow couple drinking tea and doing martial arts">
 
 	<a NAME="china"></a>
 	</div>
 	
-
+	<hr />
 	<h3>China</h3>
 	<p>Currently China is in what experts call a sexual revolution, according to many this started just over 20 years ago. China’s first female sexologist Li Tinhe, is carefully observing and recording the current sexual revolution in China.</p>
 
