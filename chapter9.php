@@ -50,6 +50,7 @@
 <br>
 <h2>Chapter 9: Staying Safe During Sex</h2>
 	<a NAME="safe_sex"></a>
+	<hr />
 	<h3>Safe Sex</h3>
 	</p>Safe sex is a way to combine the greatest pleasure while having the least amount of risk for contracting HIV and other sexually transmitted infections. Safe sex besides protecting a person can also help communication and trust between partners. There are two main groups to safe sex, the safest sex and regular safe sex:</p>
 
@@ -85,6 +86,7 @@
 	</div>
 
 	<a NAME="sexual_protection"></a>
+	<hr />
 	<h3>Sexual Protection</h3>
 	<p>For the regular safe sex there are many methods used to protect both partners from STI’s and pregnancies:</p>
 	<ul class="closedCircle">
@@ -137,6 +139,7 @@
 	</ul>
 
 	<a NAME="nonprescription_protection"></a>
+	<hr />
 	<h3>Non-prescription Protection Use</h3>
 	<p>A quick overview of how to use some non-prescription protections is listed below:<p>
 	<br>
@@ -247,6 +250,7 @@
 
 
 	<a NAME="abstinence"></a>
+	<hr />
 	<div class="ch9Images">
 		<img src="includes/images/chapter9/ring.png" alt="Pure by choice ring">
 	</div>

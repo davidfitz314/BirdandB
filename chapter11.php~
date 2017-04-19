@@ -6,15 +6,15 @@
 <!- navigation side bar ->
 <nav class="floating-menu">
 <h2>Chapter 11: Human Sexuality in the World</h2>
-<strong><a href="chapter1.php">ch1: Overview</a></strong>
-<strong><a href="chapter2.php">ch2: Conception</a></strong>
-<strong><a href="chapter3.php">ch3: Human Body Development</a></strong>
-<strong><a href="chapter4.php">ch4: Human Nature and <br><span class="indent">Psychological Dependencies</span></a></strong>
-<strong><a href="chapter5.php">ch5: What is Sex</a></strong>
-<strong><a href="chapter6.php">ch6: Sexuality</a></strong>
-<strong><a href="chapter7.php">ch7: Love vs Sex</a></strong>
-<strong><a href="chapter8.php">ch8: Orgasm</a></strong>
-<strong><a href="chapter9.php">ch9: Staying Safe During Sex</a></strong>
+<strong><a href="chapter1.php">ch1: &nbsp;&nbsp;Overview</a></strong>
+<strong><a href="chapter2.php">ch2: &nbsp;&nbsp;Conception</a></strong>
+<strong><a href="chapter3.php">ch3: &nbsp;&nbsp;Human Body Development</a></strong>
+<strong><a href="chapter4.php">ch4: &nbsp;&nbsp;Human Nature and <br><span class="indent">Psychological Dependencies</span></a></strong>
+<strong><a href="chapter5.php">ch5: &nbsp;&nbsp;What is Sex</a></strong>
+<strong><a href="chapter6.php">ch6: &nbsp;&nbsp;Sexuality</a></strong>
+<strong><a href="chapter7.php">ch7: &nbsp;&nbsp;Love vs Sex</a></strong>
+<strong><a href="chapter8.php">ch8: &nbsp;&nbsp;Orgasm</a></strong>
+<strong><a href="chapter9.php">ch9: &nbsp;&nbsp;Staying Safe During Sex</a></strong>
 <strong><a href="chapter10.php">ch10: Sexually Transmitted <br><span class="indent">Infections-STDs</span></a></strong>
 <div class="colorChange">
 <a href="chapter11.php"><strong>Chapter 11:</strong></a>
@@ -56,6 +56,7 @@
 
 
 	<a NAME="ancient_greeks"></a>
+	<hr />
 	<div class="sectionContainer">
 	<!- Greek image goes left of text ->
 		<div class="ch11LeftG">
@@ -72,7 +73,7 @@
 	</div>
 	<p class="ch11pushDown">Masturbation to the Ancient Greeks was a normal and healthy substitute for other sexual pleasures. It was in fact a handy way to relieve sexual frustration which they deemed sexual frustration as destructive towards man.</p>
 
-	
+	<hr />
 	<div class="sectionContainer">
 		<!- Roman image goes right of text ->
 		<div class="ch11RightR">
@@ -86,6 +87,7 @@
 		</div>
 	</div>
 
+	<hr />
 	<div class="sectionContainer">
 	<!- Victorian Era image goes left of text ->
 		<div class="ch11LeftV">
@@ -113,7 +115,7 @@
 		</div>
 	</div>
 
-	
+	<hr />
 	<!- China image goes above text banner style ->
 	<div class="ch11Images">
 		<a NAME="china"></a>

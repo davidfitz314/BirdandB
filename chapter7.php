@@ -54,6 +54,7 @@
 <h2>Chapter 7: Love vs Sex</h2>
 
 	<a NAME="defining_love"></a>
+	<hr />
 	<h3>Defining Love</h3>
 	</p>Love can be; an intense feeling of deep affection, something one has a great interest and pleasure in, or just something one likes very much but still gets pleasure from.
 People can love:</p>
@@ -115,6 +116,7 @@ People can love:</p>
 	<p>To summarize both love and sex can be an amazing feeling by themselves, but when one can have both sex and love, the two will enhance each other greatly, making them stronger for those involved.</p>
 
 	<a NAME="female_body_reactions"></a>
+	<hr />
 	<h3>Female Body Reactions</h3>
 	<h4>Love Reactions</h4>
 	<ul class="closedCircle">
@@ -181,6 +183,7 @@ People can love:</p>
 	</div>
 
 	<a NAME="male_body_reactions"></a>
+	<hr />
 	<h3>Male Body Reactions</h3>
 	<h4>Love Reactions</h4>
 	<!- Interesting Fact goes here ->
@@ -215,6 +218,7 @@ People can love:</p>
 	</div>
 
 	<a NAME="male_and_female_similar_sex_responses"></a>
+	<hr />
 	<h3>Male &amp; Female Similar Sex Responses</h3>
 	<p>Besides each male and female having their own physical, chemical, and emotional reactions they also share a wide variety of reactions, the list below is just a few of them:</p>
 
@@ -226,6 +230,7 @@ People can love:</p>
 	</ul>
 
 	<a NAME="psychological_impacts_of_sex"></a>
+	<hr />
 	<h3>Psychological Impacts of Sex</h3>
 	<p>Sex impacts everyone differently, but good communication is key to having a good sex life, below is a short list of some of the ways sex affects people from a psychological sense.</p>
 

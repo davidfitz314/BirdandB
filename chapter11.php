@@ -56,6 +56,7 @@
 
 
 	<a NAME="ancient_greeks"></a>
+	<hr />
 	<div class="sectionContainer">
 	<!- Greek image goes left of text ->
 		<div class="ch11LeftG">
@@ -72,7 +73,7 @@
 	</div>
 	<p class="ch11pushDown">Masturbation to the Ancient Greeks was a normal and healthy substitute for other sexual pleasures. It was in fact a handy way to relieve sexual frustration which they deemed sexual frustration as destructive towards man.</p>
 
-	
+	<hr />
 	<div class="sectionContainer">
 		<!- Roman image goes right of text ->
 		<div class="ch11RightR">
@@ -86,6 +87,7 @@
 		</div>
 	</div>
 
+	<hr />
 	<div class="sectionContainer">
 	<!- Victorian Era image goes left of text ->
 		<div class="ch11LeftV">
@@ -113,7 +115,7 @@
 		</div>
 	</div>
 
-	
+	<hr />
 	<!- China image goes above text banner style ->
 	<div class="ch11Images">
 		<a NAME="china"></a>
@@ -135,7 +137,7 @@
 
 	<p>Li believes that one of the main driving forces for changing the attitudes towards sex, is the Communist Party’s one-child policy which was enforced from 1979 to 2015. <i>"The one-child policy allows people to have one or two kids only. So unless you give up sex afterwards you are changing your purpose of having sex. Having sex for pleasure gets justified too."</i> -Li Tinhe</p>
 
-
+	<hr />
 	<div class="sectionContainer">
 	<!- image goes left of text ->
 		<div class="ch11Left">

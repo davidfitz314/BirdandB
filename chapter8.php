@@ -55,6 +55,7 @@
 	</p>The orgasm: a moment in time where sexual excitement climaxes with feelings of pleasure centered from the genitals. With males, orgasm is accompanied by an ejaculatory response, but that is only a basic description of orgasm. There is much more going on that most overlook. Below is a more in-depth review of what is happening for both biological males and females during orgasm.</p>
 	
 	<a NAME="male_physical_reactions"></a>
+	<hr />
 	<h3>Male Physical Reactions</h3>
 	<ul class="closedCircle">
 		<li>Penis hardens by more blood flowing into it.</li>
@@ -75,6 +76,7 @@
 	</div>
 
 	<a NAME="female_physical_reactions"></a>
+	<hr />
 	<h3>Female Physical Reactions</h3>
 	<ul class="closedCircle">
 		<li>Increased heart rate and blood pressure, and a large portion of blood is redirected towards the genitals.</li>
@@ -99,6 +101,7 @@
 	</div>
 
 	<a NAME="other_bodily_reactions"></a>
+	<hr />
 	<h3>Other Bodily Reactions</h3>
 	<p>Not all orgasm reactions are purely physical, throughout the brain, nerves, hormones and chemicals in the body many different reactions are happening. The below is a simplified version of what can happen in both biological males and/or females.</p>
 
@@ -129,6 +132,7 @@
 	</div>
 
 	<a NAME="orgasm_and_culture"></a>
+	<hr />
 	<h3>Orgasm &amp; Culture</h3>
 	<p>While many places today feel the topic of orgasm is a taboo subject, it in fact, has a large history where certain periods of time orgasm was considered a culturally acceptable piece of conversation. Below is list of orgasm related to culture old and current.</p>
 
@@ -157,6 +161,7 @@
 	</div>
 
 	<a NAME="interesting_facts_about_orgasm"></a>
+	<hr />
 	<h3>Interesting Facts About Orgasm</h3>
 	<ul class="closedCircle">
 		<li>The average amount of ejaculate released during orgasm is 3.4 ML(milliliters); just barely less than a teaspoon.</li>

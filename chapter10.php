@@ -56,6 +56,7 @@
 	<!- Interesting Fact goes here ->
 
 	<a NAME="most_common_STIs"></a>
+	<hr />
 	<h3>Most Common STIs</h3>
 
 	<div class="chapter10sideImagesandText">
@@ -192,6 +193,7 @@
 	</div>
 
 	<a NAME="living_with_a_STI"></a>
+	<hr />
 	<div class="ch10ImagesSP">
 		<img src="includes/images/chapter10/diagnosis.png" alt="Diagnosis, outline of person in hospital gown">
 	</div>
@@ -236,6 +238,7 @@
 	<p class="tabbedch10">So the best thing to do to avoid breaking the law is before the sexual act (which could transmit the infection) is to tell your partner.</p>
 
 	<a NAME="preventing_STIs"></a>
+	<hr />
 	<div class="ch10ImagesMW">
 		<img src="includes/images/chapter10/super.png" alt="Super condom with cape">
 	</div>
@@ -268,6 +271,7 @@
 	</ul>
 
 	<a NAME="helpful_links"></a>
+	<hr />
 	<div class="ch10Images">
 		<img src="includes/images/chapter10/helpingHands.png" alt="Two hands shaking and grasping each other">
 	</div>

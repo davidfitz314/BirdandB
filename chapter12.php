@@ -48,6 +48,7 @@
 <h2>Chapter 12: Kinks and Fetishes</h2>
 
 	<a NAME="what_is_a_fetish"></a>
+	<hr />
 	<h3>What is a Fetish &amp; Kink</h3>
 	</p>A fetish or kink is a form of sexual desire in which gratification is linked to an abnormal degree to a particular object, item of clothing, part of the body, or etc. Fetishes are generally an excessive and irrational devotion or commitment to a particular thing. They can be an inanimate object worshiped for its supposed magical powers, or because it is considered to be inhabited by a spirit or something else.</p>
 
@@ -64,6 +65,7 @@
 	<p class="addItalic">According to a survey done by Ann Summers in the UK approximately 75% of people have at least one fetish.<br>In an article from Women’s Health by Debra W. Soh, the amount of people with a fetish is 1 in 6. While more stats on sexual fetishes may be hard to find, the Mark Allen Thorton blog published a statistic evaluating the authors of over 2900 books, and graphed them out based on the age group focuses the books were written for. In his studies fetishes were common and varied by different age groups.</p>
 
 	<a NAME="common_fetishes_and_kinks"></a>
+	<hr />
 	<h3>Common Fetishes and Kinks</h3>
 	</p>Their are plenty of fetishes in today’s world. Below is a compilation of some of the most reported fetishes that are also related to sexuality.</p>
 
@@ -155,6 +157,7 @@
 	</div>
 
 	<a NAME="non_sexual_fetishes"></a>
+	<hr />
 	<h3>Non-Sexual Fetishes</h3>
 	<p>As long as there is a high / abnormal amount of interest in something it can be considered a fetish. Below is a list of fetishes that are non-sexual but still hold many people’s devotion.</p>
 	<ul class="closedCircle">
