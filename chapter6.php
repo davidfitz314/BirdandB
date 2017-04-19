@@ -100,9 +100,9 @@
 	<a NAME="sex_appeal_local_and_worldwide"></a>
 	<hr />
 	<h3>Sex Appeal - local &amp; worldwide</h3>
-	<p><strong class="addItalic">Sexual attraction</strong> is the attraction on the basis of sexual desire or the quality of arousing such interests. Sexual attractiveness or sex appeal is an individual’s ability to attract the sexual or erotic interests of another person and is a common factor in sexual selection or mate choice.</p>
+	<p><strong class="addItalic"><span class="vocabColor">Sexual attraction</span></strong> is the attraction on the basis of sexual desire or the quality of arousing such interests. Sexual attractiveness or sex appeal is an individual’s ability to attract the sexual or erotic interests of another person and is a common factor in sexual selection or mate choice.</p>
 
-	<p><strong class="addItalic">Local sexual attraction</strong> changes by region, but can follow a similar pattern, below is a list of items that are considered locally sexually attractive.</p>
+	<p><strong class="addItalic"><span class="vocabColor">Local sexual attraction</span></strong> changes by region, but can follow a similar pattern, below is a list of items that are considered locally sexually attractive.</p>
 
 	<h5>Body, body language and behavior for the U.S.</h5>
 	<ul class="closedCircle">
