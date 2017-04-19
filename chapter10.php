@@ -220,9 +220,9 @@
 	<p class="addItalic">If notifying your partners is too hard, there are ways to notify your partners anonymously about your STI.</p>
 	
 	<ul class="closedCircle">
-		<li><strong class="addItalic"><span class="vocabColor">Third Party Partner Notification:</span></strong> This service offered at most public health clinics, has trained health workers notify your partners regarding their possible exposure to HIV infection without ever identifying you. For local testing and notification services, visit <a href="http://www.hivtest.org" target="_blank">www.hivtest.org</a></li>
+		<li><strong class="addItalic"><span class="quote">Third Party Partner Notification:</span></strong> This service offered at most public health clinics, has trained health workers notify your partners regarding their possible exposure to HIV infection without ever identifying you. For local testing and notification services, visit <a href="http://www.hivtest.org" target="_blank">www.hivtest.org</a></li>
 
-		<li><strong class="addItalic"><span class="vocabColor">INSPOT:</span></strong> An internet service to notify your sexual partners online that they may have been exposed to HIV or an STD. It's free and anonymous. No information is reported to any government or private agency. <a href="http://www.inspot.org" target="_blank">www.inspot.org</a></li>		
+		<li><strong class="addItalic"><span class="quote">INSPOT:</span></strong> An internet service to notify your sexual partners online that they may have been exposed to HIV or an STD. It's free and anonymous. No information is reported to any government or private agency. <a href="http://www.inspot.org" target="_blank">www.inspot.org</a></li>		
 	</ul>	
 	
 	<h4 class="addItalic">Legal Responsibilities for STI Victims</h4>
