@@ -458,6 +458,7 @@ ul.closedCircle {
 }
 
 ul li::before {
+	list-style-type: none;
 	content: "• ";
 	color: #D4316A;
 }
@@ -504,11 +505,8 @@ ul.openCircle li::before {
 }
 
 .tabbed ul {
+	list-style-type: none;
 	font-size: 90%;
-}
-
-ul li {
-	padding: 3px;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -712,6 +710,7 @@ hr {
 
 
 .chapter3Text ul {
+	list-style-type: none;
 	text-align: left;
 	line-height: 150%;
 }
@@ -736,6 +735,7 @@ hr {
 }
 
 .chapter4Text ul {
+	list-style-type: none;
 	text-align: left;
 	line-height: 150%;
 }
@@ -757,6 +757,7 @@ hr {
 }
 
 .chapter5Text ul {
+	list-style-type: none;
 	text-align: left;
 	line-height: 150%;
 }
@@ -809,6 +810,7 @@ hr {
 }
 
 .chapter6Text ul {
+	list-style-type: none;
 	text-align: left;
 	line-height: 150%;
 }
@@ -849,6 +851,7 @@ hr {
 }
 
 .chapter7Text ul {
+	list-style-type: none;
 	text-align: left;
 	line-height: 150%;
 }
@@ -890,6 +893,7 @@ hr {
 }
 
 .chapter8Text ul {
+	list-style-type: none;
 	text-align: left;
 	line-height: 150%;
 }
@@ -947,6 +951,7 @@ hr {
 }
 
 .chapter9Text ul {
+	list-style-type: none;
 	text-align: left;
 	line-height: 150%;
 }
@@ -1012,6 +1017,7 @@ hr {
 }
 
 .chapter10Text ul {
+	list-style-type: none;
 	text-align: left;
 	line-height: 150%;
 }
@@ -1099,6 +1105,7 @@ hr {
 }
 
 .chapter11Text ul {
+	list-style-type: none;
 	text-align: left;
 	line-height: 150%;
 }
@@ -1256,6 +1263,7 @@ hr {
 }
 
 .chapter12Text ul {
+	list-style-type: none;
 	text-align: left;
 	line-height: 150%;
 }
@@ -1432,6 +1440,7 @@ hr {
 }
 
 .chapter13Text ul {
+	list-style-type: none;
 	text-align: left;
 	line-height: 150%;
 	margin-top: 1%;
@@ -1543,6 +1552,7 @@ hr {
 }
 
 .chapter14Text ul {
+	list-style-type: none;
 	text-align: left;
 	line-height: 150%;
 }

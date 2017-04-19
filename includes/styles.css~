@@ -1432,6 +1432,7 @@ hr {
 }
 
 .chapter13Text ul {
+	list-style-type: none;
 	text-align: left;
 	line-height: 150%;
 	margin-top: 1%;
@@ -1543,6 +1544,7 @@ hr {
 }
 
 .chapter14Text ul {
+	list-style-type: none;
 	text-align: left;
 	line-height: 150%;
 }
