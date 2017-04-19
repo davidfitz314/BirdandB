@@ -450,11 +450,11 @@ ul.floating-menu {
 /*generic styling section*/
 
 ul.openCircle {
-	list-style-type: circle;
+	list-style-type: none;
 }
 
 ul.closedCircle {
-	list-style-type: circle;
+	list-style-type: none;
 }
 
 ul.closedCircle li::before {

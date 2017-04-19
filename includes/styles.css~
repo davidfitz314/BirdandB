@@ -454,7 +454,17 @@ ul.openCircle {
 }
 
 ul.closedCircle {
-	list-style-type: square;
+	list-style-type: circle;
+}
+
+ul.closedCircle li::before {
+	content: "• ";
+  	color: #D4316A;
+}
+
+ul.openCircle li::before {
+	content: "• ";
+  	color: #D4316A;
 }
 
 .addItalic {
