@@ -416,11 +416,6 @@ footer a:hover {
 	line-height: 125%;
 	text-align:left;
 	left: 14%;
-	list-style-type: none;
-}
-
-element {
-	list-style-type: none !important;
 }
 
 .floating-menu a, 
@@ -431,10 +426,10 @@ element {
 	margin: 0 0 0 0.5em;
 	color: black;
 	text-decoration: none;
+	list-style-type: none !important;
 }
 
 ul.floating-menu {
-	list-style-type: none;
 	text-align: left;
 }
 
@@ -463,8 +458,11 @@ ul.closedCircle {
 	list-style-type: none;
 }
 
+ul {
+	list-style-type: none !important;
+}
+
 ul li::before {
-	list-style-type: none;
 	content: "• ";
 	color: #D4316A;
 	margin-left: -15px;
@@ -1656,6 +1654,7 @@ hr {
         width: 100%;
     }
 }
+
 
 
 
