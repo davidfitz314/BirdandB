@@ -10,7 +10,7 @@
 <strong><a href="chapter2.php">ch2: &nbsp;&nbsp;Conception</a></strong>
 <strong><a href="chapter3.php">ch3: &nbsp;&nbsp;Human Body Development</a></strong>
 <div class="colorChange">
-<a href="chapter4.php"><strong><u>Chapter 4:</u></strong></a>
+<a href="chapter4.php"><strong>Chapter 4:</strong></a>
 </div>
 <ul>
 <li>

@@ -8,7 +8,7 @@
 <h2>Chapter 2: Conception</h2>
 <strong><a href="chapter1.php">ch1: &nbsp;&nbsp;Overview</a></strong>
 <div class="colorChange">
-<a href="chapter2.php"><strong><u>Chapter 2:</u></strong></a>
+<a href="chapter2.php"><strong>Chapter 2:</strong></a>
 </div>
 <ul>
 <li>

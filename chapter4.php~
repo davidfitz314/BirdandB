@@ -49,7 +49,7 @@
 <div class="chapter4Text">
 <br>
 	
-	<h2>Chapter 4: Human Nature &amp; Psychological Dependencies</h2>
+	<h2>CHAPTER 4: HUMAN NATURE &amp; PSYCHOLOGICAL DEPENDENCIES</h2>
 	<p>Every human is a mammal, but what appears to make us different from other mammals is our comprehension of self and our emotions. When one talks about animal nature they are usually discussing base desires for reproducing, eating, and self-defense, but when one talks about Human nature they discuss it in a more philosophical manner.</p>
 
 <!- interesting fact goes here ->
