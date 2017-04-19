@@ -116,11 +116,11 @@
 		</div>
 	</div>
 
-	
+	<hr />
 	<!- China image goes above text banner style ->
 	<div class="ch11Images">
 		
-		<hr />
+		
 		<img src="includes/images/chapter11/chinese.png" alt="Chinese shadow couple drinking tea and doing martial arts">
 
 	<a NAME="china"></a>
