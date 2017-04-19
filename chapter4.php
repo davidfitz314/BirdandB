@@ -61,6 +61,7 @@
 <!- end interesting fact section ->
 
 	<a NAME="human_nature"></a>
+	<hr />
 	<h3>Human Nature</h3>
 	<p>Human nature is defined as: referring to distinguishing characteristics of thinking feeling and acting. “I think, therefore I am” is a famous saying from the philosopher Rene Descartes, it is used often in the study of the mind but came into western culture as a building block for foundation of knowledge in the face of doubt. It describes human thoughts as always looking for a foundation to build upon and trying hard to resist the doubts from the inner and outer self.</p>
 	<p>Human nature deals with emotions as a core foundation point for thoughts and actions. How you feel decides what actions you take, Tracee Ellis Ross an American Actress once said “I need to see my own beauty and to continue to be reminded that I am enough, that I am worthy of love without effort, that I am beautiful, that the texture of my hair and that the shape of my curves, the size of my lips, the color of my skin, and the feelings that I have are all worthy and okay.” Her point shows that without positive emotions it was hard to continue to act when it came to love.</p>
@@ -75,6 +76,7 @@
 <!- end interesting fact section ->
 
 	<a NAME="emotions"></a>
+	<hr />
 	<h3>Emotions</h3>
 	<p>It is currently believed that humans have 4 to 8 base emotions that when combined make up all known emotions. A famous psychologist Robert Plutchik after many years of study put together the Plutchik Model for emotions, which is commonly used today. The model consists of 8 different emotions &mdash;Disgust, Anger, Anticipation, Joy, Acceptance, Fear, Surprise, and Sadness.&mdash; and how they combine with the emotions closest to them:</p>
 	<ul class="solidCircle">
@@ -116,7 +118,7 @@
 		<img src="includes/images/chapter4/footprints.png" alt="Foot print behaviors, adult and child representation">
 	</div>
 
-	
+	<hr />
 	<h3>Child Behavior and Attachments</h3>
 	<p>Even during childhood humans are studied to understand their nature. One area focused on by Mary Ainsworth &mdash;a Canadian-American Psychologist&mdash; is called Attachment Theory and relates to a child’s attachment type to its parents. The theory behind it goes into details saying how children during early stages of their lives learn how they should behave or be dependent on others, which then becomes the basis for their adult selves behavior attachments.</p>
 	
@@ -153,6 +155,7 @@
 		<img src="includes/images/chapter4/shadows.png" alt="Shadows of people going in all different directions">
 	</div>
 
+	<hr />
 	<h3>Adult Behavior and Attachments</h3>
 	<p>After childhood the experience in care reflects in humans quite deeply. The second part of Attachment theory by Mary Ainsworth dives into the effects the attachment still holds over the adults behavior. The adult Attachment Behavior can be broken down into 4 sections: Autonomous/Secure, Dismissing, Resistant/Preoccupied, Unresolved/Disorganized.</p>
 	<ul class="solidCircle">

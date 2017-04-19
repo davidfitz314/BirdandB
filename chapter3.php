@@ -47,6 +47,7 @@
 	<h2>CHAPTER 3: HUMAN BODY DEVELOPMENT</h2>
 
 	<a NAME="pre_puberty_changes"></a>
+	<hr />
 	<h3>Pre-Puberty Changes</h3>
 	<p>Quite a few changes happen before even entering the puberty stage, most children will:</p>
 	
@@ -68,6 +69,7 @@
 <!- end interesting fact section ->
 	
 	<a NAME="puberty_for_males"></a>
+	<hr />
 	<h3>Puberty For Males</h3>
 	<p>Early signs of puberty in males usually start 1 year later than females. The first sign is Testes(plural for testicle) growing larger and the Scrotum thinning and reddening. This happens generally around 11 years of age but can actually start early or later usually between 9 and 14 yrs old.</p>
 	
@@ -163,6 +165,7 @@
 	</div>
 
 	<a NAME="puberty_for_females"></a>
+	<hr />
 	<h3>Puberty For Females</h3>
 	<p>Early signs of puberty in females usually start around the age of 10, with some starting as early as 8 and others not starting until 13 yrs of age. The most common sign for a female starting puberty is breasts budding or growing.</p>
 

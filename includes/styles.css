@@ -602,6 +602,11 @@ li::before {
   color: #D4316A;
 }
 
+hr {
+	text-decoration-color: #7990C9;
+	color: #7990C9;
+}
+
 /*chapter 1 section*/
 .chapter1Text {
 	width: 75%;

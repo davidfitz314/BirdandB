@@ -51,6 +51,7 @@
 	<h2>CHAPTER 2: CONCEPTION</h2>
 
 	<a NAME="1st_trimester"></a>
+	<hr />
 	<h3>1st Trimester</h3>
 	<h4>Pre-Fertilization: how an egg gets ready to be fertilized.</h4>
 	<p>Once a month one of a woman’s 2 ovaries release a mature egg, this is called ovulation. Ovulation happens approximately 2 weeks after the start of the woman's most recent menstrual period. The egg at this point travels into the woman’s Fallopian tube where it can be fertilized by a single sperm.</p>
@@ -255,6 +256,7 @@
 <!- end interesting fact section ->
 
 	<br>
+	<hr />
 	<a NAME="2nd_trimester"></a>
 	<h3>2nd Trimester</h3>
 
@@ -487,6 +489,7 @@
 <!- end interesting fact section ->
 
 	<br>
+	<hr />
 	<a NAME="3rd_trimester"></a>
 	<h3>3rd Trimester</h3>
 
@@ -661,6 +664,7 @@
 	</div>
 
 	<br>
+	<hr />
 	<a NAME="turning_full_term"></a>
 	<h3>Turning Full Term</h3>
 
