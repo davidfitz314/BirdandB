@@ -419,7 +419,7 @@ footer a:hover {
 	list-style-type: none;
 }
 
-.floating-menu element {
+element {
 	list-style-type: none;
 }
 
