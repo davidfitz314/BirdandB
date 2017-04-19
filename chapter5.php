@@ -64,9 +64,8 @@
 		<img src="includes/images/chapter5/sex.png" alt="In bed with symbols for sex types">
 	</div>
 
-	
-	<h3>Types of Sex</h3>
 	<hr />
+	<h3>Types of Sex</h3>
 	<p>There are many different types of sex and sexual activities. While the most generally accepted is heterosexual sex (male and female sex), the others are also quite common in today's world even if they are not as talked about openly. The following list is a few of the most common types of sex:</p>
 	<ul class="solidCircle">
 		<li><strong>Vaginal Sex:</strong> commonly referred to as heterosexual sex, is the act of a penis entering the vagina.</li>
@@ -88,9 +87,8 @@
 		<img src="includes/images/chapter5/symbols.png" alt="Lips background with gender symbols intertwined">
 	</div>
 
-	
-	<h3>Sexual Activities</h3>
 	<hr />
+	<h3>Sexual Activities</h3>
 	<p>Sex is not only Penetrative into another’s body, it can be divided into acts which involve one person, also called autoeroticism (the sexual gratification obtained solely through stimulation by oneself of one's own body.), two or more people having sex or mutual masturbation, or if there are more than two participants in the sex act it may be referred to as group sex.</p>
 
 	<p><strong class="addItalic">Sexual activity</strong> is slightly different than sex because it can be classified into sexual orientations, relationships, and genders of the participants. A quick look at how they categorize sexual activity is listed below:</p>
@@ -118,9 +116,8 @@
 		<img src="includes/images/chapter5/world.png" alt="Bed on a globe">
 	</div>
 
-	
-	<h3>Who is Having Sex?</h3>
 	<hr />
+	<h3>Who is Having Sex?</h3>
 	<p>In many cultures sex is a less talked about or even taboo subject. However, in the U.S.A area a few studies have been published showing the results of who is having sex. The information below is from the <a href="https://www.kinseyinstitute.org/" target="_blank">Kinsey Institute</a>, but for a more worldwide perspective the <a href="https://www.guttmacher.org/" target="_blank">GuttMacher Institute</a> also has some studies on sex and sexual matters.</p>
 
 	<p>According to the Kinsey Institute studies statistics for:</p>

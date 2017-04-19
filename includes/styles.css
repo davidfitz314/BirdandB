@@ -428,7 +428,7 @@ footer a:hover {
 }
 
 ul.floating-menu {
-	list-style-type: circle;
+	list-style-type: none;
 	text-align: left;
 }
 
@@ -455,6 +455,11 @@ ul.openCircle {
 
 ul.closedCircle {
 	list-style-type: none;
+}
+
+ul li::before {
+	content: "• ";
+	color: #D4316A;
 }
 
 ul.closedCircle li::before {
@@ -527,7 +532,6 @@ h2 {
 
 h3 {
 	font-size: 135%;
-	text-decoration: overline;
 	text-decoration-color: #7990C9;
 }
 
