@@ -122,7 +122,7 @@
 	<h3>Child Behavior and Attachments</h3>
 	<p>Even during childhood humans are studied to understand their nature. One area focused on by Mary Ainsworth &mdash;a Canadian-American Psychologist&mdash; is called Attachment Theory and relates to a child’s attachment type to its parents. The theory behind it goes into details saying how children during early stages of their lives learn how they should behave or be dependent on others, which then becomes the basis for their adult selves behavior attachments.</p>
 	
-	<p>The 4 main categories for child attachment are Secure, Avoidant, Ambivalent, Disorganized. The behaviors of both the child and caregiver for these attachments are given below.</p>
+	<p>The 4 main categories for child attachment are <span class="vocabColor">Secure</span>, <span class="vocabColor">Avoidant</span>, <span class="vocabColor">Ambivalent</span>, and <span class="vocabColor">Disorganized</span>. The behaviors of both the child and caregiver for these attachments are given below.</p>
 
 	<ul class="solidCircle">
 		<li><span class="vocabColor">Secure from Caregiver:</span> The caregiver is responsive, quick and positive towards the child’s needs.</li>
@@ -157,7 +157,7 @@
 
 	<hr />
 	<h3>Adult Behavior and Attachments</h3>
-	<p>After childhood the experience in care reflects in humans quite deeply. The second part of Attachment theory by Mary Ainsworth dives into the effects the attachment still holds over the adults behavior. The adult Attachment Behavior can be broken down into 4 sections: Autonomous/Secure, Dismissing, Resistant/Preoccupied, Unresolved/Disorganized.</p>
+	<p>After childhood the experience in care reflects in humans quite deeply. The second part of Attachment theory by Mary Ainsworth dives into the effects the attachment still holds over the adults behavior. The adult Attachment Behavior can be broken down into 4 sections: <span class="vocabColor">Autonomous/Secure</span>, <span class="vocabColor">Dismissing</span>, <span class="vocabColor">Resistant/Preoccupied</span>, and <span class="vocabColor">Unresolved/Disorganized</span>.</p>
 	<ul class="solidCircle">
 		<li><span class="vocabColor">Autonomous/Secure adult</span> can discuss the past in consistent and coherent manners. They are able to recall both positive and negative aspects of their past.</li>
 
@@ -168,7 +168,7 @@
 		<li><span class="vocabColor">Unresolved/Disorganized adults</span> generally have past traumatic experiences of loss or abuse and their descriptions of past may lack reasoning or sense.</li>	
 	</ul>
 
-	<p>When it comes to human nature it is important to understand who you are and how you respond to getting close to people. If your past was Autonomous/Secure you may have an easier time than others in terms of loving others, but regardless of how you were raised it is up to the adult to realize patterns from their past that may harm their relationships and to change them.</p>	
+	<p>When it comes to human nature it is important to understand who you are and how you respond to getting close to people. If your past was <span class="vocabColor">Autonomous/Secure</span> you may have an easier time than others in terms of loving others, but regardless of how you were raised it is up to the adult to realize patterns from their past that may harm their relationships and to change them.</p>	
 
 <!- interesting fact goes here ->
 <div class="ch1num1">
