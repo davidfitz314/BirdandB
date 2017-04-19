@@ -501,10 +501,12 @@ h1, h2, h3, h4, h5, h6 {
 
 h4 { 
 	font-size: 107%;
+	font-weight: bold;
 }
 
-h5 {
+h5, h6 {
 	font-size: 103%;
+	font-style: italic;
 }
 
 h2 {
@@ -514,6 +516,8 @@ h2 {
 
 h3 {
 	font-size: 135%;
+	text-decoration: overline;
+	text-decoration-color: #7990C9;
 }
 
 .sectionContainer {
@@ -1585,7 +1589,7 @@ h3 {
 .tooltip .tooltiptext {
     visibility: hidden;
     width: 400px;
-    background-color: #FFD700;
+    background-color: #7990C9;
     color: black;
     text-align: center;
     border-radius: 6px;

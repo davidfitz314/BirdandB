@@ -10,6 +10,7 @@ header {
 	/*border: 3px solid black;*/
 	/*padding: 10px;*/
     text-align: center;
+	font-family: "Times New Roman", Times, serif;
 }
 
 p {
@@ -500,10 +501,12 @@ h1, h2, h3, h4, h5, h6 {
 
 h4 { 
 	font-size: 107%;
+	font-weight: bold;
 }
 
-h5 {
+h5, h6 {
 	font-size: 103%;
+	font-style: italic;
 }
 
 h2 {
@@ -513,6 +516,8 @@ h2 {
 
 h3 {
 	font-size: 135%;
+	text-decoration: overline;
+	text-decoration-color: #7990C9;
 }
 
 .sectionContainer {
