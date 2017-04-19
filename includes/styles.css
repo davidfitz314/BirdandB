@@ -27,6 +27,7 @@ p {
 }
 
 .navi li {
+	list-style-type: none;
 	display: inline;
 }
 
@@ -464,11 +465,13 @@ ul li::before {
 }
 
 ul.closedCircle li::before {
+	list-style-type: none;
 	content: "• ";
   	color: #D4316A;
 }
 
 ul.openCircle li::before {
+	list-style-type: none;
 	content: "• ";
   	color: #D4316A;
 }
@@ -597,11 +600,6 @@ h3 {
 
 .stayBlack {
 	color: black;
-}
-
-li::before {
-  content: "• ";
-  color: #D4316A;
 }
 
 hr {
@@ -1648,6 +1646,7 @@ hr {
         width: 100%;
     }
 }
+
 
 
 
