@@ -27,6 +27,7 @@ p {
 }
 
 .navi li {
+	list-style-type: none;
 	display: inline;
 }
 

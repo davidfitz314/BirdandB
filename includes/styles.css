@@ -603,6 +603,8 @@ h3 {
 }
 
 hr {
+	margin-top: 35px;
+	margin-bottom:-20px;
 	text-decoration-color: #7990C9;
 	color: #7990C9;
 }
