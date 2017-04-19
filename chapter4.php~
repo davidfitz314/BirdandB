@@ -92,17 +92,17 @@
 </div>
 <!- end interesting fact section ->
 
-		<li>Anticipation: combines with Joy to create Optimism or combines with Anger to create Aggressiveness.</li>
+		<li><span class="vocabColor">Anticipation:</span> combines with Joy to create Optimism or combines with Anger to create Aggressiveness.</li>
 
-		<li>Joy: combines with Acceptance to create Love or combines with Anticipation to create Optimism.</li>
+		<li><span class="vocabColor">Joy:</span> combines with Acceptance to create Love or combines with Anticipation to create Optimism.</li>
 
-		<li>Acceptance: combines with Fear to create Submission or combines with Joy to create Love.</li>
+		<li><span class="vocabColor">Acceptance:</span> combines with Fear to create Submission or combines with Joy to create Love.</li>
 
-		<li>Fear: combines with Surprise to create Awe or combines with Acceptance to create Submission.</li>
+		<li><span class="vocabColor">Fear:</span> combines with Surprise to create Awe or combines with Acceptance to create Submission.</li>
 
-		<li>Surprise: combines with Sadness to create Disappointment or combines with Fear to create Awe.</li>
+		<li><span class="vocabColor">Surprise:</span> combines with Sadness to create Disappointment or combines with Fear to create Awe.</li>
 
-		<li>Sadness: combines with Disgust to create Remorse or combines with Surprise to create Disappointment.</li>
+		<li><span class="vocabColor">Sadness:</span> combines with Disgust to create Remorse or combines with Surprise to create Disappointment.</li>
 	</ul>		
 
 <!- interesting fact goes here ->
@@ -125,9 +125,9 @@
 	<p>The 4 main categories for child attachment are Secure, Avoidant, Ambivalent, Disorganized. The behaviors of both the child and caregiver for these attachments are given below.</p>
 
 	<ul class="solidCircle">
-		<li>Secure from Caregiver: The caregiver is responsive, quick and positive towards the child’s needs.</li>
+		<li><span class="vocabColor">Secure from Caregiver:</span> The caregiver is responsive, quick and positive towards the child’s needs.</li>
 
-		<li>Secure from Child: The child is Distressed when caregiver leaves, happy when caregiver returns, and seeks comfort from the caregiver when scared or sad.</li>	
+		<li><span class="vocabColor">Secure from Child:</span> The child is Distressed when caregiver leaves, happy when caregiver returns, and seeks comfort from the caregiver when scared or sad.</li>	
 
 <!- interesting fact goes here ->
 <div class="ch1num1">
@@ -137,17 +137,17 @@
 </div>
 <!- end interesting fact section ->
 
-		<li>Avoidant from Caregiver: The caregiver is unresponsive, uncaring or dismissive towards the child.</li>
+		<li><span class="vocabColor">Avoidant from Caregiver:</span> The caregiver is unresponsive, uncaring or dismissive towards the child.</li>
 
-		<li>Avoidant from Child: The child does not acknowledge the caregiver arriving or leaving and does not seek or make contact with caregiver.</li>
+		<li><span class="vocabColor">Avoidant from Child:</span> The child does not acknowledge the caregiver arriving or leaving and does not seek or make contact with caregiver.</li>
 
-		<li>Ambivalent from Caregiver: The caregiver responds inconsistently to the child.</li>
+		<li><span class="vocabColor">Ambivalent from Caregiver:</span> The caregiver responds inconsistently to the child.</li>
 
-		<li>Ambivalent from Child: The child is distressed when the caregiver leaves but feels no comfort by the return of the caregiver.</li>
+		<li><span class="vocabColor">Ambivalent from Child:</span> The child is distressed when the caregiver leaves but feels no comfort by the return of the caregiver.</li>
 
-		<li>Disorganized from Caregiver: The caregiver is abusive or neglectful and often responds in frightening or frightened ways towards the child.</li>
+		<li><span class="vocabColor">Disorganized from Caregiver:</span> The caregiver is abusive or neglectful and often responds in frightening or frightened ways towards the child.</li>
 
-		<li>Disorganized from Child: The child has no attaching behaviors, often appears dazed, confused, or apprehensive in presence of caregiver.</li>
+		<li><span class="vocabColor">Disorganized from Child:</span> The child has no attaching behaviors, often appears dazed, confused, or apprehensive in presence of caregiver.</li>
 	</ul>	
 	
 	<a NAME="adult_behavior_and_attachments"></a>
@@ -155,16 +155,17 @@
 		<img src="includes/images/chapter4/shadows.png" alt="Shadows of people going in all different directions">
 	</div>
 
+	<hr />
 	<h3>Adult Behavior and Attachments</h3>
 	<p>After childhood the experience in care reflects in humans quite deeply. The second part of Attachment theory by Mary Ainsworth dives into the effects the attachment still holds over the adults behavior. The adult Attachment Behavior can be broken down into 4 sections: Autonomous/Secure, Dismissing, Resistant/Preoccupied, Unresolved/Disorganized.</p>
 	<ul class="solidCircle">
-		<li>Autonomous/Secure adult can discuss the past in consistent and coherent manners. They are able to recall both positive and negative aspects of their past.</li>
+		<li><span class="vocabColor">Autonomous/Secure adult</span> can discuss the past in consistent and coherent manners. They are able to recall both positive and negative aspects of their past.</li>
 
-		<li>Dismissing adults cannot recall parental interactions or minimize impact of parents on their development.</li>
+		<li><span class="vocabColor">Dismissing adults</span> cannot recall parental interactions or minimize impact of parents on their development.</li>
 
-		<li>Resistant/Preoccupied adults are intensely focused on their parents, they tend to give confused and angry accounts or attachment experiences.</li>
+		<li><span class="vocabColor">Resistant/Preoccupied adults</span> are intensely focused on their parents, they tend to give confused and angry accounts or attachment experiences.</li>
 
-		<li>Unresolved/Disorganized adults generally have past traumatic experiences of loss or abuse and their descriptions of past may lack reasoning or sense.</li>	
+		<li><span class="vocabColor">Unresolved/Disorganized adults</span> generally have past traumatic experiences of loss or abuse and their descriptions of past may lack reasoning or sense.</li>	
 	</ul>
 
 	<p>When it comes to human nature it is important to understand who you are and how you respond to getting close to people. If your past was Autonomous/Secure you may have an easier time than others in terms of loving others, but regardless of how you were raised it is up to the adult to realize patterns from their past that may harm their relationships and to change them.</p>	

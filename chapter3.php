@@ -63,7 +63,7 @@
 <!- interesting fact goes here ->
 <div class="ch1num1">
 	<div class="tooltip">
-  		<span class="tooltiptext">Interesting Fact: Many children will have growing pains during their life until they reach adulthood. To ease these symptoms many people treat them like sports injuries, applying warm heat to the painful area, stretching and gently massaging it to make the pain go away.</span>
+  		<span class="tooltiptext"><strong>Interesting Fact:</strong> Many children will have growing pains during their life until they reach adulthood. To ease these symptoms many people treat them like sports injuries, applying warm heat to the painful area, stretching and gently massaging it to make the pain go away.</span>
 	</div>
 </div>
 <!- end interesting fact section ->
@@ -78,7 +78,7 @@
 <!- interesting fact goes here ->
 <div class="ch1num1">
 	<div class="tooltip">
-  		<span class="tooltiptext">Interesting Fact: if a male begins puberty before the age of 9 or doesn’t show signs of puberty by the age of 14 it is recommend that they see a pediatrician and have a full examination.</span>
+  		<span class="tooltiptext"><strong>Interesting Fact:</strong> if a male begins puberty before the age of 9 or doesn’t show signs of puberty by the age of 14 it is recommend that they see a pediatrician and have a full examination.</span>
 	</div>
 </div>
 <!- end interesting fact section ->
@@ -91,7 +91,7 @@
 <!- interesting fact goes here ->
 <div class="ch1num1">
 	<div class="tooltip">
-  		<span class="tooltiptext">Interesting Fact: In most males one testicle, usually the left side, is slightly lower than the other testicle. Many scientist believe that this happens to protect the testicles from bouncing into one another while the male is moving around.</span>
+  		<span class="tooltiptext"><strong>Interesting Fact:</strong> In most males one testicle, usually the left side, is slightly lower than the other testicle. Many scientist believe that this happens to protect the testicles from bouncing into one another while the male is moving around.</span>
 	</div>
 </div>
 <!- end interesting fact section ->
@@ -114,7 +114,7 @@
 <!- interesting fact goes here ->
 <div class="ch1num1">
 	<div class="tooltip">
-  		<span class="tooltiptext">Interesting Fact: About 1 in 3 males will develop pearly penile papules, these are skin colored pimple-like bumps around the crown, or corona of the penis. They are completely harmless and normal, but many young adolescents fear they have something wrong with them when these appear.</span>
+  		<span class="tooltiptext"><strong>Interesting Fact:</strong> About 1 in 3 males will develop pearly penile papules, these are skin colored pimple-like bumps around the crown, or corona of the penis. They are completely harmless and normal, but many young adolescents fear they have something wrong with them when these appear.</span>
 	</div>
 </div>
 <!- end interesting fact section ->
@@ -133,7 +133,7 @@
 <!- interesting fact goes here ->
 <div class="ch1num1">
 	<div class="tooltip">
-  		<span class="tooltiptext">Interesting Fact: The cause of Nocturnal Emissions or wet dreams is still under debate with many claiming it to be due to arousal in dreams, others claiming it to be a lack of ejaculation prior to the nocturnal emission, and finally some claiming that it is due to the body going through or just finishing puberty.</span>
+  		<span class="tooltiptext"><strong>Interesting Fact:</strong> The cause of Nocturnal Emissions or wet dreams is still under debate with many claiming it to be due to arousal in dreams, others claiming it to be a lack of ejaculation prior to the nocturnal emission, and finally some claiming that it is due to the body going through or just finishing puberty.</span>
 	</div>
 </div>
 <!- end interesting fact section ->
@@ -155,7 +155,7 @@
 <!- interesting fact goes here ->
 <div class="ch1num1">
 	<div class="tooltip">
-  		<span class="tooltiptext">Interesting Fact: Gynecomastia is usually harmless and resolves itself within 2 years, but in the event a male does has signs of gynecomastia it is recommended that he be evaluated by pediatrician, especially so when he is prior to puberty or in late adolescence.</span>
+  		<span class="tooltiptext"><strong>Interesting Fact:</strong> Gynecomastia is usually harmless and resolves itself within 2 years, but in the event a male does has signs of gynecomastia it is recommended that he be evaluated by pediatrician, especially so when he is prior to puberty or in late adolescence.</span>
 	</div>
 </div>
 <!- end interesting fact section ->
@@ -172,7 +172,7 @@
 <!- interesting fact goes here ->
 <div class="ch1num1">
 	<div class="tooltip">
-  		<span class="tooltiptext">Interesting Fact: If a female has started puberty before 8 years of age or hasn’t started by the age 13, it is highly recommended by doctors that she be examined by a trained pediatrician.</span>
+  		<span class="tooltiptext"><strong>Interesting Fact:</strong> If a female has started puberty before 8 years of age or hasn’t started by the age 13, it is highly recommended by doctors that she be examined by a trained pediatrician.</span>
 	</div>
 </div>
 <!- end interesting fact section ->
@@ -192,7 +192,7 @@
 <!- interesting fact goes here ->
 <div class="ch1num1">
 	<div class="tooltip">
-  		<span class="tooltiptext">Interesting Fact: Most parents are not prepared for their female child to have breast buds and mistakenly believe they are tumors until they visit a doctor.</span>
+  		<span class="tooltiptext"><strong>Interesting Fact:</strong> Most parents are not prepared for their female child to have breast buds and mistakenly believe they are tumors until they visit a doctor.</span>
 	</div>
 </div>
 <!- end interesting fact section ->
@@ -221,7 +221,7 @@
 <!- interesting fact goes here ->
 <div class="ch1num1">
 	<div class="tooltip">
-  		<span class="tooltiptext">Interesting Fact: Many young females have misconceptions about menstruation and the best time to ease their worries about it is when they have first begun developing breast buds as this signals menstruation and more is coming. Always remember that menstruation is different for every female, the amount of cramps, pain and other experiences vary for each individual.</span>
+  		<span class="tooltiptext"><strong>Interesting Fact:</strong> Many young females have misconceptions about menstruation and the best time to ease their worries about it is when they have first begun developing breast buds as this signals menstruation and more is coming. Always remember that menstruation is different for every female, the amount of cramps, pain and other experiences vary for each individual.</span>
 	</div>
 </div>
 <!- end interesting fact section ->
@@ -237,7 +237,7 @@
 <!- interesting fact goes here ->
 <div class="ch1num1">
 	<div class="tooltip">
-  		<span class="tooltiptext">Interesting Fact: A doctor should be called if a sudden unexplainable change happens in the female's period such as: heavy bleeding that soaks through more that 6 - 8 pads a day, bleeding between periods, period lasting longer than 7 - 10 days, and sudden development of severe abdominal pain.</span>
+  		<span class="tooltiptext"><strong>Interesting Fact:</strong> A doctor should be called if a sudden unexplainable change happens in the female's period such as: heavy bleeding that soaks through more that 6 - 8 pads a day, bleeding between periods, period lasting longer than 7 - 10 days, and sudden development of severe abdominal pain.</span>
 	</div>
 </div>
 <!- end interesting fact section ->
@@ -252,7 +252,7 @@
 <!- interesting fact goes here ->
 <div class="ch1num1">
 	<div class="tooltip">
-  		<span class="tooltiptext">Interesting Fact: Beginning with puberty many females start to become interested in love and acting it out with other people, this can be scary for their parents, but should be treated calmly and explained thoroughly by their parents or legal guardians. If needed outside resources are available online that can be used as tools for teaching young females.</span>
+  		<span class="tooltiptext"><strong>Interesting Fact:</strong> Beginning with puberty many females start to become interested in love and acting it out with other people, this can be scary for their parents, but should be treated calmly and explained thoroughly by their parents or legal guardians. If needed outside resources are available online that can be used as tools for teaching young females.</span>
 	</div>
 </div>
 <!- end interesting fact section ->

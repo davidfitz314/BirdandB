@@ -63,7 +63,7 @@
 <div class="ch1num1">
 	
 	<div class="tooltip">
-  		<span class="tooltiptext">Interesting fact: Inside of the vagina, sperm can live for up to 48 to 72 hours and out of the millions of sperm only a few hundred even come close to the egg.</span>
+  		<span class="tooltiptext"><strong>Interesting Fact:</strong> Inside of the vagina, sperm can live for up to 48 to 72 hours and out of the millions of sperm only a few hundred even come close to the egg.</span>
 	</div>
 </div>
 <!- end interesting fact section ->
@@ -74,7 +74,7 @@
 <!- interesting fact goes here ->
 <div class="ch1num1">
 	<div class="tooltip">
-  		<span class="tooltiptext">Interesting Fact: If an egg is not already in the Fallopian tube, the sperm will stop moving and wait until the egg moves in before continuing its journey. Unlike other parts of the female reproductive tract the Fallopian Tubes provide the sperm with an environment where they can live up to 5 days.</span>
+  		<span class="tooltiptext"><strong>Interesting Fact:</strong> If an egg is not already in the Fallopian tube, the sperm will stop moving and wait until the egg moves in before continuing its journey. Unlike other parts of the female reproductive tract the Fallopian Tubes provide the sperm with an environment where they can live up to 5 days.</span>
 	</div>
 </div>
 <!- end interesting fact section ->
@@ -85,7 +85,7 @@
 <!- interesting fact goes here ->
 <div class="ch1num1">
 	<div class="tooltip">
-  		<span class="tooltiptext">Interesting fact: If the fertilized egg does not enter the uterus properly a tubal or ectopic pregnancy can occur, in the case of an ectopic pregnancy the mother’s health will be at serious risk.</span>
+  		<span class="tooltiptext"><strong>Interesting Fact:</strong> If the fertilized egg does not enter the uterus properly a tubal or ectopic pregnancy can occur, in the case of an ectopic pregnancy the mother’s health will be at serious risk.</span>
 	</div>
 </div>
 <!- end interesting fact section ->
@@ -96,7 +96,7 @@
 <!- interesting fact goes here ->
 <div class="ch1num1">
 	<div class="tooltip">
-  		<span class="tooltiptext">Interesting fact: The hormones used to test for pregnancy in women are called Human Chorionic Gonadotrophin (HCG), these hormones were produced by the cells that later changed into the baby’s placenta.</span>
+  		<span class="tooltiptext"><strong>Interesting Fact:</strong> The hormones used to test for pregnancy in women are called Human Chorionic Gonadotrophin (HCG), these hormones were produced by the cells that later changed into the baby’s placenta.</span>
 	</div>
 </div>
 <!- end interesting fact section ->
@@ -250,7 +250,7 @@
 <!- interesting fact goes here ->
 <div class="ch1num1">
 	<div class="tooltip">
-  		<span class="tooltiptext">Interesting fact: at week 13, if the baby is female, her ovaries will contain more than 2 million eggs at this developmental stage.</span>
+  		<span class="tooltiptext"><strong>Interesting Fact:</strong> at week 13, if the baby is female, her ovaries will contain more than 2 million eggs at this developmental stage.</span>
 	</div>
 </div>
 <!- end interesting fact section ->
@@ -277,7 +277,7 @@
 <!- interesting fact goes here ->
 <div class="ch1num1">
 	<div class="tooltip">
-  		<span class="tooltiptext">Interesting Fact: At week 14 some babies have been seen sucking their thumb through the ultrasound. At week 15 if a flashlight is shined on the mother’s belly, the baby inside will move away from the beam.</span>
+  		<span class="tooltiptext"><strong>Interesting Fact:</strong> At week 14 some babies have been seen sucking their thumb through the ultrasound. At week 15 if a flashlight is shined on the mother’s belly, the baby inside will move away from the beam.</span>
 	</div>
 </div>
 <!- end interesting fact section ->
@@ -383,7 +383,7 @@
 <!- interesting fact goes here ->
 <div class="ch1num1">
 	<div class="tooltip">
-  		<span class="tooltiptext">Interesting fact: Starting around week 21 when the babies movement becomes stronger some mothers start to recognize patterns of movement from their baby.</span>
+  		<span class="tooltiptext"><strong>Interesting Fact:</strong> Starting around week 21 when the babies movement becomes stronger some mothers start to recognize patterns of movement from their baby.</span>
 	</div>
 </div>
 <!- end interesting fact section ->
@@ -419,7 +419,7 @@
 <!- interesting fact goes here ->
 <div class="ch1num1">
 	<div class="tooltip">
-  		<span class="tooltiptext">Interesting Fact: At 23 weeks the baby’s ear have now become adjusted to hearing sounds and some sounds after birth will be recognized from the time spent in the womb.</span>
+  		<span class="tooltiptext"><strong>Interesting Fact:</strong> At 23 weeks the baby’s ear have now become adjusted to hearing sounds and some sounds after birth will be recognized from the time spent in the womb.</span>
 	</div>
 </div>
 <!- end interesting fact section ->
@@ -483,7 +483,7 @@
 <!- interesting fact goes here ->
 <div class="ch1num1">
 	<div class="tooltip">
-  		<span class="tooltiptext">Interesting fact: at week 27 the baby’s lungs aren’t fully formed, but if an early birth occurs the lungs can still function with medical help.</span>
+  		<span class="tooltiptext"><strong>Interesting Fact:</strong> at week 27 the baby’s lungs aren’t fully formed, but if an early birth occurs the lungs can still function with medical help.</span>
 	</div>
 </div>
 <!- end interesting fact section ->
@@ -566,7 +566,7 @@
 <!- interesting fact goes here ->
 <div class="ch1num1">
 	<div class="tooltip">
-  		<span class="tooltiptext">Interesting Fact: The average baby’s mother gains about 1lb a week at this time but ½ of that goes to the baby.</span>
+  		<span class="tooltiptext"><strong>Interesting Fact:</strong> The average baby’s mother gains about 1lb a week at this time but ½ of that goes to the baby.</span>
 	</div>
 </div>
 <!- end interesting fact section ->
@@ -588,7 +588,7 @@
 <!- interesting fact goes here ->
 <div class="ch1num1">
 	<div class="tooltip">
-  		<span class="tooltiptext">Interesting Fact: The baby’s skull won’t be fully fused until adulthood this allows the baby’s head to squeeze through the birth canal.</span>
+  		<span class="tooltiptext"><strong>Interesting Fact:</strong> The baby’s skull won’t be fully fused until adulthood this allows the baby’s head to squeeze through the birth canal.</span>
 	</div>
 </div>
 <!- end interesting fact section ->
