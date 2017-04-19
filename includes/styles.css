@@ -102,6 +102,7 @@ p {
 	width: 85%;
 	border: 5px double red;
 	padding: 5% 10% 5% 10%;
+	text-decoration: none;
 }
 
 .disclaimer h3{

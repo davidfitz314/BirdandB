@@ -586,6 +586,11 @@ h3 {
 	color: black;
 }
 
+li::before {
+  /*content: "• ";*/
+  color: #D4316A;
+}
+
 /*chapter 1 section*/
 .chapter1Text {
 	width: 75%;
