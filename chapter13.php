@@ -66,13 +66,13 @@
 		</div>
 	
 		<div class="ch13Right">	
-			</p><strong class="addItalic">Quid Pro Quo</strong> is when conditions are placed on a person’s career or terms of employment for sexual favors. It involves threats of adverse actions or promises of favorable actions depending on the responses of the victim.</p>
+			</p><strong class="addItalic"><span class="vocabColor">Quid Pro Quo</span></strong> is when conditions are placed on a person’s career or terms of employment for sexual favors. It involves threats of adverse actions or promises of favorable actions depending on the responses of the victim.</p>
 
-			</p><strong class="addItalic">Hostile Environment</strong> is when a person is subjected to offensive, unwanted, and unsolicited comments and behavior of a sexual nature that interferes with that person’s work or performance. It is usually referenced towards the workplace but hostile environments can be any location that a person is required to be at.</p>
+			</p><strong class="addItalic"><span class="vocabColor">Hostile Environment</span></strong> is when a person is subjected to offensive, unwanted, and unsolicited comments and behavior of a sexual nature that interferes with that person’s work or performance. It is usually referenced towards the workplace but hostile environments can be any location that a person is required to be at.</p>
 		</div>
 	</div>
 
-	</p><strong class="addItalic">Sexual harassment</strong> is unfortunately very common, below is a quote from the Huffington Post for a female’s experience as a young teen with sexual harassment:</p>
+	</p><strong class="addItalic"><span class="vocabColor">Sexual harassment</span></strong> is unfortunately very common, below is a quote from the Huffington Post for a female’s experience as a young teen with sexual harassment:</p>
 
 	<p class="tabbedB"><i class="quote">“When I was 14 I worked at Tim Hortons in Canada. While I was working I had an older man, looked to be in his 60s or 70s, tells me that he couldn’t sleep at night without me beside him in his bed and asked if I would come home with him. I was absolutely disgusted that a man would say that to me as a child.” — Emma, 26”</i>(Agrawal, N. 2015)</p>	
 
@@ -82,12 +82,12 @@
 		</div>
 	
 		<div class="ch13Right">
-			<p><strong class="addItalic2">Sexual harassment does not have to be in person, as technology changes and grows, sexual harassment also expands. Text messages, chat rooms, phone calls, social media, and more are used to sexually harass other people.</strong></p>
+			<p><strong class="addItalic2"><span class="vocabColor">Sexual harassment does not have to be in person, as technology changes and grows, sexual harassment also expands. Text messages, chat rooms, phone calls, social media, and more are used to sexually harass other people.</span></strong></p>
 		</div>
 	</div>
 
 	<h4>Sexual Harassment Statistics</h4>
-	<p>Sexual harassment is very common, the most reported location to be sexually harassed is the workplace. In a survey done by <a href="http://www.aware.org/" target="_blank">AWARE (Association of Women for Action and Research)</a> in 2008 they analyzed 92 different companies and gathered 500 respondents data.</p>
+	<p>Sexual harassment is very common, the most reported location to be sexually harassed is the workplace. In a survey done by <a href="http://www.aware.org/" target="_blank"><span class="vocabColor">AWARE</span> (Association of Women for Action and Research)</a> in 2008 they analyzed 92 different companies and gathered 500 respondents data.</p>
 
 	<ul>
 		<li>54% (272) had experienced some form of workplace sexual harassment.</li>
@@ -108,9 +108,9 @@
 	<a NAME="what_is_sexual_assualt"></a>
 	<hr />
 	<h3>What is Sexual Assault &amp; Rape?</h3>
-	<p><strong class="addItalic">Sexual Assault</strong> has many aspects and can also be referred to as <strong class="addItalic">sexual violence</strong>. It is defined as any unwanted sexual contact from another party, this includes but is not limited to kissing, touching, groping, molestation, and penetration or rape. <strong class="addItalic">Sexual assault</strong> is different from <strong class="addItalic">sexual harassment</strong> as sexual assault requires a physical contact between 2 parties, where as sexual harassment doesn’t require physical contact but can include it. Sexual assault refers to: rape, forcible sodomy (oral or anal sex), and other unwanted sexual contact that is aggravated, abusive or wrongful, or even attempting to commit any of these acts. Sexual assault has no age limits, there have been many cases where children and elderly have been sexually assaulted.</p>
+	<p><strong class="addItalic"><span class="vocabColor">Sexual Assault</span></strong> has many aspects and can also be referred to as <strong class="addItalic"><span class="vocabColor">sexual violence</span></strong>. It is defined as any unwanted sexual contact from another party, this includes but is not limited to kissing, touching, groping, molestation, and penetration or rape. <strong class="addItalic"><span class="vocabColor">Sexual assault</span></strong> is different from <strong class="addItalic"><span class="vocabColor">sexual harassment</span></strong> as sexual assault requires a physical contact between 2 parties, where as sexual harassment doesn’t require physical contact but can include it. Sexual assault refers to: rape, forcible sodomy (oral or anal sex), and other unwanted sexual contact that is aggravated, abusive or wrongful, or even attempting to commit any of these acts. Sexual assault has no age limits, there have been many cases where children and elderly have been sexually assaulted.</p>
 
-	<p><strong class="addItalic">Rape</strong> is a form of sexual assault or sexual violence. Rape is the unlawful sexual intercourse or any other sexual penetration of the vagina, anus, or mouth of another person, with or without force, by a sex organ, other body part, or foreign object without the consent of the victim. (Dictionairy.com LLC 2017)</p>
+	<p><strong class="addItalic"><span class="vocabColor">Rape</span></strong> is a form of sexual assault or sexual violence. Rape is the unlawful sexual intercourse or any other sexual penetration of the vagina, anus, or mouth of another person, with or without force, by a sex organ, other body part, or foreign object without the consent of the victim. (Dictionairy.com LLC 2017)</p>
 
 	<div class="ch13Images">
 		<img src="includes/images/chapter13/assault.png" alt="Assault / fighting">
@@ -154,7 +154,7 @@
 	</div>
 
 	<h4>Sexual Assault or Harassment Legalities</h4>
-	<p>Sexual assault is a statutory offense that states that it is a crime to knowingly cause another person to engage in an unwanted sexual act by force or threat.<br> Many states have gone through and redefined rape with statutes that define sexual assault in different degrees. This means that sexual assault can be connected to rape, but with the revised version of rape not all sexual assault acts are included as a rape incident.<br><strong class="addItalic3"> To find out more details or specifics please visit your local legal associations or community resources.</strong></p>
+	<p>Sexual assault is a statutory offense that states that it is a crime to knowingly cause another person to engage in an unwanted sexual act by force or threat.<br> Many states have gone through and redefined rape with statutes that define sexual assault in different degrees. This means that sexual assault can be connected to rape, but with the revised version of rape not all sexual assault acts are included as a rape incident.<br><strong class="addItalic3"> <span class="vocabColor">To find out more details or specifics please visit your local legal associations or community resources.</span></strong></p>
 
 	<a NAME="sexual_violence_prevention"></a>
 	<hr />
@@ -231,20 +231,20 @@ members of the public that could be of assistance to the victim.<p>
 	<h3>What to do After Sexual Violence</h3>
 	<p>Unfortunately there are times that sexual violence cannot be avoided, in these instances there are steps one should take so that the victim gets taken care of with proper assistance:</p>
 	<ol>
-		<li><strong class="addItalic">Don’t blame yourself</strong>. The sexual violence was not your fault.</li>
+		<li><strong class="addItalic"><span class="listColor">Don’t blame yourself</span></strong>. The sexual violence was not your fault.</li>
 
-		<li><strong class="addItalic">Talk to an adult before going to a police station or hospital</strong>. If you don’t have an adult to talk to then go directly to the police station or hospital.</li>
+		<li><strong class="addItalic"><span class="listColor">Talk to an adult before going to a police station or hospital</span></strong>. If you don’t have an adult to talk to then go directly to the police station or hospital.</li>
 
-		<li><strong class="addItalic">Don’t urinate (pee) before getting help</strong>. Get a urine test as soon as possible. A urine test can tell if someone gave you a date rape drug. But these drugs can leave your system in as little as 12 hours.
+		<li><strong class="addItalic"><span class="listColor">Don’t urinate (pee) before getting help</span></strong>. Get a urine test as soon as possible. A urine test can tell if someone gave you a date rape drug. But these drugs can leave your system in as little as 12 hours.
 </li>
 
-		<li><strong class="addItalic">Don’t bathe, douche, or change clothes before getting help</strong>. Doing these things can remove possible evidence of the rape, such as semen (fluid from a man) or hair belonging to the person who assaulted you.</li>
+		<li><strong class="addItalic"><span class="listColor">Don’t bathe, douche, or change clothes before getting help</span></strong>. Doing these things can remove possible evidence of the rape, such as semen (fluid from a man) or hair belonging to the person who assaulted you.</li>
 
-		<li><strong class="addItalic">Get medical care right away</strong>. Tell the doctor or nurse if you think you were drugged. They will give you a urine test right away because date rape drugs leave your body quickly. You will also get a medical exam to make sure you don’t have other injuries. The doctor or nurse will test you for sexually transmitted diseases (STDs), including HIV/AIDS, and offer you emergency contraception to prevent pregnancy. If the doctor or nurse does not mention testing for STDs or emergency contraception, <strong class="addItalic">ask for them</strong>.</li>
+		<li><strong class="addItalic"><span class="listColor">Get medical care right away</span></strong>. Tell the doctor or nurse if you think you were drugged. They will give you a urine test right away because date rape drugs leave your body quickly. You will also get a medical exam to make sure you don’t have other injuries. The doctor or nurse will test you for sexually transmitted diseases (STDs), including HIV/AIDS, and offer you emergency contraception to prevent pregnancy. If the doctor or nurse does not mention testing for STDs or emergency contraception, <strong class="addItalic">ask for them</strong>.</li>
 
-		<li><strong class="addItalic">Get emotional support</strong>. You may feel terribly shocked, afraid, or even emotionally numb. Whatever you are feeling, talk to people who care about you. Get help from a mental health professional. The hospital usually can put you in touch with a counselor or support group. You can also talk with a hotline counselor.</li>
+		<li><strong class="addItalic"><span class="listColor">Get emotional support</span></strong>. You may feel terribly shocked, afraid, or even emotionally numb. Whatever you are feeling, talk to people who care about you. Get help from a mental health professional. The hospital usually can put you in touch with a counselor or support group. You can also talk with a hotline counselor.</li>
 
-		<li><strong class="addItalic">Talk to your parents or guardians</strong>. A counselor can help you talk with your parents or guardians. They may be upset, but that's just because they care about you, but support is still important in these cases and you deserve support from those close to you.</li>
+		<li><strong class="addItalic"><span class="listColor">Talk to your parents or guardians</span></strong>. A counselor can help you talk with your parents or guardians. They may be upset, but that's just because they care about you, but support is still important in these cases and you deserve support from those close to you.</li>
 	</ol>
 
 	<a NAME="sexual_violence_help"></a>
@@ -260,15 +260,15 @@ members of the public that could be of assistance to the victim.<p>
 		</div>
 
 		<div class="ch13RightH">
-			<p><strong class="addItalic">National Sexual Assault Hotline:</strong><br>1-800-656-HOPE (1-800-656-4673)</p>
+			<p><strong class="addItalic"><span class="vocabColor">National Sexual Assault Hotline:</span></strong><br>1-800-656-HOPE (1-800-656-4673)</p>
 
-			<p><strong class="addItalic">National Domestic Violence Hotline:</strong><br>1-800-799-SAFE ( 1-800-799-7233) or<br>1-800-787-3224 (TDD)</p>
+			<p><strong class="addItalic"><span class="vocabColor">National Domestic Violence Hotline:</span></strong><br>1-800-799-SAFE ( 1-800-799-7233) or<br>1-800-787-3224 (TDD)</p>
 
-			<p><strong class="addItalic">Girls and Boys Town National Hotline:</strong><br>1-800-448-3000 or<br>1-800-448-1833 (TDD)</p>
+			<p><strong class="addItalic"><span class="vocabColor">Girls and Boys Town National Hotline:</span></strong><br>1-800-448-3000 or<br>1-800-448-1833 (TDD)</p>
 		</div>
 	</div>
 
-	<p class="addItalic">You can also find local resources, including women's shelters or other services, through your local phone book, a religious center, your school counselor or nurse, or a doctor's office.</p>
+	<p class="addItalic"><span class="quote">You can also find local resources, including women's shelters or other services, through your local phone book, a religious center, your school counselor or nurse, or a doctor's office.</p>
 
 </div>
 
