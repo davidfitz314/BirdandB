@@ -90,10 +90,11 @@
 	
 	<div class="sectionContainer">
 	<!- Victorian Era image goes left of text ->
+	<hr />
 		<div class="ch11LeftV">
 			<img src="includes/images/chapter11/victorian.png" alt="Victorian Era styled shadow portraits">
 		</div>
-		<hr />
+		
 		<div class="ch11Right">
 			<a NAME="victorian_era"></a>
 			<h3>Victorian Era</h3>
