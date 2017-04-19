@@ -577,6 +577,10 @@ h3 {
 	margin-right: 20px;
 }
 
+.stayBlack {
+	color: black;
+}
+
 /*chapter 1 section*/
 .chapter1Text {
 	width: 75%;
