@@ -495,7 +495,7 @@ ul li {
 }
 
 h1, h2, h3, h4, h5, h6 {
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: "Open Sans";
 }
 
 h4 { 
@@ -575,6 +575,10 @@ h3 {
 	text-decoration:underline;
 	text-decoration-color: #D4316A;
 	margin-right: 20px;
+}
+
+.stayBlack {
+	color: black;
 }
 
 /*chapter 1 section*/
@@ -659,7 +663,7 @@ h3 {
 .weekNum {
 	text-align: left;
 	font-weight: bold;
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: "Open Sans";
 	margin: 0% 0% 0% 5%;
 	padding-top: .0%;
 }
@@ -1591,7 +1595,7 @@ h3 {
     z-index: 1;
 	  top: -18px;
 	  right: 10px;
-	  font-family: Arial, Helvetica, sans-serif;
+	  font-family: "Open Sans";
 }
 
 

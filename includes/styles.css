@@ -10,6 +10,7 @@ header {
 	/*border: 3px solid black;*/
 	/*padding: 10px;*/
     text-align: center;
+	font-family: "Times New Roman", Times, serif;
 }
 
 p {
@@ -495,7 +496,7 @@ ul li {
 }
 
 h1, h2, h3, h4, h5, h6 {
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: "Open Sans";
 }
 
 h4 { 
@@ -663,7 +664,7 @@ h3 {
 .weekNum {
 	text-align: left;
 	font-weight: bold;
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: "Open Sans";
 	margin: 0% 0% 0% 5%;
 	padding-top: .0%;
 }
@@ -1595,7 +1596,7 @@ h3 {
     z-index: 1;
 	  top: -18px;
 	  right: 10px;
-	  font-family: Arial, Helvetica, sans-serif;
+	  font-family: "Open Sans";
 }
 
 
