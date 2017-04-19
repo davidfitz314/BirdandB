@@ -102,7 +102,7 @@
 
 		</div>
 	</div>
-	<p class="ch11pushDown2">The women during this time were believed to not know much of sex and that they held no desire to have sex or sexual activities. To men the women were supposed to not be a sexual being, but merely a tool for reproduction. These strict views on gender and sex became what we now think of as the Victorian stereotype.</p>
+	<p class="ch11pushDown2"><br>The women during this time were believed to not know much of sex and that they held no desire to have sex or sexual activities. To men the women were supposed to not be a sexual being, but merely a tool for reproduction. These strict views on gender and sex became what we now think of as the Victorian stereotype.</p>
 
 	<div class="sectionContainer">
 	<!- prostitution section image goes right of text ->
@@ -192,7 +192,7 @@
 
 		</div>
 	</div>
-	<p class="ch11pushDown4">Masters and Johnson’s studies held a smaller demographic than the Kinsey reports, having their focus more based on white college students, but the statistical data became so popular that a TV series was released about them in 2013 titled “<i class="quote">The Masters of Sex</i>”.</p>
+	<p class="ch11pushDown4">Masters and Johnson’s studies held a smaller demographic than the Kinsey reports, having their focus more based on white college students, but the statistical data became so popular that a TV series was released about them in 2013 titled “<i class="vocabColor">The Masters of Sex</i>”.</p>
 
 	<!- image goes above text ->
 	<div class="ch11ImagesB">
@@ -200,7 +200,7 @@
 	</div>
 
 	<h3>Other Revolutionary Items</h3>
-	</p>A few other US sexual revolutionary items were the invention of penicillin (which allowed for cures of certain STIs/STDs), Feminism during the early 60’s, Freudian's school (where they focused on sex as the ultimate drive for humans), and books like “Mead’s Coming of Age in Samoa” which discusses important psychological changes in human biology, and erotic novels becoming more and more popular.</p>
+	</p>A few other US sexual revolutionary items were the invention of penicillin (which allowed for cures of certain STIs/STDs), Feminism during the early 60’s, Freudian's school (where they focused on sex as the ultimate drive for humans), and books like “<span class="vocabColor">Mead’s Coming of Age in Samoa</span>” which discusses important psychological changes in human biology, and erotic novels becoming more and more popular.</p>
 
 </div>
 
