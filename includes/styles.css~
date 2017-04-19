@@ -479,19 +479,26 @@ ul li::before {
 ul.closedCircle li::before {
 	list-style-type: none;
 	content: "• ";
-  color: #D4316A;
+	color: #D4316A;
 	
 }
 
 ul.openCircle li::before {
 	list-style-type: none;
 	content: "• ";
-  color: #D4316A;
+	color: #D4316A;
 
 }
 
 ol {
-	
+	list-style-type: none;
+}
+
+ol li::before {
+	content: "• ";
+	color: #D4316A;
+	margin-left: -16px;
+	padding-right: 5px;
 }
 
 .addItalic {
@@ -629,6 +636,10 @@ hr {
 
 .quote {
 	color: #F06492;
+}
+
+.vocabColor {
+	color: #9E244E;
 }
 
 /*chapter 1 section*/

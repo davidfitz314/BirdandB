@@ -479,19 +479,28 @@ ul li::before {
 ul.closedCircle li::before {
 	list-style-type: none;
 	content: "• ";
-  color: #D4316A;
-	
+	color: #D4316A;
+	margin-left: -16px;
+	padding-right: 5px;	
 }
 
 ul.openCircle li::before {
 	list-style-type: none;
 	content: "• ";
-  color: #D4316A;
-
+	color: #D4316A;
+	margin-left: -16px;
+	padding-right: 5px;
 }
 
 ol {
-	
+	list-style-type: none;
+}
+
+ol li::before {
+	content: "• ";
+	color: #D4316A;
+	margin-left: -16px;
+	padding-right: 5px;
 }
 
 .addItalic {

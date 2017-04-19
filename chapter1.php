@@ -36,8 +36,8 @@
 	<h3>Chapters Overview</h3>
 	<p>Human sexuality from a biological, psychological, and educational perspective.</p>
 	<p>A place where all types of people can come and learn the basics about life’s most confusing and hard to talk about questions.</p>
-	<p>“<i>A library is a place where you can lose your innocence without losing your virginity.</i>” ― Germaine Greer</p>
-	<p>“<i>I knew I was different. I thought that I might be gay or something because I couldn't identify with any of the guys at all. None of them liked art or music. They just wanted to fight and get laid. It was many years ago but it gave me this real hatred for the average American macho male.</i>” ― Kurt Cobain</p>
+	<p><i class="quote">“A library is a place where you can lose your innocence without losing your virginity.”</i> ― Germaine Greer</p>
+	<p><i class="quote">“I knew I was different. I thought that I might be gay or something because I couldn't identify with any of the guys at all. None of them liked art or music. They just wanted to fight and get laid. It was many years ago but it gave me this real hatred for the average American macho male.”</i> ― Kurt Cobain</p>
 
 
 	<div class="sectionContainer">
