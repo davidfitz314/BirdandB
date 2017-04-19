@@ -63,9 +63,9 @@
 	<a NAME="human_nature"></a>
 	<hr />
 	<h3>Human Nature</h3>
-	<p>Human nature is defined as: referring to distinguishing characteristics of thinking feeling and acting. “I think, therefore I am” is a famous saying from the philosopher Rene Descartes, it is used often in the study of the mind but came into western culture as a building block for foundation of knowledge in the face of doubt. It describes human thoughts as always looking for a foundation to build upon and trying hard to resist the doubts from the inner and outer self.</p>
-	<p>Human nature deals with emotions as a core foundation point for thoughts and actions. How you feel decides what actions you take, Tracee Ellis Ross an American Actress once said “I need to see my own beauty and to continue to be reminded that I am enough, that I am worthy of love without effort, that I am beautiful, that the texture of my hair and that the shape of my curves, the size of my lips, the color of my skin, and the feelings that I have are all worthy and okay.” Her point shows that without positive emotions it was hard to continue to act when it came to love.</p>
-	<p>Human nature also closely studies the actions taken by humans, Mahatma Gandhi an Indian civil rights leader and well-known figure for peace once said “Your beliefs become your thoughts, Your thoughts become your words, Your words become your actions, Your actions become your habits, Your habits become your values, Your values become your destiny.” This shows that after your emotions and thoughts come together they become words and actions which tells the world who you are.</p>
+	<p>Human nature is defined as: referring to distinguishing characteristics of thinking feeling and acting. <span class="quote">“I think, therefore I am”</span> is a famous saying from the philosopher Rene Descartes, it is used often in the study of the mind but came into western culture as a building block for foundation of knowledge in the face of doubt. It describes human thoughts as always looking for a foundation to build upon and trying hard to resist the doubts from the inner and outer self.</p>
+	<p>Human nature deals with emotions as a core foundation point for thoughts and actions. How you feel decides what actions you take, Tracee Ellis Ross an American Actress once said <span class="quote">“I need to see my own beauty and to continue to be reminded that I am enough, that I am worthy of love without effort, that I am beautiful, that the texture of my hair and that the shape of my curves, the size of my lips, the color of my skin, and the feelings that I have are all worthy and okay.”</span> Her point shows that without positive emotions it was hard to continue to act when it came to love.</p>
+	<p>Human nature also closely studies the actions taken by humans, Mahatma Gandhi an Indian civil rights leader and well-known figure for peace once said <span class="quote">“Your beliefs become your thoughts, Your thoughts become your words, Your words become your actions, Your actions become your habits, Your habits become your values, Your values become your destiny.”</span> This shows that after your emotions and thoughts come together they become words and actions which tells the world who you are.</p>
 
 <!- interesting fact goes here ->
 <div class="ch1num1">
@@ -80,9 +80,9 @@
 	<h3>Emotions</h3>
 	<p>It is currently believed that humans have 4 to 8 base emotions that when combined make up all known emotions. A famous psychologist Robert Plutchik after many years of study put together the Plutchik Model for emotions, which is commonly used today. The model consists of 8 different emotions &mdash;Disgust, Anger, Anticipation, Joy, Acceptance, Fear, Surprise, and Sadness.&mdash; and how they combine with the emotions closest to them:</p>
 	<ul class="solidCircle">
-		<li>Disgust: combines with Anger to create Contempt or combines with Sadness to create Remorse.</li>
+		<li><span class="vocabColor">Disgust:</span> combines with Anger to create Contempt or combines with Sadness to create Remorse.</li>
 
-		<li>Anger: combines with Anticipation to create Aggressiveness or combines with disgust to create Contempt.</li>
+		<li><span class="vocabColor">Anger:</span> combines with Anticipation to create Aggressiveness or combines with disgust to create Contempt.</li>
 
 <!- interesting fact goes here ->
 <div class="ch1num1">
