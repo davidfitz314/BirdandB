@@ -120,7 +120,7 @@
 	<h3>Who is Having Sex?</h3>
 	<p>In many cultures sex is a less talked about or even taboo subject. However, in the U.S.A area a few studies have been published showing the results of who is having sex. The information below is from the <a href="https://www.kinseyinstitute.org/" target="_blank">Kinsey Institute</a>, but for a more worldwide perspective the <a href="https://www.guttmacher.org/" target="_blank">GuttMacher Institute</a> also has some studies on sex and sexual matters.</p>
 
-	<p>According to the Kinsey Institute studies statistics for:</p>
+	<p><strong class="vocabColor">According to the Kinsey Institute studies statistics for:</strong></p>
 	
 	<h5 class="addItalic">Sexual Behavior</h5>
 	<ul class="solidCitcle">
