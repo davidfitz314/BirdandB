@@ -205,11 +205,11 @@
 	<p>After talking to a doctor to find out ways to manage an STI there are a few steps people can go about to keeping the love and sex life intact.</p>
 
 	<ul class="closedCircle">
-		<li><strong class="addItalic">First,</strong> It’s easier to talk to your partners about STD/HIV after you’ve come to terms with it yourself. Give yourself time to work through it. If you are well informed and know the facts about STDs or HIV, you’ll be more confident and at-ease when discussing the situation. You can always call 1-800-CDC-INFO (1-800-232-4636) to talk to someone personally and to get brochures and information to give your partners.</li>
+		<li><strong class="addItalic"><span class="listColor">First</span>,</strong> It’s easier to talk to your partners about STD/HIV after you’ve come to terms with it yourself. Give yourself time to work through it. If you are well informed and know the facts about STDs or HIV, you’ll be more confident and at-ease when discussing the situation. You can always call 1-800-CDC-INFO (1-800-232-4636) to talk to someone personally and to get brochures and information to give your partners.</li>
 		
-		<li><strong class="addItalic">Second,</strong> it is important to talk to your family and significant others. To do this some people test the waters using role-play and hypothetical situations while others just dive straight in and tell them. It is important to remember that while some may have strong adverse reactions there are many others who will give support instead.</li>
+		<li><strong class="addItalic"><span class="listColor">Second</span>,</strong> it is important to talk to your family and significant others. To do this some people test the waters using role-play and hypothetical situations while others just dive straight in and tell them. It is important to remember that while some may have strong adverse reactions there are many others who will give support instead.</li>
 
-		<li><strong class="addItalic">Third,</strong> <span class="addItalic">overcoming rejection</span>. This problem can be from an outside source or just inside of the person. Rejection is never easy to handle and while some people will reject you for your condition, the others who truly love and support you will never reject you.With this step you should find out who rejects you and let them go from your life. If you are rejecting yourself, then instead try joining a support group who will help you see the beautiful person that you still are.</li>
+		<li><strong class="addItalic"><span class="listColor">Third</span>,</strong> <span class="addItalic">overcoming rejection</span>. This problem can be from an outside source or just inside of the person. Rejection is never easy to handle and while some people will reject you for your condition, the others who truly love and support you will never reject you.With this step you should find out who rejects you and let them go from your life. If you are rejecting yourself, then instead try joining a support group who will help you see the beautiful person that you still are.</li>
 	</ul>
 
 	<div class="ch10ImagesMW">
@@ -220,9 +220,9 @@
 	<p class="addItalic">If notifying your partners is too hard, there are ways to notify your partners anonymously about your STI.</p>
 	
 	<ul class="closedCircle">
-		<li><strong class="addItalic">Third Party Partner Notification:</strong> This service offered at most public health clinics, has trained health workers notify your partners regarding their possible exposure to HIV infection without ever identifying you. For local testing and notification services, visit <a href="http://www.hivtest.org" target="_blank">www.hivtest.org</a></li>
+		<li><strong class="addItalic"><span class="vocabColor">Third Party Partner Notification:</span></strong> This service offered at most public health clinics, has trained health workers notify your partners regarding their possible exposure to HIV infection without ever identifying you. For local testing and notification services, visit <a href="http://www.hivtest.org" target="_blank">www.hivtest.org</a></li>
 
-		<li><strong class="addItalic">INSPOT:</strong> An internet service to notify your sexual partners online that they may have been exposed to HIV or an STD. It's free and anonymous. No information is reported to any government or private agency. <a href="http://www.inspot.org" target="_blank">www.inspot.org</a></li>		
+		<li><strong class="addItalic"><span class="vocabColor">INSPOT:</span></strong> An internet service to notify your sexual partners online that they may have been exposed to HIV or an STD. It's free and anonymous. No information is reported to any government or private agency. <a href="http://www.inspot.org" target="_blank">www.inspot.org</a></li>		
 	</ul>	
 	
 	<h4 class="addItalic">Legal Responsibilities for STI Victims</h4>

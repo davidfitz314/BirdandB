@@ -80,9 +80,9 @@ People can love:</p>
 		<img src="includes/images/chapter7/love.PNG" alt="Heart on a clothesline">
 	</div>
 
-	<p>The famous author of children’s books Dr. Seuss once described love as “<i>You know you're in love when you can't fall asleep because reality is finally better than your dreams.</i>”</p>
+	<p>The famous author of children’s books Dr. Seuss once described love as <i class="quote">“You know you're in love when you can't fall asleep because reality is finally better than your dreams.”</i></p>
 
-	<p>Even William Shakespeare had love in his life, in his work a Midsummer Night’s Dream: “<i>Love looks not with the eyes, but with the mind, and therefore is winged Cupid painted blind.</i>”</p>
+	<p>Even William Shakespeare had love in his life, in his work a Midsummer Night’s Dream: <i class="quote">“Love looks not with the eyes, but with the mind, and therefore is winged Cupid painted blind.”</i></p>
 
 	<p>One thing about love is people are always getting it mixed up with sexual feelings or acts, and while love can make sex better the two are not the same.</p>
 
@@ -106,11 +106,11 @@ People can love:</p>
 	<p>Few people understand the differences between sex and love at first, but the ones who do, describe it as:</p>
 
 	<ul class="closedCircle">
-		<li>“<i>Sex without love is as hollow and ridiculous as love without sex.</i>” ― Hunter S. Thompson</li>
+		<li><i class="quote">“Sex without love is as hollow and ridiculous as love without sex.”</i> ― Hunter S. Thompson</li>
 
-		<li>“<i>Sex is an emotion in motion.</i>” ― Mae West</li>
+		<li><i class="quote">“Sex is an emotion in motion.”</i> ― Mae West</li>
 
-		<li>“<i>We waste time looking for the perfect lover, instead of creating the perfect love.</i>” ― Tom Robbins</li>
+		<li><i class="quote">“We waste time looking for the perfect lover, instead of creating the perfect love.”</i> ― Tom Robbins</li>
 	</ul>
 
 	<p>To summarize both love and sex can be an amazing feeling by themselves, but when one can have both sex and love, the two will enhance each other greatly, making them stronger for those involved.</p>

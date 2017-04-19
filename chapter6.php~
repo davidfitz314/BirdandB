@@ -83,7 +83,7 @@
 	<a NAME="sexual_preference"></a>
 	<hr />
 	<h3>Sexual Preference</h3>
-	<p><span class="vocabColor">Sexual preference<span>, also known as <span class="vocabColor">sexual orientation</span>, is a repeating pattern of romantic, sexual attraction, or a mix of the two to people of the opposite sex or gender, to both sexes, or more than one gender. These attractions are generally included under <span class="vocabColor">heterosexuality</span>, <span class="vocabColor">homosexuality</span>, and <span class="vocabColor">bisexuality</span>, while <span class="vocabColor">asexuality</span> &mdash;the lack of sexual attraction to others&mdash; is only occasionally identified as a fourth category.</p>
+	<p><span class="vocabColor">Sexual preference</span>, also known as <span class="vocabColor">sexual orientation</span>, is a repeating pattern of romantic, sexual attraction, or a mix of the two to people of the opposite sex or gender, to both sexes, or more than one gender. These attractions are generally included under <span class="vocabColor">heterosexuality</span>, <span class="vocabColor">homosexuality</span>, and <span class="vocabColor">bisexuality</span>, while <span class="vocabColor">asexuality</span> &mdash;the lack of sexual attraction to others&mdash; is only occasionally identified as a fourth category.</p>
 
 	<div class="ch6ImagesB">
 		<img src="includes/images/chapter6/searching.png" alt="Magnifying glass over a hart shape">
@@ -92,7 +92,7 @@
 	<h5>Genders</h5>
 	<p>The state of being male or female, these are usually used in reference to social and cultural differences instead of the biological ones.</p>
 
-	<p><span class="vocabColor">Genders</span> are a choice in the way that if people feel they are more feminine than masculine even though they were born with the biological traits of a male, they may choose to change their gender as a part of their sexual identity. While many may wish to identify as a different gender than the one they were born with physically, remember that society still holds norms and laws related to the biological gender. However, there are options out there to modify the biological gender into what the person feels more comfortable with.</p>
+	<p>Genders are a choice in the way that if people feel they are more feminine than masculine even though they were born with the biological traits of a male, they may choose to change their gender as a part of their sexual identity. While many may wish to identify as a different gender than the one they were born with physically, remember that society still holds norms and laws related to the biological gender. However, there are options out there to modify the biological gender into what the person feels more comfortable with.</p>
 
 	<h5>Sex</h5>
 	<p>In relation towards biology, <span class="vocabColor">sex</span> is the reproductive organs that people are born with. It consists of three categories Males with XY chromosomes, Females with XX chromosomes, or Transgendered which can be a mixture of different chromosomes other than the common male and female pattern for chromosomes. For more information on Sex in regards to sexual activity please see <a href="chapter5.php">Chapter 5: What is Sex</a>.</p>

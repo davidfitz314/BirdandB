@@ -89,7 +89,7 @@ People can love:</p>
 	<h4>Defining Sex in comparison to love</h4>
 	<p>Sex is sexual activity, specifically including sexual intercourse. While sex can be an act of love, sex by itself is a separate group of hormones and emotions.</p>
 
-	<p>When one loves someone they may express it sexually, sensually (to arouse gratification of the senses &mdash;smell, touch, sight, etc&mdash; by giving them pleasure.) or in other ways that show love. A few of these ways are:</p>
+	<p>When one loves someone they may express it sexually, <span class="vocabColor">sensually</span> (to arouse gratification of the senses &mdash;smell, touch, sight, etc&mdash; by giving them pleasure.) or in other ways that show love. A few of these ways are:</p>
 
 	<ul class="closedCircle">
 		<li>Giving someone flowers, this is a sensual way to express love.</li>

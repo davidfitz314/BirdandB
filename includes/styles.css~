@@ -480,14 +480,16 @@ ul.closedCircle li::before {
 	list-style-type: none;
 	content: "• ";
 	color: #D4316A;
-	
+	margin-left: -16px;
+	padding-right: 5px;	
 }
 
 ul.openCircle li::before {
 	list-style-type: none;
 	content: "• ";
 	color: #D4316A;
-
+	margin-left: -16px;
+	padding-right: 5px;
 }
 
 ol {
@@ -960,7 +962,7 @@ hr {
 }
 
 .ch8ImagesC img {
-	width: 50%;
+	width: 30%;
 	height: auto;
 }
 

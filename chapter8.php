@@ -196,7 +196,7 @@
 
 		<li>In Egyptian folklore the world was created by the god Atum during masturbation.</li>
 
-		<li>A “blended” orgasm is an orgasm that occurs when two or three regions of the genital area have been stimulated. An example, for females the vagina is mainly connected to the pelvic nerves, and the clitoris to the pudendal nerves stimulating both at the same time can give a blended orgasm.</li>
+		<li>A “<span class="vocabColor">blended</span>” orgasm is an orgasm that occurs when two or three regions of the genital area have been stimulated. An example, for females the vagina is mainly connected to the pelvic nerves, and the clitoris to the pudendal nerves stimulating both at the same time can give a blended orgasm.</li>
 	</ul>
 
 </div>
