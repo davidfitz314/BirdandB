@@ -508,6 +508,7 @@ h5 {
 
 h2 {
 	font-size: 150%;
+	color: #293273;
 }
 
 h3 {
@@ -572,7 +573,7 @@ h3 {
 
 .colorChange {
 	text-decoration:underline;
-	text-decoration-color: blue;
+	text-decoration-color: #D4316A;
 	margin-right: 20px;
 }
 

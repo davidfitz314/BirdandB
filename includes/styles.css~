@@ -571,6 +571,7 @@ h3 {
 }
 
 .colorChange {
+	text-decoration:underline;
 	text-decoration-color: blue;
 	margin-right: 20px;
 }
