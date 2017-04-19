@@ -5,7 +5,9 @@
 
 <!- navigation side bar ->
 <nav class="floating-menu">
+<div class="colorChange">
 <strong><a href="chapter1.php"><u>Chapter 1:</u></a></strong>
+</div>
 <strong><a href="chapter2.php">ch2: &nbsp;&nbsp;Conception</a></strong>
 <strong><a href="chapter3.php">ch3: &nbsp;&nbsp;Human Body Development</a></strong>
 <strong><a href="chapter4.php">ch4: &nbsp;&nbsp;Human Nature and <br><span class="indent">Psychological Dependencies</span></a></strong>

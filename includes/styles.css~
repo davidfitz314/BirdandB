@@ -571,7 +571,7 @@ h3 {
 }
 
 .colorChange {
-	text-decoration-color: #F5F5F5;
+	text-decoration-color: blue;
 	margin-right: 20px;
 }
 

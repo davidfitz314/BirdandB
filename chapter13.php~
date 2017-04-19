@@ -15,11 +15,12 @@
 <strong><a href="chapter7.php">ch7: Love vs Sex</a></strong>
 <strong><a href="chapter8.php">ch8: Orgasm</a></strong>
 <strong><a href="chapter9.php">ch9: Staying Safe During Sex</a></strong>
-<strong><a href="chapter10.php">ch10: Sexually Transmitted Infections-STDs</a></strong>
-<strong><a href="chapter11.php">ch11: Human Sexuality in the World</a></strong>
+<strong><a href="chapter10.php">ch10: Sexually Transmitted <br><span class="indent">Infections-STDs</span></a></strong>
+<strong><a href="chapter11.php">ch11: Human Sexuality in the <br><span class="indent">World</span></a></strong>
 <strong><a href="chapter12.php">ch12: Kinks and Fetishes</a></strong>
-
+<div class="colorChange">
 <a href="chapter13.php"><strong>Chapter 13:</strong></a>
+</div>
 <ul>
 <li>
 <a href="#what_is_sexual_harassment">What is Sexual Harassment</a>
