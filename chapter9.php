@@ -132,7 +132,7 @@
 
 		<li>Emergency Contraceptives.</li>
 		<ul class="openCircle">
-			<li class="addItalic"><strong>Example:</strong> Plan B pill.</li>
+			<li class="addItalic"><strong><span class="vocabColor">Example:</strong> Plan B pill.</span></li>
 		</ul>
 
 		<li>Sterilization</li>
@@ -187,7 +187,7 @@
 			<li>Relax and get into a comfortable position in preparation for placing the condom inside of the vagina.</li>
 
 			<ul class="openCircle">
-				<li class="addItalic">The female condom already comes lubricated but many still add even more lubricant or even a physician approved spermicide.</li>
+				<li class="addItalic"><span class="quote">The female condom already comes lubricated but many still add even more lubricant or even a physician approved spermicide.</span></li>
 			</ul>
 
 			<li>Squeeze together the sides of the inner ring at the closed end of the condom and then slide the inner ring into the vagina.</li>
@@ -210,7 +210,7 @@
 	</div>
 	
 	<div class="tabbedSpecial">
-		<p class="addItalic">These are simplified instructions for spermicide for more details please read the instructions that come with your product.</p>
+		<p class="addItalic"><span class="quote">These are simplified instructions for spermicide for more details please read the instructions that come with your product.</span></p>
 		<ol>
 			<li>Check the expiration date and then open the cap of the spermicide.</li>
 
@@ -234,7 +234,7 @@
 		<ol>
 			<li>Prior to ejaculation remove the penis completely from the vagina.</li>
 			<ul class="openCircle">
-				<li class="addItalic">This method is only recommended for males who can clearly understand when they are about to ejaculate and can control themselves enough to leave the vagina at the correct moment.</li>
+				<li class="addItalic"><span class="quote">This method is only recommended for males who can clearly understand when they are about to ejaculate and can control themselves enough to leave the vagina at the correct moment.</span></li>
 			</ul>
 		</ol>
 	</div>
