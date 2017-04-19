@@ -68,16 +68,16 @@
 	<h3>Types of Sex</h3>
 	<p>There are many different types of sex and sexual activities. While the most generally accepted is heterosexual sex (male and female sex), the others are also quite common in today's world even if they are not as talked about openly. The following list is a few of the most common types of sex:</p>
 	<ul class="solidCircle">
-		<li><strong>Vaginal Sex:</strong> commonly referred to as heterosexual sex, is the act of a penis entering the vagina.</li>
+		<li><strong class="vocabColor">Vaginal Sex:</strong> commonly referred to as heterosexual sex, is the act of a penis entering the vagina.</li>
 
-		<li><strong>Anal Sex:</strong> The stimulation or penetration of the anus by another person.</li>
+		<li><strong class="vocabColor">Anal Sex:</strong> The stimulation or penetration of the anus by another person.</li>
 	<!- Interesting Fact goes here ->
 		
-		<li><strong>Oral Sex:</strong> The stimulation of sexual organs by use of another person’s mouth or tongue.</li>
+		<li><strong class="vocabColor">Oral Sex:</strong> The stimulation of sexual organs by use of another person’s mouth or tongue.</li>
 
-		<li><strong>Sex Toys:</strong> The act of using an object on sexual organs to produce climax in sexual response.</li>
+		<li><strong class="vocabColor">Sex Toys:</strong> The act of using an object on sexual organs to produce climax in sexual response.</li>
 
-		<li><strong>Penetrative Sex:</strong> When something goes inside someone else’s body, this includes objects, genitalia, and other body parts entering another’s body.</li>
+		<li><strong class="vocabColor">Penetrative Sex:</strong> When something goes inside someone else’s body, this includes objects, genitalia, and other body parts entering another’s body.</li>
 	</ul>
 	<!- Interesting Fact goes here ->
 
@@ -89,15 +89,15 @@
 
 	<hr />
 	<h3>Sexual Activities</h3>
-	<p>Sex is not only Penetrative into another’s body, it can be divided into acts which involve one person, also called autoeroticism (the sexual gratification obtained solely through stimulation by oneself of one's own body.), two or more people having sex or mutual masturbation, or if there are more than two participants in the sex act it may be referred to as group sex.</p>
+	<p>Sex is not only Penetrative into another’s body, it can be divided into acts which involve one person, also called <span class="vocabColor">autoeroticism</span> (the sexual gratification obtained solely through stimulation by oneself of one's own body.), two or more people having sex or <span class="vocabColor">mutual masturbation</span>, or if there are more than two participants in the sex act it may be referred to as <span class="vocabColor">group sex</span>.</p>
 
-	<p><strong class="addItalic">Sexual activity</strong> is slightly different than sex because it can be classified into sexual orientations, relationships, and genders of the participants. A quick look at how they categorize sexual activity is listed below:</p>
+	<p><strong class="addItalic"><span class="vocabColor">Sexual activity<span></strong> is slightly different than sex because it can be classified into <span class="vocabColor">sexual orientations</span>, <span class="vocabColor">relationships</span>, and <span class="vocabColor">genders</span> of the participants. A quick look at how they categorize sexual activity is listed below:</p>
 	<ul class="solidCircle">
-		<li>Sexual orientations can include same sex, opposite sex biology, object sex, and any other attraction that leads to sexual activity based on looks.</li>
+		<li><span class="vocabColor">Sexual orientations</span> can include same sex, opposite sex biology, object sex, and any other attraction that leads to sexual activity based on looks.</li>
 
-		<li>Relationships can include marriages, intimate partners, casual sex partners, or anonymous.</li>
+		<li><span class="vocabColor">Relationships</span> can include marriages, intimate partners, casual sex partners, or anonymous.</li>
 
-		<li>Gender of the participants usually goes along with sexual orientations, but they exclude objects. For example, gender of participants can be into same sex biologically but exclude the use of objects in their activities.</li>
+		<li><span class="vocabColor">Gender</span> of the participants usually goes along with sexual orientations, but they exclude objects. For example, gender of participants can be into same sex biologically but exclude the use of objects in their activities.</li>
 	<!- Interesting Fact goes here ->
 	</ul>
 
