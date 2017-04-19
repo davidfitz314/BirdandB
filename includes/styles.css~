@@ -1589,7 +1589,7 @@ h3 {
 .tooltip .tooltiptext {
     visibility: hidden;
     width: 400px;
-    background-color: #FFD700;
+    background-color: #7990C9;
     color: black;
     text-align: center;
     border-radius: 6px;
