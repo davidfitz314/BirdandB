@@ -113,9 +113,10 @@
 			<h4 class="addItalic">Prostitution</h4>
 			<p>Prostitutes were quite common, the women engaged in these acts would be considered lower class. Men of this time flocked towards prostitutes, to help alleviate the sexual frustrations that built up inside of them. This was due to men valuing their wives as high quality non sexual beings and prostitutes as lower class tools.</p>
 		</div>
+<hr />
 	</div>
 
-	<hr />
+	
 	<!- China image goes above text banner style ->
 	<div class="ch11Images">
 		<a NAME="china"></a>
