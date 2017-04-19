@@ -437,6 +437,11 @@ ul.floating-menu {
 	font-size: 95%;
 }
 
+.floating-menu li {
+	display: flex;
+	margin-left: -5px;
+}
+
 
 .expandtest {
 	height: 900px;
@@ -620,6 +625,10 @@ hr {
 	margin-bottom:-20px;
 	text-decoration-color: #7990C9;
 	color: #7990C9;
+}
+
+.quote {
+	color: #F06492;
 }
 
 /*chapter 1 section*/

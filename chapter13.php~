@@ -54,6 +54,7 @@
 	<h2>Chapter 13: </h2>
 
 	<a NAME="what_is_sexual_harassment"></a>
+	<hr />
 	<h3>What is Sexual Harassment?</h3>
 	</p>Sexual Harassment is very different from sexual assault, but the two do relate to each other. Sexual harassment is a form of gender discrimination that involves unwelcome sexual advances, sexualized jokes or comments, requests for sexual favors, and other verbal or physical conduct of a sexual nature.</p>
 
@@ -105,6 +106,7 @@
 	<p>These statistics show that both biological genders experience sexual harassment, but barely half of them know what to do about it or where they can go to find out more information. While many companies are progressively pushing to have better policies to cover this problem, it still requires each person to help. If you or someone you know has been sexually harassed or assaulted please document it, and report it to the proper authorities (police, human resources, etc...) and then follow up on it. Only by doing this can sexual harassment and assault be stopped</p>
 
 	<a NAME="what_is_sexual_assualt"></a>
+	<hr />
 	<h3>What is Sexual Assault &amp; Rape?</h3>
 	<p><strong class="addItalic">Sexual Assault</strong> has many aspects and can also be referred to as <strong class="addItalic">sexual violence</strong>. It is defined as any unwanted sexual contact from another party, this includes but is not limited to kissing, touching, groping, molestation, and penetration or rape. <strong class="addItalic">Sexual assault</strong> is different from <strong class="addItalic">sexual harassment</strong> as sexual assault requires a physical contact between 2 parties, where as sexual harassment doesn’t require physical contact but can include it. Sexual assault refers to: rape, forcible sodomy (oral or anal sex), and other unwanted sexual contact that is aggravated, abusive or wrongful, or even attempting to commit any of these acts. Sexual assault has no age limits, there have been many cases where children and elderly have been sexually assaulted.</p>
 
@@ -155,6 +157,7 @@
 	<p>Sexual assault is a statutory offense that states that it is a crime to knowingly cause another person to engage in an unwanted sexual act by force or threat.<br> Many states have gone through and redefined rape with statutes that define sexual assault in different degrees. This means that sexual assault can be connected to rape, but with the revised version of rape not all sexual assault acts are included as a rape incident.<br><strong class="addItalic3"> To find out more details or specifics please visit your local legal associations or community resources.</strong></p>
 
 	<a NAME="sexual_violence_prevention"></a>
+	<hr />
 	<h3>Sexual Violence Prevention</h3>
 	<p>There are many potential places for sexual violence, the most common to least common according to <a href="https://www.rainn.org/" target="_blank">rainn.org (a website dedicated to sexual assault and awareness)</a> are:</p>
 
@@ -224,6 +227,7 @@ members of the public that could be of assistance to the victim.<p>
 	</div>
 
 	<a NAME="what_to_do_after_sexual_violence"></a>
+	<hr />
 	<h3>What to do After Sexual Violence</h3>
 	<p>Unfortunately there are times that sexual violence cannot be avoided, in these instances there are steps one should take so that the victim gets taken care of with proper assistance:</p>
 	<ol>
@@ -244,6 +248,7 @@ members of the public that could be of assistance to the victim.<p>
 	</ol>
 
 	<a NAME="sexual_violence_help"></a>
+	<hr />
 	<h3>Sexual Violence Help</h3>
 	<p>There are free hotlines that you can call 24 hours a day to get help if you have been sexually assaulted or if you need advice on how to leave an unhealthy relationship.</p>
 

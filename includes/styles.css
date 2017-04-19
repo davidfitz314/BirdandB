@@ -627,6 +627,14 @@ hr {
 	color: #7990C9;
 }
 
+.quote {
+	color: #F06492;
+}
+
+.vocabColor {
+	color: #9E244E;
+}
+
 /*chapter 1 section*/
 .chapter1Text {
 	width: 75%;

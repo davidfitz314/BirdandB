@@ -135,7 +135,7 @@
 		<img src="includes/images/chapter11/equality.png" alt="Words saying Equality">
 	</div>
 
-	<p>Li believes that one of the main driving forces for changing the attitudes towards sex, is the Communist Party’s one-child policy which was enforced from 1979 to 2015. <i>"The one-child policy allows people to have one or two kids only. So unless you give up sex afterwards you are changing your purpose of having sex. Having sex for pleasure gets justified too."</i> -Li Tinhe</p>
+	<p>Li believes that one of the main driving forces for changing the attitudes towards sex, is the Communist Party’s one-child policy which was enforced from 1979 to 2015. <i class="quote">"The one-child policy allows people to have one or two kids only. So unless you give up sex afterwards you are changing your purpose of having sex. Having sex for pleasure gets justified too."</i> -Li Tinhe</p>
 
 	<hr />
 	<div class="sectionContainer">
@@ -147,7 +147,7 @@
 		<div class="ch11Right">
 			<a NAME="united_states"></a>
 			<h3>United States</h3>
-			</p>According to many experts the US’s thoughts about sexuality comes from the “<i>repressive hypothesis</i>” which claims that the history of sexuality over the past 300 years has been a history of repression. Sex for anything other than reproduction is a large taboo. Many experts say that the only way to liberate the US from this repression, is to be more open about discussing sex, embracing sexuality, and enjoying it in general.</p>
+			</p>According to many experts the US’s thoughts about sexuality comes from the “<i class="quote">repressive hypothesis</i>” which claims that the history of sexuality over the past 300 years has been a history of repression. Sex for anything other than reproduction is a large taboo. Many experts say that the only way to liberate the US from this repression, is to be more open about discussing sex, embracing sexuality, and enjoying it in general.</p>
 		</div>
 	</div>
 
@@ -192,7 +192,7 @@
 
 		</div>
 	</div>
-	<p class="ch11pushDown4">Masters and Johnson’s studies held a smaller demographic than the Kinsey reports, having their focus more based on white college students, but the statistical data became so popular that a TV series was released about them in 2013 titled “<i>The Masters of Sex</i>”.</p>
+	<p class="ch11pushDown4">Masters and Johnson’s studies held a smaller demographic than the Kinsey reports, having their focus more based on white college students, but the statistical data became so popular that a TV series was released about them in 2013 titled “<i class="quote">The Masters of Sex</i>”.</p>
 
 	<!- image goes above text ->
 	<div class="ch11ImagesB">
