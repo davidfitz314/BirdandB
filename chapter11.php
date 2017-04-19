@@ -120,13 +120,13 @@
 	<!- China image goes above text banner style ->
 	<div class="ch11Images">
 		
-
+		<hr />
 		<img src="includes/images/chapter11/chinese.png" alt="Chinese shadow couple drinking tea and doing martial arts">
 
 	<a NAME="china"></a>
 	</div>
 	
-<hr />
+
 	<h3>China</h3>
 	<p>Currently China is in what experts call a sexual revolution, according to many this started just over 20 years ago. China’s first female sexologist Li Tinhe, is carefully observing and recording the current sexual revolution in China.</p>
 
