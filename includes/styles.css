@@ -21,14 +21,13 @@ p {
 	text-align: justify;
 	margin: auto;
 	width: 80%;
-    list-style-type: none;
-	padding: 10px;
-
+  list-style-type: none;
 }
 
 .navi li {
 	list-style-type: none;
 	display: inline;
+	margin-left: -15px;
 }
 
 .cNavi {
@@ -464,18 +463,21 @@ ul li::before {
 	list-style-type: none;
 	content: "• ";
 	color: #D4316A;
+	margin-left: -15px;
 }
 
 ul.closedCircle li::before {
 	list-style-type: none;
 	content: "• ";
   	color: #D4316A;
+	margin-left: -15px;
 }
 
 ul.openCircle li::before {
 	list-style-type: none;
 	content: "• ";
   	color: #D4316A;
+	margin-left: -15px;
 }
 
 .addItalic {
@@ -1650,6 +1652,7 @@ hr {
         width: 100%;
     }
 }
+
 
 
 

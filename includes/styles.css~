@@ -417,6 +417,7 @@ footer a:hover {
 	line-height: 125%;
 	text-align:left;
 	left: 14%;
+	list-style-type: none;
 }
 
 .floating-menu a, 
