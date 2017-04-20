@@ -648,6 +648,10 @@ hr {
 	color: #D4316A;
 }
 
+.shrinkText {
+	font-size:75%;
+}
+
 /*chapter 1 section*/
 .chapter1Text {
 	width: 75%;
