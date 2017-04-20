@@ -250,12 +250,12 @@
 
 
 	<a NAME="abstinence"></a>
-	<hr />
+	
 	<div class="ch9Images">
 		<img src="includes/images/chapter9/ring.png" alt="Pure by choice ring">
 	</div>
 
-	
+	<hr />
 	<h3>Abstinence</h3>
 	<p>Abstinence is a valid way to protect oneself from STI’s and pregnancy. Abstinence is the practice of restraining oneself from indulging in something.</p>
 

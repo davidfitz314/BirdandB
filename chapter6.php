@@ -5,7 +5,6 @@
 
 <!- navigation side bar ->
 <nav class="floating-menu">
-<h2>Chapter 6: Sexuality</h2>
 <strong><a href="chapter1.php">ch1: &nbsp;&nbsp;Overview</a></strong>
 <strong><a href="chapter2.php">ch2: &nbsp;&nbsp;Conception</a></strong>
 <strong><a href="chapter3.php">ch3: &nbsp;&nbsp;Human Body Development</a></strong>
@@ -127,7 +126,7 @@
 		<img src="includes/images/chapter6/bodyLanguage.png" alt="Multiple people showing body language while talking">
 	</div>
 
-	<h5>Around the World Preferences<p class="shrinktext"> (based on information gathered by Dailymail.com, FoxHoundStudio.com, Cosmopolitan and more... for full documentation of sources provided here please see Chapter 15 References and Works Cited. )<p></h5>
+	<h5>Around the World Preferences<p class="shrinkText"> (based on information gathered by Dailymail.com, FoxHoundStudio.com, Cosmopolitan and more... for full documentation of sources provided here please see Chapter 15 References and Works Cited. )<p></h5>
 
 	<h5>Male sexual preference for females</h5>
 	<ul class="closedCircle">

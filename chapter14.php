@@ -5,7 +5,6 @@
 
 <!- navigation side bar ->
 <nav class="floating-menu">
-<h2>Chapter 14: Works Cited and External Resources</h2>
 <strong><a href="chapter1.php">ch1: &nbsp;&nbsp;Overview</a></strong>
 <strong><a href="chapter2.php">ch2: &nbsp;&nbsp;Conception</a></strong>
 <strong><a href="chapter3.php">ch3: &nbsp;&nbsp;Human Body Development</a></strong>

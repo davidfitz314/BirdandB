@@ -648,6 +648,10 @@ hr {
 	color: #D4316A;
 }
 
+.shrinkText {
+	font-size:75%;
+}
+
 /*chapter 1 section*/
 .chapter1Text {
 	width: 75%;
@@ -1686,6 +1690,23 @@ hr {
     .centered-wrapper {
         width: 100%;
     }
+}
+
+@media only screen and (min-width: 1720px) {
+    /* For big screens: */
+
+	.cHeadCells {
+	text-align: left;
+	float:left;
+	padding-top: 5%;
+	margin-left: 1.5%;
+	}
+
+	.searchBarC {
+	float: right;
+	margin-top: 4.3%;
+	margin-right: 16%;
+	}
 }
 
 

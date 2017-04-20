@@ -62,7 +62,7 @@
 	</div>
 
 	<h4>How Common are Fetishes?</h4>
-	<p class="addItalic">According to a survey done by Ann Summers in the UK approximately 75% of people have at least one fetish.<br>In an article from Women’s Health by Debra W. Soh, the amount of people with a fetish is 1 in 6. While more stats on sexual fetishes may be hard to find, the Mark Allen Thorton blog published a statistic evaluating the authors of over 2900 books, and graphed them out based on the age group focuses the books were written for. In his studies fetishes were common and varied by different age groups.</p>
+	<p class="addItalic"><span class="quote">According to a survey done by Ann Summers in the UK approximately 75% of people have at least one fetish.<br>In an article from Women’s Health by Debra W. Soh, the amount of people with a fetish is 1 in 6. While more stats on sexual fetishes may be hard to find, the Mark Allen Thorton blog published a statistic evaluating the authors of over 2900 books, and graphed them out based on the age group focuses the books were written for. In his studies fetishes were common and varied by different age groups.</span></p>
 
 	<a NAME="common_fetishes_and_kinks"></a>
 	<hr />
