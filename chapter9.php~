@@ -132,7 +132,7 @@
 
 		<li>Emergency Contraceptives.</li>
 		<ul class="openCircle">
-			<li class="addItalic"><strong>Example:</strong> Plan B pill.</li>
+			<li class="addItalic"><strong><span class="vocabColor">Example:</strong> Plan B pill.</span></li>
 		</ul>
 
 		<li>Sterilization</li>
