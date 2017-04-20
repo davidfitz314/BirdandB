@@ -237,11 +237,11 @@
 	<p class="tabbedch10">So the best thing to do to avoid breaking the law is before the sexual act (which could transmit the infection) is to tell your partner.</p>
 
 	<a NAME="preventing_STIs"></a>
-	<hr />
+
 	<div class="ch10ImagesMW">
 		<img src="includes/images/chapter10/super.png" alt="Super condom with cape">
 	</div>
-
+	<hr />
 	<h3>Preventing STIs</h3>
 	<p>The best way to prevent getting an STI is to not have sex. Some STIs can’t be cured, so if you are going to have sex you should always practice safer sex, or find ways to be intimate in a romantic relationship without having sex. This means preventing the passing of body fluids such as blood, semen, and vaginal fluids, and avoiding direct oral, anal, or genital contact (by using a latex condom).</p>
 	
@@ -270,11 +270,12 @@
 	</ul>
 
 	<a NAME="helpful_links"></a>
-	<hr />
+
 	<div class="ch10Images">
 		<img src="includes/images/chapter10/helpingHands.png" alt="Two hands shaking and grasping each other">
 	</div>
 
+	<hr />
 	<h3>Helpful Links</h3>
 	<h4 class="addItalic">Support Group Links</h4>
 	<div class="tabbedch10p2">
