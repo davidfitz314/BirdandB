@@ -50,7 +50,7 @@
 <!- chapter text division ->
 <div class="chapter11Text">
 <br>
-<h2>Chapter 11: Human Sexuality in the World</h2>
+<h2>CHAPTER 11: HUMAN SEXUALITY IN THE WORLD</h2>
 	<p>Human sexuality has changed many times over the centuries, from praising sex as being it’s own god or creating the universe, to shunning it in the hopes it would disappear. Humanity has changed its stance on sex many times, always jumping back and forth on how they wish to view it.</p>
 
 

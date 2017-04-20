@@ -32,7 +32,7 @@
 <!- chapter text division ->
 <div class="chapter14Text">
 <br>
-<h2>Chapter 14: Works Cited &amp; References</h2>
+<h2>CHAPTER 14: WORKS CITED &amp; REFERENCES</h2>
 	<div class="sectionContainer">
 		<div class="ch14group1">
 			<p>"A Statistical Portrait of a Generation". (n.d.). Retrieved March 11, 2017, from http://karmak.org/archive/2002/10/portrait.html</p>

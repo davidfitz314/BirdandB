@@ -50,7 +50,7 @@
 <!- chapter text division ->
 <div class="chapter8Text">
 <br>
-<h2>Chapter 8: Orgasm</h2>
+<h2>CHAPTER 8: ORGASM</h2>
 	</p>The orgasm: a moment in time where sexual excitement climaxes with feelings of pleasure centered from the genitals. With males, orgasm is accompanied by an ejaculatory response, but that is only a basic description of orgasm. There is much more going on that most overlook. Below is a more in-depth review of what is happening for both biological males and females during orgasm.</p>
 	
 	<a NAME="male_physical_reactions"></a>

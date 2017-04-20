@@ -44,7 +44,7 @@
 <!- chapter text division ->
 <div class="chapter12Text">
 <br>
-<h2>Chapter 12: Kinks and Fetishes</h2>
+<h2>CHAPTER 12: KINKS &amp; FETISHES</h2>
 
 	<a NAME="what_is_a_fetish"></a>
 	<hr />

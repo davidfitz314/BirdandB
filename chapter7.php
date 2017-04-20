@@ -50,7 +50,7 @@
 <!- chapter text division ->
 <div class="chapter7Text">
 <br>
-<h2>Chapter 7: Love vs Sex</h2>
+<h2>CHAPTER 7: LOVE VS SEX</h2>
 
 	<a NAME="defining_love"></a>
 	<hr />

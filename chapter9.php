@@ -47,7 +47,7 @@
 <!- chapter text division ->
 <div class="chapter2Text">
 <br>
-<h2>Chapter 9: Staying Safe During Sex</h2>
+<h2>CHAPTER 9: STAYING SAFE DURING SEX</h2>
 	<a NAME="safe_sex"></a>
 	<hr />
 	<h3>Safe Sex</h3>

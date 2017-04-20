@@ -47,7 +47,7 @@
 <!- chapter text division ->
 <div class="chapter5Text">
 <br>
-	<h2>Chapter 5: What is Sex?</h2>
+	<h2>CHAPTER 5: WHAT IS SEX?</h2>
 	<a NAME="defining_sex"></a>
 	<hr />
 	<h3>Defining Sex</h3>

@@ -47,7 +47,7 @@
 <!- chapter text division ->
 <div class="chapter10Text">
 <br>
-<h2>Chapter 10: Sexually Transmitted Infections-STDs</h2>
+<h2>CHAPTER 10: SEXUALLY TRANSMITTED INFECTIONS -STDs</h2>
 	<h3>About STIs and STDs</h3>
 	</p>STI is the abbreviation of sexually transmitted infection. The term only recently became more popular as the previous term STD - sexually transmitted disease (which means the same thing) caused turmoil in public.</p>
 

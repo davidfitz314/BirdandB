@@ -44,7 +44,7 @@
 <!- chapter text division ->
 <div class="chapter6Text">
 <br>
-<h2>Chapter 6: Sexuality</h2>
+<h2>CHAPTER 6: SEXUALITY</h2>
 
 	<a NAME="sexual_identity"></a>
 	<hr />

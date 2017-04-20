@@ -50,7 +50,7 @@
 <!- chapter text division ->
 <div class="chapter13Text">
 <br>
-	<h2>Chapter 13: </h2>
+	<h2>CHAPTER 13: SEXUAL HARASSMENT, ASSAULT, &amp; RAPE</h2>
 
 	<a NAME="what_is_sexual_harassment"></a>
 	<hr />
