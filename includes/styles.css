@@ -1692,22 +1692,6 @@ hr {
     }
 }
 
-@media only screen and (min-width: 1720px) {
-    /* For big screens: */
-
-	.cHeadCells {
-	text-align: left;
-	float:left;
-	padding-top: 5%;
-	margin-left: 2.5%;
-	}
-
-	.searchBarC {
-	float: right;
-	margin-top: 4.3%;
-	margin-right: 18%;
-	}
-}
 
 
 
