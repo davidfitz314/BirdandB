@@ -826,12 +826,12 @@ hr {
 
 .chapter5Text a:link {
 	text-decoration: none;
-	color: black;
+	color: inherit;
 }
 
 .chapter5Text a:visited {
 	text-decoration: none;
-	color: black;
+	color: inherit;
 }
 
 

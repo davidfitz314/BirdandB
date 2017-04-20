@@ -644,6 +644,10 @@ hr {
 	color: #9E244E;
 }
 
+.listColor {
+	color: #D4316A;
+}
+
 /*chapter 1 section*/
 .chapter1Text {
 	width: 75%;
@@ -822,7 +826,7 @@ hr {
 
 .chapter5Text a:link {
 	text-decoration: none;
-	color: black;
+	color: inherit;
 }
 
 .chapter5Text a:visited {
