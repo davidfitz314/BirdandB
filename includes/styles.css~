@@ -1691,6 +1691,42 @@ hr {
     }
 }
 
+@media only screen and (max-width: 1024px) {
+    /* For smaller screens */
+	.floating-menu {
+		font-family: sans-serif;
+		/*border: solid black;*/
+		right: 80%;
+		padding-bottom: 5px;
+		width: 280px;
+		z-index: 100;
+		position: fixed;
+		line-height: 125%;
+		text-align:left;
+	}
+
+	.searchBarC {
+		float: right;
+		margin-top: 7%;
+		margin-right: 0%;
+	}
+	
+	.cLogo {
+		min-width: 200px;
+		min-height: 115px;
+		float:left;
+		background-image: url("images/logo.png");
+		background-repeat: no-repeat;
+		background-size: contain;
+		height: 115px;
+		width: 200px;
+		text-align: left;
+		line-height: 100%;
+		margin-left: 1%;
+}
+    
+}
+
 @media only screen and (max-width: 1440px) {
     /* For smaller screens */
 	.floating-menu {
@@ -1707,11 +1743,12 @@ hr {
 
 	.searchBarC {
 		float: right;
-		margin-top: 6.7%;
+		margin-top: 7%;
 		margin-right: 16%;
-	}
+  }
     
 }
+
 
 
 
