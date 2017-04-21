@@ -1698,7 +1698,7 @@ hr {
 		/*border: solid black;*/
 		right: 80%;
 		padding-bottom: 5px;
-		width: 280px;
+		width: 200px;
 		z-index: 100;
 		position: fixed;
 		line-height: 125%;
@@ -1748,6 +1748,7 @@ hr {
   }
     
 }
+
 
 
 

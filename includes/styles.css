@@ -1727,7 +1727,7 @@ hr {
     
 }
 
-@media only screen and (max-width: 1440px) {
+@media only screen and (max-width: 1439px) {
     /* For smaller screens */
 	.floating-menu {
 		font-family: sans-serif;
@@ -1746,8 +1746,30 @@ hr {
 		margin-top: 7%;
 		margin-right: 16%;
   }
+	
+	.cLogo {
+	min-width: 200px;
+	min-height: 115px;
+	float:left;
+	background-image: url("images/logo.png");
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 115px;
+	width: 200px;
+	text-align: left;
+	line-height: 100%;
+	margin-left: 11%;
+}
+
+.cHeadCells {
+	text-align: left;
+	float:left;
+	padding-top: 7.5%;
+	margin-left: 7%;
+}
     
 }
+
 
 
 
