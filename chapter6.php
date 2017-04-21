@@ -51,13 +51,7 @@
 	<h3>Sexual Identity</h3>
 	</p>Each person has a sexual identity, it can come from a person’s capacity for sexual feelings, their sexual orientation or preference, and their sexual activity. Even those with low or even no sexual feelings have a sexual identity.</p>
 
-<!- interesting fact goes here ->
-<div class="ch1num1">
-	<div class="tooltip">
-  		<span class="tooltiptext"><strong>Interesting Fact:</strong> Homosexuality is related to the structure of the brain—for example, research finds that it is associated with the degree of symmetry of the left and right hemispheres, as well as the number of nerve connections in the amygdala, a brain structure that plays an important role in the processing of emotional information.</span>
-	</div>
-</div>
-<!- end interesting fact section ->
+
 
 	<p>While many do not know what their sexual identity is, one can begin to understand it by trying a few of the steps below:</p>
 
@@ -74,6 +68,14 @@
 		<ul class="openCircle">
 			<li class="quote">Do you like males, females, trans, others?</li>
 		</ul>
+
+<!- interesting fact goes here ->
+<div class="ch1num1">
+	<div class="tooltip">
+  		<span class="tooltiptext"><strong>Interesting Fact:</strong> Homosexuality is related to the structure of the brain—for example, research finds that it is associated with the degree of symmetry of the left and right hemispheres, as well as the number of nerve connections in the amygdala, a brain structure that plays an important role in the processing of emotional information.</span>
+	</div>
+</div>
+<!- end interesting fact section ->
 
 		<li>Sixth learn about your sexual preferences that others would call kinks or fetishes.</li>
 		<ul class="openCircle">
