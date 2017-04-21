@@ -212,6 +212,14 @@
 		<li>It is possible to experience both genital and non-genital orgasm, even for some individuals with spinal cord injuries. (Functional MRI of the brain during orgasm in women, 2005).</li>
 	</ul>
 
+	<!- interesting fact goes here ->
+	<div class="ch1num1">
+		<div class="tooltip">
+	  		<span class="tooltiptext"><strong>Interesting Fact:</strong> Some penguins engage in prostitution, researchers have repeatedly observed female penguins exchanging sexual favors with male penguins that aren’t their mates in exchange for pebbles they will use to build nests for their babies (BBC news).</span>
+		</div>
+	</div>
+	<!- end interesting fact section ->
+
 	<h5 class="addItalic">Sexual Orientation</h5>
 	<ul class="solidCitcle">
 		<li>An estimated 3.5% of adults in the United States identify as lesbian, gay, or bisexual.</li>
@@ -228,13 +236,7 @@
 		<li>In a national study, 14% of people reported having used a sexually explicit website. Additionally, 25% of men reported visiting a pornographic site in the previous 30 days; and 4% of women reported visiting pornographic sites in the same timeframe.</li>
 	</ul>
 
-	<!- interesting fact goes here ->
-	<div class="ch1num1">
-		<div class="tooltip">
-	  		<span class="tooltiptext"><strong>Interesting Fact:</strong> Some penguins engage in prostitution, researchers have repeatedly observed female penguins exchanging sexual favors with male penguins that aren’t their mates in exchange for pebbles they will use to build nests for their babies (BBC news).</span>
-		</div>
-	</div>
-	<!- end interesting fact section ->
+
 
 	<p class="quote">For more statistical information on sexuality, sex, or love please visit the <a href="https://www.kinseyinstitute.org/" target="_blank">Kinsey Institute</a> or <a heref="https://www.guttmacher.org/" target="_blank">GuttMacher Institute</a>. They are both dedicated to providing data in a well-balanced format for most cultures.</p>
 

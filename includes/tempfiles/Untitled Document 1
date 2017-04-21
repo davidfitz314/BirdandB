@@ -35,7 +35,7 @@ removed references
 <!- interesting fact goes here ->
 <div class="ch1num1">
 	<div class="tooltip">
-  		<span class="tooltiptext">Interesting Fact: </span>
+  		<span class="tooltiptext"><strong>Interesting Fact:</strong> </span>
 	</div>
 </div>
 <!- end interesting fact section ->

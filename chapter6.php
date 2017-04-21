@@ -51,6 +51,14 @@
 	<h3>Sexual Identity</h3>
 	</p>Each person has a sexual identity, it can come from a person’s capacity for sexual feelings, their sexual orientation or preference, and their sexual activity. Even those with low or even no sexual feelings have a sexual identity.</p>
 
+<!- interesting fact goes here ->
+<div class="ch1num1">
+	<div class="tooltip">
+  		<span class="tooltiptext"><strong>Interesting Fact:</strong> Homosexuality is related to the structure of the brain—for example, research finds that it is associated with the degree of symmetry of the left and right hemispheres, as well as the number of nerve connections in the amygdala, a brain structure that plays an important role in the processing of emotional information.</span>
+	</div>
+</div>
+<!- end interesting fact section ->
+
 	<p>While many do not know what their sexual identity is, one can begin to understand it by trying a few of the steps below:</p>
 
 	<ol>
@@ -84,6 +92,14 @@
 	<h3>Sexual Preference</h3>
 	<p><span class="vocabColor">Sexual preference</span>, also known as <span class="vocabColor">sexual orientation</span>, is a repeating pattern of romantic, sexual attraction, or a mix of the two to people of the opposite sex or gender, to both sexes, or more than one gender. These attractions are generally included under <span class="vocabColor">heterosexuality</span>, <span class="vocabColor">homosexuality</span>, and <span class="vocabColor">bisexuality</span>, while <span class="vocabColor">asexuality</span> &mdash;the lack of sexual attraction to others&mdash; is only occasionally identified as a fourth category.</p>
 
+<!- interesting fact goes here ->
+<div class="ch1num1">
+	<div class="tooltip">
+  		<span class="tooltiptext"><strong>Interesting Fact:</strong> Gay parents do not have a tendency to raise gay children. In fact, children raised by gay parents are no more likely to be gay themselves relative to children raised by heterosexual parents. <span class="shrinkText">(Fitzgerald, B. 1999)</span></span>
+	</div>
+</div>
+<!- end interesting fact section ->
+
 	<div class="ch6ImagesB">
 		<img src="includes/images/chapter6/searching.png" alt="Magnifying glass over a hart shape">
 	</div>
@@ -92,6 +108,14 @@
 	<p>The state of being male or female, these are usually used in reference to social and cultural differences instead of the biological ones.</p>
 
 	<p>Genders are a choice in the way that if people feel they are more feminine than masculine even though they were born with the biological traits of a male, they may choose to change their gender as a part of their sexual identity. While many may wish to identify as a different gender than the one they were born with physically, remember that society still holds norms and laws related to the biological gender. However, there are options out there to modify the biological gender into what the person feels more comfortable with.</p>
+
+<!- interesting fact goes here ->
+<div class="ch1num1">
+	<div class="tooltip">
+  		<span class="tooltiptext"><strong>Interesting Fact:</strong> Records of same-sex relationships have been found in nearly every culture throughout history with varying degrees of acceptance.</span>
+	</div>
+</div>
+<!- end interesting fact section ->
 
 	<h5>Sex</h5>
 	<p>In relation towards biology, sex is the reproductive organs that people are born with. It consists of three categories Males with XY chromosomes, Females with XX chromosomes, or Transgendered which can be a mixture of different chromosomes other than the common male and female pattern for chromosomes. For more information on Sex in regards to sexual activity please see <a href="chapter5.php">Chapter 5: What is Sex</a>.</p>
@@ -122,11 +146,23 @@
 		<!- include bulleted list ->
 	</ul>
 
+<!- interesting fact goes here ->
+<div class="ch1num1">
+	<div class="tooltip">
+  		<span class="tooltiptext"><strong>Interesting Fact:</strong> In the US there was a analysis of woman using the ancient Greeks ‘Golden Ratio’ for proportions and some of the results were: <ul>
+	<li>Johnny Depp’s estranged wife Amber Heard has the most perfect balanced/beautiful face.</li>
+	<li>Kim Kardashian came in second place according to the mapping system.</li>
+	<li>Kate Moss was third place, but was credited with a perfect forehead.</li>
+	</ul></span>
+	</div>
+</div>
+<!- end interesting fact section ->
+
 	<div class="ch6Images">
 		<img src="includes/images/chapter6/bodyLanguage.png" alt="Multiple people showing body language while talking">
 	</div>
 
-	<h5>Around the World Preferences<p class="shrinkText"> (based on information gathered by Dailymail.com, FoxHoundStudio.com, Cosmopolitan and more... for full documentation of sources provided here please see Chapter 15 References and Works Cited. )<p></h5>
+	<h5>Around the World Preferences<p class="shrinkText"> <span class="quote">(based on information gathered by Dailymail.com, FoxHoundStudio.com, Cosmopolitan and more... for full documentation of sources provided here please see Chapter 15 References and Works Cited. )</span><p></h5>
 
 	<h5>Male sexual preference for females</h5>
 	<ul class="closedCircle">

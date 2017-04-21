@@ -152,7 +152,7 @@ BabyCenter, L.L.C.</p>
 		</div>
 
 		<div class="ch14group2">
-			<p>Fetish. (n.d.). Retrieved February 16, 2017, from https://www.merriam-webster.com/dictionary/fetish</p>
+			<p>Fitzgerald, B. (1999). Children of lesbian and gay parents: A review of the literature. Marriage and Family Review, 29, 57-75.</p>
 		</div>
 
 		<div class="ch14group3">
