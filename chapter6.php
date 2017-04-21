@@ -129,6 +129,18 @@
 
 	<p><strong class="addItalic"><span class="vocabColor">Local sexual attraction</span></strong> changes by region, but can follow a similar pattern, below is a list of items that are considered locally sexually attractive.</p>
 
+<!- interesting fact goes here ->
+<div class="ch1num1">
+	<div class="tooltip">
+  		<span class="tooltiptext"><strong>Interesting Fact:</strong> In the US there was a analysis of woman using the ancient Greeks ‘Golden Ratio’ for proportions and some of the results were: <ul>
+	<li>Johnny Depp’s estranged wife Amber Heard has the most perfect balanced/beautiful face.</li>
+	<li>Kim Kardashian came in second place according to the mapping system.</li>
+	<li>Kate Moss was third place, but was credited with a perfect forehead.</li>
+	</ul></span>
+	</div>
+</div>
+<!- end interesting fact section ->
+
 	<h5>Body, body language and behavior for the U.S.</h5>
 	<ul class="closedCircle">
 		<li>Be flirtatious, bold, break the ice and make eye contact.</li>
@@ -144,21 +156,10 @@
 		<li>The body type most preferred by women for men to have is fit but not bulky.</li>
 
 		<li>Body types most preferred by men for women to have are curvy, athletic, and slim body type.</li>
-	<!- Interesting Fact goes here ->
+
 		<!- include bulleted list ->
 	</ul>
 
-<!- interesting fact goes here ->
-<div class="ch1num1">
-	<div class="tooltip">
-  		<span class="tooltiptext"><strong>Interesting Fact:</strong> In the US there was a analysis of woman using the ancient Greeks ‘Golden Ratio’ for proportions and some of the results were: <ul>
-	<li>Johnny Depp’s estranged wife Amber Heard has the most perfect balanced/beautiful face.</li>
-	<li>Kim Kardashian came in second place according to the mapping system.</li>
-	<li>Kate Moss was third place, but was credited with a perfect forehead.</li>
-	</ul></span>
-	</div>
-</div>
-<!- end interesting fact section ->
 
 	<div class="ch6Images">
 		<img src="includes/images/chapter6/bodyLanguage.png" alt="Multiple people showing body language while talking">
