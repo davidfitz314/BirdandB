@@ -80,7 +80,7 @@
 <!- interesting fact goes here ->
 <div class="ch1num1">
 	<div class="tooltip">
-  		<span class="tooltiptext"><strong>Interesting Fact:</strong> according to statistics educated white women are more likely to engage in anal sex than any other group.(Karmak.org)</span>
+  		<span class="tooltiptext"><strong>Interesting Fact:</strong> While many people believe there are only a few different positions for sex, there are in fact over hundreds of different positions. A commonly used reference for these positions is the Kama Sutra and Ancient Indian Text originally written about love, but later new versions focused more on the physical acts of sex instead.</span>
 	</div>
 </div>
 <!- end interesting fact section ->
@@ -92,13 +92,15 @@
 		<li><strong class="vocabColor">Penetrative Sex:</strong> When something goes inside someone else’s body, this includes objects, genitalia, and other body parts entering another’s body.</li>
 	</ul>
 
-<!- interesting fact goes here ->
-<div class="ch1num1">
-	<div class="tooltip">
-  		<span class="tooltiptext"><strong>Interesting Fact:</strong> While many people believe there are only a few different positions for sex, there are in fact over hundreds of different positions. A commonly used reference for these positions is the Kama Sutra and Ancient Indian Text originally written about love, but later new versions focused more on the physical acts of sex instead.</span>
+
+	<!- interesting fact goes here ->
+	<div class="ch1num1">
+		<div class="tooltip">
+	  		<span class="tooltiptext"><strong>Interesting Fact:</strong> according to statistics educated white women are more likely to engage in anal sex than any other group.(Karmak.org)</span>
+		</div>
 	</div>
-</div>
-<!- end interesting fact section ->
+	<!- end interesting fact section ->
+
 
 	<a NAME="sexual_activities"></a>
 	<!- Insert Image Here ->
