@@ -407,14 +407,14 @@ footer a:hover {
 .floating-menu {
 	font-family: sans-serif;
 	/*border: solid black;*/
-	margin-right: 25px;
+	right: 66%;
 	padding-bottom: 5px;
 	width: 280px;
 	z-index: 100;
 	position: fixed;
 	line-height: 125%;
 	text-align:left;
-	left: 14%;
+
 }
 
 .floating-menu a, 
@@ -1690,6 +1690,7 @@ hr {
         width: 100%;
     }
 }
+
 
 
 

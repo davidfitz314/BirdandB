@@ -57,14 +57,14 @@ p {
 	width: 200px;
 	text-align: left;
 	line-height: 100%;
-	margin-left: 16.5%;
+	margin-left: 13%;
 }
 
 .cHeadCells {
 	text-align: left;
 	float:left;
 	padding-top: 7%;
-	margin-left: 1.5%;
+	margin-left: 5%;
 }
 
 .cHeadCells a {
@@ -407,7 +407,7 @@ footer a:hover {
 .floating-menu {
 	font-family: sans-serif;
 	/*border: solid black;*/
-	right: 65%;
+	right: 66%;
 	padding-bottom: 5px;
 	width: 280px;
 	z-index: 100;
