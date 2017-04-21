@@ -54,8 +54,14 @@
 	</p>Sex is either of the two major forms of individuals that occur in many species that are distinguished respectively as female or male especially on the basis of their reproductive organs and structures. -Merriam Webster.</p>
 	
 	<p>Sex is also a term used to describe the action of reproduction in species regardless of gender, but the technical word for sex actions is Sexual Intercourse. The most common type of sexual intercourse is heterosexual Intercourse, also known as the act of penetration of the vagina by a penis. </p>
-	<!- Interesting Fact goes here ->
-
+	
+<!- interesting fact goes here ->
+<div class="ch1num1">
+	<div class="tooltip">
+  		<span class="tooltiptext"><strong>Interesting Fact:</strong> Intercourse by itself is defined as physical sexual contact between individuals that involves the genitalia of at least one person (Merriam Webster) and doesn’t require penetration of a male’s member into the female. This is where most sexual acts get categorized when there is no goal for reproduction.</span>
+	</div>
+</div>
+<!- end interesting fact section ->
 
 	<a NAME="types_of_sex"></a>
 	<!- Insert Image Here ->
@@ -70,7 +76,14 @@
 		<li><strong class="vocabColor">Vaginal Sex:</strong> commonly referred to as heterosexual sex, is the act of a penis entering the vagina.</li>
 
 		<li><strong class="vocabColor">Anal Sex:</strong> The stimulation or penetration of the anus by another person.</li>
-	<!- Interesting Fact goes here ->
+
+<!- interesting fact goes here ->
+<div class="ch1num1">
+	<div class="tooltip">
+  		<span class="tooltiptext"><strong>Interesting Fact:</strong> according to statistics educated white women are more likely to engage in anal sex than any other group.(Karmak.org)</span>
+	</div>
+</div>
+<!- end interesting fact section ->
 		
 		<li><strong class="vocabColor">Oral Sex:</strong> The stimulation of sexual organs by use of another person’s mouth or tongue.</li>
 
@@ -78,7 +91,14 @@
 
 		<li><strong class="vocabColor">Penetrative Sex:</strong> When something goes inside someone else’s body, this includes objects, genitalia, and other body parts entering another’s body.</li>
 	</ul>
-	<!- Interesting Fact goes here ->
+
+<!- interesting fact goes here ->
+<div class="ch1num1">
+	<div class="tooltip">
+  		<span class="tooltiptext"><strong>Interesting Fact:</strong> While many people believe there are only a few different positions for sex, there are in fact over hundreds of different positions. A commonly used reference for these positions is the Kama Sutra and Ancient Indian Text originally written about love, but later new versions focused more on the physical acts of sex instead.</span>
+	</div>
+</div>
+<!- end interesting fact section ->
 
 	<a NAME="sexual_activities"></a>
 	<!- Insert Image Here ->
@@ -97,7 +117,15 @@
 		<li><span class="vocabColor">Relationships</span> can include marriages, intimate partners, casual sex partners, or anonymous.</li>
 
 		<li><span class="vocabColor">Gender</span> of the participants usually goes along with sexual orientations, but they exclude objects. For example, gender of participants can be into same sex biologically but exclude the use of objects in their activities.</li>
-	<!- Interesting Fact goes here ->
+	
+	<!- interesting fact goes here ->
+	<div class="ch1num1">
+		<div class="tooltip">
+	  		<span class="tooltiptext"><strong>Interesting Fact:</strong> Straight men search for images of penises online almost as much as they do vaginas, but it is unclear at this time if it is due to homoerotic tendencies or just a comparison of their own genitalia with another's.</span>
+		</div>
+	</div>
+	<!- end interesting fact section ->
+
 	</ul>
 
 	<!- Insert Image Here ->
@@ -128,7 +156,15 @@
 		<li>71% considered performing oral sex to be "sex".</li>
 
 		<li>80.8% considered anal-genital intercourse to be "sex".</li>
-	<!- Interesting Fact goes here ->
+
+	<!- interesting fact goes here ->
+	<div class="ch1num1">
+		<div class="tooltip">
+	  		<span class="tooltiptext"><strong>Interesting Fact:</strong> One out of every ten European babies is conceived on an IKEA bed.</span>
+		</div>
+	</div>
+	<!- end interesting fact section ->
+
 	</ul>
 
 	<h5 class="addItalic">Age &amp; Sexual Activity</h5>
@@ -151,7 +187,14 @@
 	<h5 class="addItalic">Masturbation</h5>
 	<ul class="solidCitcle">
 		<li>More than half of women ages 18 to 49 reported masturbating during the previous 90 days. Rates were highest among those 25-29 and progressively lesser in older age groups (National Survey of Sexual Health and Behavior, 2010).</li>
-	<!- Interesting Fact goes here ->
+
+	<!- interesting fact goes here ->
+	<div class="ch1num1">
+		<div class="tooltip">
+	  		<span class="tooltiptext"><strong>Interesting Fact:</strong> Masturbation is known to help cure depression as the release of emotions and hormones when orgasm is reached to put your mind at ease, and make you more comfortable with your own body.</span>
+		</div>
+	</div>
+	<!- end interesting fact section ->
 
 		<li>Approximately one-third of women in all relationships in the 60 to 69-year cohort reported recent masturbation (National Survey of Sexual Health and Behavior, 2010).</li>
 	</ul>
@@ -182,7 +225,14 @@
 
 		<li>In a national study, 14% of people reported having used a sexually explicit website. Additionally, 25% of men reported visiting a pornographic site in the previous 30 days; and 4% of women reported visiting pornographic sites in the same timeframe.</li>
 	</ul>
-	<!- Interesting Fact goes here ->
+
+	<!- interesting fact goes here ->
+	<div class="ch1num1">
+		<div class="tooltip">
+	  		<span class="tooltiptext"><strong>Interesting Fact:</strong> Some penguins engage in prostitution, researchers have repeatedly observed female penguins exchanging sexual favors with male penguins that aren’t their mates in exchange for pebbles they will use to build nests for their babies (BBC news).</span>
+		</div>
+	</div>
+	<!- end interesting fact section ->
 
 	<p class="quote">For more statistical information on sexuality, sex, or love please visit the <a href="https://www.kinseyinstitute.org/" target="_blank">Kinsey Institute</a> or <a heref="https://www.guttmacher.org/" target="_blank">GuttMacher Institute</a>. They are both dedicated to providing data in a well-balanced format for most cultures.</p>
 
