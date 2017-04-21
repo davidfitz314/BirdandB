@@ -206,7 +206,7 @@ p {
 
 .single1chap p, .single2chap p, .single3chap p, .single4chap p, .single5chap p, .single6chap p, .single7chap p, .single8chap p, .single9chap p, .single10chap p, .single11chap p, .single12chap p, .single13chap p, .single14chap p {
 	padding: 10px;
-	border: solid black;
+	/*border: solid black;*/
 	margin-left: 10px;
 	margin-right: 10px;
 	height: 100px;
@@ -1666,7 +1666,7 @@ hr {
     width: 400px;
     background-color: #7990C9;
     color: white;
-    text-align: center;
+    text-align: left;
     border-radius: 6px;
     padding: 5px;
 
