@@ -1691,6 +1691,28 @@ hr {
     }
 }
 
+@media only screen and (max-width: 1440px) {
+    /* For smaller screens */
+	.floating-menu {
+		font-family: sans-serif;
+		/*border: solid black;*/
+		right: 68%;
+		padding-bottom: 5px;
+		width: 280px;
+		z-index: 100;
+		position: fixed;
+		line-height: 125%;
+		text-align:left;
+	}
+
+	.searchBarC {
+		float: right;
+		margin-top: 7%;
+		margin-right: 16%;
+}
+    
+}
+
 
 
 
