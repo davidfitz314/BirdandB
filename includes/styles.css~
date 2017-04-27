@@ -891,6 +891,7 @@ hr {
 
 .smalleWhite a{
 	color: white;
+	text-decoration: none;
 }
 
 /* chapter 7 section */
