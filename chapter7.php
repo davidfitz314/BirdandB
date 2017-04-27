@@ -57,6 +57,15 @@
 	<h3>Defining Love</h3>
 	</p>Love can be; an intense feeling of deep affection, something one has a great interest and pleasure in, or just something one likes very much but still gets pleasure from.
 People can love:</p>
+
+<!- interesting fact goes here ->
+<div class="ch1num1">
+	<div class="tooltip">
+  		<span class="tooltiptext"><strong>Interesting Fact:</strong> According to Nature Education or nature.com lovers heart beats synchronize when they maintain eye contact. </span>
+	</div>
+</div>
+<!- end interesting fact section ->
+
 	<ul class="closedCircle">
 		<li>Sports</li>
 
@@ -90,6 +99,14 @@ People can love:</p>
 
 	<p>When one loves someone they may express it sexually, <span class="vocabColor">sensually</span> (to arouse gratification of the senses &mdash;smell, touch, sight, etc&mdash; by giving them pleasure.) or in other ways that show love. A few of these ways are:</p>
 
+<!- interesting fact goes here ->
+<div class="ch1num1">
+	<div class="tooltip">
+  		<span class="tooltiptext"><strong>Interesting Fact:</strong> </span>
+	</div>
+</div>
+<!- end interesting fact section ->
+
 	<ul class="closedCircle">
 		<li>Giving someone flowers, this is a sensual way to express love.</li>
 
@@ -97,6 +114,8 @@ People can love:</p>
 
 		<li>Wedding and engagement rings are both sensual and other reminders of someone’s love.</li>
 	</ul>
+
+
 
 	<div class="ch7Images">
 		<img src="includes/images/chapter7/interlocked.png" alt="2 hands holding eachother by the appendix finger">
@@ -139,6 +158,15 @@ People can love:</p>
 	</ul>
 
 	<h4>Sexual Attraction Reactions</h4>
+
+<!- interesting fact goes here ->
+<div class="ch1num1">
+	<div class="tooltip">
+  		<span class="tooltiptext"><strong>Interesting Fact:</strong> </span>
+	</div>
+</div>
+<!- end interesting fact section ->
+
 	<ul class="closedCircle">
 		<li>Pupils dilate.</li>
 
@@ -200,6 +228,15 @@ People can love:</p>
 	</ul>
 
 	<h4>Sex Responses</h4>
+
+<!- interesting fact goes here ->
+<div class="ch1num1">
+	<div class="tooltip">
+  		<span class="tooltiptext"><strong>Interesting Fact:</strong> </span>
+	</div>
+</div>
+<!- end interesting fact section ->
+
 	<p>For males the sexual responses have been recorded into 4 phases: Excitement, Plateau, Orgasm, and After.</p>
 
 	<ul class="closedCircle">
@@ -221,6 +258,14 @@ People can love:</p>
 	<h3>Male &amp; Female Similar Sex Responses</h3>
 	<p>Besides each male and female having their own physical, chemical, and emotional reactions they also share a wide variety of reactions, the list below is just a few of them:</p>
 
+<!- interesting fact goes here ->
+<div class="ch1num1">
+	<div class="tooltip">
+  		<span class="tooltiptext"><strong>Interesting Fact:</strong> </span>
+	</div>
+</div>
+<!- end interesting fact section ->
+
 	<ul class="closedCircle">
 	<li>Heart rate, blood pressure and breathing are all accelerated during sex.</li>
 	<li>Breathing and pulse rates quicken. A "sex flush" may appear on the shoulders, stomach, chest, face or neck. Muscles tense up in the hands, thighs, buttocks and hips, and muscle spasms may begin.</li>
@@ -241,6 +286,14 @@ People can love:</p>
 	<li>If sex is something that you are not comfortable with, then it will hold a negative effect on your psychological health leading to either clinging to your partner for security or avoidance of your partner completely.</li>
 	<li>When couples are ready to have sex  and comfortable, the benefits gained from a healthy sex life boost psychological health enormously, often leading to lifelong marriages.</li>
 	</ul>
+
+<!- interesting fact goes here ->
+<div class="ch1num1">
+	<div class="tooltip">
+  		<span class="tooltiptext"><strong>Interesting Fact:</strong> </span>
+	</div>
+</div>
+<!- end interesting fact section ->
 
 	<div class="ch7ImagesC">
 		<img src="includes/images/chapter7/psychology.png" alt="Two heads interconnected working together">
