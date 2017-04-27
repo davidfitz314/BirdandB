@@ -289,7 +289,6 @@ People can love:</p>
 	<li>When couples are ready to have sex  and comfortable, the benefits gained from a healthy sex life boost psychological health enormously, often leading to lifelong marriages.</li>
 	</ul>
 
-
 	<div class="ch7ImagesC">
 		<img src="includes/images/chapter7/psychology.png" alt="Two heads interconnected working together">
 	</div>
