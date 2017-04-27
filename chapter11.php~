@@ -5,7 +5,6 @@
 
 <!- navigation side bar ->
 <nav class="floating-menu">
-<h2>Chapter 11: Human Sexuality in the World</h2>
 <strong><a href="chapter1.php">ch1: &nbsp;&nbsp;Overview</a></strong>
 <strong><a href="chapter2.php">ch2: &nbsp;&nbsp;Conception</a></strong>
 <strong><a href="chapter3.php">ch3: &nbsp;&nbsp;Human Body Development</a></strong>
@@ -51,7 +50,7 @@
 <!- chapter text division ->
 <div class="chapter11Text">
 <br>
-<h2>Chapter 11: Human Sexuality in the World</h2>
+<h2>CHAPTER 11: HUMAN SEXUALITY IN THE WORLD</h2>
 	<p>Human sexuality has changed many times over the centuries, from praising sex as being it’s own god or creating the universe, to shunning it in the hopes it would disappear. Humanity has changed its stance on sex many times, always jumping back and forth on how they wish to view it.</p>
 
 
@@ -67,10 +66,27 @@
 			<h3>Ancient Greeks</h3>
 			<p>In Ancient Greece mythology the universe was created by sex and sexual activities. Sexuality and love were deeply connected to the creation of the Earth, the Heavens, and the Underworld.</p>
 
+<!- interesting fact goes here ->
+<div class="ch1num1">
+	<div class="tooltip">
+  		<span class="tooltiptext"><strong>Interesting Fact:</strong> In Ancient Greece, throwing an apple at somebody meant to declare your love to them.</span>
+	</div>
+</div>
+<!- end interesting fact section ->
+
 			<p>Greeks Myths consist of incest, murder, polygamy, intermarriage, and almost always required some sort of eroticism and / or fertility. From the beginning Greeks demonstrated woman's essential reproductive role in securing the cosmos, extending the human race, and ensuring the fertility of nature.</p>
 
 		</div>
 	</div>
+
+<!- interesting fact goes here ->
+<div class="ch1num1">
+	<div class="tooltip">
+  		<span class="tooltiptext"><strong>Interesting Fact:</strong> In Ancient Greece, small penises were desirable, and big ones were for “old men and barbarians”.</span>
+	</div>
+</div>
+<!- end interesting fact section ->
+
 	<p class="ch11pushDown">Masturbation to the Ancient Greeks was a normal and healthy substitute for other sexual pleasures. It was in fact a handy way to relieve sexual frustration which they deemed sexual frustration as destructive towards man.</p>
 
 	<hr />
@@ -86,6 +102,14 @@
 			<p>In Ancient Rome not only was sex gratifying but it was also a duty. The men would delight in displaying the vitality, manhood, and sexual prowess, while the woman understood sex to be a great duty for replenishing the population with male soldiers and citizens. The female babies however contributed little to society while growing, but were still high cost as a large dowry would be required for any male who wished to marry her when the time was right.</p>
 		</div>
 	</div>
+
+<!- interesting fact goes here ->
+<div class="ch1num1">
+	<div class="tooltip">
+  		<span class="tooltiptext"><strong>Interesting Fact:</strong>  Emperor Claudius' third wife, Valeria Messalina, was a nymphomaniac. According to ancient historians, she once competed with a prostitute to see who could have the most sexual partners in a night.</span>
+	</div>
+</div>
+<!- end interesting fact section ->
 
 	
 	<div class="sectionContainer">
@@ -104,6 +128,14 @@
 	</div>
 	<p class="ch11pushDown2"><br>The women during this time were believed to not know much of sex and that they held no desire to have sex or sexual activities. To men the women were supposed to not be a sexual being, but merely a tool for reproduction. These strict views on gender and sex became what we now think of as the Victorian stereotype.</p>
 
+<!- interesting fact goes here ->
+<div class="ch1num1">
+	<div class="tooltip">
+  		<span class="tooltiptext"><strong>Interesting Fact:</strong> Ear piercing was a common practice during Victorian times, a few jewelers in England and France also began offering nipple piercing. This fad caught on because women believed that having their nipples pierced would make their breasts grow rounder and more attractive.</span>
+	</div>
+</div>
+<!- end interesting fact section ->
+
 	<div class="sectionContainer">
 	<!- prostitution section image goes right of text ->
 		<div class="ch11RightB">
@@ -114,6 +146,16 @@
 			<h4 class="addItalic">Prostitution</h4>
 			<p>Prostitutes were quite common, the women engaged in these acts would be considered lower class. Men of this time flocked towards prostitutes, to help alleviate the sexual frustrations that built up inside of them. This was due to men valuing their wives as high quality non sexual beings and prostitutes as lower class tools.</p>
 		</div>
+
+<!- interesting fact goes here ->
+<div class="ch1num1">
+	<div class="tooltip">
+  		<span class="tooltiptext"><strong>Interesting Fact:</strong> One of the cures for female hysteria was a "pelvic massage" (masturbation) administered by a doctor, or if the doctor's hands started cramping, they would bring in a primitive pedal-powered sex toy. The goal of these treatment sessions was a "hysterical paroxysm," or orgasm.</span>
+	</div>
+</div>
+<!- end interesting fact section ->
+
+
 	</div>
 
 	<!- China image goes above text banner style ->
@@ -128,6 +170,14 @@
 
 	<p>In 1996 the owner of a bathhouse was sentenced to death for organising prostitution. According to Li in China’s current mindset the owner today would suffer a far less punishment, the most severe being closure of the business.</p>
 
+<!- interesting fact goes here ->
+<div class="ch1num1">
+	<div class="tooltip">
+  		<span class="tooltiptext"><strong>Interesting Fact:</strong> In more recent years China's plastic surgeons have begun restoring womens hymens, so the female can be considered a virgin.</span>
+	</div>
+</div>
+<!- end interesting fact section ->
+
 	<p>Up to 1980 publishers of pornographic content could also be sentenced to death, the same punishment as those that organized sex parties. Currently pornography is becoming more common, and in 2017 China released its first commercial film featuring gay sexualities. Swinger parties are still illegal but very common due to the lack of reports from the common people.</p>
 	
 	<!- China second image above second paragraph text ->
@@ -136,6 +186,14 @@
 	</div>
 
 	<p>Li believes that one of the main driving forces for changing the attitudes towards sex, is the Communist Party’s one-child policy which was enforced from 1979 to 2015. <i class="quote">"The one-child policy allows people to have one or two kids only. So unless you give up sex afterwards you are changing your purpose of having sex. Having sex for pleasure gets justified too."</i> -Li Tinhe</p>
+
+<!- interesting fact goes here ->
+<div class="ch1num1">
+	<div class="tooltip">
+  		<span class="tooltiptext"><strong>Interesting Fact:</strong> In Chinese Taoism, one should prevent ejaculation to retain sexual energy. This sexual energy can enhance one’s life so they practice it wisely. They also believe in having many sexual partners to harness the beneficial sexual energy released by women during sex.</span>
+	</div>
+</div>
+<!- end interesting fact section ->
 
 	<hr />
 	<div class="sectionContainer">
@@ -150,6 +208,15 @@
 			</p>According to many experts the US’s thoughts about sexuality comes from the “<i class="quote">repressive hypothesis</i>” which claims that the history of sexuality over the past 300 years has been a history of repression. Sex for anything other than reproduction is a large taboo. Many experts say that the only way to liberate the US from this repression, is to be more open about discussing sex, embracing sexuality, and enjoying it in general.</p>
 		</div>
 	</div>
+
+<!- interesting fact goes here ->
+<div class="ch1num1">
+	<div class="tooltip">
+  		<span class="tooltiptext"><strong>Interesting Fact:</strong> About 33% of Americans get injured during sex. Injuries include bruises, pulled muscles, sprained ankles, and carpet burns.
+</span>
+	</div>
+</div>
+<!- end interesting fact section ->
 
 	<div class="sectionContainer">
 	<!- image goes right of text ->
@@ -178,6 +245,15 @@
 			</p>One of the more revolutionary items in the US’s sexual revolution were studies done by Alfred Kinsey. Kinsey started statistical recordings of sexuality, going across the US’s and having meetings with the general populace he gathered and recorded their sexual data, and later released it. These studies are now famously known as the Kinsey Reports, some years after the initial release of his studies a movie was based off of Alfred Kinsey and all the work he did. Kinsey’s work was so popular that sexual data is still being recorded and published through the Kinsey Institute.</p>
 		</div>
 	</div>
+
+<!- interesting fact goes here ->
+<div class="ch1num1">
+	<div class="tooltip">
+  		<span class="tooltiptext"><strong>Interesting Fact:</strong> 37% of men and 25% of women 50-80+ gave oral sex in the past year, according to the Indiana University Journal of Sexual Medicine. 
+</span>
+	</div>
+</div>
+<!- end interesting fact section ->
 
 	<div class="sectionContainer">
 	<!- image goes right of text ->
