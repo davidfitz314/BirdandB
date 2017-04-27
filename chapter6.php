@@ -181,6 +181,16 @@
 	<h5>Female sexual preference for males</h5>
 	<p>Females had a more generalized outlook for body preference. Many sources showed bulkier men were the favorite regardless of whether it was muscle or fat bulky. The general consensus appears to be that women choose men's body styles based on nature’s built physique for defending and protecting.</p>
 
+<!- interesting fact goes here ->
+<div class="ch1num1">
+	<div class="tooltip">
+  		<span class="tooltiptext"><strong>Interesting Fact:</strong> For many women troubled by low sexual desire, too much of the world around them can derail sensuality. That turns out to be very fixable—but not by a pill.<a href="https://www.psychologytoday.com/articles/201005/learning-lust">("<i>Learning to Lust</i>", Psychology Today. 2010)</a></span>
+	</div>
+</div>
+<!- end interesting fact section ->
+
+
+
 	<h5>Mixed sexual preference</h5>
 	<p>Many groups have preferences of beauty that range from long ear lobe piercings to disks in their lips to different tattoo styles and much more, usually related to body modification.</p>
 
