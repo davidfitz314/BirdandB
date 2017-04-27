@@ -61,7 +61,7 @@ People can love:</p>
 <!- interesting fact goes here ->
 <div class="ch1num1">
 	<div class="tooltip">
-  		<span class="tooltiptext"><strong>Interesting Fact:</strong> According to Nature Education or nature.com lovers heart beats synchronize when they maintain eye contact. </span>
+  		<span class="tooltiptext"><strong>Interesting Fact:</strong> According to Nature Education (nature.com), lovers heart beats synchronize when they maintain eye contact. </span>
 	</div>
 </div>
 <!- end interesting fact section ->
@@ -102,7 +102,7 @@ People can love:</p>
 <!- interesting fact goes here ->
 <div class="ch1num1">
 	<div class="tooltip">
-  		<span class="tooltiptext"><strong>Interesting Fact:</strong> </span>
+  		<span class="tooltiptext"><strong>Interesting Fact:</strong> Kisses are taste tests for ones bodies to figure out if the person they are kissing is a strong genetic fit with their DNA. Losing attraction to some after a kiss is just one way a body says that person is not good genetically for oneself.</span>
 	</div>
 </div>
 <!- end interesting fact section ->
@@ -162,7 +162,7 @@ People can love:</p>
 <!- interesting fact goes here ->
 <div class="ch1num1">
 	<div class="tooltip">
-  		<span class="tooltiptext"><strong>Interesting Fact:</strong> </span>
+  		<span class="tooltiptext"><strong>Interesting Fact:</strong> Females have a tendency to disaprove of pickup lines ("did you fall from heaven?", "Hey baby, whats your sign?", etc...) and prefer simple greetings like "hi", "hello", and more. Researchers have also noted that innocuous questions like "would you like to dance?" also have a higher success rate with females than pick up lines.</span>
 	</div>
 </div>
 <!- end interesting fact section ->
@@ -229,18 +229,20 @@ People can love:</p>
 
 	<h4>Sex Responses</h4>
 
-<!- interesting fact goes here ->
-<div class="ch1num1">
-	<div class="tooltip">
-  		<span class="tooltiptext"><strong>Interesting Fact:</strong> </span>
-	</div>
-</div>
-<!- end interesting fact section ->
+
 
 	<p>For males the sexual responses have been recorded into 4 phases: Excitement, Plateau, Orgasm, and After.</p>
 
 	<ul class="closedCircle">
 	<li>In the Excitement phase: The penis becomes slightly erect, and with some the nipples may also become erect.</li>
+
+<!- interesting fact goes here ->
+<div class="ch1num1">
+	<div class="tooltip">
+  		<span class="tooltiptext"><strong>Interesting Fact:</strong> <span class="quote">"The <i>Coolidge Effect</i> is the occurrence of a mammal showing renewed sexual interest when introduced to new sexually receptive partners."</span>("7 facts about sex love and attraction". 2014) It is believed by some that porography has become so widespread and popular amoung men is due to the coolidge affect of the pornstars seeming open sexually towards the men viewing.</span>
+	</div>
+</div>
+<!- end interesting fact section ->
 
 	<li>In the Plateau phase: The testes are drawn up into the scrotum and the penis becomes fully erect.</li>
 
@@ -261,7 +263,7 @@ People can love:</p>
 <!- interesting fact goes here ->
 <div class="ch1num1">
 	<div class="tooltip">
-  		<span class="tooltiptext"><strong>Interesting Fact:</strong> </span>
+  		<span class="tooltiptext"><strong>Interesting Fact:</strong> Our patterns of sexual attraction appear to change seasonally. For instance, heterosexual men report greater attraction to women’s bodies and breasts in the winter months than they do in the summer months.</span>
 	</div>
 </div>
 <!- end interesting fact section ->
@@ -287,13 +289,6 @@ People can love:</p>
 	<li>When couples are ready to have sex  and comfortable, the benefits gained from a healthy sex life boost psychological health enormously, often leading to lifelong marriages.</li>
 	</ul>
 
-<!- interesting fact goes here ->
-<div class="ch1num1">
-	<div class="tooltip">
-  		<span class="tooltiptext"><strong>Interesting Fact:</strong> </span>
-	</div>
-</div>
-<!- end interesting fact section ->
 
 	<div class="ch7ImagesC">
 		<img src="includes/images/chapter7/psychology.png" alt="Two heads interconnected working together">
