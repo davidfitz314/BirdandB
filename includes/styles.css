@@ -884,6 +884,16 @@ hr {
 	color: blue;
 }
 
+.smallWhite {
+	font-size: 90%;
+	color: white;
+}
+
+.smalleWhite a{
+	color: white;
+	text-decoration: none;
+}
+
 /* chapter 7 section */
 .chapter7Text {
 	width: 75%;
