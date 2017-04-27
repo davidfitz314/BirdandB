@@ -55,6 +55,23 @@
 
 	<p>The safest sex doesn’t involve penetration or the having genitals touch the partner, by doing this, STI’s have no access method from one person to another. A few methods for safest sex involve:</p>
 
+<!- interesting fact goes here ->
+<div class="ch1num1">
+	<div class="tooltip">
+  		<span class="tooltiptext"><strong>Interesting Fact:</strong> Many myths are out there about why some choose safe sex. A few of these are corrected here: 
+<ul>
+<li>You can't tell by the way someone looks, if they have an STD.</li>
+<li>Practicing safe sex does not mean one of them already has an STD.</li>
+<li>Practicing safe sex doesn't mean that one partner is a drug user.</li>
+<li>Lesbians can get STDs.</li>
+<li>Taking the pill doesn't mean one practices safe sex.</li>
+<li>Buying condoms is not embarrassing.</li>
+</ul>
+</span>
+	</div>
+</div>
+<!- end interesting fact section ->
+
 	<ul class="closedCircle">
 		<li>Fantasizing or having phone sex.</li>
 
@@ -102,6 +119,14 @@
 	<ul class="closedCircle">
 		<li>Condom made of either latex or non-latex.</li>
 
+<!- interesting fact goes here ->
+<div class="ch1num1">
+	<div class="tooltip">
+  		<span class="tooltiptext"><strong>Interesting Fact:</strong> Condoms have been around a long, long time.  The earliest known illustration of a man using a condom is a 12,000–15,000-year-old painting on the wall of a cave in France. (PlannedParenthood. 2017)</span>
+	</div>
+</div>
+<!- end interesting fact section ->
+
 		<li>Vasectomy.</li>
 
 		<li>Withdrawal.</li>
@@ -126,6 +151,14 @@
 		<li>Contraceptive Sponge.</li>
 
 		<li>Contraceptive Injections.</li>
+
+<!- interesting fact goes here ->
+<div class="ch1num1">
+	<div class="tooltip">
+  		<span class="tooltiptext"><strong>Interesting Fact:</strong> Only 39 percent of American high school students are taught how to correctly use a condom or other protective measures in their health classes. Programs that teach young people about abstinence as well as contraception, including condom use, help youth to delay first sex and use condoms and other forms of contraception when they do have sex. (PlannedParenthood. 2017)</span>
+	</div>
+</div>
+<!- end interesting fact section ->
 
 		<li>Vaginal Ring.</li>
 
@@ -262,6 +295,14 @@
 
 	<ul class="closedCircle">
 		<li>Waiting for the right person to be sexually active with.</li>
+
+<!- interesting fact goes here ->
+<div class="ch1num1">
+	<div class="tooltip">
+  		<span class="tooltiptext"><strong>Interesting Fact:</strong> Celibacy is a form of abstinence. But it relies more on religious or personal belief of an individual than abstinence does.</span>
+	</div>
+</div>
+<!- end interesting fact section ->
 
 		<li>Mourning the loss of a significant other.</li>
 

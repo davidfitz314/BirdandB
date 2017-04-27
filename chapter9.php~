@@ -5,7 +5,6 @@
 
 <!- navigation side bar ->
 <nav class="floating-menu">
-<h2>Chapter 9: Staying Safe During Sex</h2>
 <strong><a href="chapter1.php">ch1: &nbsp;&nbsp;Overview</a></strong>
 <strong><a href="chapter2.php">ch2: &nbsp;&nbsp;Conception</a></strong>
 <strong><a href="chapter3.php">ch3: &nbsp;&nbsp;Human Body Development</a></strong>
@@ -48,13 +47,30 @@
 <!- chapter text division ->
 <div class="chapter2Text">
 <br>
-<h2>Chapter 9: Staying Safe During Sex</h2>
+<h2>CHAPTER 9: STAYING SAFE DURING SEX</h2>
 	<a NAME="safe_sex"></a>
 	<hr />
 	<h3>Safe Sex</h3>
 	</p>Safe sex is a way to combine the greatest pleasure while having the least amount of risk for contracting HIV and other sexually transmitted infections. Safe sex besides protecting a person can also help communication and trust between partners. There are two main groups to safe sex, the safest sex and regular safe sex:</p>
 
 	<p>The safest sex doesn’t involve penetration or the having genitals touch the partner, by doing this, STI’s have no access method from one person to another. A few methods for safest sex involve:</p>
+
+<!- interesting fact goes here ->
+<div class="ch1num1">
+	<div class="tooltip">
+  		<span class="tooltiptext"><strong>Interesting Fact:</strong> Many myths are out there about why some choose safe sex. A few of these are corrected here: 
+<ul>
+<li>You can't tell by the way someone looks, if they have an STD.</li>
+<li>Practicing safe sex does not mean one of them already has an STD.</li>
+<li>Practicing safe sex doesn't mean that one partner is a drug user.</li>
+<li>Lesbians can get STDs.</li>
+<li>Taking the pill doesn't mean one practices safe sex.</li>
+<li>Buying condoms is not embarrassing.</li>
+</ul>
+</span>
+	</div>
+</div>
+<!- end interesting fact section ->
 
 	<ul class="closedCircle">
 		<li>Fantasizing or having phone sex.</li>
@@ -103,6 +119,14 @@
 	<ul class="closedCircle">
 		<li>Condom made of either latex or non-latex.</li>
 
+<!- interesting fact goes here ->
+<div class="ch1num1">
+	<div class="tooltip">
+  		<span class="tooltiptext"><strong>Interesting Fact:</strong> Condoms have been around a long, long time.  The earliest known illustration of a man using a condom is a 12,000–15,000-year-old painting on the wall of a cave in France. (PlannedParenthood. 2017)</span>
+	</div>
+</div>
+<!- end interesting fact section ->
+
 		<li>Vasectomy.</li>
 
 		<li>Withdrawal.</li>
@@ -127,6 +151,14 @@
 		<li>Contraceptive Sponge.</li>
 
 		<li>Contraceptive Injections.</li>
+
+<!- interesting fact goes here ->
+<div class="ch1num1">
+	<div class="tooltip">
+  		<span class="tooltiptext"><strong>Interesting Fact:</strong> Only 39 percent of American high school students are taught how to correctly use a condom or other protective measures in their health classes. Programs that teach young people about abstinence as well as contraception, including condom use, help youth to delay first sex and use condoms and other forms of contraception when they do have sex. (PlannedParenthood. 2017)</span>
+	</div>
+</div>
+<!- end interesting fact section ->
 
 		<li>Vaginal Ring.</li>
 
@@ -263,6 +295,14 @@
 
 	<ul class="closedCircle">
 		<li>Waiting for the right person to be sexually active with.</li>
+
+<!- interesting fact goes here ->
+<div class="ch1num1">
+	<div class="tooltip">
+  		<span class="tooltiptext"><strong>Interesting Fact:</strong> </span>
+	</div>
+</div>
+<!- end interesting fact section ->
 
 		<li>Mourning the loss of a significant other.</li>
 
