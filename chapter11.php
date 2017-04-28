@@ -102,8 +102,6 @@
 		<a NAME="ancient_romans"></a>
 			<h3>Ancient Romans</h3>
 			<p>In Ancient Rome not only was sex gratifying but it was also a duty. The men would delight in displaying the vitality, manhood, and sexual prowess, while the woman understood sex to be a great duty for replenishing the population with male soldiers and citizens. The female babies however contributed little to society while growing, but were still high cost as a large dowry would be required for any male who wished to marry her when the time was right.</p>
-		</div>
-	</div>
 
 <!- interesting fact goes here ->
 <div class="ch1num1">
@@ -112,6 +110,11 @@
 	</div>
 </div>
 <!- end interesting fact section ->
+
+		</div>
+	</div>
+
+
 
 	
 	<div class="sectionContainer">
@@ -147,7 +150,6 @@
 		<div class="ch11Left">
 			<h4 class="addItalic">Prostitution</h4>
 			<p>Prostitutes were quite common, the women engaged in these acts would be considered lower class. Men of this time flocked towards prostitutes, to help alleviate the sexual frustrations that built up inside of them. This was due to men valuing their wives as high quality non sexual beings and prostitutes as lower class tools.</p>
-		</div>
 
 <!- interesting fact goes here ->
 <div class="ch1num1">
@@ -156,6 +158,10 @@
 	</div>
 </div>
 <!- end interesting fact section ->
+
+		</div>
+
+
 
 
 	</div>
@@ -208,8 +214,6 @@
 			<a NAME="united_states"></a>
 			<h3>United States</h3>
 			</p>According to many experts the US’s thoughts about sexuality comes from the “<i class="quote">repressive hypothesis</i>” which claims that the history of sexuality over the past 300 years has been a history of repression. Sex for anything other than reproduction is a large taboo. Many experts say that the only way to liberate the US from this repression, is to be more open about discussing sex, embracing sexuality, and enjoying it in general.</p>
-		</div>
-	</div>
 
 <!- interesting fact goes here ->
 <div class="ch1num1">
@@ -219,6 +223,11 @@
 	</div>
 </div>
 <!- end interesting fact section ->
+
+		</div>
+	</div>
+
+
 
 	<div class="sectionContainer">
 	<!- image goes right of text ->
@@ -248,6 +257,14 @@
 		</div>
 	</div>
 
+
+
+	<div class="sectionContainer">
+	<!- image goes right of text ->
+		<div class="ch11RightC">
+			<img src="includes/images/chapter11/mastersofsex.png" alt="abstract image for masters of sex using wine glass center shape and female legs outer shape">
+		</div>
+
 <!- interesting fact goes here ->
 <div class="ch1num1">
 	<div class="tooltip">
@@ -256,12 +273,6 @@
 	</div>
 </div>
 <!- end interesting fact section ->
-
-	<div class="sectionContainer">
-	<!- image goes right of text ->
-		<div class="ch11RightC">
-			<img src="includes/images/chapter11/mastersofsex.png" alt="abstract image for masters of sex using wine glass center shape and female legs outer shape">
-		</div>
 
 		<div class="ch11Left">
 	<!- image goes right of text ->
