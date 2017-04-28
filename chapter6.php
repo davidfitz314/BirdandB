@@ -184,7 +184,7 @@
 <!- interesting fact goes here ->
 <div class="ch1num1">
 	<div class="tooltip">
-  		<span class="tooltiptext"><strong>Interesting Fact:</strong> For many women troubled by low sexual desire, too much of the world around them can derail sensuality. That turns out to be very fixable—but not by a pill.<span class="smallWhite"><a href="https://www.psychologytoday.com/articles/201005/learning-lust">("<i>Learning to Lust</i>", Psychology Today. 2010)</a></span></span>
+  		<span class="tooltiptext"><strong>Interesting Fact:</strong> For many women troubled by low sexual desire, too much of the world around them can derail sensuality. That turns out to be very fixable—but not by a pill.<span class="smallWhite">("<i>Learning to Lust</i>", Psychology Today. 2010)</span></span>
 	</div>
 </div>
 <!- end interesting fact section ->
