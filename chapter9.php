@@ -60,7 +60,7 @@
 	<div class="tooltip">
   		<span class="tooltiptext"><strong>Interesting Fact:</strong> Many myths are out there about why some choose safe sex. A few of these are corrected here: 
 <ul>
-<li>You can't tell by the way someone looks, if they have an STD.</li>
+<li>You can't tell by the way someone looks if they have an STD.</li>
 <li>Practicing safe sex does not mean one of them already has an STD.</li>
 <li>Practicing safe sex doesn't mean that one partner is a drug user.</li>
 <li>Lesbians can get STDs.</li>
