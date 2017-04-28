@@ -96,12 +96,6 @@
 		<!- Roman image goes right of text ->
 		<div class="ch11RightR">
 			<img src="includes/images/chapter11/roman.png" alt="Roman styled shadow portraits">
-		</div>
-
-		<div class="ch11Left">
-		<a NAME="ancient_romans"></a>
-			<h3>Ancient Romans</h3>
-			<p>In Ancient Rome not only was sex gratifying but it was also a duty. The men would delight in displaying the vitality, manhood, and sexual prowess, while the woman understood sex to be a great duty for replenishing the population with male soldiers and citizens. The female babies however contributed little to society while growing, but were still high cost as a large dowry would be required for any male who wished to marry her when the time was right.</p>
 
 <!- interesting fact goes here ->
 <div class="ch1num1">
@@ -112,10 +106,16 @@
 <!- end interesting fact section ->
 
 		</div>
+
+		<div class="ch11Left">
+		<a NAME="ancient_romans"></a>
+			<h3>Ancient Romans</h3>
+			<p>In Ancient Rome not only was sex gratifying but it was also a duty. The men would delight in displaying the vitality, manhood, and sexual prowess, while the woman understood sex to be a great duty for replenishing the population with male soldiers and citizens. The female babies however contributed little to society while growing, but were still high cost as a large dowry would be required for any male who wished to marry her when the time was right.</p>
+
+
+
+		</div>
 	</div>
-
-
-
 	
 	<div class="sectionContainer">
 	<!- Victorian Era image goes left of text ->
@@ -145,11 +145,6 @@
 	<!- prostitution section image goes right of text ->
 		<div class="ch11RightB">
 			<img src="includes/images/chapter11/prostitution.png" alt="Victorian Era styled prostitution shadow portraits">
-		</div>
-
-		<div class="ch11Left">
-			<h4 class="addItalic">Prostitution</h4>
-			<p>Prostitutes were quite common, the women engaged in these acts would be considered lower class. Men of this time flocked towards prostitutes, to help alleviate the sexual frustrations that built up inside of them. This was due to men valuing their wives as high quality non sexual beings and prostitutes as lower class tools.</p>
 
 <!- interesting fact goes here ->
 <div class="ch1num1">
@@ -157,12 +152,15 @@
   		<span class="tooltiptext"><strong>Interesting Fact:</strong> One of the cures for female hysteria was a "pelvic massage" (masturbation) administered by a doctor, or if the doctor's hands started cramping, they would bring in a primitive pedal-powered sex toy. The goal of these treatment sessions was a "hysterical paroxysm," or orgasm.</span>
 	</div>
 </div>
-<!- end interesting fact section ->
+<!- end interesting fact section ->		
 
 		</div>
 
+		<div class="ch11Left">
+			<h4 class="addItalic">Prostitution</h4>
+			<p>Prostitutes were quite common, the women engaged in these acts would be considered lower class. Men of this time flocked towards prostitutes, to help alleviate the sexual frustrations that built up inside of them. This was due to men valuing their wives as high quality non sexual beings and prostitutes as lower class tools.</p>
 
-
+		</div>
 
 	</div>
 
@@ -263,7 +261,6 @@
 	<!- image goes right of text ->
 		<div class="ch11RightC">
 			<img src="includes/images/chapter11/mastersofsex.png" alt="abstract image for masters of sex using wine glass center shape and female legs outer shape">
-		</div>
 
 <!- interesting fact goes here ->
 <div class="ch1num1">
@@ -273,6 +270,9 @@
 	</div>
 </div>
 <!- end interesting fact section ->
+
+		</div>
+
 
 		<div class="ch11Left">
 	<!- image goes right of text ->

@@ -145,11 +145,6 @@
 	<!- prostitution section image goes right of text ->
 		<div class="ch11RightB">
 			<img src="includes/images/chapter11/prostitution.png" alt="Victorian Era styled prostitution shadow portraits">
-		</div>
-
-		<div class="ch11Left">
-			<h4 class="addItalic">Prostitution</h4>
-			<p>Prostitutes were quite common, the women engaged in these acts would be considered lower class. Men of this time flocked towards prostitutes, to help alleviate the sexual frustrations that built up inside of them. This was due to men valuing their wives as high quality non sexual beings and prostitutes as lower class tools.</p>
 
 <!- interesting fact goes here ->
 <div class="ch1num1">
@@ -157,12 +152,15 @@
   		<span class="tooltiptext"><strong>Interesting Fact:</strong> One of the cures for female hysteria was a "pelvic massage" (masturbation) administered by a doctor, or if the doctor's hands started cramping, they would bring in a primitive pedal-powered sex toy. The goal of these treatment sessions was a "hysterical paroxysm," or orgasm.</span>
 	</div>
 </div>
-<!- end interesting fact section ->
+<!- end interesting fact section ->		
 
 		</div>
 
+		<div class="ch11Left">
+			<h4 class="addItalic">Prostitution</h4>
+			<p>Prostitutes were quite common, the women engaged in these acts would be considered lower class. Men of this time flocked towards prostitutes, to help alleviate the sexual frustrations that built up inside of them. This was due to men valuing their wives as high quality non sexual beings and prostitutes as lower class tools.</p>
 
-
+		</div>
 
 	</div>
 
@@ -257,6 +255,13 @@
 		</div>
 	</div>
 
+
+
+	<div class="sectionContainer">
+	<!- image goes right of text ->
+		<div class="ch11RightC">
+			<img src="includes/images/chapter11/mastersofsex.png" alt="abstract image for masters of sex using wine glass center shape and female legs outer shape">
+
 <!- interesting fact goes here ->
 <div class="ch1num1">
 	<div class="tooltip">
@@ -266,11 +271,8 @@
 </div>
 <!- end interesting fact section ->
 
-	<div class="sectionContainer">
-	<!- image goes right of text ->
-		<div class="ch11RightC">
-			<img src="includes/images/chapter11/mastersofsex.png" alt="abstract image for masters of sex using wine glass center shape and female legs outer shape">
 		</div>
+
 
 		<div class="ch11Left">
 	<!- image goes right of text ->
