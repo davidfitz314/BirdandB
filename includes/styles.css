@@ -125,6 +125,7 @@ p {
 	text-align: center;
 	font-style: italic;
 	text-decoration: none;
+	color: inherit;
 }
 
 .indexChapHeading a {
