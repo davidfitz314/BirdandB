@@ -40,7 +40,7 @@
 <!- end CallsToAction div ->
 
 <!- HomePageChapterDiv ->
-<h4>Chapters</h4>
+<h4 class="indexChapHeading">Chapters</h4>
 <div class="HPchap">
 	<div class = "row1chap">
 		
