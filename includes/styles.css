@@ -128,6 +128,14 @@ p {
 	text-decoration: none;
 }
 
+.indexChapHeading a {
+	text-decoration: none;	
+}
+
+.indexChapHeading a:hover {
+	text-decoration: underline;	
+}
+
 /*<img src="includes/images/lightBulb.png" alt="Bee light bulb" style="width:125px;"> 
 	*/
 
