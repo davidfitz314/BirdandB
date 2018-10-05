@@ -121,6 +121,13 @@ p {
 	width: 102%;
 }
 
+.indexChapHeading {
+	text-align: center;
+	font-style: italic;
+	color: #000080;
+	text-decoration: none;
+}
+
 /*<img src="includes/images/lightBulb.png" alt="Bee light bulb" style="width:125px;"> 
 	*/
 
