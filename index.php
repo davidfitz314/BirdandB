@@ -18,7 +18,7 @@
 <!- disclaimer section->
 <div class="disclaimer">
 <h3>Viewer Discretion is Advised</h3>
-<p><strong>BirdandB.com</strong> is tutorial website and may contain content that is not appropriate for some viewers. Only those who are over 18 years of age or have their legal guardians consent should proceed to the sex education chapters section. By proceeding you the user are hereby agreeing that you are of the appropriate age or with guardian consent and have read this notice. </p>
+<p><strong>BirdandB.com</strong> is tutorial website and may contain content that is not appropriate for some viewers. Only those who are over 18 years of age or have their legal guardians consent should proceed to the sex education chapters. By proceeding you the user are hereby agreeing that you are of the appropriate age or with guardian consent and have read this notice. </p>
 </div>
 <!- end disclaimer section->
 
