@@ -30,11 +30,11 @@
 		<div class="cHeadCells">
 			<a href="http://www.birdandb.com"></a></li>
 		</div>
-		<div class="searchBarC">
+		<!--<div class="searchBarC">
 			<form>
 				<input type="text" name="search" placeholder="Search Bar (coming soon)..." size="20">
 			</form>	  
-		</div>
+		</div>-->
 	</div>
 </header>
 <body>
