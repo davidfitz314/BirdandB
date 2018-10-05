@@ -125,11 +125,12 @@ p {
 	text-align: center;
 	font-style: italic;
 	text-decoration: none;
-	color: inherit;
+	color: black;
 }
 
 .indexChapHeading a {
 	text-decoration: none;	
+	color: black;
 }
 
 .indexChapHeading a:hover {
