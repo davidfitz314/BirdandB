@@ -2,7 +2,7 @@
 <p>David Chen Fitzgerald</p>
 <p>Jamie Chapman</p>
 <p><a href="chapter14.php">Resources</a></p>
-<p><a href="sitemap.xml">sitemap</a></p>
+<p><a href="includes/sitemap.xml">sitemap</a></p>
 <!-- two images facebook and linked in go here 
 <div class="footerImages">
 	<div class="mini1">
