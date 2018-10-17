@@ -27,10 +27,11 @@
 		<div class="cLogo">
 		</div><!- end logo div ->
 	</a>
+	<!-- 
 	<div class="cHeadCells">
 		<a href="http://www.birdandb.com">Home</a>
 	</div>
-	<!-- <div class="searchBarC">
+	<div class="searchBarC">
 		<form>
 			<input type="text" name="search" placeholder="Search Bar (coming soon)..." size="20">
 		</form>	
