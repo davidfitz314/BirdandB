@@ -32,6 +32,7 @@
 <!- chapter text division ->
 <div class="chapter1Text">
 <br>
+	
 <h2>CHAPTER 1: INTRODUCTION</h2>
 	<h3>Chapters Overview</h3>
 	<p>Human sexuality from a biological, psychological, and educational perspective.</p>
